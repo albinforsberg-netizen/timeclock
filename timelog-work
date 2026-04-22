@@ -123,7 +123,7 @@ o 2026/04/02 12:10:15 ---BREAK---
 i 2026/04/02 12:55:57 Dx Designer Pro
 o 2026/04/02 16:00:55 Print scalings
 i 2026/04/07 07:31:07 Dx Pro Designer
-o 2026/04/07 11:59:23 ---RAST---
+o 2026/04/07 11:59:23 ---BREAK---
 i 2026/04/07 12:46:23 Dx Pro Designer
 o 2026/04/07 15:27:00 Print scalings
 i 2026/04/07 15:27:00 Dx Pro Designer
@@ -131,7 +131,7 @@ o 2026/04/07 16:29:25 Component bugfixes
 i 2026/04/08 07:35:53 Dx Pro Designer
 o 2026/04/08 11:19:04 Print scalings
 i 2026/04/08 11:19:04 Dx Pro Designer
-o 2026/04/08 12:05:27 ---RAST---
+o 2026/04/08 12:05:27 ---BREAK---
 i 2026/04/08 12:59:49 Dx Pro Designer
 o 2026/04/08 14:44:24 Number formatting
 i 2026/04/08 14:44:24 Dx Pro Designer
@@ -150,3 +150,59 @@ i 2026/04/10 10:07:08 Dx Pro Designer
 o 2026/04/10 11:54:48 ---BREAK---
 i 2026/04/10 12:43:03 Dx Pro Designer
 o 2026/04/10 16:36:22 Number formats
+i 2026/04/13 07:23:54 Dx Pro Designer
+o 2026/04/13 12:18:19 ---BREAK---
+i 2026/04/13 13:04:22 Dx Pro Designer
+o 2026/04/13 16:36:23 number format printout
+i 2026/04/14 07:28:20 Dx Pro Designer
+o 2026/04/14 09:40:01 number format printout
+i 2026/04/14 09:40:01 Dx Pro Designer
+o 2026/04/14 12:12:22 ---BREAK---
+i 2026/04/14 12:56:17 Dx Pro Designer
+o 2026/04/14 15:05:41 Drawing help
+i 2026/04/14 15:05:41 Dx Pro Designer
+o 2026/04/14 16:24:49 Mantine fixes
+i 2026/04/15 07:27:14 Dx Pro Designer
+o 2026/04/15 09:00:13 Mantine fixes
+i 2026/04/15 09:00:13 Dx Pro Designer
+o 2026/04/15 10:30:50 Mantine fixes
+i 2026/04/15 10:30:50 Refrigeration - Development
+o 2026/04/15 11:00:45 refpro weekly
+i 2026/04/15 11:00:45 Dx Pro Designer
+o 2026/04/15 13:24:55 ---BREAK---
+i 2026/04/15 14:50:53 Dx Pro Designer
+o 2026/04/15 16:51:17 Drawing help
+i 2026/04/16 07:22:06 Dx Pro Designer
+o 2026/04/16 10:14:37 Drawing help
+i 2026/04/16 10:14:37 Dx Pro Designer
+o 2026/04/16 12:10:49 Disclaimer printout
+i 2026/04/16 13:04:03 Dx Pro Designer
+o 2026/04/16 16:25:39 Drawing help
+i 2026/04/17 07:24:49 Dx Pro Designer
+o 2026/04/17 12:03:47 ---BREAK---
+i 2026/04/17 13:03:06 Dx Pro Designer
+o 2026/04/17 13:50:58 Drawing help
+i 2026/04/17 13:50:58 Dx Pro Designer
+o 2026/04/17 16:41:17 Table
+i 2026/04/20 07:32:47 Dx Pro Designer
+o 2026/04/20 12:09:42 ---BREAK---
+i 2026/04/20 13:02:21 Dx Pro Designer
+o 2026/04/20 17:15:18 Table
+i 2026/04/21 07:29:03 Dx Pro Designer
+o 2026/04/21 11:23:01 Data table
+i 2026/04/21 11:23:01 Dx Pro Designer
+o 2026/04/21 12:01:14 Floors bugfix
+i 2026/04/21 12:52:22 Dx Pro Designer
+o 2026/04/21 15:39:40 Data table
+i 2026/04/22 07:32:48 Dx Pro Designer
+o 2026/04/22 09:30:05 Data table
+i 2026/04/22 09:30:05 Dx Pro Designer
+o 2026/04/22 11:12:27 Smaller fixes
+i 2026/04/22 11:12:07 Dx Pro Designer
+o 2026/04/22 12:20:27 ---BREAK---
+i 2026/04/22 13:00:54 Dx Pro Designer
+o 2026/04/22 13:21:26 Data table
+i 2026/04/22 13:21:26 Dx Pro Designer
+o 2026/04/22 15:36:41 Drawing help
+i 2026/04/22 15:36:41 Dx Pro Designer
+o 2026/04/22 16:45:18 Data table

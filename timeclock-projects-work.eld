@@ -1,0 +1,1 @@
+(("refpro" :export-code "Refrigeration - Development" :rounding 0.5 :round-up nil :active t) ("intern" :export-code "Divid - Internt" :rounding 0.5 :round-up nil :active t) ("utbildning" :export-code "Divid - Utbildning" :rounding 0.5 :round-up nil :active t) ("dxpro" :export-code "Dx Pro Designer" :rounding 0.5 :round-up nil :active t))
