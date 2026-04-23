@@ -1,3 +1,4 @@
 
 * 2026-04-23 Thursday
 - [10:25] *Dx Pro Designer* (2h 58m): Data table
+- [11:08] *Dx Pro Designer* (52m): Smaller fixes
