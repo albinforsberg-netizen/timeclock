@@ -4,3 +4,5 @@
 - [11:08] *Dx Pro Designer* (52m): Smaller fixes
 - [14:23] *Dx Pro Designer* (1h 29m): toolkit
 - [15:10] *Dx Pro Designer* (46m): test
+- [15:42] *Dx Pro Designer* (2h 12m): Drawing help
+- [15:50] *Dx Pro Designer* (7m): Icon fix
