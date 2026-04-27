@@ -12,3 +12,7 @@
 - [09:16] *Dx Pro Designer* (1h 45m): toolkit
 - [16:10] *Dx Pro Designer* (2h 22m): Drawing help
 - [16:42] *Dx Pro Designer* (1h 32m): toolkit
+
+* 2026-04-27 Monday
+- [10:47] *Dx Pro Designer* (3h 09m): toolkit
+- [11:03] *Dx Pro Designer* (16m): Printout improvements
