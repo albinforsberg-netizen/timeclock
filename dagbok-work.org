@@ -24,3 +24,4 @@
 * 2026-04-29 Wednesday
 - [11:44] *Dx Pro Designer* (4h 20m): toolkit
 - [14:35] *Dx Pro Designer* (52m): Printout improvements
+- [16:08] *Refrigeration - Development* (1h 32m): Cooling capactity export
