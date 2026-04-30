@@ -25,3 +25,6 @@
 - [11:44] *Dx Pro Designer* (4h 20m): toolkit
 - [14:35] *Dx Pro Designer* (52m): Printout improvements
 - [16:08] *Refrigeration - Development* (1h 32m): Cooling capactity export
+
+* 2026-04-30 Thursday
+- [11:16] *Refrigeration - Development* (3h 40m): Cooling capacity excel
