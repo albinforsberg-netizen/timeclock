@@ -30,3 +30,6 @@
 - [11:16] *Refrigeration - Development* (3h 40m): Cooling capacity excel
 - [13:52] *Refrigeration - Development* (1h 03m): eev table
 - [16:43] *Refrigeration - Development* (2h 50m): sections printout
+
+* 2026-05-04 måndag
+- [16:53] *Refrigeration - Development* (3h 54m): sections printout
