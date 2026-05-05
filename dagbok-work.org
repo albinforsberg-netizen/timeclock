@@ -33,3 +33,6 @@
 
 * 2026-05-04 måndag
 - [16:53] *Refrigeration - Development* (3h 54m): sections printout
+
+* 2026-05-05 tisdag
+- [09:27] *Refrigeration - Development* (2h 04m): sections printout
