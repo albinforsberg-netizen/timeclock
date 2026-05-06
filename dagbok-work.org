@@ -39,3 +39,6 @@
 - [10:52] *Refrigeration - Development* (1h 24m): Indoor req fisnish btn
 - [12:52] *Refrigeration - Development* (3m): sections printout
 - [16:15] *Refrigeration - Development* (3h 22m): sections printout
+
+* 2026-05-06 onsdag
+- [08:58] *Refrigeration - Development* (1h 02m): sections printout
