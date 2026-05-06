@@ -43,3 +43,4 @@
 * 2026-05-06 onsdag
 - [08:58] *Refrigeration - Development* (1h 02m): sections printout
 - [09:46] *Dx Pro Designer* (48m): Dxpro weekly
+- [10:12] *Refrigeration - Development* (25m): test
