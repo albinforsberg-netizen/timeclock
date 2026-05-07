@@ -47,3 +47,6 @@
 - [13:56] *Refrigeration - Development* (55m): sections printout
 - [15:15] *Refrigeration - Development* (1h 19m): capacity excel export
 - [16:33] *Dx Pro Designer* (1h 17m): Mounting printout improvements
+
+* 2026-05-07 torsdag
+- [10:04] *Dx Pro Designer* (2h 46m): Mounting printout improvements
