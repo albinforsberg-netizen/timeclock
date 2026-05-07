@@ -50,3 +50,4 @@
 
 * 2026-05-07 torsdag
 - [10:04] *Dx Pro Designer* (2h 46m): Mounting printout improvements
+- [14:58] *Refrigeration - Development* (1h 56m): Sections printout
