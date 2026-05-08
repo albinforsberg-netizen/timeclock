@@ -54,3 +54,6 @@
 - [15:53] *Divid - Internt* (55m): Månadsmöte
 - [16:19] *Refrigeration - Development* (26m): Sections printout
 - [16:33] *Dx Pro Designer* (13m): toolkit
+
+* 2026-05-08 fredag
+- [15:21] *Dx Pro Designer* (2h 18m): Mounting printout improvements
