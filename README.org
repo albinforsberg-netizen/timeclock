@@ -19,6 +19,14 @@ Auto-generated from =timelog-work=.
 - *Best day:* 2026-04-20 (8.83 h)
 - *Most active weekday:* Wednesday (89.95 h total)
 - *Longest session:* 4.91 h on 2026-04-13 (Dx Pro Designer)
+- *Current working-day streak:* 5 days
+
+**** Average hours per weekday
+  - Monday: 8.20 h/day (10 days)
+  - Tuesday: 8.09 h/day (11 days)
+  - Wednesday: 8.18 h/day (11 days)
+  - Thursday: 8.06 h/day (11 days)
+  - Friday: 7.91 h/day (9 days)
 
 *** Top projects (hours)
 #+begin_src mermaid
@@ -39,6 +47,32 @@ xychart-beta
     bar [0.00, 0.00, 8.04, 7.86, 7.95, 8.03, 0.00, 0.00, 0.00, 8.08, 8.05, 8.12, 8.33, 7.52]
 #+end_src
 
-/Generated: 2026-05-11 09:59 UTC/
+*** Weekly breakdown (last 12 weeks)
+- *This week (2026-W19):* 40.10 h
+- *Previous week (2026-W18):* 31.88 h
+- *Week-over-week change:* +8.22 h
+
+#+begin_src mermaid
+xychart-beta
+    title "Weekly hours"
+    x-axis ["02/16", "02/23", "03/02", "03/09", "03/16", "03/23", "03/30", "04/06", "04/13", "04/20", "04/27", "05/04"]
+    y-axis "Hours" 0 --> 50
+    bar [0.00, 40.00, 41.25, 40.50, 40.75, 40.25, 32.44, 31.85, 41.08, 40.72, 31.88, 40.10]
+#+end_src
+
+*** Monthly breakdown (last 12 months)
+- *This month (2026-05):* 40.10 h (5 active days, avg 8.02 h/day)
+- *Previous month (2026-04):* 161.48 h
+- *Month-over-month change:* -121.38 h
+
+#+begin_src mermaid
+xychart-beta
+    title "Monthly hours"
+    x-axis ["2025-06", "2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05"]
+    y-axis "Hours" 0 --> 216
+    bar [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 40.00, 179.23, 161.48, 40.10]
+#+end_src
+
+/Generated: 2026-05-11 10:04 UTC/
 
 # STATS:END
