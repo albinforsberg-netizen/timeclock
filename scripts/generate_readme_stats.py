@@ -17,6 +17,7 @@ LINE_RE = re.compile(
     r"^(?P<kind>[io]) (?P<date>\d{4}/\d{2}/\d{2}) (?P<time>\d{2}:\d{2}:\d{2})(?: (?P<label>.*))?$"
 )
 MAX_SESSION_HOURS = 18.0
+CUMULATIVE_CHART_PADDING = 1.05
 
 
 @dataclass
@@ -253,19 +254,187 @@ def build_monthly_section(sessions: list[Session]) -> str:
     )
 
 
+def build_project_table(
+    by_project: dict[str, float],
+    by_project_sessions: dict[str, int],
+    by_project_days: dict[str, set[str]],
+    total_hours: float,
+) -> str:
+    """Build an org-mode table with a full per-project breakdown."""
+    rows = sorted(by_project.items(), key=lambda item: item[1], reverse=True)
+    col_w_proj = max(len("Project"), *(len(sanitize_label(n)) for n, _ in rows))
+    col_w_proj = min(col_w_proj, 36)
+
+    header = (
+        f"| {'Project':<{col_w_proj}} | {'Hours':>7} | {'Sessions':>8} "
+        f"| {'Days':>4} | {'Avg h/s':>7} | {'% total':>7} |"
+    )
+    sep = (
+        f"|-{'-' * col_w_proj}-+-{'-' * 7}-+-{'-' * 8}"
+        f"-+-{'-' * 4}-+-{'-' * 7}-+-{'-' * 7}-|"
+    )
+    lines = [header, sep]
+    for name, hours in rows:
+        label = sanitize_label(name, col_w_proj)
+        sessions_count = by_project_sessions[name]
+        days_count = len(by_project_days[name])
+        avg_hs = safe_avg(hours, sessions_count)
+        pct = 100.0 * hours / total_hours if total_hours else 0.0
+        lines.append(
+            f"| {label:<{col_w_proj}} | {hours:>7.2f} | {sessions_count:>8} "
+            f"| {days_count:>4} | {avg_hs:>7.2f} | {pct:>6.1f}% |"
+        )
+    return "\n".join(lines) + "\n"
+
+
+def build_session_length_table(sessions: list[Session]) -> str:
+    """Build an org-mode table showing session-length distribution."""
+    buckets = [
+        ("< 0.5 h", 0.0, 0.5),
+        ("0.5 – 1 h", 0.5, 1.0),
+        ("1 – 2 h", 1.0, 2.0),
+        ("2 – 4 h", 2.0, 4.0),
+        ("4 + h", 4.0, float("inf")),
+    ]
+    counts: list[int] = [0] * len(buckets)
+    totals: list[float] = [0.0] * len(buckets)
+    for s in sessions:
+        for i, (_, lo, hi) in enumerate(buckets):
+            if lo <= s.hours < hi:
+                counts[i] += 1
+                totals[i] += s.hours
+                break
+
+    total_sessions = len(sessions)
+    header = "| Range     | Sessions | % of total | Total hours |"
+    sep    = "|-----------+----------+------------+-------------|"
+    lines = [header, sep]
+    for i, (label, _, _) in enumerate(buckets):
+        pct = 100.0 * counts[i] / total_sessions if total_sessions else 0.0
+        lines.append(
+            f"| {label:<9} | {counts[i]:>8} | {pct:>9.1f}% | {totals[i]:>11.2f} |"
+        )
+    return "\n".join(lines) + "\n"
+
+
+def build_top_days_table(by_day: dict[str, float], sessions: list[Session], top_n: int = 10) -> str:
+    """Build an org-mode table of the top N busiest days."""
+    # Determine dominant project per day
+    by_day_project: dict[str, dict[str, float]] = defaultdict(lambda: defaultdict(float))
+    for s in sessions:
+        by_day_project[s.start.strftime("%Y-%m-%d")][s.project] += s.hours
+
+    sorted_days = sorted(by_day.items(), key=lambda item: item[1], reverse=True)[:top_n]
+    col_w_proj = max(
+        len("Main project"),
+        *(
+            len(sanitize_label(max(by_day_project[d].items(), key=lambda x: x[1])[0]))
+            for d, _ in sorted_days
+        ),
+    )
+    col_w_proj = min(col_w_proj, 36)
+
+    header = (
+        f"| {'Rank':>4} | {'Date':>10} | {'Weekday':>9} | {'Hours':>5} "
+        f"| {'Main project':<{col_w_proj}} |"
+    )
+    sep = (
+        f"|------+------------+-----------+-------"
+        f"+-{'-' * col_w_proj}-|"
+    )
+    lines = [header, sep]
+    for rank, (day_str, hours) in enumerate(sorted_days, start=1):
+        dt = datetime.strptime(day_str, "%Y-%m-%d")
+        weekday = dt.strftime("%A")
+        main_proj = max(by_day_project[day_str].items(), key=lambda x: x[1])[0]
+        label = sanitize_label(main_proj, col_w_proj)
+        lines.append(
+            f"| {rank:>4} | {day_str:>10} | {weekday:>9} | {hours:>5.2f} "
+            f"| {label:<{col_w_proj}} |"
+        )
+    return "\n".join(lines) + "\n"
+
+
+def build_start_hour_table(sessions: list[Session]) -> str:
+    """Build an org-mode table showing session count by start hour."""
+    by_hour: dict[int, int] = defaultdict(int)
+    by_hour_hours: dict[int, float] = defaultdict(float)
+    for s in sessions:
+        h = s.start.hour
+        by_hour[h] += 1
+        by_hour_hours[h] += s.hours
+
+    header = "| Hour  | Sessions | Total hours | Avg h/session |"
+    sep    = "|-------+----------+-------------+---------------|"
+    lines = [header, sep]
+    for hour in sorted(by_hour.keys()):
+        count = by_hour[hour]
+        total = by_hour_hours[hour]
+        avg = safe_avg(total, count)
+        slot = f"{hour:02d}:00 – {hour + 1:02d}:00" if hour < 23 else "23:00 – 24:00"
+        lines.append(
+            f"| {slot} | {count:>8} | {total:>11.2f} | {avg:>13.2f} |"
+        )
+    return "\n".join(lines) + "\n"
+
+
+def build_cumulative_chart(sessions: list[Session]) -> str:
+    """Build a mermaid line chart showing cumulative hours over time (weekly)."""
+    if not sessions:
+        return ""
+
+    by_week: dict[str, float] = defaultdict(float)
+    for s in sessions:
+        by_week[iso_week_key(s.start)] += s.hours
+
+    sorted_weeks = sorted(by_week.keys())
+    # Compute cumulative
+    cumulative: list[float] = []
+    running = 0.0
+    for wk in sorted_weeks:
+        running += by_week[wk]
+        cumulative.append(running)
+
+    # Build week labels (MM/DD of Monday)
+    labels: list[str] = []
+    for wk in sorted_weeks:
+        year, wnum = int(wk[:4]), int(wk[6:])
+        ws = week_start(year, wnum)
+        labels.append(ws.strftime("%m/%d"))
+
+    ceiling = max(int(max(cumulative) * CUMULATIVE_CHART_PADDING) + 1, 1)
+    x_axis = ", ".join(f'"{lbl}"' for lbl in labels)
+    line_vals = ", ".join(f"{v:.2f}" for v in cumulative)
+
+    return (
+        f"*** Cumulative hours over time\n"
+        f"#+begin_src mermaid\n"
+        f"xychart-beta\n"
+        f"    title \"Cumulative tracked hours\"\n"
+        f"    x-axis [{x_axis}]\n"
+        f"    y-axis \"Hours\" 0 --> {ceiling}\n"
+        f"    line [{line_vals}]\n"
+        f"#+end_src\n"
+    )
+
+
 def build_scope_section(scope: str, sessions: list[Session]) -> str:
     if not sessions:
         return f"** {scope}\n\n/No entries found./\n"
 
     total_hours = sum(s.hours for s in sessions)
     by_project: dict[str, float] = defaultdict(float)
+    by_project_sessions: dict[str, int] = defaultdict(int)
+    by_project_days: dict[str, set[str]] = defaultdict(set)
     by_day: dict[str, float] = defaultdict(float)
     by_weekday: dict[str, float] = defaultdict(float)
     by_weekday_days: dict[str, set[str]] = defaultdict(set)
 
     for session in sessions:
         by_project[session.project] += session.hours
+        by_project_sessions[session.project] += 1
         day_key = session.start.strftime("%Y-%m-%d")
+        by_project_days[session.project].add(day_key)
         by_day[day_key] += session.hours
         wd = session.start.strftime("%A")
         by_weekday[wd] += session.hours
@@ -318,6 +487,14 @@ def build_scope_section(scope: str, sessions: list[Session]) -> str:
 
     weekly_section = build_weekly_section(sessions)
     monthly_section = build_monthly_section(sessions)
+    cumulative_chart = build_cumulative_chart(sessions)
+
+    project_table = build_project_table(
+        by_project, by_project_sessions, by_project_days, total_hours
+    )
+    session_length_table = build_session_length_table(sessions)
+    top_days_table = build_top_days_table(by_day, sessions)
+    start_hour_table = build_start_hour_table(sessions)
 
     return (
         f"** {scope}\n\n"
@@ -340,6 +517,14 @@ def build_scope_section(scope: str, sessions: list[Session]) -> str:
         f"pie showData\n"
         f"{pie_lines}\n"
         f"#+end_src\n\n"
+        f"*** All projects breakdown\n"
+        f"{project_table}\n"
+        f"*** Top 10 busiest days\n"
+        f"{top_days_table}\n"
+        f"*** Session length distribution\n"
+        f"{session_length_table}\n"
+        f"*** Session start-hour distribution\n"
+        f"{start_hour_table}\n"
         f"*** Last 14 days\n"
         f"#+begin_src mermaid\n"
         f"xychart-beta\n"
@@ -349,7 +534,8 @@ def build_scope_section(scope: str, sessions: list[Session]) -> str:
         f"    bar [{bars}]\n"
         f"#+end_src\n\n"
         f"{weekly_section}\n"
-        f"{monthly_section}"
+        f"{monthly_section}\n"
+        f"{cumulative_chart}"
     )
 
 
