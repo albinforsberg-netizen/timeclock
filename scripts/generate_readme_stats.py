@@ -8,11 +8,11 @@ from pathlib import Path
 import re
 
 ROOT = Path(__file__).resolve().parents[1]
-README_PATH = ROOT / "README.md"
+README_PATH = ROOT / "README.org"
 WORK_LOG_PATH = ROOT / "timelog-work"
 
-START_MARKER = "<!-- STATS:START -->"
-END_MARKER = "<!-- STATS:END -->"
+START_MARKER = "# STATS:START"
+END_MARKER = "# STATS:END"
 LINE_RE = re.compile(
     r"^(?P<kind>[io]) (?P<date>\d{4}/\d{2}/\d{2}) (?P<time>\d{2}:\d{2}:\d{2})(?: (?P<label>.*))?$"
 )
@@ -95,7 +95,7 @@ def rolling_hours(by_day: dict[str, float], end_day: datetime, days: int) -> flo
 
 def build_scope_section(scope: str, sessions: list[Session]) -> str:
     if not sessions:
-        return f"## {scope}\n\n_No entries found._\n"
+        return f"** {scope}\n\n/No entries found./\n"
 
     total_hours = sum(s.hours for s in sessions)
     by_project: dict[str, float] = defaultdict(float)
@@ -143,31 +143,31 @@ def build_scope_section(scope: str, sessions: list[Session]) -> str:
     bars = ", ".join(chart_hours)
 
     return (
-        f"## {scope}\n\n"
-        f"- **Total tracked:** {format_hours(total_hours)} h\n"
-        f"- **Sessions:** {len(sessions)}\n"
-        f"- **Active days:** {active_days}\n"
-        f"- **Average / active day:** {format_hours(avg_day)} h\n"
-        f"- **Average session:** {format_hours(avg_session)} h\n\n"
-        f"### Insights\n"
-        f"- **Last 7 days:** {format_hours(last_7_days_total)} h ({format_hours(last_7_days_total / 7)} h/day)\n"
-        f"- **Last 30 days:** {format_hours(last_30_days_total)} h ({format_hours(last_30_days_total / 30)} h/day)\n"
-        f"- **Best day:** {best_day} ({format_hours(best_day_hours)} h)\n"
-        f"- **Most active weekday:** {top_weekday} ({format_hours(top_weekday_hours)} h total)\n"
-        f"- **Longest session:** {format_hours(longest_session.hours)} h on {longest_session.start.strftime('%Y-%m-%d')} ({sanitize_label(longest_session.project)})\n\n"
-        f"### Top projects (hours)\n"
-        f"```mermaid\n"
+        f"** {scope}\n\n"
+        f"- *Total tracked:* {format_hours(total_hours)} h\n"
+        f"- *Sessions:* {len(sessions)}\n"
+        f"- *Active days:* {active_days}\n"
+        f"- *Average / active day:* {format_hours(avg_day)} h\n"
+        f"- *Average session:* {format_hours(avg_session)} h\n\n"
+        f"*** Insights\n"
+        f"- *Last 7 days:* {format_hours(last_7_days_total)} h ({format_hours(last_7_days_total / 7)} h/day)\n"
+        f"- *Last 30 days:* {format_hours(last_30_days_total)} h ({format_hours(last_30_days_total / 30)} h/day)\n"
+        f"- *Best day:* {best_day} ({format_hours(best_day_hours)} h)\n"
+        f"- *Most active weekday:* {top_weekday} ({format_hours(top_weekday_hours)} h total)\n"
+        f"- *Longest session:* {format_hours(longest_session.hours)} h on {longest_session.start.strftime('%Y-%m-%d')} ({sanitize_label(longest_session.project)})\n\n"
+        f"*** Top projects (hours)\n"
+        f"#+begin_src mermaid\n"
         f"pie showData\n"
         f"{pie_lines}\n"
-        f"```\n\n"
-        f"### Last 14 days\n"
-        f"```mermaid\n"
+        f"#+end_src\n\n"
+        f"*** Last 14 days\n"
+        f"#+begin_src mermaid\n"
         f"xychart-beta\n"
         f"    title \"Tracked hours\"\n"
         f"    x-axis [{x_axis}]\n"
         f"    y-axis \"Hours\" 0 --> {chart_ceiling}\n"
         f"    bar [{bars}]\n"
-        f"```\n"
+        f"#+end_src\n"
     )
 
 
@@ -176,10 +176,10 @@ def build_stats_markdown() -> str:
     generated_at = datetime.now(UTC).strftime("%Y-%m-%d %H:%M UTC")
 
     return (
-        "## Time log stats\n\n"
-        "Auto-generated from `timelog-work`.\n\n"
+        "** Time log stats\n\n"
+        "Auto-generated from =timelog-work=.\n\n"
         + build_scope_section("Work", sessions)
-        + f"\n_Generated: {generated_at}_\n"
+        + f"\n/Generated: {generated_at}/\n"
     )
 
 
@@ -187,7 +187,7 @@ def update_readme(content: str) -> None:
     if README_PATH.exists():
         readme = README_PATH.read_text(encoding="utf-8")
     else:
-        readme = "# timeclock\n"
+        readme = "* timeclock\n"
 
     block = f"{START_MARKER}\n{content}\n{END_MARKER}"
 
