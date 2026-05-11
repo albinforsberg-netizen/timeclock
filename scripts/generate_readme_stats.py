@@ -76,6 +76,10 @@ def format_hours(value: float) -> str:
     return f"{value:.2f}"
 
 
+def safe_avg(total: float, count: int) -> float:
+    return total / count if count else 0.0
+
+
 def sanitize_label(label: str, max_len: int = 36) -> str:
     safe = label.replace('"', "'").replace("`", "'")
     if len(safe) <= max_len:
@@ -226,7 +230,7 @@ def build_monthly_section(sessions: list[Session]) -> str:
     delta_str = f"+{format_hours(delta)}" if delta >= 0 else format_hours(delta)
 
     cur_active_days = len(by_month_days.get(cur_month_key, set()))
-    cur_avg = cur_month_hours / cur_active_days if cur_active_days else 0.0
+    cur_avg = safe_avg(cur_month_hours, cur_active_days)
 
     max_val = max(month_hours_list, default=0.0)
     ceiling = max(int(max_val * 1.2) + 1, 1)
@@ -268,8 +272,8 @@ def build_scope_section(scope: str, sessions: list[Session]) -> str:
         by_weekday_days[wd].add(day_key)
 
     active_days = len(by_day)
-    avg_day = total_hours / active_days if active_days else 0.0
-    avg_session = total_hours / len(sessions) if sessions else 0.0
+    avg_day = safe_avg(total_hours, active_days)
+    avg_session = safe_avg(total_hours, len(sessions))
 
     top_projects = sorted(by_project.items(), key=lambda item: item[1], reverse=True)[:5]
 
@@ -300,7 +304,7 @@ def build_scope_section(scope: str, sessions: list[Session]) -> str:
     # Weekday average (only Mon–Fri)
     weekday_order = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
     weekday_avg_lines = "".join(
-        f"  - {wd}: {format_hours(by_weekday.get(wd, 0.0) / len(by_weekday_days[wd]))}"
+        f"  - {wd}: {format_hours(safe_avg(by_weekday.get(wd, 0.0), len(by_weekday_days[wd])))}"
         f" h/day ({len(by_weekday_days.get(wd, set()))} days)\n"
         for wd in weekday_order
         if by_weekday_days.get(wd)
