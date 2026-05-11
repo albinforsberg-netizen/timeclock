@@ -9,11 +9,7 @@ import re
 
 ROOT = Path(__file__).resolve().parents[1]
 README_PATH = ROOT / "README.md"
-
-LOG_FILES = {
-    "Work": ROOT / "timelog-work",
-    "Personal": ROOT / "timelog-personal",
-}
+WORK_LOG_PATH = ROOT / "timelog-work"
 
 START_MARKER = "<!-- STATS:START -->"
 END_MARKER = "<!-- STATS:END -->"
@@ -87,6 +83,16 @@ def sanitize_label(label: str, max_len: int = 36) -> str:
     return f"{safe[: max_len - 1]}…"
 
 
+def rolling_hours(by_day: dict[str, float], end_day: datetime, days: int) -> float:
+    start_day = end_day - timedelta(days=days - 1)
+    total = 0.0
+    current = start_day
+    while current <= end_day:
+        total += by_day.get(current.strftime("%Y-%m-%d"), 0.0)
+        current += timedelta(days=1)
+    return total
+
+
 def build_scope_section(scope: str, sessions: list[Session]) -> str:
     if not sessions:
         return f"## {scope}\n\n_No entries found._\n"
@@ -94,13 +100,17 @@ def build_scope_section(scope: str, sessions: list[Session]) -> str:
     total_hours = sum(s.hours for s in sessions)
     by_project: dict[str, float] = defaultdict(float)
     by_day: dict[str, float] = defaultdict(float)
+    by_weekday: dict[str, float] = defaultdict(float)
 
     for session in sessions:
         by_project[session.project] += session.hours
-        by_day[session.start.strftime("%Y-%m-%d")] += session.hours
+        day_key = session.start.strftime("%Y-%m-%d")
+        by_day[day_key] += session.hours
+        by_weekday[session.start.strftime("%A")] += session.hours
 
     active_days = len(by_day)
     avg_day = total_hours / active_days if active_days else 0.0
+    avg_session = total_hours / len(sessions) if sessions else 0.0
 
     top_projects = sorted(by_project.items(), key=lambda item: item[1], reverse=True)[:5]
 
@@ -119,6 +129,13 @@ def build_scope_section(scope: str, sessions: list[Session]) -> str:
     max_chart_value = max((float(value) for value in chart_hours), default=0.0)
     chart_ceiling = max(int(max_chart_value * 1.2) + 1, 1)
 
+    longest_session = max(sessions, key=lambda s: s.hours)
+    best_day, best_day_hours = max(by_day.items(), key=lambda item: item[1])
+    top_weekday, top_weekday_hours = max(by_weekday.items(), key=lambda item: item[1])
+
+    last_7_days_total = rolling_hours(by_day, latest_day, 7)
+    last_30_days_total = rolling_hours(by_day, latest_day, 30)
+
     pie_lines = "\n".join(
         f'    "{sanitize_label(name)}" : {hours:.2f}' for name, hours in top_projects
     )
@@ -130,7 +147,14 @@ def build_scope_section(scope: str, sessions: list[Session]) -> str:
         f"- **Total tracked:** {format_hours(total_hours)} h\n"
         f"- **Sessions:** {len(sessions)}\n"
         f"- **Active days:** {active_days}\n"
-        f"- **Average / active day:** {format_hours(avg_day)} h\n\n"
+        f"- **Average / active day:** {format_hours(avg_day)} h\n"
+        f"- **Average session:** {format_hours(avg_session)} h\n\n"
+        f"### Insights\n"
+        f"- **Last 7 days:** {format_hours(last_7_days_total)} h ({format_hours(last_7_days_total / 7)} h/day)\n"
+        f"- **Last 30 days:** {format_hours(last_30_days_total)} h ({format_hours(last_30_days_total / 30)} h/day)\n"
+        f"- **Best day:** {best_day} ({format_hours(best_day_hours)} h)\n"
+        f"- **Most active weekday:** {top_weekday} ({format_hours(top_weekday_hours)} h total)\n"
+        f"- **Longest session:** {format_hours(longest_session.hours)} h on {longest_session.start.strftime('%Y-%m-%d')} ({sanitize_label(longest_session.project)})\n\n"
         f"### Top projects (hours)\n"
         f"```mermaid\n"
         f"pie showData\n"
@@ -148,29 +172,13 @@ def build_scope_section(scope: str, sessions: list[Session]) -> str:
 
 
 def build_stats_markdown() -> str:
-    sections: list[str] = []
-    total_by_scope: dict[str, float] = {}
-
-    for scope, path in LOG_FILES.items():
-        sessions = parse_sessions(path)
-        total_by_scope[scope] = sum(s.hours for s in sessions)
-        sections.append(build_scope_section(scope, sessions))
-
-    scope_pie = "\n".join(
-        f'    "{scope}" : {hours:.2f}' for scope, hours in total_by_scope.items() if hours > 0
-    ) or '    "No data" : 1'
-
+    sessions = parse_sessions(WORK_LOG_PATH)
     generated_at = datetime.now(UTC).strftime("%Y-%m-%d %H:%M UTC")
 
     return (
         "## Time log stats\n\n"
-        "Auto-generated from `timelog-work` and `timelog-personal`.\n\n"
-        "### Hours by scope\n"
-        "```mermaid\n"
-        "pie showData\n"
-        f"{scope_pie}\n"
-        "```\n\n"
-        + "\n".join(sections)
+        "Auto-generated from `timelog-work`.\n\n"
+        + build_scope_section("Work", sessions)
         + f"\n_Generated: {generated_at}_\n"
     )
 
