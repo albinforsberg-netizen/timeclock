@@ -3,14 +3,7 @@
 <!-- STATS:START -->
 ## Time log stats
 
-Auto-generated from `timelog-work` and `timelog-personal`.
-
-### Hours by scope
-```mermaid
-pie showData
-    "Work" : 420.81
-    "Personal" : 6.01
-```
+Auto-generated from `timelog-work`.
 
 ## Work
 
@@ -18,6 +11,14 @@ pie showData
 - **Sessions:** 151
 - **Active days:** 52
 - **Average / active day:** 8.09 h
+- **Average session:** 2.79 h
+
+### Insights
+- **Last 7 days:** 40.10 h (5.73 h/day)
+- **Last 30 days:** 169.42 h (5.65 h/day)
+- **Best day:** 2026-04-20 (8.83 h)
+- **Most active weekday:** Wednesday (89.95 h total)
+- **Longest session:** 4.91 h on 2026-04-13 (Dx Pro Designer)
 
 ### Top projects (hours)
 ```mermaid
@@ -38,28 +39,6 @@ xychart-beta
     bar [0.00, 0.00, 8.04, 7.86, 7.95, 8.03, 0.00, 0.00, 0.00, 8.08, 8.05, 8.12, 8.33, 7.52]
 ```
 
-## Personal
-
-- **Total tracked:** 6.01 h
-- **Sessions:** 1
-- **Active days:** 1
-- **Average / active day:** 6.01 h
-
-### Top projects (hours)
-```mermaid
-pie showData
-    "emacs-conf" : 6.01
-```
-
-### Last 14 days
-```mermaid
-xychart-beta
-    title "Tracked hours"
-    x-axis ["03-15", "03-16", "03-17", "03-18", "03-19", "03-20", "03-21", "03-22", "03-23", "03-24", "03-25", "03-26", "03-27", "03-28"]
-    y-axis "Hours" 0 --> 8
-    bar [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 6.01]
-```
-
-_Generated: 2026-05-11 08:12 UTC_
+_Generated: 2026-05-11 08:16 UTC_
 
 <!-- STATS:END -->

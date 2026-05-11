@@ -7,7 +7,6 @@ on:
   push:
     paths:
       - "timelog-work"
-      - "timelog-personal"
       - "scripts/generate_readme_stats.py"
       - ".github/workflows/update-readme-stats.yml"
 
