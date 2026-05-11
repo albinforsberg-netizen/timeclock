@@ -3,7 +3,7 @@ from __future__ import annotations
 
 from collections import defaultdict
 from dataclasses import dataclass
-from datetime import datetime, timedelta
+from datetime import UTC, datetime, timedelta
 from pathlib import Path
 import re
 
@@ -20,6 +20,7 @@ END_MARKER = "<!-- STATS:END -->"
 LINE_RE = re.compile(
     r"^(?P<kind>[io]) (?P<date>\d{4}/\d{2}/\d{2}) (?P<time>\d{2}:\d{2}:\d{2})(?: (?P<label>.*))?$"
 )
+MAX_SESSION_HOURS = 18.0
 
 
 @dataclass
@@ -64,7 +65,12 @@ def parse_sessions(path: Path) -> list[Session]:
             active = None
             continue
 
-        sessions.append(Session(start=start, end=timestamp, project=project))
+        session = Session(start=start, end=timestamp, project=project)
+        if session.hours > MAX_SESSION_HOURS:
+            active = None
+            continue
+
+        sessions.append(session)
         active = None
 
     return sessions
@@ -110,6 +116,9 @@ def build_scope_section(scope: str, sessions: list[Session]) -> str:
         chart_hours.append(f"{by_day.get(key, 0.0):.2f}")
         current += timedelta(days=1)
 
+    max_chart_value = max((float(value) for value in chart_hours), default=0.0)
+    chart_ceiling = max(int(max_chart_value * 1.2) + 1, 1)
+
     pie_lines = "\n".join(
         f'    "{sanitize_label(name)}" : {hours:.2f}' for name, hours in top_projects
     )
@@ -132,7 +141,7 @@ def build_scope_section(scope: str, sessions: list[Session]) -> str:
         f"xychart-beta\n"
         f"    title \"Tracked hours\"\n"
         f"    x-axis [{x_axis}]\n"
-        f"    y-axis \"Hours\" 0 --> 12\n"
+        f"    y-axis \"Hours\" 0 --> {chart_ceiling}\n"
         f"    bar [{bars}]\n"
         f"```\n"
     )
@@ -151,7 +160,7 @@ def build_stats_markdown() -> str:
         f'    "{scope}" : {hours:.2f}' for scope, hours in total_by_scope.items() if hours > 0
     ) or '    "No data" : 1'
 
-    generated_at = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    generated_at = datetime.now(UTC).strftime("%Y-%m-%d %H:%M UTC")
 
     return (
         "## Time log stats\n\n"
