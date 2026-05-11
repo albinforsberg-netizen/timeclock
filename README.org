@@ -14,8 +14,8 @@ Auto-generated from =timelog-work=.
 - *Average session:* 2.79 h
 
 *** Insights
-- *Last 7 days:* 40.10 h (5.73 h/day)
-- *Last 30 days:* 169.42 h (5.65 h/day)
+- *Last 7 days:* 40.10 h (5.73 h/day, balance: +0.10 h vs 40.00 h expected)
+- *Last 30 days:* 169.42 h (5.65 h/day, balance: -6.58 h vs 176.00 h expected)
 - *Best day:* 2026-04-20 (8.83 h)
 - *Most active weekday:* Wednesday (89.95 h total)
 - *Longest session:* 4.91 h on 2026-04-13 (Dx Pro Designer)
@@ -95,8 +95,8 @@ xychart-beta
 #+end_src
 
 *** Weekly breakdown (last 12 weeks)
-- *This week (2026-W19):* 40.10 h
-- *Previous week (2026-W18):* 31.88 h
+- *This week (2026-W19):* 40.10 h (balance: +0.10 h vs 40.00 h expected)
+- *Previous week (2026-W18):* 31.88 h (balance: -8.12 h vs 40.00 h expected)
 - *Week-over-week change:* +8.22 h
 
 #+begin_src mermaid
@@ -108,8 +108,8 @@ xychart-beta
 #+end_src
 
 *** Monthly breakdown (last 12 months)
-- *This month (2026-05):* 40.10 h (5 active days, avg 8.02 h/day)
-- *Previous month (2026-04):* 161.48 h
+- *This month (2026-05):* 40.10 h (5 active days, avg 8.02 h/day, balance: -7.90 h vs 48.00 h expected)
+- *Previous month (2026-04):* 161.48 h (balance: -14.52 h vs 176.00 h expected)
 - *Month-over-month change:* -121.38 h
 
 #+begin_src mermaid
@@ -129,6 +129,6 @@ xychart-beta
     line [40.00, 81.25, 121.75, 162.50, 202.75, 235.19, 267.03, 308.11, 348.83, 380.71, 420.81]
 #+end_src
 
-/Generated: 2026-05-11 11:12 UTC/
+/Generated: 2026-05-11 11:32 UTC/
 
 # STATS:END
