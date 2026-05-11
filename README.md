@@ -8,24 +8,24 @@ Auto-generated from `timelog-work` and `timelog-personal`.
 ### Hours by scope
 ```mermaid
 pie showData
-    "Work" : 380.21
+    "Work" : 420.81
     "Personal" : 6.01
 ```
 
 ## Work
 
-- **Total tracked:** 380.21 h
-- **Sessions:** 129
-- **Active days:** 47
+- **Total tracked:** 420.81 h
+- **Sessions:** 151
+- **Active days:** 52
 - **Average / active day:** 8.09 h
 
 ### Top projects (hours)
 ```mermaid
 pie showData
-    "Dx Pro Designer" : 138.94
-    "Divid - Internt" : 121.25
+    "Dx Pro Designer" : 151.50
+    "Divid - Internt" : 122.67
     "Dx Designer Pro" : 107.47
-    "Refrigeration - Development" : 10.07
+    "Refrigeration - Development" : 36.70
     "Divid - Utbildning" : 1.47
 ```
 
@@ -33,9 +33,9 @@ pie showData
 ```mermaid
 xychart-beta
     title "Tracked hours"
-    x-axis ["04-17", "04-18", "04-19", "04-20", "04-21", "04-22", "04-23", "04-24", "04-25", "04-26", "04-27", "04-28", "04-29", "04-30"]
-    y-axis "Hours" 0 --> 11
-    bar [8.29, 0.00, 0.00, 8.83, 7.32, 8.54, 8.25, 7.78, 0.00, 0.00, 8.04, 7.86, 7.95, 8.03]
+    x-axis ["04-25", "04-26", "04-27", "04-28", "04-29", "04-30", "05-01", "05-02", "05-03", "05-04", "05-05", "05-06", "05-07", "05-08"]
+    y-axis "Hours" 0 --> 10
+    bar [0.00, 0.00, 8.04, 7.86, 7.95, 8.03, 0.00, 0.00, 0.00, 8.08, 8.05, 8.12, 8.33, 7.52]
 ```
 
 ## Personal
@@ -60,6 +60,6 @@ xychart-beta
     bar [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 6.01]
 ```
 
-_Generated: 2026-05-11 08:09 UTC_
+_Generated: 2026-05-11 08:12 UTC_
 
 <!-- STATS:END -->
