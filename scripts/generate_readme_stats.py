@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import calendar
 from collections import defaultdict
 from dataclasses import dataclass
 from datetime import UTC, date, datetime, timedelta
@@ -18,6 +19,7 @@ LINE_RE = re.compile(
 )
 MAX_SESSION_HOURS = 18.0
 CUMULATIVE_CHART_PADDING = 1.05
+HOURS_PER_DAY = 8.0
 
 
 @dataclass
@@ -75,6 +77,22 @@ def parse_sessions(path: Path) -> list[Session]:
 
 def format_hours(value: float) -> str:
     return f"{value:.2f}"
+
+
+def format_balance(value: float) -> str:
+    """Format a balance value with an explicit +/- sign."""
+    return f"+{value:.2f}" if value >= 0 else f"{value:.2f}"
+
+
+def count_weekdays(start: date, end: date) -> int:
+    """Count Monday–Friday days in the inclusive range [start, end]."""
+    count = 0
+    current = start
+    while current <= end:
+        if current.weekday() < 5:
+            count += 1
+        current += timedelta(days=1)
+    return count
 
 
 def safe_avg(total: float, count: int) -> float:
@@ -165,6 +183,17 @@ def build_weekly_section(sessions: list[Session]) -> str:
     delta = cur_week_hours - prev_week_hours
     delta_str = f"+{format_hours(delta)}" if delta >= 0 else format_hours(delta)
 
+    # Balance vs 8 h/day for each week
+    cur_ws = week_start(latest_iso[0], latest_iso[1])
+    cur_we = cur_ws + timedelta(days=6)
+    cur_expected = count_weekdays(cur_ws, min(cur_we, latest_day.date())) * HOURS_PER_DAY
+    cur_balance_str = format_balance(cur_week_hours - cur_expected)
+
+    prev_ws_date = week_start(prev_ws.isocalendar()[0], prev_ws.isocalendar()[1])
+    prev_we_date = prev_ws_date + timedelta(days=4)  # Friday
+    prev_expected = count_weekdays(prev_ws_date, prev_we_date) * HOURS_PER_DAY
+    prev_balance_str = format_balance(prev_week_hours - prev_expected)
+
     max_val = max(week_hours_list, default=0.0)
     ceiling = max(int(max_val * 1.2) + 1, 1)
     x_axis = ", ".join(f'"{label}"' for label in week_labels)
@@ -172,8 +201,8 @@ def build_weekly_section(sessions: list[Session]) -> str:
 
     return (
         f"*** Weekly breakdown (last 12 weeks)\n"
-        f"- *This week ({cur_key}):* {format_hours(cur_week_hours)} h\n"
-        f"- *Previous week ({prev_key}):* {format_hours(prev_week_hours)} h\n"
+        f"- *This week ({cur_key}):* {format_hours(cur_week_hours)} h (balance: {cur_balance_str} h vs {format_hours(cur_expected)} h expected)\n"
+        f"- *Previous week ({prev_key}):* {format_hours(prev_week_hours)} h (balance: {prev_balance_str} h vs {format_hours(prev_expected)} h expected)\n"
         f"- *Week-over-week change:* {delta_str} h\n\n"
         f"#+begin_src mermaid\n"
         f"xychart-beta\n"
@@ -233,6 +262,19 @@ def build_monthly_section(sessions: list[Session]) -> str:
     cur_active_days = len(by_month_days.get(cur_month_key, set()))
     cur_avg = safe_avg(cur_month_hours, cur_active_days)
 
+    # Balance vs 8 h/day for each month (count weekdays up to latest logged day for current month)
+    # For the current (possibly ongoing) month, only count weekdays up to today's last logged day
+    latest_logged = max(
+        (datetime.strptime(d, "%Y-%m-%d").date() for d in by_month_days.get(cur_month_key, set())),
+        default=date(y, m, 1),
+    )
+    cur_expected = count_weekdays(date(y, m, 1), latest_logged) * HOURS_PER_DAY
+    cur_balance_str = format_balance(cur_month_hours - cur_expected)
+
+    prev_month_last = date(py, pm, calendar.monthrange(py, pm)[1])
+    prev_expected = count_weekdays(date(py, pm, 1), prev_month_last) * HOURS_PER_DAY
+    prev_balance_str = format_balance(prev_month_hours - prev_expected)
+
     max_val = max(month_hours_list, default=0.0)
     ceiling = max(int(max_val * 1.2) + 1, 1)
     x_axis = ", ".join(f'"{label}"' for label in month_labels)
@@ -241,8 +283,10 @@ def build_monthly_section(sessions: list[Session]) -> str:
     return (
         f"*** Monthly breakdown (last 12 months)\n"
         f"- *This month ({cur_month_key}):* {format_hours(cur_month_hours)} h "
-        f"({cur_active_days} active days, avg {format_hours(cur_avg)} h/day)\n"
-        f"- *Previous month ({prev_month_key}):* {format_hours(prev_month_hours)} h\n"
+        f"({cur_active_days} active days, avg {format_hours(cur_avg)} h/day, "
+        f"balance: {cur_balance_str} h vs {format_hours(cur_expected)} h expected)\n"
+        f"- *Previous month ({prev_month_key}):* {format_hours(prev_month_hours)} h "
+        f"(balance: {prev_balance_str} h vs {format_hours(prev_expected)} h expected)\n"
         f"- *Month-over-month change:* {delta_str} h\n\n"
         f"#+begin_src mermaid\n"
         f"xychart-beta\n"
@@ -468,6 +512,17 @@ def build_scope_section(scope: str, sessions: list[Session]) -> str:
     last_7_days_total = rolling_hours(by_day, latest_day, 7)
     last_30_days_total = rolling_hours(by_day, latest_day, 30)
 
+    # Balance vs 8 h/day (weekdays only) for rolling windows
+    last_7_start = (latest_day - timedelta(days=6)).date()
+    last_7_weekdays = count_weekdays(last_7_start, latest_day.date())
+    last_7_expected = last_7_weekdays * HOURS_PER_DAY
+    last_7_balance_str = format_balance(last_7_days_total - last_7_expected)
+
+    last_30_start = (latest_day - timedelta(days=29)).date()
+    last_30_weekdays = count_weekdays(last_30_start, latest_day.date())
+    last_30_expected = last_30_weekdays * HOURS_PER_DAY
+    last_30_balance_str = format_balance(last_30_days_total - last_30_expected)
+
     streak = working_day_streak(by_day, latest_day)
 
     # Weekday average (only Mon–Fri)
@@ -504,8 +559,8 @@ def build_scope_section(scope: str, sessions: list[Session]) -> str:
         f"- *Average / active day:* {format_hours(avg_day)} h\n"
         f"- *Average session:* {format_hours(avg_session)} h\n\n"
         f"*** Insights\n"
-        f"- *Last 7 days:* {format_hours(last_7_days_total)} h ({format_hours(last_7_days_total / 7)} h/day)\n"
-        f"- *Last 30 days:* {format_hours(last_30_days_total)} h ({format_hours(last_30_days_total / 30)} h/day)\n"
+        f"- *Last 7 days:* {format_hours(last_7_days_total)} h ({format_hours(last_7_days_total / 7)} h/day, balance: {last_7_balance_str} h vs {format_hours(last_7_expected)} h expected)\n"
+        f"- *Last 30 days:* {format_hours(last_30_days_total)} h ({format_hours(last_30_days_total / 30)} h/day, balance: {last_30_balance_str} h vs {format_hours(last_30_expected)} h expected)\n"
         f"- *Best day:* {best_day} ({format_hours(best_day_hours)} h)\n"
         f"- *Most active weekday:* {top_weekday} ({format_hours(top_weekday_hours)} h total)\n"
         f"- *Longest session:* {format_hours(longest_session.hours)} h on {longest_session.start.strftime('%Y-%m-%d')} ({sanitize_label(longest_session.project)})\n"
