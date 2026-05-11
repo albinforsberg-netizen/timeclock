@@ -58,3 +58,6 @@
 * 2026-05-08 fredag
 - [15:21] *Dx Pro Designer* (2h 18m): Mounting printout improvements
 - [15:53] *Dx Pro Designer* (31m): Paci mountin
+
+* 2026-05-11 måndag
+- [16:44] *Dx Pro Designer* (3h 39m): Paci mounting
