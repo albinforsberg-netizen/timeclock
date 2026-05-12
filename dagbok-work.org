@@ -61,3 +61,6 @@
 
 * 2026-05-11 måndag
 - [16:44] *Dx Pro Designer* (3h 39m): Paci mounting
+
+* 2026-05-12 tisdag
+- [08:52] *Dx Pro Designer* (0m): Paci mounting
