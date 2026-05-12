@@ -66,3 +66,7 @@
 - [08:52] *Dx Pro Designer* (0m): Paci mounting
 - [09:18] *Divid - Internt* (25m): dxpro
 - [11:40] *Dx Pro Designer* (2h 22m): Paci mounting
+- [16:06] *Dx Pro Designer* (1h 41m): Paci mounting
+- [16:06] *Divid - Internt* (0m): Claude setup
+- [16:08] *Dx Pro Designer* (1m): Paci mounting
+- [16:19] *Dx Pro Designer* (10m): Paci mounting
