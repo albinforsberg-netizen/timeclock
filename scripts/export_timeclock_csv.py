@@ -149,6 +149,8 @@ def load_project_rounding(path: Path) -> dict[str, tuple[float, bool]]:
         return {}
 
     text = path.read_text(encoding="utf-8")
+    # Expected pattern in timeclock-projects-work.eld:
+    # ("key" :export-code "Project Name" :rounding 0.5 :round-up nil ...)
     entry_re = re.compile(
         r'"[^"]+"\s+:export-code\s+"(?P<export>[^"]+)"\s+:rounding\s+(?P<rounding>[0-9.]+)\s+:round-up\s+(?P<round_up>nil|t)'
     )

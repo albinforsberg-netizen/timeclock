@@ -42,6 +42,11 @@ jobs:
       - name: Export CSV (manual)
         if: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
+          if { [ -n "${{ inputs.start_date }}" ] && [ -z "${{ inputs.end_date }}" ]; } || { [ -z "${{ inputs.start_date }}" ] && [ -n "${{ inputs.end_date }}" ]; }; then
+            echo "Both start_date and end_date must be provided together for custom range exports." >&2
+            exit 1
+          fi
+
           ARGS="--period ${{ inputs.period }}"
 
           if [ -n "${{ inputs.start_date }}" ]; then ARGS="$ARGS --start-date ${{ inputs.start_date }}"; fi
