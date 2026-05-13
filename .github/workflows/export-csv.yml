@@ -22,8 +22,6 @@ on:
         type: string
   schedule:
     - cron: "17 5 * * *"
-    - cron: "20 5 * * 1"
-    - cron: "23 5 1 * *"
 
 permissions:
   contents: write
@@ -36,33 +34,36 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Resolve period from schedule/manual trigger
-        id: resolve
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Export CSV (manual)
+        if: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
-          PERIOD="${{ inputs.period }}"
-
-          if [ "${{ github.event_name }}" = "schedule" ]; then
-            case "${{ github.event.schedule }}" in
-              "17 5 * * *") PERIOD="daily" ;;
-              "20 5 * * 1") PERIOD="weekly" ;;
-              "23 5 1 * *") PERIOD="monthly" ;;
-              *) echo "Unknown schedule: ${{ github.event.schedule }}" && exit 1 ;;
-            esac
-          fi
-
-          echo "period=${PERIOD}" >> "$GITHUB_OUTPUT"
-
-      - name: Export CSV
-        run: |
-          ARGS="--period ${{ steps.resolve.outputs.period }}"
+          ARGS="--period ${{ inputs.period }}"
 
           if [ -n "${{ inputs.start_date }}" ]; then ARGS="$ARGS --start-date ${{ inputs.start_date }}"; fi
           if [ -n "${{ inputs.end_date }}" ]; then ARGS="$ARGS --end-date ${{ inputs.end_date }}"; fi
 
           python3 scripts/export_timeclock_csv.py $ARGS
 
+      - name: Export CSV (scheduled daily/weekly/monthly)
+        if: ${{ github.event_name == 'schedule' }}
+        run: |
+          python3 scripts/export_timeclock_csv.py --period daily
+
+          if [ "$(date -u +%u)" = "1" ]; then
+            python3 scripts/export_timeclock_csv.py --period weekly
+          fi
+
+          if [ "$(date -u +%d)" = "01" ]; then
+            python3 scripts/export_timeclock_csv.py --period monthly
+          fi
+
       - name: Commit exported CSV
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: export timeclock CSV (${{ steps.resolve.outputs.period }})"
+          commit_message: "chore: export timeclock CSV"
           file_pattern: exports/*.csv

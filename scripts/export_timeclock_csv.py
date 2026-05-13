@@ -136,7 +136,7 @@ def prepare_report_sessions(sessions: list[RawSession]) -> list[Session]:
     return prepared
 
 
-def round_hours_custom(hours: float, resolution: float, round_up: bool) -> float:
+def round_hours_with_resolution(hours: float, resolution: float, round_up: bool) -> float:
     if resolution <= 0:
         return hours
     steps = hours / resolution
@@ -170,7 +170,7 @@ def apply_time_carry(
     for session in sessions:
         resolution, round_up = project_rounding.get(session.project, (0.5, False))
         exact_hours = session.hours + carry
-        rounded_hours = round_hours_custom(exact_hours, resolution, round_up)
+        rounded_hours = round_hours_with_resolution(exact_hours, resolution, round_up)
         carry = exact_hours - rounded_hours
         rounded.append(
             Session(
@@ -223,9 +223,9 @@ def parse_iso_date(value: str) -> date:
     return datetime.strptime(value, "%Y-%m-%d").date()
 
 
-def output_path(period: str) -> Path:
-    EXPORT_DIR.mkdir(parents=True, exist_ok=True)
-    return EXPORT_DIR / f"time_work_{period}.csv"
+def output_path(period: str, output_dir: Path) -> Path:
+    output_dir.mkdir(parents=True, exist_ok=True)
+    return output_dir / f"time_work_{period}.csv"
 
 
 def main() -> None:
@@ -248,6 +248,24 @@ def main() -> None:
         type=parse_iso_date,
         help="Optional custom end date (YYYY-MM-DD), inclusive.",
     )
+    parser.add_argument(
+        "--timelog-path",
+        type=Path,
+        default=WORK_LOG_PATH,
+        help=f"Path to timelog file (default: {WORK_LOG_PATH}).",
+    )
+    parser.add_argument(
+        "--projects-path",
+        type=Path,
+        default=PROJECTS_PATH,
+        help=f"Path to project config file (default: {PROJECTS_PATH}).",
+    )
+    parser.add_argument(
+        "--output-dir",
+        type=Path,
+        default=EXPORT_DIR,
+        help=f"Output directory for CSV files (default: {EXPORT_DIR}).",
+    )
     args = parser.parse_args()
 
     if args.start_date and args.end_date:
@@ -258,13 +276,13 @@ def main() -> None:
     else:
         start_date, end_date = period_bounds(args.period, date.today())
 
-    raw_sessions = parse_timelog(WORK_LOG_PATH)
+    raw_sessions = parse_timelog(args.timelog_path)
     merged_sessions = prepare_report_sessions(raw_sessions)
-    project_rounding = load_project_rounding(PROJECTS_PATH)
+    project_rounding = load_project_rounding(args.projects_path)
     rounded_sessions, _carry = apply_time_carry(merged_sessions, project_rounding)
     csv_content = build_csv(rounded_sessions, start_date, end_date)
 
-    out = output_path(args.period)
+    out = output_path(args.period, args.output_dir)
     out.write_text(csv_content, encoding="utf-8")
     print(f"✅ CSV Exported: {out}")
 
