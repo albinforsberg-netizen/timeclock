@@ -200,23 +200,27 @@ def period_bounds(period: str, now: date) -> tuple[date, date]:
     raise ValueError(f"Unsupported period: {period}")
 
 
-def build_csv(sessions: list[Session], start: date, end: date) -> str:
-    lines = ["Project,Description,Date,Duration"]
+def build_csv(
+    sessions: list[Session], start: date, end: date, decimal_separator: str
+) -> str:
     output = io.StringIO()
     writer = csv.writer(output, lineterminator="\n", quoting=csv.QUOTE_ALL)
+    writer.writerow(["Project", "Description", "Date", "Duration"])
     for session in sessions:
         session_day = datetime.strptime(session.day, "%Y-%m-%d").date()
         if start <= session_day <= end:
+            formatted_hours = f"{session.hours:.2f}"
+            if decimal_separator != ".":
+                formatted_hours = formatted_hours.replace(".", decimal_separator)
             writer.writerow(
                 [
                     session.project,
                     session.description,
                     session.day,
-                    f"{session.hours:.2f}".replace(".", ","),
+                    formatted_hours,
                 ]
             )
-    body = output.getvalue()
-    return "\n".join(lines) + "\n" + body
+    return output.getvalue()
 
 
 def parse_iso_date(value: str) -> date:
@@ -266,6 +270,12 @@ def main() -> None:
         default=EXPORT_DIR,
         help=f"Output directory for CSV files (default: {EXPORT_DIR}).",
     )
+    parser.add_argument(
+        "--decimal-separator",
+        choices=[",", "."],
+        default=",",
+        help="Decimal separator for duration values (default: ',').",
+    )
     args = parser.parse_args()
 
     if args.start_date and args.end_date:
@@ -280,7 +290,9 @@ def main() -> None:
     merged_sessions = prepare_report_sessions(raw_sessions)
     project_rounding = load_project_rounding(args.projects_path)
     rounded_sessions, _carry = apply_time_carry(merged_sessions, project_rounding)
-    csv_content = build_csv(rounded_sessions, start_date, end_date)
+    csv_content = build_csv(
+        rounded_sessions, start_date, end_date, args.decimal_separator
+    )
 
     out = output_path(args.period, args.output_dir)
     out.write_text(csv_content, encoding="utf-8")
