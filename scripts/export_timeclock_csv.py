@@ -217,9 +217,9 @@ def parse_iso_date(value: str) -> date:
     return datetime.strptime(value, "%Y-%m-%d").date()
 
 
-def output_path(period: str, start: date, end: date) -> Path:
+def output_path(period: str) -> Path:
     EXPORT_DIR.mkdir(parents=True, exist_ok=True)
-    return EXPORT_DIR / f"time_work_{period}_{start.isoformat()}_{end.isoformat()}.csv"
+    return EXPORT_DIR / f"time_work_{period}.csv"
 
 
 def main() -> None:
@@ -258,7 +258,7 @@ def main() -> None:
     rounded_sessions, _carry = apply_time_carry(merged_sessions, project_rounding)
     csv_content = build_csv(rounded_sessions, start_date, end_date).replace(".", ",")
 
-    out = output_path(args.period, start_date, end_date)
+    out = output_path(args.period)
     out.write_text(csv_content, encoding="utf-8")
     print(f"✅ CSV Exported: {out}")
 
