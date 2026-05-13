@@ -150,7 +150,7 @@ def load_project_rounding(path: Path) -> dict[str, tuple[float, bool]]:
 
     text = path.read_text(encoding="utf-8")
     entry_re = re.compile(
-        r'"\w+"\s+:export-code\s+"(?P<export>[^"]+)"\s+:rounding\s+(?P<rounding>[0-9.]+)\s+:round-up\s+(?P<round_up>nil|t)'
+        r'"[^"]+"\s+:export-code\s+"(?P<export>[^"]+)"\s+:rounding\s+(?P<rounding>[0-9.]+)\s+:round-up\s+(?P<round_up>nil|t)'
     )
 
     mapping: dict[str, tuple[float, bool]] = {}
