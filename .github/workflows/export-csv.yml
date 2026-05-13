@@ -1,0 +1,73 @@
+name: Export timeclock CSV
+
+on:
+  workflow_dispatch:
+    inputs:
+      period:
+        description: "Export period"
+        required: true
+        default: daily
+        type: choice
+        options:
+          - daily
+          - weekly
+          - monthly
+      start_date:
+        description: "Optional custom start date (YYYY-MM-DD)"
+        required: false
+        type: string
+      end_date:
+        description: "Optional custom end date (YYYY-MM-DD)"
+        required: false
+        type: string
+  schedule:
+    - cron: "17 5 * * *"
+    - cron: "20 5 * * 1"
+    - cron: "23 5 1 * *"
+
+permissions:
+  contents: write
+
+jobs:
+  export-csv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Resolve period from schedule/manual trigger
+        id: resolve
+        run: |
+          PERIOD="${{ inputs.period }}"
+
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            case "${{ github.event.schedule }}" in
+              "17 5 * * *") PERIOD="daily" ;;
+              "20 5 * * 1") PERIOD="weekly" ;;
+              "23 5 1 * *") PERIOD="monthly" ;;
+              *) echo "Unknown schedule: ${{ github.event.schedule }}" && exit 1 ;;
+            esac
+          fi
+
+          echo "period=${PERIOD}" >> "$GITHUB_OUTPUT"
+
+      - name: Export CSV
+        run: |
+          ARGS="--period ${{ steps.resolve.outputs.period }}"
+
+          if [ -n "${{ inputs.start_date }}" ] || [ -n "${{ inputs.end_date }}" ]; then
+            if [ -z "${{ inputs.start_date }}" ] || [ -z "${{ inputs.end_date }}" ]; then
+              echo "Both start_date and end_date must be set together." >&2
+              exit 1
+            fi
+            ARGS="$ARGS --start-date ${{ inputs.start_date }} --end-date ${{ inputs.end_date }}"
+          fi
+
+          python3 scripts/export_timeclock_csv.py $ARGS
+
+      - name: Commit exported CSV
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: export timeclock CSV (${{ steps.resolve.outputs.period }})"
+          file_pattern: exports/*.csv
