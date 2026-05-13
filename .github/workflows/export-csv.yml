@@ -1,0 +1,74 @@
+name: Export timeclock CSV
+
+on:
+  workflow_dispatch:
+    inputs:
+      period:
+        description: "Export period"
+        required: true
+        default: daily
+        type: choice
+        options:
+          - daily
+          - weekly
+          - monthly
+      start_date:
+        description: "Optional custom start date (YYYY-MM-DD)"
+        required: false
+        type: string
+      end_date:
+        description: "Optional custom end date (YYYY-MM-DD)"
+        required: false
+        type: string
+  schedule:
+    - cron: "17 5 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  export-csv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Export CSV (manual)
+        if: ${{ github.event_name == 'workflow_dispatch' }}
+        run: |
+          if { [ -n "${{ inputs.start_date }}" ] && [ -z "${{ inputs.end_date }}" ]; } || { [ -z "${{ inputs.start_date }}" ] && [ -n "${{ inputs.end_date }}" ]; }; then
+            echo "Both start_date and end_date must be provided together for custom range exports." >&2
+            exit 1
+          fi
+
+          ARGS="--period ${{ inputs.period }}"
+
+          if [ -n "${{ inputs.start_date }}" ]; then ARGS="$ARGS --start-date ${{ inputs.start_date }}"; fi
+          if [ -n "${{ inputs.end_date }}" ]; then ARGS="$ARGS --end-date ${{ inputs.end_date }}"; fi
+
+          python3 scripts/export_timeclock_csv.py $ARGS
+
+      - name: Export CSV (scheduled daily/weekly/monthly)
+        if: ${{ github.event_name == 'schedule' }}
+        run: |
+          python3 scripts/export_timeclock_csv.py --period daily
+
+          if [ "$(date -u +%u)" = "1" ]; then
+            python3 scripts/export_timeclock_csv.py --period weekly
+          fi
+
+          if [ "$(date -u +%d)" = "01" ]; then
+            python3 scripts/export_timeclock_csv.py --period monthly
+          fi
+
+      - name: Commit exported CSV
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: export timeclock CSV"
+          file_pattern: exports/*.csv
