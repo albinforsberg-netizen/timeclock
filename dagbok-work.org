@@ -74,3 +74,5 @@
 * 2026-05-13 onsdag
 - [10:55] *Dx Pro Designer* (3h 32m): Paci mounting
 - [11:14] *Refrigeration - Development* (19m): Refpro weekly
+- [15:43] *Dx Pro Designer* (10m): Paci mounting
+- [15:54] *Dx Pro Designer* (6m): Paci  mounting
