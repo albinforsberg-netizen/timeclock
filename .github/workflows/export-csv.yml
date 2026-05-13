@@ -56,13 +56,8 @@ jobs:
         run: |
           ARGS="--period ${{ steps.resolve.outputs.period }}"
 
-          if [ -n "${{ inputs.start_date }}" ] || [ -n "${{ inputs.end_date }}" ]; then
-            if [ -z "${{ inputs.start_date }}" ] || [ -z "${{ inputs.end_date }}" ]; then
-              echo "Both start_date and end_date must be set together." >&2
-              exit 1
-            fi
-            ARGS="$ARGS --start-date ${{ inputs.start_date }} --end-date ${{ inputs.end_date }}"
-          fi
+          if [ -n "${{ inputs.start_date }}" ]; then ARGS="$ARGS --start-date ${{ inputs.start_date }}"; fi
+          if [ -n "${{ inputs.end_date }}" ]; then ARGS="$ARGS --end-date ${{ inputs.end_date }}"; fi
 
           python3 scripts/export_timeclock_csv.py $ARGS
 

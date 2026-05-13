@@ -5,6 +5,8 @@ from dataclasses import dataclass
 from datetime import UTC, date, datetime, timedelta
 from pathlib import Path
 import argparse
+import csv
+import io
 import math
 import re
 
@@ -198,19 +200,23 @@ def period_bounds(period: str, now: date) -> tuple[date, date]:
     raise ValueError(f"Unsupported period: {period}")
 
 
-def csv_escape(value: str) -> str:
-    return value.replace('"', '""')
-
-
 def build_csv(sessions: list[Session], start: date, end: date) -> str:
-    lines = ['Project,Description,Date,Duration']
+    lines = ["Project,Description,Date,Duration"]
+    output = io.StringIO()
+    writer = csv.writer(output, lineterminator="\n", quoting=csv.QUOTE_ALL)
     for session in sessions:
         session_day = datetime.strptime(session.day, "%Y-%m-%d").date()
         if start <= session_day <= end:
-            lines.append(
-                f'"{csv_escape(session.project)}","{csv_escape(session.description)}","{session.day}","{session.hours:.2f}"'
+            writer.writerow(
+                [
+                    session.project,
+                    session.description,
+                    session.day,
+                    f"{session.hours:.2f}".replace(".", ","),
+                ]
             )
-    return "\n".join(lines) + "\n"
+    body = output.getvalue()
+    return "\n".join(lines) + "\n" + body
 
 
 def parse_iso_date(value: str) -> date:
@@ -256,7 +262,7 @@ def main() -> None:
     merged_sessions = prepare_report_sessions(raw_sessions)
     project_rounding = load_project_rounding(PROJECTS_PATH)
     rounded_sessions, _carry = apply_time_carry(merged_sessions, project_rounding)
-    csv_content = build_csv(rounded_sessions, start_date, end_date).replace(".", ",")
+    csv_content = build_csv(rounded_sessions, start_date, end_date)
 
     out = output_path(args.period)
     out.write_text(csv_content, encoding="utf-8")
