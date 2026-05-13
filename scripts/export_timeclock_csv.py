@@ -115,7 +115,7 @@ def prepare_report_sessions(sessions: list[RawSession]) -> list[Session]:
     for item in sessions:
         desc = item.description.strip() if item.description else ""
         if not desc:
-            desc = "Uncategorized"
+            desc = ""
 
         if (
             prepared
