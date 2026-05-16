@@ -80,3 +80,4 @@
 
 * 2026-05-15 fredag
 - [14:19] *Dx Pro Designer* (1h 12m): Paci mounting
+- [14:46] *Refrigeration - Development* (26m): Pipe lenght bug
