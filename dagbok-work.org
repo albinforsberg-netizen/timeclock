@@ -92,3 +92,4 @@
 - [10:10] *Refrigeration - Development* (2h 00m): Printout sectioning
 - [10:44] *Dx Pro Designer* (34m): Save on enter fix
 - [16:34] *Dx Pro Designer* (1h 06m): Mounting to principal
+- [16:53] *Dx Pro Designer* (2m): Mounting to principal
