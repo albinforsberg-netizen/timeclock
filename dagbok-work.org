@@ -87,3 +87,6 @@
 - [17:06] *Dx Pro Designer* (4h 16m): Toolkit
 - [17:43] *Dx Pro Designer* (37m): Paci mounting
 - [21:49] *Dx Pro Designer* (17m): Paci mounting
+
+* 2026-05-19 tisdag
+- [10:10] *Refrigeration - Development* (2h 00m): Printout sectioning
