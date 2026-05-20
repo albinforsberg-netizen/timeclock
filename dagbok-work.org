@@ -96,3 +96,4 @@
 
 * 2026-05-20 onsdag
 - [09:51] *Dx Pro Designer* (1h 39m): Mounting to principal
+- [11:11] *Refrigeration - Development* (1h 20m): refpro fixes
