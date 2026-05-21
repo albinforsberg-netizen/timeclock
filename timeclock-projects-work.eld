@@ -1,5 +1,4 @@
-(
- ("refpro"
+(("refpro"
   :export-code "Refrigeration - Development"
   :rounding 0.5
   :round-up nil
@@ -23,5 +22,4 @@
   :export-code "Residential - Development"
   :rounding 0.5
   :round-up nil
-  :active t)
- )
+  :active t))
