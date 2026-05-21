@@ -105,3 +105,4 @@
 * 2026-05-21 torsdag
 - [08:56] *Dx Pro Designer* (1h 11m): Scalings
 - [09:02] *Dx Pro Designer* (5m): Scalings
+- [09:08] *Dx Pro Designer* (6m): test
