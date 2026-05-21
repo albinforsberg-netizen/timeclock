@@ -101,3 +101,7 @@
 - [13:05] *residential* (0m): Ventpro fix
 - [16:35] *Refrigeration - Development* (3h 30m): Printout sectioning
 - [17:44] *Dx Pro Designer* (1h 09m): Scalings
+
+* 2026-05-21 torsdag
+- [08:56] *Dx Pro Designer* (1h 11m): Scalings
+- [09:02] *Dx Pro Designer* (5m): Scalings
