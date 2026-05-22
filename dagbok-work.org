@@ -108,3 +108,6 @@
 - [09:08] *Dx Pro Designer* (6m): test
 - [11:55] *Residential - Development* (27m): Mounting to principal
 - [16:29] *Dx Pro Designer* (3h 28m): Mounting to pricipal
+
+* 2026-05-22 fredag
+- [13:23] *Dx Pro Designer* (1h 09m): Mounting to principal
