@@ -119,3 +119,6 @@
 * 2026-05-25 måndag
 - [15:19] *Dx Pro Designer* (2h 27m): Mounting to principal
 - [16:31] *Dx Pro Designer* (1h 12m): Paci mounting
+
+* 2026-05-26 tisdag
+- [09:40] *Dx Pro Designer* (1h 56m): Mounting to principal
