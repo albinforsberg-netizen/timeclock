@@ -128,3 +128,4 @@
 
 * 2026-05-27 onsdag
 - [08:52] *Refrigeration - Development* (42m): Markdown
+- [10:30] *Dx Pro Designer* (1h 38m): Mounting to principal
