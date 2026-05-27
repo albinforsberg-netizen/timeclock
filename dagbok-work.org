@@ -125,3 +125,6 @@
 - [09:59] *Refrigeration - Development* (18m): Markdown
 - [10:10] *Divid - Internt* (11m): Tre månaders möte med Zlatan
 - [16:31] *Refrigeration - Development* (3h 29m): Markdown
+
+* 2026-05-27 onsdag
+- [08:52] *Refrigeration - Development* (42m): Markdown
