@@ -135,3 +135,4 @@
 
 * 2026-05-29 fredag
 - [07:43] *Dx Pro Designer* (18h 14m): Mounting to principal
+- [08:21] *Refrigeration - Development* (36m): Paci mounting
