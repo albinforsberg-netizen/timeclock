@@ -137,3 +137,6 @@
 - [07:43] *Dx Pro Designer* (18h 14m): Mounting to principal
 - [08:21] *Refrigeration - Development* (36m): Paci mounting
 - [16:33] *Refrigeration - Development* (3h 42m): Assesories warnings printout
+
+* 2026-06-01 måndag
+- [15:39] *Refrigeration - Development* (2h 39m): Accessories
