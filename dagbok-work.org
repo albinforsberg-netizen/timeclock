@@ -146,3 +146,4 @@
 - [08:25] *Dx Pro Designer* (24m): Mounting to principal
 - [10:45] *Refrigeration - Development* (2h 19m): Accessories
 - [14:18] *Dx Pro Designer* (1h 23m): Mounting to principal
+- [17:51] *Refrigeration - Development* (3h 32m): LCU Condencer capacity fix
