@@ -7,33 +7,33 @@ Auto-generated from =timelog-work=.
 
 ** Work
 
-- *Total tracked:* 516.31 h
-- *Sessions:* 208
-- *Active days:* 64
-- *Average / active day:* 8.07 h
-- *Average session:* 2.48 h
+- *Total tracked:* 571.50 h
+- *Sessions:* 236
+- *Active days:* 71
+- *Average / active day:* 8.05 h
+- *Average session:* 2.42 h
 
 *** Insights
-- *Last 7 days:* 41.82 h (5.97 h/day, balance: +1.82 h vs 40.00 h expected)
-- *Last 30 days:* 159.45 h (5.31 h/day, balance: -16.55 h vs 176.00 h expected)
+- *Last 7 days:* 38.93 h (5.56 h/day, balance: -1.07 h vs 40.00 h expected)
+- *Last 30 days:* 166.55 h (5.55 h/day, balance: -9.45 h vs 176.00 h expected)
 - *Best day:* 2026-05-27 (9.59 h)
-- *Most active weekday:* Wednesday (116.53 h total)
+- *Most active weekday:* Wednesday (124.51 h total)
 - *Longest session:* 4.91 h on 2026-04-13 (Dx Pro Designer)
-- *Current working-day streak:* 3 days
+- *Current working-day streak:* 5 days
 
 **** Average hours per weekday
-  - Monday: 8.23 h/day (13 days)
-  - Tuesday: 7.94 h/day (14 days)
-  - Wednesday: 8.32 h/day (14 days)
-  - Thursday: 8.04 h/day (12 days)
-  - Friday: 7.73 h/day (11 days)
+  - Monday: 8.18 h/day (14 days)
+  - Tuesday: 8.01 h/day (15 days)
+  - Wednesday: 8.30 h/day (15 days)
+  - Thursday: 7.95 h/day (14 days)
+  - Friday: 7.77 h/day (13 days)
 
 *** Top projects (hours)
 #+begin_src mermaid
 pie showData
-    "Dx Pro Designer" : 332.26
-    "Divid - Internt" : 125.43
-    "Refrigeration - Development" : 56.59
+    "Dx Pro Designer" : 361.80
+    "Divid - Internt" : 127.44
+    "Refrigeration - Development" : 80.22
     "Divid - Utbildning" : 1.47
     "Residential - Development" : 0.57
 #+end_src
@@ -41,9 +41,9 @@ pie showData
 *** All projects breakdown
 | Project                     |   Hours | Sessions | Days | Avg h/s | % total |
 |-----------------------------+---------+----------+------+---------+---------|
-| Dx Pro Designer             |  332.26 |      137 |   46 |    2.43 |   64.4% |
-| Divid - Internt             |  125.43 |       35 |   20 |    3.58 |   24.3% |
-| Refrigeration - Development |   56.59 |       33 |   15 |    1.71 |   11.0% |
+| Dx Pro Designer             |  361.80 |      153 |   53 |    2.36 |   63.3% |
+| Divid - Internt             |  127.44 |       37 |   22 |    3.44 |   22.3% |
+| Refrigeration - Development |   80.22 |       43 |   20 |    1.87 |   14.0% |
 | Divid - Utbildning          |    1.47 |        1 |    1 |    1.47 |    0.3% |
 | Residential - Development   |    0.57 |        2 |    1 |    0.29 |    0.1% |
 
@@ -52,37 +52,37 @@ pie showData
 |------+------------+-----------+-------+-----------------------------|
 |    1 | 2026-05-27 | Wednesday |  9.59 | Dx Pro Designer             |
 |    2 | 2026-05-20 | Wednesday |  9.09 | Refrigeration - Development |
-|    3 | 2026-05-18 |    Monday |  8.93 | Dx Pro Designer             |
-|    4 | 2026-04-20 |    Monday |  8.83 | Dx Pro Designer             |
-|    5 | 2026-03-03 |   Tuesday |  8.75 | Divid - Internt             |
-|    6 | 2026-04-22 | Wednesday |  8.54 | Dx Pro Designer             |
-|    7 | 2026-03-10 |   Tuesday |  8.50 | Divid - Internt             |
-|    8 | 2026-03-18 | Wednesday |  8.50 | Dx Pro Designer             |
-|    9 | 2026-05-22 |    Friday |  8.48 | Dx Pro Designer             |
-|   10 | 2026-04-13 |    Monday |  8.44 | Dx Pro Designer             |
+|    3 | 2026-06-02 |   Tuesday |  8.93 | Refrigeration - Development |
+|    4 | 2026-05-18 |    Monday |  8.93 | Dx Pro Designer             |
+|    5 | 2026-04-20 |    Monday |  8.83 | Dx Pro Designer             |
+|    6 | 2026-03-03 |   Tuesday |  8.75 | Divid - Internt             |
+|    7 | 2026-04-22 | Wednesday |  8.54 | Dx Pro Designer             |
+|    8 | 2026-03-10 |   Tuesday |  8.50 | Divid - Internt             |
+|    9 | 2026-03-18 | Wednesday |  8.50 | Dx Pro Designer             |
+|   10 | 2026-05-22 |    Friday |  8.48 | Dx Pro Designer             |
 
 *** Session length distribution
 | Range     | Sessions | % of total | Total hours |
 |-----------+----------+------------+-------------|
-| < 0.5 h   |       20 |       9.6% |        6.05 |
-| 0.5 – 1 h |       23 |      11.1% |       16.55 |
-| 1 – 2 h   |       52 |      25.0% |       74.73 |
-| 2 – 4 h   |       62 |      29.8% |      197.57 |
-| 4 + h     |       51 |      24.5% |      221.42 |
+| < 0.5 h   |       22 |       9.3% |        6.80 |
+| 0.5 – 1 h |       27 |      11.4% |       19.59 |
+| 1 – 2 h   |       63 |      26.7% |       88.80 |
+| 2 – 4 h   |       71 |      30.1% |      226.06 |
+| 4 + h     |       53 |      22.5% |      230.25 |
 
 *** Session start-hour distribution
 | Hour  | Sessions | Total hours | Avg h/session |
 |-------+----------+-------------+---------------|
-| 07:00 – 08:00 |       56 |      205.31 |          3.67 |
-| 08:00 – 09:00 |       12 |       33.27 |          2.77 |
-| 09:00 – 10:00 |        9 |       15.55 |          1.73 |
-| 10:00 – 11:00 |       17 |       18.42 |          1.08 |
-| 11:00 – 12:00 |       11 |        9.76 |          0.89 |
-| 12:00 – 13:00 |       30 |       72.91 |          2.43 |
-| 13:00 – 14:00 |       43 |      132.44 |          3.08 |
-| 14:00 – 15:00 |        8 |       10.08 |          1.26 |
-| 15:00 – 16:00 |       13 |       13.75 |          1.06 |
-| 16:00 – 17:00 |        6 |        2.92 |          0.49 |
+| 07:00 – 08:00 |       61 |      218.11 |          3.58 |
+| 08:00 – 09:00 |       16 |       40.67 |          2.54 |
+| 09:00 – 10:00 |       11 |       17.82 |          1.62 |
+| 10:00 – 11:00 |       20 |       22.52 |          1.13 |
+| 11:00 – 12:00 |       12 |       10.72 |          0.89 |
+| 12:00 – 13:00 |       33 |       80.74 |          2.45 |
+| 13:00 – 14:00 |       47 |      144.15 |          3.07 |
+| 14:00 – 15:00 |       10 |       14.79 |          1.48 |
+| 15:00 – 16:00 |       15 |       15.80 |          1.05 |
+| 16:00 – 17:00 |        8 |        4.25 |          0.53 |
 | 17:00 – 18:00 |        1 |        0.62 |          0.62 |
 | 21:00 – 22:00 |        2 |        1.30 |          0.65 |
 
@@ -90,46 +90,46 @@ pie showData
 #+begin_src mermaid
 xychart-beta
     title "Tracked hours"
-    x-axis ["05-14", "05-15", "05-16", "05-17", "05-18", "05-19", "05-20", "05-21", "05-22", "05-23", "05-24", "05-25", "05-26", "05-27"]
+    x-axis ["05-23", "05-24", "05-25", "05-26", "05-27", "05-28", "05-29", "05-30", "05-31", "06-01", "06-02", "06-03", "06-04", "06-05"]
     y-axis "Hours" 0 --> 12
-    bar [0.00, 5.38, 0.00, 0.00, 8.93, 6.27, 9.09, 7.83, 8.48, 0.00, 0.00, 8.05, 7.86, 9.59]
+    bar [0.00, 0.00, 8.05, 7.86, 9.59, 8.27, 7.98, 0.00, 0.00, 7.48, 8.93, 7.98, 6.51, 8.02]
 #+end_src
 
 *** Weekly breakdown (last 12 weeks)
-- *This week (2026-W22):* 25.51 h (balance: +1.51 h vs 24.00 h expected)
-- *Previous week (2026-W21):* 40.60 h (balance: +0.60 h vs 40.00 h expected)
-- *Week-over-week change:* -15.10 h
+- *This week (2026-W23):* 38.93 h (balance: -1.07 h vs 40.00 h expected)
+- *Previous week (2026-W22):* 41.76 h (balance: +1.76 h vs 40.00 h expected)
+- *Week-over-week change:* -2.83 h
 
 #+begin_src mermaid
 xychart-beta
     title "Weekly hours"
-    x-axis ["03/09", "03/16", "03/23", "03/30", "04/06", "04/13", "04/20", "04/27", "05/04", "05/11", "05/18", "05/25"]
-    y-axis "Hours" 0 --> 50
-    bar [40.50, 40.75, 40.25, 32.44, 31.85, 41.08, 40.72, 31.88, 40.10, 29.40, 40.60, 25.51]
+    x-axis ["03/16", "03/23", "03/30", "04/06", "04/13", "04/20", "04/27", "05/04", "05/11", "05/18", "05/25", "06/01"]
+    y-axis "Hours" 0 --> 51
+    bar [40.75, 40.25, 32.44, 31.85, 41.08, 40.72, 31.88, 40.10, 29.40, 40.60, 41.76, 38.93]
 #+end_src
 
 *** Monthly breakdown (last 12 months)
-- *This month (2026-05):* 135.61 h (17 active days, avg 7.98 h/day, balance: -16.39 h vs 152.00 h expected)
-- *Previous month (2026-04):* 161.48 h (balance: -14.52 h vs 176.00 h expected)
-- *Month-over-month change:* -25.87 h
+- *This month (2026-06):* 38.93 h (5 active days, avg 7.79 h/day, balance: -1.07 h vs 40.00 h expected)
+- *Previous month (2026-05):* 151.86 h (balance: -16.14 h vs 168.00 h expected)
+- *Month-over-month change:* -112.94 h
 
 #+begin_src mermaid
 xychart-beta
     title "Monthly hours"
-    x-axis ["2025-06", "2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05"]
+    x-axis ["2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06"]
     y-axis "Hours" 0 --> 216
-    bar [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 40.00, 179.23, 161.48, 135.61]
+    bar [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 40.00, 179.23, 161.48, 151.86, 38.93]
 #+end_src
 
 *** Cumulative hours over time
 #+begin_src mermaid
 xychart-beta
     title "Cumulative tracked hours"
-    x-axis ["02/23", "03/02", "03/09", "03/16", "03/23", "03/30", "04/06", "04/13", "04/20", "04/27", "05/04", "05/11", "05/18", "05/25"]
-    y-axis "Hours" 0 --> 543
-    line [40.00, 81.25, 121.75, 162.50, 202.75, 235.19, 267.03, 308.11, 348.83, 380.71, 420.81, 450.20, 490.81, 516.31]
+    x-axis ["02/23", "03/02", "03/09", "03/16", "03/23", "03/30", "04/06", "04/13", "04/20", "04/27", "05/04", "05/11", "05/18", "05/25", "06/01"]
+    y-axis "Hours" 0 --> 601
+    line [40.00, 81.25, 121.75, 162.50, 202.75, 235.19, 267.03, 308.11, 348.83, 380.71, 420.81, 450.20, 490.81, 532.57, 571.50]
 #+end_src
 
-/Generated: 2026-06-07 08:30 UTC/
+/Generated: 2026-06-08 09:50 UTC/
 
 # STATS:END
