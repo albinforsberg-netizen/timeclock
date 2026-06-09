@@ -166,3 +166,6 @@
 * 2026-06-08 måndag
 - [14:46] *Dx Pro Designer* (1h 54m): Mounting to principal
 - [17:02] *Refrigeration - Development* (2h 16m): Accessories
+
+* 2026-06-09 tisdag
+- [11:28] *Refrigeration - Development* (3h 45m): Accessories
