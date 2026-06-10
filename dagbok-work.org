@@ -171,3 +171,6 @@
 - [11:28] *Refrigeration - Development* (3h 45m): Accessories
 - [16:58] *Dx Pro Designer* (4h 00m): Icon scales
 - [16:59] *Dx Pro Designer* (0m): Mounting to principal
+
+* 2026-06-10 onsdag
+- [14:27] *Dx Pro Designer* (1h 31m): EN387 fix
