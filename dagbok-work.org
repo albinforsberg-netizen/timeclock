@@ -177,3 +177,6 @@
 - [15:56] *Dx Pro Designer* (1h 29m): EN387 fix
 - [15:57] *Refrigeration - Development* (0m): Refpro weekly
 - [17:18] *Dx Pro Designer* (1h 21m): EN387 fix
+
+* 2026-06-11 torsdag
+- [16:30] *Dx Pro Designer* (2h 47m): EN387 fix
