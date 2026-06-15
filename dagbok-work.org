@@ -183,3 +183,6 @@
 
 * 2026-06-12 fredag
 - [17:01] *Dx Pro Designer* (2h 31m): EN387 fix
+
+* 2026-06-15 måndag
+- [15:12] *Refrigeration - Development* (2h 19m): Accessories
