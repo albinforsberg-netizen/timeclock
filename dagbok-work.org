@@ -187,3 +187,6 @@
 * 2026-06-15 måndag
 - [15:12] *Refrigeration - Development* (2h 19m): Accessories
 - [17:17] *Dx Pro Designer* (2h 05m): Room name UI
+
+* 2026-06-16 tisdag
+- [10:28] *Refrigeration - Development* (2h 52m): Accessories
