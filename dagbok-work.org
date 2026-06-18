@@ -198,3 +198,6 @@
 - [10:53] *Refrigeration - Development* (24m): Refpro weekly
 - [15:02] *Dx Pro Designer* (2h 01m): Mounting to principal
 - [17:03] *Refrigeration - Development* (2h 00m): svk
+
+* 2026-06-18 torsdag
+- [10:15] *Refrigeration - Development* (2h 45m): svk
