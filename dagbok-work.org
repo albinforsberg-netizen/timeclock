@@ -203,3 +203,6 @@
 - [10:15] *Refrigeration - Development* (2h 45m): svk
 - [14:03] *Dx Pro Designer* (56m): Room name ui
 - [15:56] *Refrigeration - Development* (1h 53m): Accessories + fixes
+
+* 2026-07-13 måndag
+- [17:25] *Refrigeration - Development* (3h 34m): Small fixes + OCU_CR400VF8A fixes
