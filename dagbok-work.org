@@ -211,3 +211,6 @@
 - [11:03] *Refrigeration - Development* (1h 47m): OCU_CR400VF8A fixes
 - [11:55] *Refrigeration - Development* (51m): Small fixes
 - [16:57] *Refrigeration - Development* (10m): Accessories
+
+* 2026-07-15 onsdag
+- [08:59] *Refrigeration - Development* (1h 10m): accessories
