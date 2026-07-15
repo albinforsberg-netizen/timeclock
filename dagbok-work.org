@@ -217,3 +217,4 @@
 - [10:12] *Dx Pro Designer* (1h 12m): DXpro weekly + mounting to principal merge
 - [11:48] *Refrigeration - Development* (1h 36m): Refpro weekly
 - [13:51] *Refrigeration - Development* (46m): Disclaimer
+- [14:36] *Refrigeration - Development* (44m): Small fixes
