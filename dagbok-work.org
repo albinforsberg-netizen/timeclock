@@ -215,3 +215,4 @@
 * 2026-07-15 onsdag
 - [08:59] *Refrigeration - Development* (1h 10m): accessories
 - [10:12] *Dx Pro Designer* (1h 12m): DXpro weekly + mounting to principal merge
+- [11:48] *Refrigeration - Development* (1h 36m): Refpro weekly
