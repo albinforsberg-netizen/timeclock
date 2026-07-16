@@ -222,3 +222,6 @@
 
 * 2026-07-16 torsdag
 - [11:49] *Dx Pro Designer* (3h 23m): System investigation
+
+* 2026-07-17 fredag
+- [00:28] *Refrigeration - Development* (1h 44m): Accessories
