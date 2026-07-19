@@ -230,3 +230,4 @@
 
 * 2026-07-19 Sunday
 - [00:09] *Refrigeration - Development* (1h 18m): Fixes and validation for release
+- [23:48] *Refrigeration - Development* (0m): Refpro release
