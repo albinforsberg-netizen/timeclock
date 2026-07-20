@@ -237,3 +237,4 @@
 - [13:06] *Refrigeration - Development* (3m): Statistics
 - [14:35] *Refrigeration - Development* (1h 29m): Statistics
 - [15:13] *Refrigeration - Development* (37m): Statistics
+- [16:03] *Dx Pro Designer* (50m): Equipmentlist issue dxpro
