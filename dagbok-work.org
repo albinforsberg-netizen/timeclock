@@ -247,3 +247,4 @@
 * 2026-07-21 tisdag
 - [13:23] *Dx Pro Designer* (6m): Vertical wire/pipe lenght validation
 - [14:12] *Dx Pro Designer* (49m): Missing limit param
+- [17:16] *Dx Pro Designer* (3h 03m): Wiring lenght
