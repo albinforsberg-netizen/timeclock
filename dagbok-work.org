@@ -239,3 +239,6 @@
 - [15:13] *Refrigeration - Development* (37m): Statistics
 - [16:03] *Dx Pro Designer* (50m): Equipmentlist issue dxpro
 - [16:46] *Refrigeration - Development* (43m): Statistics
+
+* 2026-07-21 Tuesday
+- [10:40] *Refrigeration - Development* (1h 31m): Accessories
