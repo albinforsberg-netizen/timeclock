@@ -243,3 +243,6 @@
 * 2026-07-21 Tuesday
 - [10:40] *Refrigeration - Development* (1h 31m): Accessories
 - [11:38] *Dx Pro Designer* (57m): Room name calculation table
+
+* 2026-07-21 tisdag
+- [13:23] *Dx Pro Designer* (6m): Vertical wire/pipe lenght validation
