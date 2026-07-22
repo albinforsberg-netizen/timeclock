@@ -248,3 +248,7 @@
 - [13:23] *Dx Pro Designer* (6m): Vertical wire/pipe lenght validation
 - [14:12] *Dx Pro Designer* (49m): Missing limit param
 - [17:16] *Dx Pro Designer* (3h 03m): Wiring lenght
+
+* 2026-07-22 onsdag
+- [10:29] *Dx Pro Designer* (11m): Mounting to principal fixes
+- [10:42] *Refrigeration - Development* (13m): Refpro weekly
