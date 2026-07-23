@@ -257,3 +257,4 @@
 
 * 2026-07-23 torsdag
 - [10:58] *Dx Pro Designer* (1h 48m): Mounting to principal fixes
+- [12:07] *Dx Pro Designer* (1h 08m): Excel export fix
