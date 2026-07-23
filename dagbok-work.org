@@ -254,3 +254,6 @@
 - [10:42] *Refrigeration - Development* (13m): Refpro weekly
 - [14:23] *Dx Pro Designer* (42m): Mouting copy fixes
 - [17:31] *Dx Pro Designer* (3h 08m): Mounting to principal fixes
+
+* 2026-07-23 torsdag
+- [10:58] *Dx Pro Designer* (1h 48m): Mounting to principal fixes
