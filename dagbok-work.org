@@ -260,3 +260,4 @@
 - [12:07] *Dx Pro Designer* (1h 08m): Excel export fix
 - [15:04] *Dx Pro Designer* (1h 05m): Wire lenght
 - [16:26] *Refrigeration - Development* (1h 22m): Partial load fix
+- [17:11] *Dx Pro Designer* (44m): Wire lenght
