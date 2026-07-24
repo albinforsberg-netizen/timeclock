@@ -34,4 +34,9 @@
   :rounding 0.5
   :round-up nil
   :active t)
+ ("acselect"
+  :export-code "AC select"
+  :rounding 0.5
+  :round-up nil
+  :active t)
  )
