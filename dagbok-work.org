@@ -264,3 +264,4 @@
 
 * 2026-07-24 fredag
 - [10:05] *Dx Pro Designer* (1h 38m): Estimations
+- [14:11] *Dx Pro Designer* (56m): Wire lenghts
