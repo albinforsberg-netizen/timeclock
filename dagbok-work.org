@@ -261,3 +261,6 @@
 - [15:04] *Dx Pro Designer* (1h 05m): Wire lenght
 - [16:26] *Refrigeration - Development* (1h 22m): Partial load fix
 - [17:11] *Dx Pro Designer* (44m): Wire lenght
+
+* 2026-07-24 fredag
+- [10:05] *Dx Pro Designer* (1h 38m): Estimations
