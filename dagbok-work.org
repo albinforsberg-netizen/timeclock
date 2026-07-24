@@ -268,3 +268,4 @@
 - [15:12] *AC select* (1h 00m): Salesforce btn fix
 - [15:25] *Dx Pro Designer* (12m): test
 - [15:25] *AC select* (0m): test
+- [16:06] *Dx Pro Designer* (53m): Wire lengths
