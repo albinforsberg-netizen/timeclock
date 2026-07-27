@@ -269,3 +269,6 @@
 - [15:25] *Dx Pro Designer* (12m): test
 - [15:25] *AC select* (0m): test
 - [16:06] *Dx Pro Designer* (53m): Wire lengths
+
+* 2026-07-27 måndag
+- [10:41] *Dx Pro Designer* (2h 10m): test
