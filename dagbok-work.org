@@ -275,3 +275,4 @@
 - [11:59] *Dx Pro Designer* (7m): Wire lenghts
 - [15:51] *Dx Pro Designer* (2h 47m): MtP improvements
 - [16:15] *Dx Pro Designer* (23m): Prod release
+- [17:17] *Dx Pro Designer* (1h 02m): MtP improvements
