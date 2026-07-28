@@ -276,3 +276,6 @@
 - [15:51] *Dx Pro Designer* (2h 47m): MtP improvements
 - [16:15] *Dx Pro Designer* (23m): Prod release
 - [17:17] *Dx Pro Designer* (1h 02m): MtP improvements
+
+* 2026-07-28 tisdag
+- [10:28] *Dx Pro Designer* (2h 00m): Wire lengths
