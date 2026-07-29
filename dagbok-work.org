@@ -286,3 +286,4 @@
 - [09:43] *Dx Pro Designer* (1h 17m): iu restrictions
 - [10:30] *Dx Pro Designer* (47m): Dxpro weekly
 - [13:48] *Dx Pro Designer* (47m): MtP fixes
+- [16:26] *Dx Pro Designer* (2h 38m): Wire lengths
