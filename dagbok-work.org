@@ -281,3 +281,6 @@
 - [10:28] *Dx Pro Designer* (2h 00m): Wire lengths
 - [16:32] *Dx Pro Designer* (1m): iu restrictions
 - [16:54] *Dx Pro Designer* (21m): ui restrictions
+
+* 2026-07-29 onsdag
+- [09:43] *Dx Pro Designer* (1h 17m): iu restrictions
