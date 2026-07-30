@@ -293,3 +293,4 @@
 * 2026-07-30 torsdag
 - [09:37] *Dx Pro Designer* (2h 17m): iu restrictions
 - [16:48] *Dx Pro Designer* (3h 53m): MtP fixes
+- [21:56] *Dx Pro Designer* (1h 35m): MtP fixes
