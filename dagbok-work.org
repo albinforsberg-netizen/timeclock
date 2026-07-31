@@ -299,3 +299,5 @@
 - [08:58] *Dx Pro Designer* (1h 23m): mtp fixes
 - [10:47] *Refrigeration - Development* (1h 49m): EEV manual selection fix + deploy
 - [11:33] *Dx Pro Designer* (45m): Wire lenghts
+- [14:05] *Dx Pro Designer* (1h 23m): iu restrictions
+- [14:05] *Refrigeration - Development* (0m): EEV manual selection fix
