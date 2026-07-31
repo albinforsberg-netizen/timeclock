@@ -301,3 +301,6 @@
 - [11:33] *Dx Pro Designer* (45m): Wire lenghts
 - [14:05] *Dx Pro Designer* (1h 23m): iu restrictions
 - [14:05] *Refrigeration - Development* (0m): EEV manual selection fix
+
+* 2026-07-31 Friday
+- [16:03] *Dx Pro Designer* (1h 57m): iu restrictions
