@@ -297,3 +297,4 @@
 
 * 2026-07-31 fredag
 - [08:58] *Dx Pro Designer* (1h 23m): mtp fixes
+- [10:47] *Refrigeration - Development* (1h 49m): EEV manual selection fix + deploy
