@@ -310,3 +310,4 @@
 - [13:13] *Dx Pro Designer* (38m): System issue debug
 - [14:10] *Dx Pro Designer* (57m): iu restrictions
 - [14:58] *Dx Pro Designer* (47m): iu restrictions
+- [15:16] *Refrigeration - Development* (18m): Accessories descriptions
