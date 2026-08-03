@@ -308,3 +308,4 @@
 * 2026-08-03 måndag
 - [12:34] *Dx Pro Designer* (0m): iu restrictions
 - [13:13] *Dx Pro Designer* (38m): System issue debug
+- [14:10] *Dx Pro Designer* (57m): iu restrictions
