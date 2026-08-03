@@ -304,3 +304,6 @@
 
 * 2026-07-31 Friday
 - [16:03] *Dx Pro Designer* (1h 57m): iu restrictions
+
+* 2026-08-03 måndag
+- [12:34] *Dx Pro Designer* (0m): iu restrictions
