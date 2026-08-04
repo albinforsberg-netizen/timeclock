@@ -317,3 +317,4 @@
 * 2026-08-04 tisdag
 - [09:57] *Dx Pro Designer* (1h 26m): Printout section estimate
 - [10:30] *Dx Pro Designer* (33m): iu restrictions
+- [13:16] *Dx Pro Designer* (17m): iec room height fix
