@@ -313,3 +313,6 @@
 - [15:16] *Refrigeration - Development* (18m): Accessories descriptions
 - [16:37] *Dx Pro Designer* (1h 21m): iu restrictions
 - [16:59] *Dx Pro Designer* (21m): iu restrictions
+
+* 2026-08-04 tisdag
+- [09:57] *Dx Pro Designer* (1h 26m): Printout section estimate
