@@ -319,3 +319,6 @@
 - [10:30] *Dx Pro Designer* (33m): iu restrictions
 - [13:16] *Dx Pro Designer* (17m): iec room height fix
 - [16:58] *Dx Pro Designer* (3h 42m): iu restrictions
+
+* 2026-08-05 onsdag
+- [09:42] *Dx Pro Designer* (43m): Dxpro weekly
