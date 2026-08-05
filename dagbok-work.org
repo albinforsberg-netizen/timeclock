@@ -326,3 +326,4 @@
 - [10:55] *Refrigeration - Development* (24m): refpro weekly
 - [11:39] *Refrigeration - Development* (44m): min/max capacity in wizard
 - [14:46] *Refrigeration - Development* (1h 51m): EEV selection fixes
+- [16:49] *Refrigeration - Development* (18m): Statistics
