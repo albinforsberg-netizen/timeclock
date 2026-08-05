@@ -324,3 +324,4 @@
 - [09:42] *Dx Pro Designer* (43m): Dxpro weekly
 - [10:30] *Dx Pro Designer* (47m): TODO
 - [10:55] *Refrigeration - Development* (24m): refpro weekly
+- [11:39] *Refrigeration - Development* (44m): min/max capacity in wizard
