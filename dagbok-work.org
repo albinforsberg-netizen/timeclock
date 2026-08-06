@@ -327,3 +327,6 @@
 - [11:39] *Refrigeration - Development* (44m): min/max capacity in wizard
 - [14:46] *Refrigeration - Development* (1h 51m): EEV selection fixes
 - [16:49] *Refrigeration - Development* (18m): Statistics
+
+* 2026-08-06 torsdag
+- [10:34] *Refrigeration - Development* (1h 07m): Project/system statistics
