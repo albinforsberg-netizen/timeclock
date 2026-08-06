@@ -332,3 +332,4 @@
 - [10:34] *Refrigeration - Development* (1h 07m): Project/system statistics
 - [13:19] *Refrigeration - Development* (20m): Statistics
 - [13:26] *Dx Pro Designer* (6m): Toolkit translation fix
+- [16:48] *Dx Pro Designer* (3h 22m): Printout sections
