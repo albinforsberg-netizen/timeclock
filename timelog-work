@@ -730,12 +730,12 @@ i 2026/08/04 12:59:03 Dx Pro Designer
 o 2026/08/04 13:16:32 iec room height fix
 i 2026/08/04 13:16:32 Dx Pro Designer
 o 2026/08/04 16:58:54 iu restrictions
-i 2026/08/05 08:15:34 Dx Pro Designer
-o 2026/08/05 08:59:26 TODO
+i 2026/08/05 08:15:34 Refrigeration - Development
+o 2026/08/05 08:59:26 min/max capacity in  wizard
 i 2026/08/05 08:59:26 Dx Pro Designer
 o 2026/08/05 09:32:44 Dxpro weekly
-i 2026/08/05 09:32:45 Dx Pro Designer
-o 2026/08/05 10:30:37 TODO
+i 2026/08/05 09:32:45 Refrigeration - Development
+o 2026/08/05 10:30:37 EEV selection fixes
 i 2026/08/05 10:30:37 Refrigeration - Development
 o 2026/08/05 10:55:12 refpro weekly
 i 2026/08/05 10:55:12 Refrigeration - Development
@@ -759,3 +759,4 @@ o 2026/08/06 17:02:12 Printout sections
 i 2026/08/07 07:20:55 Dx Pro Designer
 o 2026/08/07 12:02:18 Printout sections
 i 2026/08/07 12:45:26 Dx Pro Designer
+o 2026/08/07 16:14:48 Printout sections
