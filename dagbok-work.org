@@ -357,3 +357,5 @@
 - [10:58] *Refrigeration - Development* (28m): refpro weekly
 - [11:51] *Refrigeration - Development* (50m): EEV grid labeling
 - [15:57] *Refrigeration - Development* (2h 28m): Statistics
+- [16:11] *Refrigeration - Development* (14m): test
+- [16:29] *Refrigeration - Development* (6m): Statistics
