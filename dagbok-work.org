@@ -354,3 +354,4 @@
 - [09:29] *Dx Pro Designer* (1h 32m): Refpro weekly
 - [10:08] *Dx Pro Designer* (38m): Section copy fix
 - [10:30] *Dx Pro Designer* (22m): Visibiliy toggling
+- [10:58] *Refrigeration - Development* (28m): refpro weekly
