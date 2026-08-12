@@ -349,3 +349,6 @@
 - [10:12] *Divid - Internt* (0m): Uppföljningsmöte med Zlatan 5 mån
 - [15:57] *Dx Pro Designer* (2h 48m): Visibility toggling
 - [21:18] *Dx Pro Designer* (38m): Printout investigation
+
+* 2026-08-12 onsdag
+- [09:29] *Dx Pro Designer* (1h 32m): Refpro weekly
