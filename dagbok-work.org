@@ -356,3 +356,4 @@
 - [10:30] *Dx Pro Designer* (22m): Visibiliy toggling
 - [10:58] *Refrigeration - Development* (28m): refpro weekly
 - [11:51] *Refrigeration - Development* (50m): EEV grid labeling
+- [15:57] *Refrigeration - Development* (2h 28m): Statistics
