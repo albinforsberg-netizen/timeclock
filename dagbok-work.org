@@ -352,3 +352,5 @@
 
 * 2026-08-12 onsdag
 - [09:29] *Dx Pro Designer* (1h 32m): Refpro weekly
+- [10:08] *Dx Pro Designer* (38m): Section copy fix
+- [10:30] *Dx Pro Designer* (22m): Visibiliy toggling
