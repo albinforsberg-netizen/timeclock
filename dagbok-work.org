@@ -368,3 +368,4 @@
 
 * 2026-08-14 fredag
 - [10:46] *Dx Pro Designer* (2h 55m): Visibility toggle
+- [14:19] *Refrigeration - Development* (1h 10m): Visibility toggle
