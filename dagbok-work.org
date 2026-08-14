@@ -365,3 +365,6 @@
 - [13:32] *Refrigeration - Development* (30m): Statistics
 - [16:17] *Dx Pro Designer* (2h 44m): Visibility toggle
 - [23:13] *Dx Pro Designer* (1h 12m): HR box investigation
+
+* 2026-08-14 fredag
+- [10:46] *Dx Pro Designer* (2h 55m): Visibility toggle
