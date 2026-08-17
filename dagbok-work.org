@@ -373,3 +373,4 @@
 
 * 2026-08-17 måndag
 - [09:16] *Dx Pro Designer* (1h 18m): HR Fix
+- [11:23] *Dx Pro Designer* (2h 06m): Standup + printout discussions
