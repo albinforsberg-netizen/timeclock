@@ -377,3 +377,4 @@
 - [11:53] *Refrigeration - Development* (29m): Refpro release
 - [13:07] *Refrigeration - Development* (9m): Statistics
 - [14:05] *Dx Pro Designer* (57m): Principle printout scale fix
+- [16:53] *Refrigeration - Development* (2h 48m): Statistics
