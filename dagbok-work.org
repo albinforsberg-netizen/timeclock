@@ -376,3 +376,4 @@
 - [11:23] *Dx Pro Designer* (2h 06m): Standup + printout discussions
 - [11:53] *Refrigeration - Development* (29m): Refpro release
 - [13:07] *Refrigeration - Development* (9m): Statistics
+- [14:05] *Dx Pro Designer* (57m): Principle printout scale fix
