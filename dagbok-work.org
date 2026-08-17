@@ -370,3 +370,6 @@
 - [10:46] *Dx Pro Designer* (2h 55m): Visibility toggle
 - [14:19] *Refrigeration - Development* (1h 10m): Visibility toggle
 - [16:14] *Dx Pro Designer* (1h 55m): HR principle fix
+
+* 2026-08-17 måndag
+- [09:16] *Dx Pro Designer* (1h 18m): HR Fix
