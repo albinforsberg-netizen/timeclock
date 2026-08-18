@@ -382,3 +382,4 @@
 * 2026-08-18 tisdag
 - [07:58] *Dx Pro Designer* (28m): Visibiility toggler iu fix
 - [13:26] *Refrigeration - Development* (37m): Statistics
+- [16:12] *Dx Pro Designer* (2h 45m): Unit hover box
