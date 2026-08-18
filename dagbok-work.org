@@ -378,3 +378,6 @@
 - [13:07] *Refrigeration - Development* (9m): Statistics
 - [14:05] *Dx Pro Designer* (57m): Principle printout scale fix
 - [16:53] *Refrigeration - Development* (2h 48m): Statistics
+
+* 2026-08-18 tisdag
+- [07:58] *Dx Pro Designer* (28m): Visibiility toggler iu fix
