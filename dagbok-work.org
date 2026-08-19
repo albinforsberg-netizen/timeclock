@@ -389,3 +389,4 @@
 - [09:37] *Dx Pro Designer* (37m): Dxpro weekly
 - [11:12] *Dx Pro Designer* (1h 34m): Refpro weekly
 - [15:01] *Refrigeration - Development* (1h 05m): Statistics
+- [16:24] *Refrigeration - Development* (1h 23m): Smaller fixes
