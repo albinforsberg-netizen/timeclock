@@ -396,3 +396,4 @@
 - [10:35] *Dx Pro Designer* (2h 07m): Migrate projects from dev to prod
 - [10:56] *Dx Pro Designer* (2m): fix
 - [11:29] *Dx Pro Designer* (33m): Capacity toggle
+- [16:00] *Dx Pro Designer* (2h 52m): Printout fixes
