@@ -391,3 +391,6 @@
 - [15:01] *Refrigeration - Development* (1h 05m): Statistics
 - [16:24] *Refrigeration - Development* (1h 23m): Smaller fixes
 - [16:56] *Refrigeration - Development* (31m): Unit hover box
+
+* 2026-08-20 torsdag
+- [10:35] *Dx Pro Designer* (2h 07m): Migrate projects from dev to prod
