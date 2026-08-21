@@ -397,3 +397,6 @@
 - [10:56] *Dx Pro Designer* (2m): fix
 - [11:29] *Dx Pro Designer* (33m): Capacity toggle
 - [16:00] *Dx Pro Designer* (2h 52m): Printout fixes
+
+* 2026-08-21 fredag
+- [10:41] *Dx Pro Designer* (2h 40m): Statistics fixes
