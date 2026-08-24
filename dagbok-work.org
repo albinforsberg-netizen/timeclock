@@ -412,3 +412,4 @@
 - [16:35] *Dx Pro Designer* (42m): Added statKey for ou placed
 - [17:07] *Dx Pro Designer* (32m): EEV look
 - [18:07] *Dx Pro Designer* (53m): Build fix
+- [21:41] *Refrigeration - Development* (13m): Migrate projects from dev to prod
