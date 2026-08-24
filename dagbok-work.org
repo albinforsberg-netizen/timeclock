@@ -406,3 +406,5 @@
 * 2026-08-24 måndag
 - [10:23] *Refrigeration - Development* (1h 39m): New system calc
 - [11:40] *Refrigeration - Development* (1h 16m): Prio 2 cards look
+- [14:20] *Refrigeration - Development* (1h 22m): Markdown fixes
+- [14:33] *Refrigeration - Development* (13m): Markdown fixes
