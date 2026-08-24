@@ -402,3 +402,6 @@
 - [10:41] *Dx Pro Designer* (2h 40m): Statistics fixes
 - [15:31] *Refrigeration - Development* (2h 35m): Project copy from dev to prod
 - [16:09] *Refrigeration - Development* (37m): Prio 2 cards checkout
+
+* 2026-08-24 måndag
+- [10:23] *Refrigeration - Development* (1h 39m): New system calc
