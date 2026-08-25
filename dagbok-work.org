@@ -413,3 +413,6 @@
 - [17:07] *Dx Pro Designer* (32m): EEV look
 - [18:07] *Dx Pro Designer* (53m): Build fix
 - [21:41] *Refrigeration - Development* (13m): Migrate projects from dev to prod
+
+* 2026-08-25 tisdag
+- [10:19] *Refrigeration - Development* (2h 35m): EEV selection
