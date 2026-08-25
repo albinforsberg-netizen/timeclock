@@ -419,3 +419,4 @@
 - [11:32] *Refrigeration - Development* (1h 13m): Unit editor fixes
 - [11:40] *Refrigeration - Development* (8m): Sound level check
 - [13:43] *Refrigeration - Development* (48m): Unit editor fixes
+- [15:50] *Refrigeration - Development* (2h 06m): PT diagram
