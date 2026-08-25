@@ -418,3 +418,4 @@
 - [10:19] *Refrigeration - Development* (2h 35m): EEV selection
 - [11:32] *Refrigeration - Development* (1h 13m): Unit editor fixes
 - [11:40] *Refrigeration - Development* (8m): Sound level check
+- [13:43] *Refrigeration - Development* (48m): Unit editor fixes
