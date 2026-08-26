@@ -420,3 +420,6 @@
 - [11:40] *Refrigeration - Development* (8m): Sound level check
 - [13:43] *Refrigeration - Development* (48m): Unit editor fixes
 - [15:50] *Refrigeration - Development* (2h 06m): PT diagram
+
+* 2026-08-26 onsdag
+- [09:38] *Dx Pro Designer* (3m): Dxpro weekly
