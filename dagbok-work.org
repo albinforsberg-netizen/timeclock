@@ -427,3 +427,4 @@
 - [11:06] *Refrigeration - Development* (37m): Refpro weekly
 - [12:49] *Dx Pro Designer* (0m): SVK Validation
 - [16:36] *Refrigeration - Development* (3h 46m): Reuidiger problems
+- [17:42] *Dx Pro Designer* (56m): Floor/room delete fix
