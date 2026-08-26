@@ -423,3 +423,4 @@
 
 * 2026-08-26 onsdag
 - [09:38] *Dx Pro Designer* (3m): Dxpro weekly
+- [10:29] *Dx Pro Designer* (51m): SVK validation
