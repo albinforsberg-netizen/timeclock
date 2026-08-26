@@ -425,3 +425,4 @@
 - [09:38] *Dx Pro Designer* (3m): Dxpro weekly
 - [10:29] *Dx Pro Designer* (51m): SVK validation
 - [11:06] *Refrigeration - Development* (37m): Refpro weekly
+- [12:49] *Dx Pro Designer* (0m): SVK Validation
