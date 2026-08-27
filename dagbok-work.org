@@ -428,3 +428,6 @@
 - [12:49] *Dx Pro Designer* (0m): SVK Validation
 - [16:36] *Refrigeration - Development* (3h 46m): Reuidiger problems
 - [17:42] *Dx Pro Designer* (56m): Floor/room delete fix
+
+* 2026-08-27 torsdag
+- [08:53] *Refrigeration - Development* (1h 21m): fix
