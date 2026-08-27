@@ -433,3 +433,4 @@
 - [08:53] *Refrigeration - Development* (1h 21m): fix
 - [10:17] *Dx Pro Designer* (1h 24m): Sections command fix
 - [11:57] *Refrigeration - Development* (1h 39m): IU/OU capacity matching
+- [14:58] *Refrigeration - Development* (1h 05m): Sloped pipe
