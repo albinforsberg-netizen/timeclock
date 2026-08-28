@@ -440,3 +440,4 @@
 - [09:00] *Refrigeration - Development* (2h 00m): Sightglass check
 - [09:01] *Refrigeration - Development* (0m): Standup
 - [09:24] *Refrigeration - Development* (22m): Statistics country
+- [10:07] *Refrigeration - Development* (43m): Smaller fixes
