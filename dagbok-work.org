@@ -444,3 +444,4 @@
 - [10:25] *Dx Pro Designer* (17m): Salesforce rename
 - [15:33] *Refrigeration - Development* (2h 41m): PDF preview
 - [16:08] *Refrigeration - Development* (34m): l
+- [16:17] *Dx Pro Designer* (8m): Salesforce rename
