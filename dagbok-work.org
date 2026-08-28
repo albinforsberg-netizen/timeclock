@@ -441,3 +441,4 @@
 - [09:01] *Refrigeration - Development* (0m): Standup
 - [09:24] *Refrigeration - Development* (22m): Statistics country
 - [10:07] *Refrigeration - Development* (43m): Smaller fixes
+- [10:25] *Dx Pro Designer* (17m): Salesforce rename
