@@ -450,3 +450,4 @@
 - [08:13] *Refrigeration - Development* (1h 13m): LRE100
 - [08:47] *Refrigeration - Development* (33m): Standup
 - [13:52] *Refrigeration - Development* (48m): Oil booster settings
+- [15:23] *Dx Pro Designer* (1h 31m): Icons/tooltip fixes
