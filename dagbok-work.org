@@ -451,3 +451,4 @@
 - [08:47] *Refrigeration - Development* (33m): Standup
 - [13:52] *Refrigeration - Development* (48m): Oil booster settings
 - [15:23] *Dx Pro Designer* (1h 31m): Icons/tooltip fixes
+- [15:58] *Dx Pro Designer* (34m): Mounting paci group fix
