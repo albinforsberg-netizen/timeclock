@@ -445,3 +445,6 @@
 - [15:33] *Refrigeration - Development* (2h 41m): PDF preview
 - [16:08] *Refrigeration - Development* (34m): l
 - [16:17] *Dx Pro Designer* (8m): Salesforce rename
+
+* 2026-08-31 måndag
+- [08:13] *Refrigeration - Development* (1h 13m): LRE100
