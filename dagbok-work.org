@@ -449,3 +449,4 @@
 * 2026-08-31 måndag
 - [08:13] *Refrigeration - Development* (1h 13m): LRE100
 - [08:47] *Refrigeration - Development* (33m): Standup
+- [13:52] *Refrigeration - Development* (48m): Oil booster settings
