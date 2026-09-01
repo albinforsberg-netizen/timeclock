@@ -457,3 +457,4 @@
 
 * 2026-09-01 tisdag
 - [15:12] *Dx Pro Designer* (20m): Branch/header conv
+- [15:44] *Refrigeration - Development* (11m): Oil booster settings
