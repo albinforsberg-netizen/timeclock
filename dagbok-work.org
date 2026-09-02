@@ -463,3 +463,4 @@
 - [09:01] *Refrigeration - Development* (1h 15m): Standup
 - [09:20] *Dx Pro Designer* (19m): dxpro weekly
 - [09:58] *Refrigeration - Development* (37m): Oil booster settings
+- [10:29] *Dx Pro Designer* (31m): Printout issue
