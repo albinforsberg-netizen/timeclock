@@ -466,3 +466,4 @@
 - [10:29] *Dx Pro Designer* (31m): Printout issue
 - [11:40] *Refrigeration - Development* (1h 11m): Oil booster settings
 - [17:05] *Dx Pro Designer* (3h 48m): MtP Fixes
+- [21:12] *Dx Pro Designer* (31m): MtP Fixes
