@@ -462,3 +462,4 @@
 * 2026-09-02 onsdag
 - [09:01] *Refrigeration - Development* (1h 15m): Standup
 - [09:20] *Dx Pro Designer* (19m): dxpro weekly
+- [09:58] *Refrigeration - Development* (37m): Oil booster settings
