@@ -467,3 +467,6 @@
 - [11:40] *Refrigeration - Development* (1h 11m): Oil booster settings
 - [17:05] *Dx Pro Designer* (3h 48m): MtP Fixes
 - [21:12] *Dx Pro Designer* (31m): MtP Fixes
+
+* 2026-09-03 torsdag
+- [09:01] *Dx Pro Designer* (1h 41m): MtP Fixes
