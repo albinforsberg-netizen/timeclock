@@ -470,3 +470,4 @@
 
 * 2026-09-03 torsdag
 - [09:01] *Dx Pro Designer* (1h 41m): MtP Fixes
+- [09:27] *Refrigeration - Development* (26m): Summer/winter
