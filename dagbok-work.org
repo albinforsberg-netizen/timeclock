@@ -477,3 +477,4 @@
 
 * 2026-09-04 fredag
 - [12:13] *Refrigeration - Development* (4h 51m): Summer/winter
+- [15:54] *Dx Pro Designer* (2h 56m): Local grid
