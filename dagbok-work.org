@@ -474,3 +474,6 @@
 - [16:40] *Dx Pro Designer* (4h 03m): Summer/winter
 - [16:46] *Divid - Internt* (6m): Månadsmöte
 - [16:47] *Refrigeration - Development* (0m): Summer/winter
+
+* 2026-09-04 fredag
+- [12:13] *Refrigeration - Development* (4h 51m): Summer/winter
