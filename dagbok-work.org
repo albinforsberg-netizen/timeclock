@@ -484,3 +484,4 @@
 
 * 2026-09-08 tisdag
 - [13:04] *Dx Pro Designer* (5m): Local grid
+- [15:00] *Pana AC Select Develop* (1h 56m): Missing SEER
