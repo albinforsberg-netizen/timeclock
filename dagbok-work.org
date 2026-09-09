@@ -487,3 +487,6 @@
 - [15:00] *Pana AC Select Develop* (1h 56m): Missing SEER
 - [16:42] *Refrigeration - Development* (1h 41m): @dahl.se investigation
 - [16:58] *Refrigeration - Development* (16m): Disclaimer modal fix
+
+* 2026-09-09 onsdag
+- [08:59] *Refrigeration - Development* (30m): Standup
