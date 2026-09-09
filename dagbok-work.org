@@ -494,3 +494,4 @@
 - [10:45] *Dx Pro Designer* (1h 09m): Faulty pipe fix
 - [10:45] *Refrigeration - Development* (0m): Refpro weekly
 - [13:45] *Refrigeration - Development* (33m): Board check prod
+- [14:19] *Refrigeration - Development* (34m): Pipe behind unit
