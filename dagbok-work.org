@@ -490,3 +490,4 @@
 
 * 2026-09-09 onsdag
 - [08:59] *Refrigeration - Development* (30m): Standup
+- [09:36] *Dx Pro Designer* (37m): Dxpro weekly
