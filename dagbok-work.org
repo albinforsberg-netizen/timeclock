@@ -491,3 +491,5 @@
 * 2026-09-09 onsdag
 - [08:59] *Refrigeration - Development* (30m): Standup
 - [09:36] *Dx Pro Designer* (37m): Dxpro weekly
+- [10:45] *Dx Pro Designer* (1h 09m): Faulty pipe fix
+- [10:45] *Refrigeration - Development* (0m): Refpro weekly
