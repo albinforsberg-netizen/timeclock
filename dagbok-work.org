@@ -508,3 +508,4 @@
 * 2026-09-14 måndag
 - [11:22] *Dx Pro Designer* (2h 59m): Markdown fix
 - [11:22] *Pana AC Select Develop* (0m): Markdown fix
+- [16:44] *Refrigeration - Development* (14m): Vertical pipe
