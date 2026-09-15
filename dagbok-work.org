@@ -513,3 +513,4 @@
 
 * 2026-09-15 tisdag
 - [11:00] *Refrigeration - Development* (2h 59m): Vertical pipe
+- [12:08] *Dx Pro Designer* (1h 07m): Crashed systems
