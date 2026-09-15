@@ -33,7 +33,7 @@ Auto-generated from =timelog-work=.
 *** Top projects (hours)
 #+begin_src mermaid
 pie showData
-    "Dx Pro Designer" : 605.04
+    "Dx Pro Designer" : 605.93
     "Refrigeration - Development" : 267.73
     "Divid - Internt" : 142.14
     "Pana AC Select Develop" : 6.89
@@ -43,12 +43,11 @@ pie showData
 *** All projects breakdown
 | Project                     |   Hours | Sessions | Days | Avg h/s | % total |
 |-----------------------------+---------+----------+------+---------+---------|
-| Dx Pro Designer             |  605.04 |      305 |  103 |    1.98 |   59.0% |
+| Dx Pro Designer             |  605.93 |      306 |  103 |    1.98 |   59.0% |
 | Refrigeration - Development |  267.73 |      177 |   63 |    1.51 |   26.1% |
 | Divid - Internt             |  142.14 |       41 |   26 |    3.47 |   13.9% |
 | Pana AC Select Develop      |    6.89 |        5 |    5 |    1.38 |    0.7% |
 | Divid - Utbildning          |    2.98 |        2 |    2 |    1.49 |    0.3% |
-| DX Pro Designer             |    0.89 |        1 |    1 |    0.89 |    0.1% |
 | Residential - Development   |    0.57 |        2 |    1 |    0.29 |    0.1% |
 
 *** Top 10 busiest days
@@ -137,6 +136,6 @@ xychart-beta
     line [40.00, 81.25, 121.75, 162.50, 202.75, 235.19, 267.03, 308.11, 348.83, 380.71, 420.81, 450.20, 490.81, 532.57, 571.50, 612.14, 645.42, 691.53, 729.05, 771.05, 810.57, 851.85, 891.92, 932.90, 974.05, 1014.02, 1026.25]
 #+end_src
 
-/Generated: 2026-09-15 12:15 UTC/
+/Generated: 2026-09-15 12:26 UTC/
 
 # STATS:END
