@@ -37,6 +37,11 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      - name: Preserve dashboard data in Pages artifact
+        run: |
+          test -s data/dashboard.json
+          mkdir -p ./_site/data
+          cp data/dashboard.json ./_site/data/dashboard.json
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 

@@ -71,4 +71,15 @@ async function start() {
     document.getElementById("project-filter").addEventListener("input", event => renderProjectTable(event.target.value));
 }
 
-start().catch(() => { document.getElementById("updated").textContent = "DATA UNAVAILABLE"; });
+start().catch(error => {
+    console.error("Unable to load dashboard data", error);
+    document.getElementById("updated").textContent = "DATA UNAVAILABLE";
+    document.querySelectorAll(".chart-panel").forEach(panel => {
+        if (panel.querySelector("canvas")) {
+            const notice = document.createElement("p");
+            notice.className = "data-notice";
+            notice.textContent = "Dashboard data has not been generated yet.";
+            panel.appendChild(notice);
+        }
+    });
+});
