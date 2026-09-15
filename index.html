@@ -74,6 +74,48 @@
             </article>
         </section>
 
+        <section class="analysis-section">
+            <div class="section-heading">
+                <div>
+                    <p class="eyebrow">WORK PATTERNS</p>
+                    <h2>The useful details</h2>
+                </div>
+                <p class="section-note">A little context behind the headline numbers.</p>
+            </div>
+            <div class="analysis-grid">
+                <article class="chart-panel analysis-wide">
+                    <div class="panel-heading">
+                        <div>
+                            <p class="eyebrow">TARGET CHECK</p>
+                            <h2>How the days stack up</h2>
+                        </div>
+                        <span class="panel-meta">8 h target</span>
+                    </div>
+                    <div class="chart-wrap chart-wrap-analysis"><canvas id="target-chart"></canvas></div>
+                </article>
+                <article class="chart-panel">
+                    <div class="panel-heading">
+                        <div>
+                            <p class="eyebrow">SESSION SHAPE</p>
+                            <h2>Focus blocks</h2>
+                        </div>
+                    </div>
+                    <div class="chart-wrap chart-wrap-analysis"><canvas id="session-chart"></canvas></div>
+                </article>
+                <article class="chart-panel analysis-wide">
+                    <div class="panel-heading">
+                        <div>
+                            <p class="eyebrow">PROJECT DETAIL</p>
+                            <h2>Share of total time</h2>
+                        </div>
+                        <input id="project-filter" class="project-filter" type="search" placeholder="Filter projects"
+                            aria-label="Filter projects">
+                    </div>
+                    <div class="project-table" id="project-table"></div>
+                </article>
+            </div>
+        </section>
+
         <section class="recent-section">
             <div class="section-heading">
                 <div>

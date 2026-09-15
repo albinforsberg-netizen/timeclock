@@ -18,8 +18,11 @@ def main() -> None:
     weekly: dict[str, float] = defaultdict(float)
     monthly: dict[str, float] = defaultdict(float)
     projects: dict[str, float] = defaultdict(float)
+    project_sessions: dict[str, int] = defaultdict(int)
     weekdays: dict[str, float] = defaultdict(float)
     start_hours: dict[str, int] = defaultdict(int)
+    session_buckets: dict[str, int] = defaultdict(int)
+    day_session_counts: dict[str, int] = defaultdict(int)
 
     for session in sessions:
         day = session.start.strftime("%Y-%m-%d")
@@ -28,8 +31,20 @@ def main() -> None:
         weekly[f"{iso[0]}-W{iso[1]:02d}"] += session.hours
         monthly[session.start.strftime("%Y-%m")] += session.hours
         projects[session.project] += session.hours
+        project_sessions[session.project] += 1
         weekdays[session.start.strftime("%A")] += session.hours
         start_hours[f"{session.start.hour:02d}:00"] += 1
+        day_session_counts[day] += 1
+        if session.hours < 0.5:
+            session_buckets["Under 30 min"] += 1
+        elif session.hours < 1:
+            session_buckets["30-60 min"] += 1
+        elif session.hours < 2:
+            session_buckets["1-2 hours"] += 1
+        elif session.hours < 4:
+            session_buckets["2-4 hours"] += 1
+        else:
+            session_buckets["4+ hours"] += 1
 
     payload = {
         "generated_at": datetime.now().astimezone().isoformat(timespec="minutes"),
@@ -40,10 +55,14 @@ def main() -> None:
         "weekly": dict(sorted(weekly.items())),
         "monthly": dict(sorted(monthly.items())),
         "projects": dict(sorted(projects.items(), key=lambda item: item[1], reverse=True)),
+        "project_sessions": dict(project_sessions),
         "weekdays": {day: round(weekdays.get(day, 0.0), 2) for day in (
             "Monday", "Tuesday", "Wednesday", "Thursday", "Friday"
         )},
         "start_hours": dict(sorted(start_hours.items())),
+        "session_buckets": dict(session_buckets),
+        "daily_sessions": dict(sorted(day_session_counts.items())),
+        "target_hours_per_day": 8,
         "sessions": [
             {
                 "date": session.start.strftime("%Y-%m-%d"),
