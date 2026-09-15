@@ -1,12 +1,16 @@
 const palette = ["#e4674f", "#187c78", "#efc85b", "#5887a8", "#8b6b9b", "#9cae83", "#d08a5a"];
 let dashboardData;
 let trendChart;
+let projectChart;
 let targetChart;
 let sessionChart;
 let startTimeChart;
 let cadenceChart;
 let breadthChart;
 let projectTrendChart;
+let activePeriod = "daily";
+let activeRange = "30";
+let activeProject = "";
 
 const hours = value => `${Number(value).toFixed(2)} h`;
 const labelsFor = (keys, period) => keys.map(key => period === "daily" ? key.slice(5) : period === "weekly" ? key.slice(5) : key);
@@ -41,8 +45,17 @@ function makeChartOptions() {
     return { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { displayColors: false, callbacks: { label: context => ` ${hours(context.raw)}` } } }, scales: { x: { grid: { display: false }, ticks: { color: "#66777a", font: { family: "DM Mono", size: 10 }, maxRotation: 0, autoSkip: true, maxTicksLimit: 12 } }, y: { beginAtZero: true, grid: { color: "#e1e5df" }, ticks: { color: "#66777a", font: { family: "DM Mono", size: 10 } } } } };
 }
 
-function renderTrend(period = "daily") {
-    const keys = Object.keys(dashboardData[period]).slice(period === "daily" ? -30 : period === "quarterly" ? -8 : -12);
+function rangeLimit(period) {
+    if (activeRange === "all") return undefined;
+    const days = Number(activeRange);
+    const divisor = period === "daily" ? 1 : period === "weekly" ? 7 : period === "monthly" ? 30 : 90;
+    return Math.ceil(days / divisor);
+}
+
+function renderTrend(period = activePeriod) {
+    activePeriod = period;
+    const limit = rangeLimit(period);
+    const keys = Object.keys(dashboardData[period]).slice(limit ? -limit : undefined);
     const values = keys.map(key => dashboardData[period][key]);
     const smoothingWindow = period === "daily" ? 7 : period === "weekly" ? 4 : 0;
     const trend = smoothingWindow ? values.map((_, index) => {
@@ -56,17 +69,18 @@ function renderTrend(period = "daily") {
 }
 
 function renderProjects() {
-    const entries = Object.entries(dashboardData.projects);
+    const entries = Object.entries(dashboardData.projects).filter(([name]) => !activeProject || name === activeProject);
     const chartEntries = entries.slice(0, 6);
     const remainder = entries.slice(6).reduce((sum, [, value]) => sum + value, 0);
     if (remainder) chartEntries.push(["Other", remainder]);
-    new Chart(document.getElementById("project-chart"), { type: "doughnut", data: { labels: chartEntries.map(([label]) => label), datasets: [{ data: chartEntries.map(([, value]) => value), backgroundColor: palette, borderWidth: 0, hoverOffset: 5 }] }, options: { responsive: true, maintainAspectRatio: false, cutout: "70%", plugins: { legend: { display: false }, tooltip: { callbacks: { label: context => ` ${context.label}: ${hours(context.raw)}` } } } } });
+    if (projectChart) projectChart.destroy();
+    projectChart = new Chart(document.getElementById("project-chart"), { type: "doughnut", data: { labels: chartEntries.map(([label]) => label), datasets: [{ data: chartEntries.map(([, value]) => value), backgroundColor: palette, borderWidth: 0, hoverOffset: 5 }] }, options: { responsive: true, maintainAspectRatio: false, cutout: "70%", plugins: { legend: { display: false }, tooltip: { callbacks: { label: context => ` ${context.label}: ${hours(context.raw)}` } } } } });
     document.getElementById("project-legend").innerHTML = chartEntries.map(([label, value], index) => `<div class="legend-row"><span class="legend-label" style="--legend-color:${palette[index]}">${label}</span><span class="legend-value">${hours(value)}</span></div>`).join("");
 }
 
 function renderProjectTrend() {
     const months = Object.keys(dashboardData.monthly_projects).slice(-12);
-    const projects = Object.keys(dashboardData.projects).slice(0, 5);
+    const projects = activeProject ? [activeProject] : Object.keys(dashboardData.projects).slice(0, 5);
     const datasets = projects.map((project, index) => ({
         label: project,
         data: months.map(month => dashboardData.monthly_projects[month][project] || 0),
@@ -74,6 +88,7 @@ function renderProjectTrend() {
         borderWidth: 0,
         borderRadius: 2,
     }));
+    if (projectTrendChart) projectTrendChart.destroy();
     projectTrendChart = new Chart(document.getElementById("project-trend-chart"), { type: "bar", data: { labels: months, datasets }, options: { responsive: true, maintainAspectRatio: false, interaction: { mode: "index", intersect: false }, plugins: { legend: { display: true, position: "bottom", labels: { color: "#66777a", boxWidth: 10, font: { family: "DM Mono", size: 10 } } }, tooltip: { callbacks: { label: context => ` ${context.dataset.label}: ${hours(context.raw)}` } } }, scales: { x: { stacked: true, grid: { display: false }, ticks: { color: "#66777a", font: { family: "DM Mono", size: 10 } } }, y: { stacked: true, beginAtZero: true, grid: { color: "#e1e5df" }, ticks: { color: "#66777a", font: { family: "DM Mono", size: 10 } } } } } });
 }
 
@@ -97,7 +112,7 @@ function renderSessionShape() {
 
 function renderProjectTable(filter = "") {
     const total = dashboardData.total_hours;
-    const rows = Object.entries(dashboardData.projects).filter(([name]) => name.toLowerCase().includes(filter.toLowerCase()));
+    const rows = Object.entries(dashboardData.projects).filter(([name]) => (!activeProject || name === activeProject) && name.toLowerCase().includes(filter.toLowerCase()));
     document.getElementById("project-table").innerHTML = rows.map(([name, value]) => {
         const sessions = dashboardData.project_sessions[name] || 0;
         const share = total ? (value / total) * 100 : 0;
@@ -207,6 +222,22 @@ function renderRecent() {
     document.getElementById("recent-sessions").innerHTML = dashboardData.sessions.map(session => `<tr><td>${session.date}</td><td>${session.project}</td><td class="numeric">${hours(session.hours)}</td></tr>`).join("");
 }
 
+function updateControlStatus() {
+    const rangeLabel = activeRange === "all" ? "all history" : `last ${activeRange} days`;
+    const projectLabel = activeProject || "all projects";
+    document.getElementById("control-status").textContent = `Showing ${projectLabel} / ${rangeLabel}`;
+}
+
+function populateProjectFocus() {
+    const select = document.getElementById("project-focus");
+    Object.keys(dashboardData.projects).forEach(project => {
+        const option = document.createElement("option");
+        option.value = project;
+        option.textContent = project;
+        select.appendChild(option);
+    });
+}
+
 async function start() {
     const dataUrl = new URL("assets/dashboard-data.json", window.location.href);
     dataUrl.searchParams.set("v", document.lastModified);
@@ -215,6 +246,7 @@ async function start() {
         return response.json();
     });
     dashboardData = normaliseDashboardData(dashboardData);
+    populateProjectFocus();
     document.getElementById("total-hours").textContent = hours(dashboardData.total_hours);
     document.getElementById("session-count").textContent = dashboardData.session_count;
     document.getElementById("active-days").textContent = dashboardData.active_days;
@@ -227,6 +259,9 @@ async function start() {
     renderTrend(); renderProjects(); renderProjectTrend(); renderWeekdays(); renderTarget(); renderSessionShape(); renderProjectTable(); renderSignals(); renderHeatmap(); renderStartTimes(); renderDayStructure(); renderForecast(); renderRecent();
     document.querySelectorAll(".period-button").forEach(button => button.addEventListener("click", () => { document.querySelector(".period-button.is-active").classList.remove("is-active"); button.classList.add("is-active"); renderTrend(button.dataset.period); }));
     document.getElementById("project-filter").addEventListener("input", event => renderProjectTable(event.target.value));
+    document.getElementById("range-filter").addEventListener("change", event => { activeRange = event.target.value; updateControlStatus(); renderTrend(); });
+    document.getElementById("project-focus").addEventListener("change", event => { activeProject = event.target.value; updateControlStatus(); renderProjects(); renderProjectTrend(); renderProjectTable(document.getElementById("project-filter").value); });
+    updateControlStatus();
 }
 
 start().catch(error => {

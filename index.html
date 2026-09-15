@@ -45,12 +45,31 @@
                     tracked hours</small></article>
         </section>
 
+        <section class="dashboard-controls" aria-label="Dashboard filters">
+            <div class="control-group">
+                <label for="range-filter">Window</label>
+                <select id="range-filter">
+                    <option value="30">Last 30 days</option>
+                    <option value="90">Last 90 days</option>
+                    <option value="365">Last year</option>
+                    <option value="all">All time</option>
+                </select>
+            </div>
+            <div class="control-group">
+                <label for="project-focus">Project focus</label>
+                <select id="project-focus">
+                    <option value="">All projects</option>
+                </select>
+            </div>
+            <span class="control-status" id="control-status">Showing all work</span>
+        </section>
+
         <section class="section-heading">
             <div>
                 <p class="eyebrow">THE LONG VIEW</p>
                 <h2>Hours, in motion</h2>
             </div>
-            <div class="period-switcher" role="group" aria-label="Chart period">
+            <div class="period-switcher" role="group" aria-label="Chart grain">
                 <button class="period-button is-active" data-period="daily">30 days</button>
                 <button class="period-button" data-period="weekly">12 weeks</button>
                 <button class="period-button" data-period="monthly">12 months</button>
