@@ -1,0 +1,48 @@
+const palette = ["#e4674f", "#187c78", "#efc85b", "#5887a8", "#8b6b9b", "#9cae83", "#d08a5a"];
+let dashboardData;
+let trendChart;
+
+const hours = value => `${Number(value).toFixed(2)} h`;
+const labelsFor = (keys, period) => keys.map(key => period === "daily" ? key.slice(5) : period === "weekly" ? key.slice(5) : key);
+
+function makeChartOptions() {
+    return { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { displayColors: false, callbacks: { label: context => ` ${hours(context.raw)}` } } }, scales: { x: { grid: { display: false }, ticks: { color: "#66777a", font: { family: "DM Mono", size: 10 }, maxRotation: 0, autoSkip: true, maxTicksLimit: 12 } }, y: { beginAtZero: true, grid: { color: "#e1e5df" }, ticks: { color: "#66777a", font: { family: "DM Mono", size: 10 } } } } };
+}
+
+function renderTrend(period = "daily") {
+    const keys = Object.keys(dashboardData[period]).slice(period === "daily" ? -30 : -12);
+    const values = keys.map(key => dashboardData[period][key]);
+    if (trendChart) trendChart.destroy();
+    trendChart = new Chart(document.getElementById("trend-chart"), { type: "bar", data: { labels: labelsFor(keys, period), datasets: [{ data: values, backgroundColor: "#e4674f", borderRadius: 2, borderSkipped: false, maxBarThickness: 30 }] }, options: makeChartOptions() });
+}
+
+function renderProjects() {
+    const entries = Object.entries(dashboardData.projects);
+    const chartEntries = entries.slice(0, 6);
+    const remainder = entries.slice(6).reduce((sum, [, value]) => sum + value, 0);
+    if (remainder) chartEntries.push(["Other", remainder]);
+    new Chart(document.getElementById("project-chart"), { type: "doughnut", data: { labels: chartEntries.map(([label]) => label), datasets: [{ data: chartEntries.map(([, value]) => value), backgroundColor: palette, borderWidth: 0, hoverOffset: 5 }] }, options: { responsive: true, maintainAspectRatio: false, cutout: "70%", plugins: { legend: { display: false }, tooltip: { callbacks: { label: context => ` ${context.label}: ${hours(context.raw)}` } } } } });
+    document.getElementById("project-legend").innerHTML = chartEntries.map(([label, value], index) => `<div class="legend-row"><span class="legend-label" style="--legend-color:${palette[index]}">${label}</span><span class="legend-value">${hours(value)}</span></div>`).join("");
+}
+
+function renderWeekdays() {
+    const labels = Object.keys(dashboardData.weekdays).map(day => day.slice(0, 3));
+    new Chart(document.getElementById("weekday-chart"), { type: "bar", data: { labels, datasets: [{ data: Object.values(dashboardData.weekdays), backgroundColor: "#187c78", borderRadius: 2, maxBarThickness: 42 }] }, options: makeChartOptions() });
+}
+
+function renderRecent() {
+    document.getElementById("recent-sessions").innerHTML = dashboardData.sessions.map(session => `<tr><td>${session.date}</td><td>${session.project}</td><td class="numeric">${hours(session.hours)}</td></tr>`).join("");
+}
+
+async function start() {
+    dashboardData = await fetch("data/dashboard.json").then(response => response.json());
+    document.getElementById("total-hours").textContent = hours(dashboardData.total_hours);
+    document.getElementById("session-count").textContent = dashboardData.session_count;
+    document.getElementById("active-days").textContent = dashboardData.active_days;
+    document.getElementById("average-day").textContent = hours(dashboardData.total_hours / dashboardData.active_days);
+    document.getElementById("updated").textContent = `UPDATED ${dashboardData.generated_at.replace("T", " ")}`;
+    renderTrend(); renderProjects(); renderWeekdays(); renderRecent();
+    document.querySelectorAll(".period-button").forEach(button => button.addEventListener("click", () => { document.querySelector(".period-button.is-active").classList.remove("is-active"); button.classList.add("is-active"); renderTrend(button.dataset.period); }));
+}
+
+start().catch(() => { document.getElementById("updated").textContent = "DATA UNAVAILABLE"; });

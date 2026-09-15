@@ -1,5 +1,7 @@
 * timeclock
 
+Open the [work rhythm dashboard](./) for interactive charts and recent sessions.
+
 # STATS:START
 ** Time log stats
 

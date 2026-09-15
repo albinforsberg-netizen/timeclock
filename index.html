@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A visual overview of tracked work time.">
+    <title>Timeclock / Work rhythm</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="assets/dashboard.css">
+</head>
+
+<body>
+    <main class="page-shell">
+        <header class="masthead">
+            <div>
+                <p class="eyebrow">TIME / LOG</p>
+                <h1>Work rhythm<span>.</span></h1>
+                <p class="lede">A calm view of where the hours go, how the weeks move, and what keeps the workday
+                    together.</p>
+            </div>
+            <div class="updated" id="updated">Loading data...</div>
+        </header>
+
+        <section class="metrics" aria-label="Summary metrics">
+            <article class="metric metric-primary"><span>Total tracked</span><strong
+                    id="total-hours">--</strong><small>hours across all logged work</small></article>
+            <article class="metric"><span>Sessions</span><strong id="session-count">--</strong><small>individual work
+                    blocks</small></article>
+            <article class="metric"><span>Active days</span><strong id="active-days">--</strong><small>days with
+                    recorded time</small></article>
+            <article class="metric"><span>Average day</span><strong id="average-day">--</strong><small>hours per active
+                    day</small></article>
+        </section>
+
+        <section class="section-heading">
+            <div>
+                <p class="eyebrow">THE LONG VIEW</p>
+                <h2>Hours, in motion</h2>
+            </div>
+            <div class="period-switcher" role="group" aria-label="Chart period">
+                <button class="period-button is-active" data-period="daily">30 days</button>
+                <button class="period-button" data-period="weekly">12 weeks</button>
+                <button class="period-button" data-period="monthly">12 months</button>
+            </div>
+        </section>
+        <section class="chart-panel chart-panel-wide">
+            <div class="chart-wrap"><canvas id="trend-chart"></canvas></div>
+        </section>
+
+        <section class="grid-two">
+            <article class="chart-panel">
+                <div class="panel-heading">
+                    <div>
+                        <p class="eyebrow">PROJECT MIX</p>
+                        <h2>What fills the week</h2>
+                    </div>
+                </div>
+                <div class="donut-wrap"><canvas id="project-chart"></canvas></div>
+                <div id="project-legend" class="legend"></div>
+            </article>
+            <article class="chart-panel">
+                <div class="panel-heading">
+                    <div>
+                        <p class="eyebrow">WEEKDAY PULSE</p>
+                        <h2>When the work lands</h2>
+                    </div>
+                </div>
+                <div class="chart-wrap chart-wrap-short"><canvas id="weekday-chart"></canvas></div>
+            </article>
+        </section>
+
+        <section class="recent-section">
+            <div class="section-heading">
+                <div>
+                    <p class="eyebrow">LATEST LOG</p>
+                    <h2>Recent sessions</h2>
+                </div>
+            </div>
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>Project</th>
+                            <th class="numeric">Hours</th>
+                        </tr>
+                    </thead>
+                    <tbody id="recent-sessions"></tbody>
+                </table>
+            </div>
+        </section>
+        <footer><span>Generated from <a href="README.org">timelog-work</a></span><span>timeclock</span></footer>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+    <script src="assets/dashboard.js"></script>
+</body>
+
+</html>
