@@ -4,6 +4,9 @@ let trendChart;
 let targetChart;
 let sessionChart;
 let startTimeChart;
+let cadenceChart;
+let breadthChart;
+let projectTrendChart;
 
 const hours = value => `${Number(value).toFixed(2)} h`;
 const labelsFor = (keys, period) => keys.map(key => period === "daily" ? key.slice(5) : period === "weekly" ? key.slice(5) : key);
@@ -13,10 +16,17 @@ function makeChartOptions() {
 }
 
 function renderTrend(period = "daily") {
-    const keys = Object.keys(dashboardData[period]).slice(period === "daily" ? -30 : -12);
+    const keys = Object.keys(dashboardData[period]).slice(period === "daily" ? -30 : period === "quarterly" ? -8 : -12);
     const values = keys.map(key => dashboardData[period][key]);
+    const smoothingWindow = period === "daily" ? 7 : period === "weekly" ? 4 : 0;
+    const trend = smoothingWindow ? values.map((_, index) => {
+        const window = values.slice(Math.max(0, index - smoothingWindow + 1), index + 1);
+        return window.reduce((sum, value) => sum + value, 0) / window.length;
+    }) : [];
     if (trendChart) trendChart.destroy();
-    trendChart = new Chart(document.getElementById("trend-chart"), { type: "bar", data: { labels: labelsFor(keys, period), datasets: [{ data: values, backgroundColor: "#e4674f", borderRadius: 2, borderSkipped: false, maxBarThickness: 30 }] }, options: makeChartOptions() });
+    const datasets = [{ data: values, backgroundColor: "#e4674f", borderRadius: 2, borderSkipped: false, maxBarThickness: 30 }];
+    if (smoothingWindow) datasets.push({ type: "line", label: `${smoothingWindow}-period pace`, data: trend, borderColor: "#19242a", borderWidth: 2, pointRadius: 0, tension: 0.25 });
+    trendChart = new Chart(document.getElementById("trend-chart"), { type: "bar", data: { labels: labelsFor(keys, period), datasets }, options: makeChartOptions() });
 }
 
 function renderProjects() {
@@ -26,6 +36,19 @@ function renderProjects() {
     if (remainder) chartEntries.push(["Other", remainder]);
     new Chart(document.getElementById("project-chart"), { type: "doughnut", data: { labels: chartEntries.map(([label]) => label), datasets: [{ data: chartEntries.map(([, value]) => value), backgroundColor: palette, borderWidth: 0, hoverOffset: 5 }] }, options: { responsive: true, maintainAspectRatio: false, cutout: "70%", plugins: { legend: { display: false }, tooltip: { callbacks: { label: context => ` ${context.label}: ${hours(context.raw)}` } } } } });
     document.getElementById("project-legend").innerHTML = chartEntries.map(([label, value], index) => `<div class="legend-row"><span class="legend-label" style="--legend-color:${palette[index]}">${label}</span><span class="legend-value">${hours(value)}</span></div>`).join("");
+}
+
+function renderProjectTrend() {
+    const months = Object.keys(dashboardData.monthly_projects).slice(-12);
+    const projects = Object.keys(dashboardData.projects).slice(0, 5);
+    const datasets = projects.map((project, index) => ({
+        label: project,
+        data: months.map(month => dashboardData.monthly_projects[month][project] || 0),
+        backgroundColor: palette[index],
+        borderWidth: 0,
+        borderRadius: 2,
+    }));
+    projectTrendChart = new Chart(document.getElementById("project-trend-chart"), { type: "bar", data: { labels: months, datasets }, options: { responsive: true, maintainAspectRatio: false, interaction: { mode: "index", intersect: false }, plugins: { legend: { display: true, position: "bottom", labels: { color: "#66777a", boxWidth: 10, font: { family: "DM Mono", size: 10 } } }, tooltip: { callbacks: { label: context => ` ${context.dataset.label}: ${hours(context.raw)}` } } }, scales: { x: { stacked: true, grid: { display: false }, ticks: { color: "#66777a", font: { family: "DM Mono", size: 10 } } }, y: { stacked: true, beginAtZero: true, grid: { color: "#e1e5df" }, ticks: { color: "#66777a", font: { family: "DM Mono", size: 10 } } } } } });
 }
 
 function renderWeekdays() {
@@ -70,11 +93,18 @@ function renderSignals() {
     for (let cursor = new Date(latestDate); dashboardData.daily[dateKey(cursor)] > 0; cursor.setDate(cursor.getDate() - 1)) streak += 1;
     const longest = dashboardData.longest_session;
     const busiest = Object.entries(dashboardData.daily).sort(([, first], [, second]) => second - first)[0];
+    const deepWorkSessions = (dashboardData.session_buckets["2-4 hours"] || 0) + (dashboardData.session_buckets["4+ hours"] || 0);
+    const averageDay = days.length ? days.reduce((sum, value) => sum + value, 0) / days.length : 0;
+    const dayVariation = days.length ? Math.sqrt(days.reduce((sum, value) => sum + ((value - averageDay) ** 2), 0) / days.length) : 0;
     const signals = [
         ["Target hit rate", `${days.length ? ((targetDays / days.length) * 100).toFixed(0) : 0}%`, `${targetDays} of ${days.length} active days`],
         ["Current streak", `${streak} day${streak === 1 ? "" : "s"}`, "consecutive logged days"],
         ["Longest session", hours(longest.hours), `${longest.date} / ${longest.project}`],
         ["Busiest day", hours(busiest ? busiest[1] : 0), busiest ? busiest[0] : "No data"],
+        ["Deep-work share", `${dashboardData.session_count ? ((deepWorkSessions / dashboardData.session_count) * 100).toFixed(0) : 0}%`, "sessions lasting 2+ hours"],
+        ["Day variation", `±${hours(dayVariation)}`, "standard deviation per active day"],
+        ["Blocks per day", (dashboardData.session_count / (days.length || 1)).toFixed(1), "average sessions per active day"],
+        ["Context load", (dashboardData.project_count / (days.length || 1)).toFixed(2), "projects per active day"],
     ];
     document.getElementById("signal-grid").innerHTML = signals.map(([label, value, note]) => `<article class="signal"><span>${label}</span><strong>${value}</strong><small>${note}</small></article>`).join("");
 }
@@ -101,6 +131,52 @@ function renderStartTimes() {
     startTimeChart = new Chart(document.getElementById("start-time-chart"), { type: "bar", data: { labels, datasets: [{ data: Object.values(dashboardData.start_hours_time), backgroundColor: "#5887a8", borderRadius: 2, maxBarThickness: 34 }] }, options: makeChartOptions() });
 }
 
+function renderDayStructure() {
+    const keys = Object.keys(dashboardData.daily_sessions).slice(-30);
+    const labels = labelsFor(keys, "daily");
+    const countOptions = {
+        ...makeChartOptions(),
+        plugins: { ...makeChartOptions().plugins, tooltip: { callbacks: { label: context => ` ${context.raw} sessions` } } },
+    };
+    cadenceChart = new Chart(document.getElementById("cadence-chart"), { type: "bar", data: { labels, datasets: [{ data: keys.map(key => dashboardData.daily_sessions[key]), backgroundColor: "#efc85b", borderRadius: 2, maxBarThickness: 28 }] }, options: countOptions });
+    breadthChart = new Chart(document.getElementById("breadth-chart"), { type: "bar", data: { labels, datasets: [{ data: keys.map(key => dashboardData.daily_projects[key] || 0), backgroundColor: "#8b6b9b", borderRadius: 2, maxBarThickness: 28 }] }, options: { ...countOptions, plugins: { ...countOptions.plugins, tooltip: { callbacks: { label: context => ` ${context.raw} projects` } } } } });
+}
+
+function countWeekdays(start, end) {
+    let count = 0;
+    for (const cursor = new Date(start); cursor <= end; cursor.setDate(cursor.getDate() + 1)) {
+        if (cursor.getDay() !== 0 && cursor.getDay() !== 6) count += 1;
+    }
+    return count;
+}
+
+function renderForecast() {
+    const latestKey = Object.keys(dashboardData.daily).at(-1);
+    const latestDate = new Date(`${latestKey}T12:00:00`);
+    const monthStart = new Date(latestDate.getFullYear(), latestDate.getMonth(), 1, 12);
+    const monthEnd = new Date(latestDate.getFullYear(), latestDate.getMonth() + 1, 0, 12);
+    const elapsedWeekdays = countWeekdays(monthStart, latestDate);
+    const monthWeekdays = countWeekdays(monthStart, monthEnd);
+    const monthKey = latestKey.slice(0, 7);
+    const monthHours = dashboardData.monthly[monthKey] || 0;
+    const expected = monthWeekdays * dashboardData.target_hours_per_day;
+    const projected = elapsedWeekdays ? (monthHours / elapsedWeekdays) * monthWeekdays : 0;
+    const weeks = Object.values(dashboardData.weekly).slice(-4);
+    const averageWeek = weeks.length ? weeks.reduce((sum, value) => sum + value, 0) / weeks.length : 0;
+    const progress = monthWeekdays ? (elapsedWeekdays / monthWeekdays) * 100 : 0;
+    const cards = [
+        ["Logged this month", hours(monthHours), `${elapsedWeekdays} workdays elapsed`],
+        ["Projected finish", hours(projected), `pace vs ${hours(expected)} target`],
+        ["Projected variance", `${projected - expected >= 0 ? "+" : ""}${hours(projected - expected)}`, "pace above / below target"],
+        ["Average recent week", hours(averageWeek), "last four logged weeks"],
+    ];
+    document.getElementById("forecast-grid").innerHTML = cards.map(([label, value, note]) => `<article class="forecast-card"><span>${label}</span><strong>${value}</strong><small>${note}</small></article>`).join("");
+    document.getElementById("forecast-progress").style.width = `${Math.min(progress, 100)}%`;
+    document.getElementById("forecast-progress-label").textContent = `${Math.round(progress)}% of workdays`;
+    document.getElementById("forecast-start").textContent = monthStart.toISOString().slice(0, 10);
+    document.getElementById("forecast-end").textContent = monthEnd.toISOString().slice(0, 10);
+}
+
 function renderRecent() {
     document.getElementById("recent-sessions").innerHTML = dashboardData.sessions.map(session => `<tr><td>${session.date}</td><td>${session.project}</td><td class="numeric">${hours(session.hours)}</td></tr>`).join("");
 }
@@ -114,8 +190,12 @@ async function start() {
     document.getElementById("session-count").textContent = dashboardData.session_count;
     document.getElementById("active-days").textContent = dashboardData.active_days;
     document.getElementById("average-day").textContent = hours(dashboardData.total_hours / dashboardData.active_days);
+    document.getElementById("average-session").textContent = hours(dashboardData.session_stats.average);
+    document.getElementById("median-session").textContent = hours(dashboardData.session_stats.median);
+    document.getElementById("project-count").textContent = dashboardData.project_count;
+    document.getElementById("weekend-share").textContent = `${dashboardData.total_hours ? ((dashboardData.weekend_hours / dashboardData.total_hours) * 100).toFixed(1) : 0}%`;
     document.getElementById("updated").textContent = `UPDATED ${dashboardData.generated_at.replace("T", " ")}`;
-    renderTrend(); renderProjects(); renderWeekdays(); renderTarget(); renderSessionShape(); renderProjectTable(); renderSignals(); renderHeatmap(); renderStartTimes(); renderRecent();
+    renderTrend(); renderProjects(); renderProjectTrend(); renderWeekdays(); renderTarget(); renderSessionShape(); renderProjectTable(); renderSignals(); renderHeatmap(); renderStartTimes(); renderDayStructure(); renderForecast(); renderRecent();
     document.querySelectorAll(".period-button").forEach(button => button.addEventListener("click", () => { document.querySelector(".period-button.is-active").classList.remove("is-active"); button.classList.add("is-active"); renderTrend(button.dataset.period); }));
     document.getElementById("project-filter").addEventListener("input", event => renderProjectTable(event.target.value));
 }

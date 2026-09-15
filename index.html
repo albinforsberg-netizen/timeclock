@@ -35,6 +35,14 @@
                     recorded time</small></article>
             <article class="metric"><span>Average day</span><strong id="average-day">--</strong><small>hours per active
                     day</small></article>
+            <article class="metric"><span>Average session</span><strong id="average-session">--</strong><small>typical
+                    work block</small></article>
+            <article class="metric"><span>Median session</span><strong id="median-session">--</strong><small>the middle
+                    work block</small></article>
+            <article class="metric"><span>Projects</span><strong id="project-count">--</strong><small>distinct logged
+                    projects</small></article>
+            <article class="metric"><span>Weekend share</span><strong id="weekend-share">--</strong><small>of all
+                    tracked hours</small></article>
         </section>
 
         <section class="section-heading">
@@ -46,6 +54,7 @@
                 <button class="period-button is-active" data-period="daily">30 days</button>
                 <button class="period-button" data-period="weekly">12 weeks</button>
                 <button class="period-button" data-period="monthly">12 months</button>
+                <button class="period-button" data-period="quarterly">Quarters</button>
             </div>
         </section>
         <section class="chart-panel chart-panel-wide">
@@ -71,6 +80,19 @@
                     </div>
                 </div>
                 <div class="chart-wrap chart-wrap-short"><canvas id="weekday-chart"></canvas></div>
+            </article>
+        </section>
+
+        <section class="trend-section">
+            <div class="section-heading">
+                <div>
+                    <p class="eyebrow">PROJECT EVOLUTION</p>
+                    <h2>How the mix changed</h2>
+                </div>
+                <p class="section-note">Monthly hours split by project, with the newest month at the right.</p>
+            </div>
+            <article class="chart-panel">
+                <div class="chart-wrap chart-wrap-project-trend"><canvas id="project-trend-chart"></canvas></div>
             </article>
         </section>
 
@@ -147,6 +169,53 @@
                     </div>
                     <div class="chart-wrap chart-wrap-analysis"><canvas id="start-time-chart"></canvas></div>
                 </article>
+            </div>
+        </section>
+
+        <section class="rhythm-section">
+            <div class="section-heading">
+                <div>
+                    <p class="eyebrow">DAY STRUCTURE</p>
+                    <h2>Focus or fragmentation?</h2>
+                </div>
+                <p class="section-note">The number of blocks and projects behind each logged day.</p>
+            </div>
+            <div class="rhythm-grid">
+                <article class="chart-panel">
+                    <div class="panel-heading">
+                        <div>
+                            <p class="eyebrow">SESSION DENSITY</p>
+                            <h2>Blocks per day</h2>
+                        </div>
+                    </div>
+                    <div class="chart-wrap chart-wrap-analysis"><canvas id="cadence-chart"></canvas></div>
+                </article>
+                <article class="chart-panel">
+                    <div class="panel-heading">
+                        <div>
+                            <p class="eyebrow">CONTEXT LOAD</p>
+                            <h2>Projects touched per day</h2>
+                        </div>
+                    </div>
+                    <div class="chart-wrap chart-wrap-analysis"><canvas id="breadth-chart"></canvas></div>
+                </article>
+            </div>
+        </section>
+
+        <section class="forecast-section">
+            <div class="section-heading">
+                <div>
+                    <p class="eyebrow">LOOKING AHEAD</p>
+                    <h2>Month in motion</h2>
+                </div>
+                <p class="section-note">A pace-based estimate from the latest logged month.</p>
+            </div>
+            <div class="forecast-grid" id="forecast-grid"></div>
+            <div class="chart-panel forecast-panel">
+                <div class="forecast-labels"><span>Month progress</span><strong id="forecast-progress-label">--</strong>
+                </div>
+                <div class="forecast-track"><i id="forecast-progress"></i></div>
+                <div class="forecast-foot"><span id="forecast-start">--</span><span id="forecast-end">--</span></div>
             </div>
         </section>
 

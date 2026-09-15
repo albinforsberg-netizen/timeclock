@@ -5,6 +5,7 @@ from collections import defaultdict
 from datetime import datetime
 import json
 from pathlib import Path
+from statistics import median
 
 from generate_readme_stats import WORK_LOG_PATH, parse_sessions
 
@@ -17,6 +18,8 @@ def main() -> None:
     daily: dict[str, float] = defaultdict(float)
     weekly: dict[str, float] = defaultdict(float)
     monthly: dict[str, float] = defaultdict(float)
+    quarterly: dict[str, float] = defaultdict(float)
+    monthly_projects: dict[str, dict[str, float]] = defaultdict(lambda: defaultdict(float))
     projects: dict[str, float] = defaultdict(float)
     project_sessions: dict[str, int] = defaultdict(int)
     weekdays: dict[str, float] = defaultdict(float)
@@ -24,6 +27,9 @@ def main() -> None:
     start_hours_time: dict[str, float] = defaultdict(float)
     session_buckets: dict[str, int] = defaultdict(int)
     day_session_counts: dict[str, int] = defaultdict(int)
+    day_projects: dict[str, set[str]] = defaultdict(set)
+    weekend_hours = 0.0
+    weekend_sessions = 0
 
     for session in sessions:
         day = session.start.strftime("%Y-%m-%d")
@@ -31,12 +37,19 @@ def main() -> None:
         iso = session.start.isocalendar()
         weekly[f"{iso[0]}-W{iso[1]:02d}"] += session.hours
         monthly[session.start.strftime("%Y-%m")] += session.hours
+        quarter = ((session.start.month - 1) // 3) + 1
+        quarterly[f"{session.start.year}-Q{quarter}"] += session.hours
+        monthly_projects[session.start.strftime("%Y-%m")][session.project] += session.hours
         projects[session.project] += session.hours
         project_sessions[session.project] += 1
         weekdays[session.start.strftime("%A")] += session.hours
         start_hours[f"{session.start.hour:02d}:00"] += 1
         start_hours_time[f"{session.start.hour:02d}:00"] += session.hours
         day_session_counts[day] += 1
+        day_projects[day].add(session.project)
+        if session.start.weekday() >= 5:
+            weekend_hours += session.hours
+            weekend_sessions += 1
         if session.hours < 0.5:
             session_buckets["Under 30 min"] += 1
         elif session.hours < 1:
@@ -56,8 +69,14 @@ def main() -> None:
         "daily": dict(sorted(daily.items())),
         "weekly": dict(sorted(weekly.items())),
         "monthly": dict(sorted(monthly.items())),
+        "quarterly": dict(sorted(quarterly.items())),
+        "monthly_projects": {
+            month: dict(sorted(project_totals.items()))
+            for month, project_totals in sorted(monthly_projects.items())
+        },
         "projects": dict(sorted(projects.items(), key=lambda item: item[1], reverse=True)),
         "project_sessions": dict(project_sessions),
+        "project_count": len(projects),
         "weekdays": {day: round(weekdays.get(day, 0.0), 2) for day in (
             "Monday", "Tuesday", "Wednesday", "Thursday", "Friday"
         )},
@@ -67,6 +86,16 @@ def main() -> None:
         },
         "session_buckets": dict(session_buckets),
         "daily_sessions": dict(sorted(day_session_counts.items())),
+        "daily_projects": {
+            day: len(projects_for_day) for day, projects_for_day in sorted(day_projects.items())
+        },
+        "weekend_hours": round(weekend_hours, 2),
+        "weekend_sessions": weekend_sessions,
+        "session_stats": {
+            "average": round(sum(session.hours for session in sessions) / len(sessions), 2) if sessions else 0,
+            "median": round(median(session.hours for session in sessions), 2) if sessions else 0,
+            "shortest": round(min((session.hours for session in sessions), default=0), 2),
+        },
         "target_hours_per_day": 8,
         "longest_session": max(
             (
