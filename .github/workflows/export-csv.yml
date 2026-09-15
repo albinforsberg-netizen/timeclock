@@ -74,4 +74,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: export timeclock CSV"
-          file_pattern: exports/*.csv data/dashboard.json
+          file_pattern: exports/*.csv assets/dashboard-data.json

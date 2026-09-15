@@ -106,7 +106,10 @@ function renderRecent() {
 }
 
 async function start() {
-    dashboardData = await fetch("data/dashboard.json").then(response => response.json());
+    dashboardData = await fetch("assets/dashboard-data.json").then(response => {
+        if (!response.ok) throw new Error(`Dashboard data request failed: ${response.status}`);
+        return response.json();
+    });
     document.getElementById("total-hours").textContent = hours(dashboardData.total_hours);
     document.getElementById("session-count").textContent = dashboardData.session_count;
     document.getElementById("active-days").textContent = dashboardData.active_days;

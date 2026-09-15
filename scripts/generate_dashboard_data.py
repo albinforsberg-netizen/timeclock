@@ -9,7 +9,7 @@ from pathlib import Path
 from generate_readme_stats import WORK_LOG_PATH, parse_sessions
 
 ROOT = Path(__file__).resolve().parents[1]
-OUTPUT_PATH = ROOT / "data" / "dashboard.json"
+OUTPUT_PATH = ROOT / "assets" / "dashboard-data.json"
 
 
 def main() -> None:
