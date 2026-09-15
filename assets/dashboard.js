@@ -11,6 +11,32 @@ let projectTrendChart;
 const hours = value => `${Number(value).toFixed(2)} h`;
 const labelsFor = (keys, period) => keys.map(key => period === "daily" ? key.slice(5) : period === "weekly" ? key.slice(5) : key);
 
+function normaliseDashboardData(data) {
+    data.daily = data.daily || {};
+    data.weekly = data.weekly || {};
+    data.monthly = data.monthly || {};
+    data.quarterly = data.quarterly || {};
+    data.projects = data.projects || {};
+    data.project_sessions = data.project_sessions || {};
+    data.monthly_projects = data.monthly_projects || {};
+    data.daily_sessions = data.daily_sessions || {};
+    data.daily_projects = data.daily_projects || {};
+    data.start_hours_time = data.start_hours_time || data.start_hours || {};
+    data.session_buckets = data.session_buckets || {};
+    data.target_hours_per_day = data.target_hours_per_day || 8;
+    data.project_count = data.project_count || Object.keys(data.projects).length;
+    data.session_stats = data.session_stats || {
+        average: data.session_count ? data.total_hours / data.session_count : 0,
+        median: data.session_count ? data.total_hours / data.session_count : 0,
+    };
+    data.longest_session = data.longest_session || { date: "", project: "", hours: 0 };
+    data.weekend_hours = data.weekend_hours || Object.entries(data.daily).reduce((sum, [day, value]) => {
+        const weekday = new Date(`${day}T12:00:00`).getDay();
+        return sum + (weekday === 0 || weekday === 6 ? value : 0);
+    }, 0);
+    return data;
+}
+
 function makeChartOptions() {
     return { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { displayColors: false, callbacks: { label: context => ` ${hours(context.raw)}` } } }, scales: { x: { grid: { display: false }, ticks: { color: "#66777a", font: { family: "DM Mono", size: 10 }, maxRotation: 0, autoSkip: true, maxTicksLimit: 12 } }, y: { beginAtZero: true, grid: { color: "#e1e5df" }, ticks: { color: "#66777a", font: { family: "DM Mono", size: 10 } } } } };
 }
@@ -182,10 +208,13 @@ function renderRecent() {
 }
 
 async function start() {
-    dashboardData = await fetch("assets/dashboard-data.json").then(response => {
+    const dataUrl = new URL("assets/dashboard-data.json", window.location.href);
+    dataUrl.searchParams.set("v", document.lastModified);
+    dashboardData = await fetch(dataUrl).then(response => {
         if (!response.ok) throw new Error(`Dashboard data request failed: ${response.status}`);
         return response.json();
     });
+    dashboardData = normaliseDashboardData(dashboardData);
     document.getElementById("total-hours").textContent = hours(dashboardData.total_hours);
     document.getElementById("session-count").textContent = dashboardData.session_count;
     document.getElementById("active-days").textContent = dashboardData.active_days;
