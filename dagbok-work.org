@@ -510,3 +510,6 @@
 - [11:22] *Pana AC Select Develop* (0m): Markdown fix
 - [16:44] *Refrigeration - Development* (14m): Vertical pipe
 - [22:28] *Dx Pro Designer* (28m): HR box bug
+
+* 2026-09-15 tisdag
+- [11:00] *Refrigeration - Development* (2h 59m): Vertical pipe
