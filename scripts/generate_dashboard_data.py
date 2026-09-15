@@ -21,6 +21,7 @@ def main() -> None:
     project_sessions: dict[str, int] = defaultdict(int)
     weekdays: dict[str, float] = defaultdict(float)
     start_hours: dict[str, int] = defaultdict(int)
+    start_hours_time: dict[str, float] = defaultdict(float)
     session_buckets: dict[str, int] = defaultdict(int)
     day_session_counts: dict[str, int] = defaultdict(int)
 
@@ -34,6 +35,7 @@ def main() -> None:
         project_sessions[session.project] += 1
         weekdays[session.start.strftime("%A")] += session.hours
         start_hours[f"{session.start.hour:02d}:00"] += 1
+        start_hours_time[f"{session.start.hour:02d}:00"] += session.hours
         day_session_counts[day] += 1
         if session.hours < 0.5:
             session_buckets["Under 30 min"] += 1
@@ -60,9 +62,24 @@ def main() -> None:
             "Monday", "Tuesday", "Wednesday", "Thursday", "Friday"
         )},
         "start_hours": dict(sorted(start_hours.items())),
+        "start_hours_time": {
+            hour: round(value, 2) for hour, value in sorted(start_hours_time.items())
+        },
         "session_buckets": dict(session_buckets),
         "daily_sessions": dict(sorted(day_session_counts.items())),
         "target_hours_per_day": 8,
+        "longest_session": max(
+            (
+                {
+                    "date": session.start.strftime("%Y-%m-%d"),
+                    "project": session.project,
+                    "hours": round(session.hours, 2),
+                }
+                for session in sessions
+            ),
+            key=lambda item: item["hours"],
+            default={"date": "", "project": "", "hours": 0},
+        ),
         "sessions": [
             {
                 "date": session.start.strftime("%Y-%m-%d"),

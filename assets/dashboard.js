@@ -3,6 +3,7 @@ let dashboardData;
 let trendChart;
 let targetChart;
 let sessionChart;
+let startTimeChart;
 
 const hours = value => `${Number(value).toFixed(2)} h`;
 const labelsFor = (keys, period) => keys.map(key => period === "daily" ? key.slice(5) : period === "weekly" ? key.slice(5) : key);
@@ -55,6 +56,51 @@ function renderProjectTable(filter = "") {
     }).join("");
 }
 
+function dateKey(date) {
+    return date.toISOString().slice(0, 10);
+}
+
+function renderSignals() {
+    const days = Object.values(dashboardData.daily);
+    const target = dashboardData.target_hours_per_day;
+    const targetDays = days.filter(value => value >= target).length;
+    const latestKey = Object.keys(dashboardData.daily).at(-1);
+    const latestDate = new Date(`${latestKey}T12:00:00`);
+    let streak = 0;
+    for (let cursor = new Date(latestDate); dashboardData.daily[dateKey(cursor)] > 0; cursor.setDate(cursor.getDate() - 1)) streak += 1;
+    const longest = dashboardData.longest_session;
+    const busiest = Object.entries(dashboardData.daily).sort(([, first], [, second]) => second - first)[0];
+    const signals = [
+        ["Target hit rate", `${days.length ? ((targetDays / days.length) * 100).toFixed(0) : 0}%`, `${targetDays} of ${days.length} active days`],
+        ["Current streak", `${streak} day${streak === 1 ? "" : "s"}`, "consecutive logged days"],
+        ["Longest session", hours(longest.hours), `${longest.date} / ${longest.project}`],
+        ["Busiest day", hours(busiest ? busiest[1] : 0), busiest ? busiest[0] : "No data"],
+    ];
+    document.getElementById("signal-grid").innerHTML = signals.map(([label, value, note]) => `<article class="signal"><span>${label}</span><strong>${value}</strong><small>${note}</small></article>`).join("");
+}
+
+function renderHeatmap() {
+    const keys = Object.keys(dashboardData.daily);
+    const latestDate = new Date(`${keys.at(-1)}T12:00:00`);
+    const startDate = new Date(latestDate);
+    startDate.setDate(startDate.getDate() - 111);
+    const cells = [];
+    for (let index = 0; index < 112; index += 1) {
+        const date = new Date(startDate);
+        date.setDate(startDate.getDate() + index);
+        const value = dashboardData.daily[dateKey(date)] || 0;
+        const level = value === 0 ? 0 : value < 4 ? 1 : value < 7 ? 2 : value < 8.5 ? 3 : 4;
+        cells.push(`<i class="heat-cell level-${level}" title="${dateKey(date)}: ${hours(value)}"></i>`);
+    }
+    document.getElementById("heatmap").innerHTML = cells.join("");
+    document.getElementById("heatmap-range").textContent = `${dateKey(startDate)} / ${dateKey(latestDate)}`;
+}
+
+function renderStartTimes() {
+    const labels = Object.keys(dashboardData.start_hours_time);
+    startTimeChart = new Chart(document.getElementById("start-time-chart"), { type: "bar", data: { labels, datasets: [{ data: Object.values(dashboardData.start_hours_time), backgroundColor: "#5887a8", borderRadius: 2, maxBarThickness: 34 }] }, options: makeChartOptions() });
+}
+
 function renderRecent() {
     document.getElementById("recent-sessions").innerHTML = dashboardData.sessions.map(session => `<tr><td>${session.date}</td><td>${session.project}</td><td class="numeric">${hours(session.hours)}</td></tr>`).join("");
 }
@@ -66,7 +112,7 @@ async function start() {
     document.getElementById("active-days").textContent = dashboardData.active_days;
     document.getElementById("average-day").textContent = hours(dashboardData.total_hours / dashboardData.active_days);
     document.getElementById("updated").textContent = `UPDATED ${dashboardData.generated_at.replace("T", " ")}`;
-    renderTrend(); renderProjects(); renderWeekdays(); renderTarget(); renderSessionShape(); renderProjectTable(); renderRecent();
+    renderTrend(); renderProjects(); renderWeekdays(); renderTarget(); renderSessionShape(); renderProjectTable(); renderSignals(); renderHeatmap(); renderStartTimes(); renderRecent();
     document.querySelectorAll(".period-button").forEach(button => button.addEventListener("click", () => { document.querySelector(".period-button.is-active").classList.remove("is-active"); button.classList.add("is-active"); renderTrend(button.dataset.period); }));
     document.getElementById("project-filter").addEventListener("input", event => renderProjectTable(event.target.value));
 }
