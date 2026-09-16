@@ -516,3 +516,6 @@
 - [12:08] *Dx Pro Designer* (1h 07m): Crashed systems
 - [16:26] *Refrigeration - Development* (1h 16m): Vertical pipe
 - [17:04] *Refrigeration - Development* (36m): Stat event ou placed
+
+* 2026-09-16 onsdag
+- [16:55] *Aquarea - Development* (3h 03m): Aquare react setupt
