@@ -519,3 +519,7 @@
 
 * 2026-09-16 onsdag
 - [16:55] *Aquarea - Development* (3h 03m): Aquare react setupt
+
+* 2026-09-17 torsdag
+- [09:22] *Refrigeration - Development* (0m): Refpro release
+- [09:23] *Dx Pro Designer* (0m): Standup
