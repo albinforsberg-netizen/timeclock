@@ -525,3 +525,4 @@
 - [09:23] *Dx Pro Designer* (0m): Standup
 - [10:31] *Aquarea - Development* (2m): Aquarea dev infra setup
 - [11:02] *Aquarea - Development* (30m): Preview deployment fix
+- [14:30] *Aquarea - Development* (1h 24m): Keycloak setup
