@@ -524,3 +524,4 @@
 - [09:22] *Refrigeration - Development* (0m): Refpro release
 - [09:23] *Dx Pro Designer* (0m): Standup
 - [10:31] *Aquarea - Development* (2m): Aquarea dev infra setup
+- [11:02] *Aquarea - Development* (30m): Preview deployment fix
