@@ -528,3 +528,7 @@
 - [14:30] *Aquarea - Development* (1h 24m): Keycloak setup
 - [16:31] *Aquarea - Development* (2h 01m): Keycloak setup
 - [21:03] *Aquarea - Development* (13m): Keycloak setup
+
+* 2026-09-18 fredag
+- [16:01] *Aquarea - Development* (10m): Promaster setup
+- [16:18] *Refrigeration - Development* (17m): Vertical piping
