@@ -536,3 +536,4 @@
 * 2026-09-21 måndag
 - [09:24] *Aquarea* (1h 23m): test
 - [09:35] *Aquarea* (10m): Promaster setup
+- [11:45] *Refrigeration - Development* (2h 10m): Vertical piping
