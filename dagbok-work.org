@@ -538,3 +538,4 @@
 - [09:35] *Aquarea* (10m): Promaster setup
 - [11:45] *Refrigeration - Development* (2h 10m): Vertical piping
 - [13:10] *Aquarea* (4m): Printout
+- [14:37] *Pana AC Select Develop* (1h 26m): AC-189: Invalid calc
