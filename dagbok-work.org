@@ -545,3 +545,5 @@
 - [09:51] *Refrigeration - Development* (1h 21m): Vertical pipes
 - [10:31] *Aquarea* (39m): Printout service
 - [11:58] *Refrigeration - Development* (1h 27m): @dahl.se investigation
+- [16:04] *Aquarea* (2h 59m): Printout service
+- [16:05] *Aquarea* (0m): Printout service
