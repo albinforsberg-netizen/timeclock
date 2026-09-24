@@ -560,3 +560,6 @@
 - [16:35] *Dx Pro Designer* (12m): .
 - [16:37] *Aquarea* (1m): Printout service
 - [16:49] *Dx Pro Designer* (12m): Wiki
+
+* 2026-09-24 torsdag
+- [09:05] *Refrigeration - Development* (1h 13m): Vertical pipes
