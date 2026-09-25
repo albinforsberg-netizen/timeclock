@@ -574,3 +574,4 @@
 - [09:46] *Refrigeration - Development* (28m): Exchange unit improvements
 - [11:44] *Dx Pro Designer* (1h 58m): Validation for external receiver
 - [14:53] *Dx Pro Designer* (1h 49m): Wiki
+- [16:49] *Refrigeration - Development* (1h 55m): Wiki
