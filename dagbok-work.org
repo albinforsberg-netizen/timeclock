@@ -568,3 +568,6 @@
 - [12:39] *Refrigeration - Development* (1h 17m): CRC210 pipe lenght validation
 - [15:17] *Refrigeration - Development* (1h 54m): External receiver fix
 - [16:23] *Refrigeration - Development* (1h 05m): External reveiver fix
+
+* 2026-09-25 fredag
+- [09:17] *Refrigeration - Development* (30m): External receiver fix
