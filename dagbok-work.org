@@ -575,3 +575,6 @@
 - [11:44] *Dx Pro Designer* (1h 58m): Validation for external receiver
 - [14:53] *Dx Pro Designer* (1h 49m): Wiki
 - [16:49] *Refrigeration - Development* (1h 55m): Wiki
+
+* 2026-09-28 måndag
+- [09:03] *Refrigeration - Development* (0m): External receiver
