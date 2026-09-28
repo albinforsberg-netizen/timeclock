@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-27T10:35+00:00",
-  "total_hours": 1062.48,
-  "session_count": 561,
-  "active_days": 133,
+  "generated_at": "2026-09-28T11:45+00:00",
+  "total_hours": 1095.13,
+  "session_count": 591,
+  "active_days": 137,
   "daily": {
     "2026-02-23": 8.0,
     "2026-02-24": 8.0,
@@ -136,7 +136,11 @@
     "2026-09-16": 8.067222222222222,
     "2026-09-17": 8.522222222222222,
     "2026-09-18": 7.518055555555555,
-    "2026-09-21": 8.040277777777778
+    "2026-09-21": 8.040277777777778,
+    "2026-09-22": 7.5675,
+    "2026-09-23": 8.294999999999998,
+    "2026-09-24": 8.6525,
+    "2026-09-25": 8.126666666666667
   },
   "weekly": {
     "2026-W09": 40.0,
@@ -166,7 +170,7 @@
     "2026-W36": 41.15833333333333,
     "2026-W37": 39.97,
     "2026-W38": 40.42055555555556,
-    "2026-W39": 8.040277777777778
+    "2026-W39": 40.681944444444454
   },
   "monthly": {
     "2026-02": 40.0,
@@ -176,12 +180,12 @@
     "2026-06": 112.8461111111111,
     "2026-07": 125.63527777777774,
     "2026-08": 170.31500000000003,
-    "2026-09": 121.11805555555556
+    "2026-09": 153.75972222222228
   },
   "quarterly": {
     "2026-Q1": 219.23,
     "2026-Q2": 426.1866666666665,
-    "2026-Q3": 417.06833333333356
+    "2026-Q3": 449.71000000000026
   },
   "monthly_projects": {
     "2026-02": {
@@ -220,79 +224,80 @@
       "Refrigeration - Development": 81.91583333333332
     },
     "2026-09": {
-      "Aquarea": 22.7175,
-      "Divid - Internt": 14.493055555555555,
-      "Dx Pro Designer": 36.82472222222222,
+      "Aquarea": 30.7288888888889,
+      "Divid - Internt": 1.0008333333333332,
+      "Divid - Utbildning": 13.492222222222221,
+      "Dx Pro Designer": 44.007777777777775,
       "Pana AC Select Develop": 7.329722222222223,
-      "Refrigeration - Development": 39.75305555555554
+      "Refrigeration - Development": 57.200277777777764
     }
   },
   "projects": {
-    "Dx Pro Designer": 606.4397222222217,
-    "Refrigeration - Development": 279.2972222222225,
-    "Divid - Internt": 142.14194444444445,
-    "Aquarea": 22.7175,
+    "Dx Pro Designer": 613.6227777777772,
+    "Refrigeration - Development": 296.74444444444475,
+    "Divid - Internt": 128.64972222222224,
+    "Aquarea": 30.7288888888889,
+    "Divid - Utbildning": 16.47,
     "Pana AC Select Develop": 8.339444444444444,
-    "Divid - Utbildning": 2.977777777777778,
     "Residential - Development": 0.571388888888889
   },
   "project_sessions": {
-    "Divid - Internt": 41,
-    "Dx Pro Designer": 307,
-    "Divid - Utbildning": 2,
-    "Refrigeration - Development": 188,
+    "Divid - Internt": 39,
+    "Dx Pro Designer": 314,
+    "Divid - Utbildning": 4,
+    "Refrigeration - Development": 202,
     "Residential - Development": 2,
     "Pana AC Select Develop": 6,
-    "Aquarea": 15
+    "Aquarea": 24
   },
   "project_count": 7,
   "weekdays": {
     "Monday": 221.06,
-    "Tuesday": 216.93,
-    "Wednesday": 223.03,
-    "Thursday": 212.98,
-    "Friday": 185.7
+    "Tuesday": 224.5,
+    "Wednesday": 231.33,
+    "Thursday": 221.63,
+    "Friday": 193.83
   },
   "start_hours": {
-    "07:00": 100,
-    "08:00": 51,
-    "09:00": 38,
-    "10:00": 63,
-    "11:00": 39,
-    "12:00": 72,
-    "13:00": 87,
-    "14:00": 35,
-    "15:00": 37,
-    "16:00": 24,
+    "07:00": 103,
+    "08:00": 52,
+    "09:00": 44,
+    "10:00": 66,
+    "11:00": 43,
+    "12:00": 74,
+    "13:00": 90,
+    "14:00": 36,
+    "15:00": 40,
+    "16:00": 27,
     "17:00": 2,
-    "20:00": 4,
+    "20:00": 5,
     "21:00": 4,
     "22:00": 4,
     "23:00": 1
   },
   "start_hours_time": {
-    "07:00": 313.73,
-    "08:00": 110.89,
-    "09:00": 48.16,
-    "10:00": 69.46,
-    "11:00": 29.37,
-    "12:00": 151.84,
-    "13:00": 214.45,
-    "14:00": 58.29,
-    "15:00": 39.65,
-    "16:00": 14.24,
+    "07:00": 317.54,
+    "08:00": 112.25,
+    "09:00": 53.89,
+    "10:00": 72.72,
+    "11:00": 32.69,
+    "12:00": 153.82,
+    "13:00": 220.86,
+    "14:00": 60.22,
+    "15:00": 43.0,
+    "16:00": 14.94,
     "17:00": 1.55,
-    "20:00": 3.45,
+    "20:00": 4.24,
     "21:00": 2.15,
     "22:00": 4.75,
     "23:00": 0.51
   },
   "session_buckets": {
     "4+ hours": 71,
-    "2-4 hours": 142,
-    "Under 30 min": 75,
-    "1-2 hours": 155,
-    "30-60 min": 118
+    "2-4 hours": 144,
+    "Under 30 min": 83,
+    "1-2 hours": 171,
+    "30-60 min": 122
   },
   "daily_sessions": {
     "2026-02-23": 2,
@@ -427,7 +432,11 @@
     "2026-09-16": 7,
     "2026-09-17": 8,
     "2026-09-18": 4,
-    "2026-09-21": 6
+    "2026-09-21": 6,
+    "2026-09-22": 7,
+    "2026-09-23": 9,
+    "2026-09-24": 8,
+    "2026-09-25": 6
   },
   "daily_projects": {
     "2026-02-23": 1,
@@ -562,121 +571,125 @@
     "2026-09-16": 2,
     "2026-09-17": 3,
     "2026-09-18": 2,
-    "2026-09-21": 3
+    "2026-09-21": 3,
+    "2026-09-22": 2,
+    "2026-09-23": 3,
+    "2026-09-24": 2,
+    "2026-09-25": 2
   },
   "weekend_hours": 2.78,
   "weekend_sessions": 4,
   "session_stats": {
-    "average": 1.89,
-    "median": 1.43,
+    "average": 1.85,
+    "median": 1.39,
     "shortest": 0.0
   },
   "target_hours_per_day": 8,
   "longest_session": {
     "date": "2026-09-11",
-    "project": "Divid - Internt",
+    "project": "Divid - Utbildning",
     "hours": 8.0
   },
   "sessions": [
     {
-      "date": "2026-09-21",
-      "project": "Aquarea",
-      "hours": 2.14
-    },
-    {
-      "date": "2026-09-21",
-      "project": "Pana AC Select Develop",
-      "hours": 1.44
-    },
-    {
-      "date": "2026-09-21",
-      "project": "Aquarea",
-      "hours": 0.08
-    },
-    {
-      "date": "2026-09-21",
-      "project": "Aquarea",
-      "hours": 0.54
-    },
-    {
-      "date": "2026-09-21",
-      "project": "Refrigeration - Development",
-      "hours": 2.18
-    },
-    {
-      "date": "2026-09-21",
-      "project": "Aquarea",
-      "hours": 1.66
-    },
-    {
-      "date": "2026-09-18",
-      "project": "Refrigeration - Development",
-      "hours": 0.49
-    },
-    {
-      "date": "2026-09-18",
-      "project": "Aquarea",
-      "hours": 0.18
-    },
-    {
-      "date": "2026-09-18",
-      "project": "Aquarea",
-      "hours": 2.56
-    },
-    {
-      "date": "2026-09-18",
-      "project": "Aquarea",
-      "hours": 4.29
-    },
-    {
-      "date": "2026-09-17",
-      "project": "Aquarea",
-      "hours": 0.68
-    },
-    {
-      "date": "2026-09-17",
-      "project": "Aquarea",
-      "hours": 2.03
-    },
-    {
-      "date": "2026-09-17",
-      "project": "Aquarea",
-      "hours": 1.41
-    },
-    {
-      "date": "2026-09-17",
-      "project": "Aquarea",
-      "hours": 1.39
-    },
-    {
-      "date": "2026-09-17",
-      "project": "Refrigeration - Development",
-      "hours": 0.52
-    },
-    {
-      "date": "2026-09-17",
-      "project": "Aquarea",
-      "hours": 1.49
-    },
-    {
-      "date": "2026-09-17",
+      "date": "2026-09-25",
       "project": "Dx Pro Designer",
-      "hours": 0.51
+      "hours": 1.92
     },
     {
-      "date": "2026-09-17",
+      "date": "2026-09-25",
+      "project": "Dx Pro Designer",
+      "hours": 1.91
+    },
+    {
+      "date": "2026-09-25",
+      "project": "Dx Pro Designer",
+      "hours": 0.3
+    },
+    {
+      "date": "2026-09-25",
       "project": "Refrigeration - Development",
-      "hours": 0.51
+      "hours": 1.97
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-09-25",
+      "project": "Refrigeration - Development",
+      "hours": 0.48
+    },
+    {
+      "date": "2026-09-25",
+      "project": "Refrigeration - Development",
+      "hours": 1.54
+    },
+    {
+      "date": "2026-09-24",
+      "project": "Refrigeration - Development",
+      "hours": 0.79
+    },
+    {
+      "date": "2026-09-24",
+      "project": "Refrigeration - Development",
+      "hours": 1.38
+    },
+    {
+      "date": "2026-09-24",
+      "project": "Refrigeration - Development",
+      "hours": 1.62
+    },
+    {
+      "date": "2026-09-24",
+      "project": "Refrigeration - Development",
+      "hours": 0.07
+    },
+    {
+      "date": "2026-09-24",
+      "project": "Refrigeration - Development",
+      "hours": 1.29
+    },
+    {
+      "date": "2026-09-24",
+      "project": "Dx Pro Designer",
+      "hours": 1.15
+    },
+    {
+      "date": "2026-09-24",
+      "project": "Dx Pro Designer",
+      "hours": 1.12
+    },
+    {
+      "date": "2026-09-24",
+      "project": "Refrigeration - Development",
+      "hours": 1.23
+    },
+    {
+      "date": "2026-09-23",
+      "project": "Dx Pro Designer",
+      "hours": 0.31
+    },
+    {
+      "date": "2026-09-23",
       "project": "Aquarea",
-      "hours": 3.06
+      "hours": 0.24
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-09-23",
+      "project": "Aquarea",
+      "hours": 0.95
+    },
+    {
+      "date": "2026-09-23",
       "project": "Refrigeration - Development",
-      "hours": 0.67
+      "hours": 2.32
+    },
+    {
+      "date": "2026-09-23",
+      "project": "Refrigeration - Development",
+      "hours": 1.28
+    },
+    {
+      "date": "2026-09-23",
+      "project": "Refrigeration - Development",
+      "hours": 0.66
     }
   ]
 }
