@@ -579,3 +579,4 @@
 * 2026-09-28 måndag
 - [09:03] *Refrigeration - Development* (0m): External receiver
 - [14:38] *Aquarea* (1h 34m): Projects
+- [14:57] *Pana AC Select Develop* (19m): Meeting
