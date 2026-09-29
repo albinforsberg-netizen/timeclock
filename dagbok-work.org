@@ -589,3 +589,4 @@
 - [11:27] *Pana AC Select Develop* (22m): Plan meeting
 - [11:48] *Pana AC Select Develop* (21m): tbd
 - [13:40] *Refrigeration - Development* (34m): OCU-CRC150 validation fix
+- [16:09] *Refrigeration - Development* (2h 29m): Pipe drag crash
