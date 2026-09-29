@@ -582,3 +582,6 @@
 - [14:57] *Pana AC Select Develop* (19m): Meeting
 - [15:52] *Aquarea* (54m): Projects
 - [16:54] *Pana AC Select Develop* (1h 01m): AC_tbd: price excel
+
+* 2026-09-29 tisdag
+- [08:58] *Aquarea* (29m): Standup
