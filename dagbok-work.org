@@ -597,3 +597,4 @@
 - [10:09] *Aquarea* (25m): Aquarea
 - [10:51] *Aquarea* (41m): proejcts
 - [11:01] *Refrigeration - Development* (10m): Refpro weekly
+- [13:11] *Refrigeration - Development* (12m): Project link in printout
