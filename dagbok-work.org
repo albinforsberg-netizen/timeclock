@@ -600,3 +600,7 @@
 - [13:11] *Refrigeration - Development* (12m): Project link in printout
 - [15:37] *Aquarea* (2h 25m): Projects
 - [17:00] *Aquarea* (1h 22m): Projects
+
+* 2026-10-01 torsdag
+- [08:53] *Aquarea* (1h 23m): Shell
+- [09:05] *Dx Pro Designer* (12m): System/project link printout
