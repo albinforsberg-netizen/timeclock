@@ -608,3 +608,6 @@
 - [15:54] *Divid - Internt* (1h 00m): Månadsmöte
 - [16:19] *Aquarea* (24m): Climat data
 - [16:50] *Refrigeration - Development* (30m): OCU-LRC100M08 cooling capacity
+
+* 2026-10-02 fredag
+- [09:35] *Refrigeration - Development* (1h 28m): Cooling capacity check
