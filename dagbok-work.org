@@ -612,3 +612,4 @@
 * 2026-10-02 fredag
 - [09:35] *Refrigeration - Development* (1h 28m): Cooling capacity check
 - [13:20] *Aquarea* (23m): Climat data
+- [15:13] *Refrigeration - Development* (1h 52m): Cooling capacity fix
