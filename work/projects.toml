@@ -1,0 +1,41 @@
+[acselect]
+export_code = "Pana AC Select Develop"
+rounding = 0.5
+round_up = true
+active = true
+
+[aquarea]
+export_code = "aquarea"
+rounding = 0.5
+round_up = false
+active = true
+
+[dxpro]
+export_code = "Dx Pro Designer"
+rounding = 0.5
+round_up = true
+active = true
+
+[intern]
+export_code = "Divid - Internt"
+rounding = 0.5
+round_up = false
+active = true
+
+[refpro]
+export_code = "Refrigeration - Development"
+rounding = 0.5
+round_up = true
+active = true
+
+[utbildning]
+export_code = "Divid - Utbildning"
+rounding = 0.5
+round_up = false
+active = true
+
+[ventpro]
+export_code = "Residential - Development"
+rounding = 0.5
+round_up = false
+active = true
