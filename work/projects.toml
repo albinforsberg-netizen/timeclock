@@ -7,13 +7,13 @@ active = true
 [aquarea]
 export_code = "aquarea"
 rounding = 0.5
-round_up = false
+round_up = true
 active = true
 
 [dxpro]
 export_code = "Dx Pro Designer"
 rounding = 0.5
-round_up = true
+round_up = false
 active = true
 
 [intern]
