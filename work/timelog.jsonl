@@ -1281,7 +1281,8 @@
 {"ev":"in","t":"2026-10-05T15:53:53","project":"refpro"}
 {"ev":"out","t":"2026-10-05T16:34:58","note":"Fix preview redirects"}
 {"ev":"in","t":"2026-10-05T16:34:58","project":"acselect"}
-{"ev":"out","t":"2026-10-05T16:35:16","note":"Show default values"}
+{"ev":"out","t":"2026-10-05T16:35:16","note":"Default values"}
 {"ev":"in","t":"2026-10-05T16:35:16","project":"dxpro"}
 {"ev":"out","t":"2026-10-05T16:35:29","note":"Printouts"}
 {"ev":"in","t":"2026-10-05T16:35:29","project":"acselect"}
+{"ev":"out","t":"2026-10-05T16:57:57","note":"Default values"}
