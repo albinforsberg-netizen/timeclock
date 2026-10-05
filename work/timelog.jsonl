@@ -1276,3 +1276,4 @@
 {"ev":"out","t":"2026-10-05T14:32:03","note":"Show default values"}
 {"ev":"in","t":"2026-10-05T14:32:03","project":"refpro"}
 {"ev":"out","t":"2026-10-05T14:50:48","note":"Vertical wire deploy fix"}
+{"ev":"in","t":"2026-10-05T14:50:48","project":"acselect"}
