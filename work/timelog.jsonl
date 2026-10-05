@@ -1273,14 +1273,15 @@
 {"ev":"in","t":"2026-10-05T11:31:09","project":"aquarea"}
 {"ev":"break","t":"2026-10-05T12:00:26"}
 {"ev":"in","t":"2026-10-05T12:59:50","project":"acselect"}
-{"ev":"out","t":"2026-10-05T14:32:03","note":"Show default values"}
+{"ev":"out","t":"2026-10-05T14:32:03","note":"Default values"}
 {"ev":"in","t":"2026-10-05T14:32:03","project":"refpro"}
 {"ev":"out","t":"2026-10-05T14:50:48","note":"Vertical wire deploy fix"}
 {"ev":"in","t":"2026-10-05T14:50:48","project":"acselect"}
-{"ev":"out","t":"2026-10-05T15:53:52","note":"Show default values"}
+{"ev":"out","t":"2026-10-05T15:53:52","note":"Default values"}
 {"ev":"in","t":"2026-10-05T15:53:53","project":"refpro"}
 {"ev":"out","t":"2026-10-05T16:34:58","note":"Fix preview redirects"}
 {"ev":"in","t":"2026-10-05T16:34:58","project":"acselect"}
 {"ev":"out","t":"2026-10-05T16:35:16","note":"Show default values"}
 {"ev":"in","t":"2026-10-05T16:35:16","project":"dxpro"}
 {"ev":"out","t":"2026-10-05T16:35:29","note":"Printouts"}
+{"ev":"in","t":"2026-10-05T16:35:29","project":"acselect"}
