@@ -1292,3 +1292,5 @@
 {"ev":"break","t":"2026-10-06T12:04:05"}
 {"ev":"in","t":"2026-10-06T12:59:09","project":"aquarea"}
 {"ev":"out","t":"2026-10-06T13:04:14","note":"Promaster"}
+{"ev":"in","t":"2026-10-06T13:04:14","project":"acselect"}
+{"ev":"out","t":"2026-10-06T15:44:54","note":"Default values"}
