@@ -542,3 +542,53 @@
 {"start":"2026-10-07T15:04:30","end":"2026-10-07T15:04:35","app":"Visual Studio Code","title":"texts.tsx - diaq-app-pana [WSL: Ubuntu] - Visual Studio Code"}
 {"start":"2026-10-07T15:04:35","end":"2026-10-07T15:04:50","app":"Visual Studio Code","title":"properties-selector.tsx - diaq-app-pana [WSL: Ubuntu] - Visual Studio Code"}
 {"start":"2026-10-07T15:04:50","end":"2026-10-07T15:06:02","app":"Margin","title":"Margin"}
+{"start":"2026-10-07T15:11:25","end":"2026-10-07T15:11:30","app":"Margin","title":"Margin"}
+{"start":"2026-10-07T15:11:30","end":"2026-10-07T15:11:40","app":"Microsoft Teams","title":"Calendar | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-07T15:11:40","end":"2026-10-07T15:11:45","app":"Microsoft Teams","title":"Calendar | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-07T15:11:45","end":"2026-10-07T15:12:05","app":"Microsoft Teams","title":"Chatt | PRD_VRF-Designer+_PAPAEU | DX PRO - Error Posts | Panasonic Europe | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-07T15:12:05","end":"2026-10-07T15:12:10","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-07T15:12:10","end":"2026-10-07T15:12:25","app":"Firefox","title":"[DCC-140] Default values not updating when another value is changed and changing unit size - Jira — Mozilla Firefox"}
+{"start":"2026-10-07T15:12:25","end":"2026-10-07T15:14:10","app":"Visual Studio Code","title":"properties-selector.tsx - diaq-app-pana [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T15:14:10","end":"2026-10-07T15:14:15","app":"Microsoft Teams","title":"Chatt | PRD_VRF-Designer+_PAPAEU | DX PRO - Error Posts | Panasonic Europe | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-07T15:14:15","end":"2026-10-07T15:15:10","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-07T15:15:10","end":"2026-10-07T15:15:15","app":"Firefox","title":"Develop — Mozilla Firefox"}
+{"start":"2026-10-07T15:15:15","end":"2026-10-07T15:15:20","app":"Firefox","title":"Sign in to acselect — Mozilla Firefox"}
+{"start":"2026-10-07T15:15:20","end":"2026-10-07T15:15:25","app":"Firefox","title":"Panasonic PRO Club — Mozilla Firefox"}
+{"start":"2026-10-07T15:15:25","end":"2026-10-07T15:15:45","app":"Firefox","title":"Develop — Mozilla Firefox"}
+{"start":"2026-10-07T15:15:45","end":"2026-10-07T15:15:50","app":"Firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-07T15:15:50","end":"2026-10-07T15:15:55","app":"Firefox","title":"No Product Selected — Mozilla Firefox"}
+{"start":"2026-10-07T15:15:55","end":"2026-10-07T15:16:00","app":"Firefox","title":"EXPORT_META-Texts — Mozilla Firefox"}
+{"start":"2026-10-07T15:16:00","end":"2026-10-07T15:16:35","app":"Firefox","title":"DIAQ_META-Texts — Mozilla Firefox"}
+{"start":"2026-10-07T15:16:35","end":"2026-10-07T15:16:40","app":"Firefox","title":"No Product Selected — Mozilla Firefox"}
+{"start":"2026-10-07T15:16:40","end":"2026-10-07T15:17:10","app":"Firefox","title":"DIAQ_META-Texts — Mozilla Firefox"}
+{"start":"2026-10-07T15:17:10","end":"2026-10-07T15:17:20","app":"Firefox","title":"Publish — Mozilla Firefox"}
+{"start":"2026-10-07T15:17:20","end":"2026-10-07T15:18:35","app":"Firefox","title":"Develop — Mozilla Firefox"}
+{"start":"2026-10-07T15:18:35","end":"2026-10-07T15:18:40","app":"Visual Studio Code","title":"properties-selector.tsx - diaq-app-pana [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T15:18:40","end":"2026-10-07T15:19:25","app":"Visual Studio Code","title":"● properties-selector.tsx - diaq-app-pana [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T15:19:25","end":"2026-10-07T15:19:50","app":"Visual Studio Code","title":"properties-selector.tsx - diaq-app-pana [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T15:19:50","end":"2026-10-07T15:19:55","app":"Firefox","title":"Develop — Mozilla Firefox"}
+{"start":"2026-10-07T15:19:55","end":"2026-10-07T15:20:00","app":"ShareX","title":"ShareX - Region capture"}
+{"start":"2026-10-07T15:20:00","end":"2026-10-07T15:20:10","app":"Firefox","title":"Develop — Mozilla Firefox"}
+{"start":"2026-10-07T15:20:10","end":"2026-10-07T15:20:15","app":"ShareX","title":"ShareX - Region capture"}
+{"start":"2026-10-07T15:20:15","end":"2026-10-07T15:20:25","app":"Firefox","title":"Develop — Mozilla Firefox"}
+{"start":"2026-10-07T15:20:25","end":"2026-10-07T15:21:00","app":"Firefox","title":"[DCC-140] Default values not updating when another value is changed and changing unit size - Jira — Mozilla Firefox"}
+{"start":"2026-10-07T15:21:00","end":"2026-10-07T15:21:05","app":"Firefox","title":"Jira — Mozilla Firefox"}
+{"start":"2026-10-07T15:21:05","end":"2026-10-07T15:21:55","app":"Firefox","title":"[DCC-140] Default values not updating when another value is changed and changing unit size - Jira — Mozilla Firefox"}
+{"start":"2026-10-07T15:21:55","end":"2026-10-07T15:22:05","app":"ShareX","title":"ShareX - Region capture"}
+{"start":"2026-10-07T15:22:05","end":"2026-10-07T15:22:10","app":"Firefox","title":"Develop — Mozilla Firefox"}
+{"start":"2026-10-07T15:22:10","end":"2026-10-07T15:23:55","app":"Firefox","title":"[DCC-140] Default values not updating when another value is changed and changing unit size - Jira — Mozilla Firefox"}
+{"start":"2026-10-07T15:23:55","end":"2026-10-07T15:24:30","app":"Microsoft Teams","title":"Chatt | Månadsmöte | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-07T15:24:30","end":"2026-10-07T15:25:25","app":"Firefox","title":"[DCC-140] Default values not updating when another value is changed and changing unit size - Jira — Mozilla Firefox"}
+{"start":"2026-10-07T15:25:25","end":"2026-10-07T15:25:30","app":"Visual Studio Code","title":"● properties-selector.tsx - diaq-app-pana [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T15:25:30","end":"2026-10-07T15:25:45","app":"Visual Studio Code","title":"properties-selector.tsx - diaq-app-pana [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T15:25:45","end":"2026-10-07T15:25:50","app":"Firefox","title":"[DCC-140] Default values not updating when another value is changed and changing unit size - Jira — Mozilla Firefox"}
+{"start":"2026-10-07T15:25:50","end":"2026-10-07T15:25:55","app":"ShareX","title":"ShareX - Region capture"}
+{"start":"2026-10-07T15:25:55","end":"2026-10-07T15:26:00","app":"Firefox","title":"Develop — Mozilla Firefox"}
+{"start":"2026-10-07T15:26:00","end":"2026-10-07T15:26:25","app":"Firefox","title":"[DCC-140] Default values not updating when another value is changed and changing unit size - Jira — Mozilla Firefox"}
+{"start":"2026-10-07T15:26:25","end":"2026-10-07T15:26:30","app":"Google Chrome","title":"Sign in to dxpro - Google Chrome"}
+{"start":"2026-10-07T15:26:30","end":"2026-10-07T15:26:35","app":"Google Chrome","title":"Ny flik - Google Chrome"}
+{"start":"2026-10-07T15:26:35","end":"2026-10-07T15:26:40","app":"Google Chrome","title":"fond engelska - Google Search - Google Chrome"}
+{"start":"2026-10-07T15:26:40","end":"2026-10-07T15:26:50","app":"Utforskaren","title":""}
+{"start":"2026-10-07T15:26:50","end":"2026-10-07T15:29:00","app":"Firefox","title":"[DCC-140] Default values not updating when another value is changed and changing unit size - Jira — Mozilla Firefox"}
+{"start":"2026-10-07T15:29:00","end":"2026-10-07T15:30:30","app":"Visual Studio Code","title":"properties-selector.tsx - diaq-app-pana [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T15:30:30","end":"2026-10-07T15:31:15","app":"Firefox","title":"[DCC-140] Default values not updating when another value is changed and changing unit size - Jira — Mozilla Firefox"}
