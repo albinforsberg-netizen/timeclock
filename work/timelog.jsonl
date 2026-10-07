@@ -1317,4 +1317,5 @@
 {"ev":"in","t":"2026-10-07T12:58:25","project":"refpro"}
 {"ev":"out","t":"2026-10-07T13:15:00","note":"Exclusion filter statistics"}
 {"ev":"in","t":"2026-10-07T13:15:01","project":"refpro"}
-{"ev":"out","t":"2026-10-07T15:04:58","note":"Window component"}
+{"ev":"out","t":"2026-10-07T14:50:58","note":"Window component"}
+{"ev":"in","t":"2026-10-07T14:50:59","project":"acselect"}
