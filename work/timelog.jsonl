@@ -1305,10 +1305,13 @@
 {"ev":"in","t":"2026-10-07T09:00:26","project":"dxpro"}
 {"ev":"out","t":"2026-10-07T09:39:52","note":"dxpro weekly"}
 {"ev":"in","t":"2026-10-07T09:39:52","project":"dxpro"}
-{"ev":"out","t":"2026-10-07T10:03:33","note":"todo"}
+{"ev":"out","t":"2026-10-07T10:03:16","note":"Printouts"}
 {"ev":"in","t":"2026-10-07T10:03:33","project":"refpro"}
 {"ev":"out","t":"2026-10-07T10:17:26","note":"Meeting"}
 {"ev":"in","t":"2026-10-07T10:17:27","project":"dxpro"}
-{"ev":"out","t":"2026-10-07T10:32:20","note":"todo"}
+{"ev":"out","t":"2026-10-07T10:32:27","note":"Printouts"}
 {"ev":"in","t":"2026-10-07T10:32:21","project":"refpro"}
 {"ev":"out","t":"2026-10-07T11:05:21","note":"Refpro weekly"}
+{"ev":"in","t":"2026-10-07T11:05:21","project":"refpro"}
+{"ev":"break","t":"2026-10-07T12:09:26"}
+{"ev":"in","t":"2026-10-07T12:58:25","project":"refpro"}
