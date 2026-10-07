@@ -662,3 +662,40 @@
 {"start":"2026-10-07T16:09:07","end":"2026-10-07T16:09:52","app":"Margin","title":"Margin"}
 {"start":"2026-10-07T16:09:52","end":"2026-10-07T16:09:57","app":"SearchHost","title":"Sök"}
 {"start":"2026-10-07T16:09:57","end":"2026-10-07T16:10:02","app":"Windows Start Experience Host","title":"Start"}
+{"start":"2026-10-07T21:57:58","end":"2026-10-07T21:58:03","app":"Slack","title":"* panasonic (Channel) - Divid - 1 new item - Slack"}
+{"start":"2026-10-07T21:58:03","end":"2026-10-07T21:58:08","app":"Margin","title":"Margin"}
+{"start":"2026-10-07T21:58:08","end":"2026-10-07T21:58:13","app":"Firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-07T21:58:13","end":"2026-10-07T21:58:53","app":"Margin","title":"Margin"}
+{"start":"2026-10-07T21:58:53","end":"2026-10-07T21:58:58","app":"Visual Studio Code","title":"window.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T21:58:58","end":"2026-10-07T21:59:03","app":"Microsoft Teams","title":"Calendar | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-07T21:59:03","end":"2026-10-07T21:59:08","app":"Margin","title":"Margin"}
+{"start":"2026-10-07T21:59:08","end":"2026-10-07T21:59:23","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-07T21:59:23","end":"2026-10-07T21:59:28","app":"Visual Studio Code","title":"window.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T21:59:28","end":"2026-10-07T22:00:13","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-07T22:00:13","end":"2026-10-07T22:00:38","app":"Visual Studio Code","title":"window.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T22:00:38","end":"2026-10-07T22:01:03","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-07T22:01:03","end":"2026-10-07T22:01:08","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-07T22:01:08","end":"2026-10-07T22:01:13","app":"Firefox","title":"Panasonic PRO Club — Mozilla Firefox"}
+{"start":"2026-10-07T22:01:13","end":"2026-10-07T22:01:23","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-07T22:01:23","end":"2026-10-07T22:01:43","app":"Visual Studio Code","title":"window.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T22:01:43","end":"2026-10-07T22:01:53","app":"Visual Studio Code","title":"modal.module.css - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T22:01:53","end":"2026-10-07T22:02:18","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-07T22:02:18","end":"2026-10-07T22:02:38","app":"Visual Studio Code","title":"modal.module.css - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T22:02:38","end":"2026-10-07T22:02:48","app":"Visual Studio Code","title":"window.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T22:02:48","end":"2026-10-07T22:03:03","app":"Visual Studio Code","title":"modal.tsx (Working Tree) (modal.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T22:03:03","end":"2026-10-07T22:03:08","app":"Visual Studio Code","title":"window.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T22:03:08","end":"2026-10-07T22:03:18","app":"Visual Studio Code","title":"modal.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T22:03:18","end":"2026-10-07T22:03:23","app":"Visual Studio Code","title":"window.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T22:03:23","end":"2026-10-07T22:03:33","app":"Visual Studio Code","title":"● modal.module.css - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T22:03:33","end":"2026-10-07T22:03:43","app":"Visual Studio Code","title":"modal.module.css (Working Tree) (modal.module.css) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T22:03:43","end":"2026-10-07T22:03:53","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-07T22:03:53","end":"2026-10-07T22:03:58","app":"Visual Studio Code","title":"modal.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T22:03:58","end":"2026-10-07T22:04:03","app":"Visual Studio Code","title":"modal.module.css - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T22:04:03","end":"2026-10-07T22:04:18","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-07T22:04:18","end":"2026-10-07T22:04:23","app":"Visual Studio Code","title":"modal.module.css - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T22:04:23","end":"2026-10-07T22:04:28","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-07T22:04:28","end":"2026-10-07T22:04:33","app":"Visual Studio Code","title":"state.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T22:04:33","end":"2026-10-07T22:04:43","app":"Visual Studio Code","title":"modals.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T22:04:43","end":"2026-10-07T22:04:53","app":"Visual Studio Code","title":"right-column.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-07T22:04:53","end":"2026-10-07T22:05:43","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-07T22:05:43","end":"2026-10-07T22:05:48","app":"Visual Studio Code","title":"texts.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
