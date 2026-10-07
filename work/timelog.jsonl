@@ -1315,3 +1315,4 @@
 {"ev":"in","t":"2026-10-07T11:05:21","project":"refpro"}
 {"ev":"break","t":"2026-10-07T12:09:26"}
 {"ev":"in","t":"2026-10-07T12:58:25","project":"refpro"}
+{"ev":"out","t":"2026-10-07T13:15:00","note":"Exclusion filter statistics"}
