@@ -1306,3 +1306,5 @@
 {"ev":"out","t":"2026-10-07T09:39:52","note":"dxpro weekly"}
 {"ev":"in","t":"2026-10-07T09:39:52","project":"dxpro"}
 {"ev":"out","t":"2026-10-07T10:03:33","note":"todo"}
+{"ev":"in","t":"2026-10-07T10:03:33","project":"refpro"}
+{"ev":"out","t":"2026-10-07T10:17:26","note":"Meeting"}
