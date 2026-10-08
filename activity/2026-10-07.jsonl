@@ -727,3 +727,6 @@
 {"start":"2026-10-07T22:15:49","end":"2026-10-07T22:16:44","app":"Margin","title":"Margin"}
 {"start":"2026-10-07T22:16:44","end":"2026-10-07T22:16:59","app":"Aktivitetshanteraren","title":"Aktivitetshanteraren"}
 {"start":"2026-10-07T22:16:59","end":"2026-10-07T22:17:04","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-07T22:17:04","end":"2026-10-07T22:17:59","app":"Margin","title":"Margin"}
+{"start":"2026-10-07T22:17:59","end":"2026-10-07T22:18:14","app":"Microsoft Outlook","title":"Jira - Albin Forsberg - Outlook"}
+{"start":"2026-10-07T22:18:14","end":"2026-10-07T22:18:19","app":"Windows Start Experience Host","title":"Start"}
