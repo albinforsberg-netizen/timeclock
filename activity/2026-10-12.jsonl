@@ -796,3 +796,6 @@
 {"start":"2026-10-12T15:19:59","end":"2026-10-12T15:20:04","app":"Microsoft Teams","title":"Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
 {"start":"2026-10-12T15:20:04","end":"2026-10-12T15:20:59","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
 {"start":"2026-10-12T15:20:59","end":"2026-10-12T15:21:04","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-12T15:21:04","end":"2026-10-12T15:21:19","app":"Margin","title":"Margin"}
+{"start":"2026-10-12T15:21:19","end":"2026-10-12T15:21:29","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-12T15:21:29","end":"2026-10-12T15:21:44","app":"Firefox","title":"Reduce printout memory: resvg instead of puppeteer, fix Chromium leak and queue timeout (!190) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
