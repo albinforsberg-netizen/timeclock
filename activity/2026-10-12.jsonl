@@ -412,3 +412,105 @@
 {"start":"2026-10-12T12:53:43","end":"2026-10-12T12:53:53","app":"Microsoft Outlook","title":"Inbox - Albin Forsberg - Outlook"}
 {"start":"2026-10-12T12:53:53","end":"2026-10-12T12:53:58","app":"Margin","title":"Margin"}
 {"start":"2026-10-12T12:53:58","end":"2026-10-12T12:54:08","app":"Microsoft Outlook","title":"Inbox - Albin Forsberg - Outlook"}
+{"start":"2026-10-12T12:54:08","end":"2026-10-12T12:55:53","app":"Microsoft Outlook","title":"Settings - Albin Forsberg - Outlook"}
+{"start":"2026-10-12T12:55:53","end":"2026-10-12T12:56:03","app":"Microsoft Outlook","title":"Gitlab - Albin Forsberg - Outlook"}
+{"start":"2026-10-12T12:56:03","end":"2026-10-12T12:56:08","app":"Microsoft Outlook","title":"Archive - Albin Forsberg - Outlook"}
+{"start":"2026-10-12T12:56:08","end":"2026-10-12T12:56:18","app":"Margin","title":"Margin"}
+{"start":"2026-10-12T12:56:18","end":"2026-10-12T12:56:23","app":"Firefox","title":"Panasonic PRO Club — Mozilla Firefox"}
+{"start":"2026-10-12T12:56:23","end":"2026-10-12T12:56:38","app":"Firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-12T12:56:38","end":"2026-10-12T12:56:43","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-12T12:56:43","end":"2026-10-12T12:56:53","app":"Visual Studio Code","title":"project.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-12T12:56:53","end":"2026-10-12T12:57:08","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-12T12:57:08","end":"2026-10-12T12:57:13","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-12T12:57:13","end":"2026-10-12T12:57:18","app":"Firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-10-12T12:57:18","end":"2026-10-12T12:57:23","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-12T12:57:23","end":"2026-10-12T12:57:38","app":"Firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-12T12:57:38","end":"2026-10-12T12:58:08","app":"Firefox","title":"Reduce printout memory: resvg instead of puppeteer, fix Chromium leak and queue timeout (!190) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-12T12:58:08","end":"2026-10-12T12:58:18","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-12T12:58:18","end":"2026-10-12T12:58:23","app":"Visual Studio Code","title":"project.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-12T12:58:23","end":"2026-10-12T12:58:43","app":"Firefox","title":"sys-Properties — Mozilla Firefox"}
+{"start":"2026-10-12T12:58:43","end":"2026-10-12T12:58:58","app":"Firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-12T12:58:58","end":"2026-10-12T12:59:03","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-12T12:59:03","end":"2026-10-12T12:59:18","app":"Firefox","title":"Panasonic PRO Club — Mozilla Firefox"}
+{"start":"2026-10-12T12:59:18","end":"2026-10-12T12:59:23","app":"Firefox","title":"Panasonic Heating and cooling — Mozilla Firefox"}
+{"start":"2026-10-12T12:59:23","end":"2026-10-12T12:59:38","app":"Firefox","title":"Panasonic PRO Club — Mozilla Firefox"}
+{"start":"2026-10-12T12:59:38","end":"2026-10-12T12:59:43","app":"Firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-12T12:59:43","end":"2026-10-12T12:59:53","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-12T12:59:53","end":"2026-10-12T13:00:08","app":"Microsoft Teams","title":"Chatt | Månadsmöte | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-12T13:00:08","end":"2026-10-12T13:00:23","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-12T13:00:23","end":"2026-10-12T13:00:33","app":"Microsoft Excel","title":"Aquarea heating load.xlsx - Excel"}
+{"start":"2026-10-12T13:00:33","end":"2026-10-12T13:00:43","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-12T13:00:43","end":"2026-10-12T13:01:03","app":"Microsoft Excel","title":"Aquarea heating load.xlsx - Excel"}
+{"start":"2026-10-12T13:01:03","end":"2026-10-12T13:01:28","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-12T13:01:28","end":"2026-10-12T13:02:03","app":"Microsoft Excel","title":"Aquarea heating load.xlsx - Excel"}
+{"start":"2026-10-12T13:02:03","end":"2026-10-12T13:02:13","app":"Microsoft Excel","title":"Infoga diagram"}
+{"start":"2026-10-12T13:02:13","end":"2026-10-12T13:02:48","app":"Microsoft Excel","title":"Aquarea heating load.xlsx - Excel"}
+{"start":"2026-10-12T13:02:48","end":"2026-10-12T13:03:13","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-12T13:03:13","end":"2026-10-12T13:03:18","app":"Microsoft Excel","title":"Aquarea heating load.xlsx - Excel"}
+{"start":"2026-10-12T13:03:18","end":"2026-10-12T13:03:28","app":"Microsoft Excel","title":"Diagramfiltrering"}
+{"start":"2026-10-12T13:03:28","end":"2026-10-12T13:03:48","app":"Microsoft Excel","title":"Aquarea heating load.xlsx - Excel"}
+{"start":"2026-10-12T13:03:48","end":"2026-10-12T13:03:58","app":"Microsoft Excel","title":"Infoga diagram"}
+{"start":"2026-10-12T13:03:58","end":"2026-10-12T13:04:48","app":"Microsoft Excel","title":"Aquarea heating load.xlsx - Excel"}
+{"start":"2026-10-12T13:04:48","end":"2026-10-12T13:05:03","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-12T13:05:03","end":"2026-10-12T13:05:08","app":"Visual Studio Code","title":"project.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-12T13:05:08","end":"2026-10-12T13:05:33","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-12T13:05:33","end":"2026-10-12T13:05:43","app":"Utforskaren","title":"Hämtade filer – Utforskaren"}
+{"start":"2026-10-12T13:05:43","end":"2026-10-12T13:05:53","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-12T13:05:53","end":"2026-10-12T13:06:23","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-12T13:06:23","end":"2026-10-12T13:06:54","app":"Microsoft Excel","title":"Aquarea heating load.xlsx - Excel"}
+{"start":"2026-10-12T13:06:54","end":"2026-10-12T13:07:19","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-12T13:07:19","end":"2026-10-12T13:08:09","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-12T13:08:09","end":"2026-10-12T13:09:34","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-12T13:09:34","end":"2026-10-12T13:10:09","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-12T13:10:09","end":"2026-10-12T13:10:39","app":"Microsoft Excel","title":"Aquarea heating load.xlsx - Excel"}
+{"start":"2026-10-12T13:10:39","end":"2026-10-12T13:11:14","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-12T13:11:14","end":"2026-10-12T13:11:24","app":"Microsoft Outlook","title":"Inbox - Albin Forsberg - Outlook"}
+{"start":"2026-10-12T13:11:24","end":"2026-10-12T13:11:29","app":"Microsoft Outlook","title":"Github - Albin Forsberg - Outlook"}
+{"start":"2026-10-12T13:11:29","end":"2026-10-12T13:11:34","app":"Google Chrome","title":"Ny flik - Google Chrome"}
+{"start":"2026-10-12T13:11:34","end":"2026-10-12T13:11:39","app":"Google Chrome","title":"albin02forsberg/margin - Google Chrome"}
+{"start":"2026-10-12T13:11:39","end":"2026-10-12T13:11:44","app":"Google Chrome","title":"Pull requests · albin02forsberg/margin - Google Chrome"}
+{"start":"2026-10-12T13:11:44","end":"2026-10-12T13:11:49","app":"Google Chrome","title":"Issues · albin02forsberg/margin - Google Chrome"}
+{"start":"2026-10-12T13:11:49","end":"2026-10-12T13:12:04","app":"Google Chrome","title":"Changelogs · Issue #254 · albin02forsberg/margin - Google Chrome"}
+{"start":"2026-10-12T13:12:04","end":"2026-10-12T13:12:19","app":"Google Chrome","title":"Backup issues · Issue #253 · albin02forsberg/margin - Google Chrome"}
+{"start":"2026-10-12T13:12:19","end":"2026-10-12T13:12:24","app":"Google Chrome","title":"Issues · albin02forsberg/margin - Google Chrome"}
+{"start":"2026-10-12T13:12:24","end":"2026-10-12T13:12:34","app":"Google Chrome","title":"New UI/UX · Issue #251 · albin02forsberg/margin - Google Chrome"}
+{"start":"2026-10-12T13:12:34","end":"2026-10-12T13:12:39","app":"Google Chrome","title":"c-today-dark.png (1280×800) - Google Chrome"}
+{"start":"2026-10-12T13:12:39","end":"2026-10-12T13:12:44","app":"Google Chrome","title":"New UI/UX · Issue #251 · albin02forsberg/margin - Google Chrome"}
+{"start":"2026-10-12T13:12:44","end":"2026-10-12T13:12:54","app":"Google Chrome","title":"b-time-dark.png (1280×800) - Google Chrome"}
+{"start":"2026-10-12T13:12:54","end":"2026-10-12T13:13:04","app":"Google Chrome","title":"New UI/UX · Issue #251 · albin02forsberg/margin - Google Chrome"}
+{"start":"2026-10-12T13:13:04","end":"2026-10-12T13:13:24","app":"Google Chrome","title":"b-today-dark.png (1280×800) - Google Chrome"}
+{"start":"2026-10-12T13:13:24","end":"2026-10-12T13:14:09","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-12T13:14:09","end":"2026-10-12T13:14:14","app":"Firefox","title":"No Product Selected — Mozilla Firefox"}
+{"start":"2026-10-12T13:14:14","end":"2026-10-12T13:14:24","app":"Firefox","title":"building-Properties — Mozilla Firefox"}
+{"start":"2026-10-12T13:14:24","end":"2026-10-12T13:14:29","app":"ShareX","title":"ShareX - Region capture"}
+{"start":"2026-10-12T13:14:29","end":"2026-10-12T13:14:34","app":"Firefox","title":"building-Properties — Mozilla Firefox"}
+{"start":"2026-10-12T13:14:34","end":"2026-10-12T13:16:04","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-12T13:16:04","end":"2026-10-12T13:18:59","app":"Firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-12T13:18:59","end":"2026-10-12T13:19:29","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-12T13:19:29","end":"2026-10-12T13:19:54","app":"Firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-12T13:19:54","end":"2026-10-12T13:20:19","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-12T13:20:19","end":"2026-10-12T13:20:29","app":"Firefox","title":"building-Properties — Mozilla Firefox"}
+{"start":"2026-10-12T13:20:29","end":"2026-10-12T13:20:34","app":"Firefox","title":"Publish — Mozilla Firefox"}
+{"start":"2026-10-12T13:20:34","end":"2026-10-12T13:20:54","app":"Firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-12T13:20:54","end":"2026-10-12T13:21:04","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-12T13:21:04","end":"2026-10-12T13:21:09","app":"Firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-12T13:21:09","end":"2026-10-12T13:21:29","app":"Microsoft Excel","title":"Aquarea heating load.xlsx - Excel"}
+{"start":"2026-10-12T13:21:29","end":"2026-10-12T13:21:39","app":"Firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-12T13:21:39","end":"2026-10-12T13:21:44","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-12T13:21:44","end":"2026-10-12T13:22:04","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-12T13:22:04","end":"2026-10-12T13:22:29","app":"Firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-12T13:22:29","end":"2026-10-12T13:22:34","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-12T13:22:34","end":"2026-10-12T13:22:44","app":"Firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-12T13:22:44","end":"2026-10-12T13:23:04","app":"Microsoft Excel","title":"Aquarea heating load.xlsx - Excel"}
+{"start":"2026-10-12T13:23:04","end":"2026-10-12T13:23:24","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-12T13:23:24","end":"2026-10-12T13:23:39","app":"Microsoft Excel","title":"Aquarea heating load.xlsx - Excel"}
+{"start":"2026-10-12T13:23:39","end":"2026-10-12T13:23:44","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-12T13:23:44","end":"2026-10-12T13:23:54","app":"Firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-12T13:23:54","end":"2026-10-12T13:23:59","app":"Microsoft Excel","title":"Aquarea heating load.xlsx - Excel"}
+{"start":"2026-10-12T13:23:59","end":"2026-10-12T13:24:19","app":"Firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-12T13:24:19","end":"2026-10-12T13:24:24","app":"Visual Studio Code","title":"project.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-12T13:24:24","end":"2026-10-12T13:24:34","app":"Visual Studio Code","title":"domestic-hot-water.test.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-12T13:24:34","end":"2026-10-12T13:24:59","app":"Microsoft Excel","title":"Aquarea heating load.xlsx - Excel"}
+{"start":"2026-10-12T13:24:59","end":"2026-10-12T13:25:09","app":"Firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-12T13:25:09","end":"2026-10-12T13:25:24","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-12T13:25:24","end":"2026-10-12T13:25:29","app":"Firefox","title":"Aquarea — Mozilla Firefox"}
