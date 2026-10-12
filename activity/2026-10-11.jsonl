@@ -30,3 +30,7 @@
 {"start":"2026-10-11T14:49:53","end":"2026-10-11T14:50:03","app":"SearchHost","title":"Sök"}
 {"start":"2026-10-11T14:50:03","end":"2026-10-11T14:50:13","app":"Windows Terminal Host","title":"Windows PowerShell"}
 {"start":"2026-10-11T14:50:13","end":"2026-10-11T14:50:18","app":"Margin","title":"Margin"}
+{"start":"2026-10-11T14:50:18","end":"2026-10-11T14:50:46","app":"Windows Terminal Host","title":"Windows PowerShell"}
+{"start":"2026-10-11T15:13:38","end":"2026-10-11T15:13:43","app":"openvpn-gui","title":"OpenVPN Anslutning (divid)"}
+{"start":"2026-10-11T15:13:43","end":"2026-10-11T15:13:58","app":"Windows Terminal Host","title":"Windows PowerShell"}
+{"start":"2026-10-11T15:13:58","end":"2026-10-11T15:14:03","app":"Windows Shell Experience Host","title":"Nytt meddelande"}
