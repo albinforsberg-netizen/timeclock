@@ -1093,3 +1093,7 @@
 {"start":"2026-10-12T17:11:18","end":"2026-10-12T17:11:33","app":"Firefox","title":"building-property_field_name — Mozilla Firefox"}
 {"start":"2026-10-12T17:11:33","end":"2026-10-12T17:11:48","app":"Firefox","title":"Aquarea — Mozilla Firefox"}
 {"start":"2026-10-12T17:11:48","end":"2026-10-12T17:12:13","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-12T17:12:13","end":"2026-10-12T17:12:48","app":"Margin","title":"Margin"}
+{"start":"2026-10-12T17:12:48","end":"2026-10-12T17:12:58","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-12T17:12:58","end":"2026-10-12T17:13:18","app":"Visual Studio Code","title":"heating-load.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-12T17:13:18","end":"2026-10-12T17:13:23","app":"SearchHost","title":"Sök"}
