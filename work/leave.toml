@@ -1,2 +1,11 @@
-[vacation]
+[brigdeday]
 export_code = "Divid - Klämdag"
+
+[other]
+export_code = "Divid - undefined"
+
+[sick]
+export_code = "Divid - Sjuk"
+
+[vacation]
+export_code = "Divid - Semester"

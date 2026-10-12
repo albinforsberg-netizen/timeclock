@@ -37,5 +37,5 @@ active = true
 [ventpro]
 export_code = "Residential - Development"
 rounding = 0.5
-round_up = false
+round_up = true
 active = true
