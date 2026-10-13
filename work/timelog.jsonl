@@ -1360,4 +1360,6 @@
 {"ev":"in","t":"2026-10-13T08:40:37","project":"dxpro"}
 {"ev":"out","t":"2026-10-13T09:00:11","note":"Standup"}
 {"ev":"in","t":"2026-10-13T09:00:12","project":"aquarea"}
-{"ev":"out","t":"2026-10-13T10:48:48","note":"Heating demand properties"}
+{"ev":"out","t":"2026-10-13T10:15:48","note":"Heating demand properties"}
+{"ev":"in","t":"2026-10-13T10:15:48","project":"aquarea"}
+{"ev":"out","t":"2026-10-13T10:56:19","note":"Climate data import"}
