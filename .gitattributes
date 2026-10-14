@@ -1,0 +1,3 @@
+timelog.jsonl merge=union
+leave.jsonl merge=union
+activity/*.jsonl merge=union
