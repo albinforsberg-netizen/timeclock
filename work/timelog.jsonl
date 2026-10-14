@@ -1084,69 +1084,69 @@
 {"ev":"out","t":"2026-09-16T09:41:57","note":"Stat translate fix"}
 {"ev":"in","t":"2026-09-16T09:41:57","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-09-16T11:07:38","note":"Vertical pipe"}
-{"ev":"in","t":"2026-09-16T11:11:15","project":"Aquarea"}
+{"ev":"in","t":"2026-09-16T11:11:15","project":"aquarea"}
 {"ev":"break","t":"2026-09-16T12:11:22"}
-{"ev":"in","t":"2026-09-16T12:59:14","project":"Aquarea"}
-{"ev":"out","t":"2026-09-16T13:12:05","note":"Aquarea react setup"}
+{"ev":"in","t":"2026-09-16T12:59:14","project":"aquarea"}
+{"ev":"out","t":"2026-09-16T13:12:05","note":"aquarea react setup"}
 {"ev":"in","t":"2026-09-16T13:12:05","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-09-16T13:52:26","note":"Systemless wizard"}
-{"ev":"in","t":"2026-09-16T13:52:26","project":"Aquarea"}
-{"ev":"out","t":"2026-09-16T16:55:57","note":"Aquarea react setup"}
+{"ev":"in","t":"2026-09-16T13:52:26","project":"aquarea"}
+{"ev":"out","t":"2026-09-16T16:55:57","note":"aquarea react setup"}
 {"ev":"in","t":"2026-09-17T08:00:34","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-09-17T08:30:53","note":"Refpro release"}
 {"ev":"in","t":"2026-09-17T08:30:53","project":"Dx Pro Designer"}
 {"ev":"out","t":"2026-09-17T09:01:19","note":"Standup"}
-{"ev":"in","t":"2026-09-17T09:01:51","project":"Aquarea"}
-{"ev":"out","t":"2026-09-17T10:31:07","note":"Aquarea dev infra setup"}
+{"ev":"in","t":"2026-09-17T09:01:51","project":"aquarea"}
+{"ev":"out","t":"2026-09-17T10:31:07","note":"aquarea dev infra setup"}
 {"ev":"in","t":"2026-09-17T10:31:07","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-09-17T11:02:02","note":"Preview deployment fix"}
-{"ev":"in","t":"2026-09-17T11:02:02","project":"Aquarea"}
+{"ev":"in","t":"2026-09-17T11:02:02","project":"aquarea"}
 {"ev":"break","t":"2026-09-17T12:25:34"}
-{"ev":"in","t":"2026-09-17T13:05:46","project":"Aquarea"}
+{"ev":"in","t":"2026-09-17T13:05:46","project":"aquarea"}
 {"ev":"out","t":"2026-09-17T14:30:09","note":"Keycloak setup"}
-{"ev":"in","t":"2026-09-17T14:30:09","project":"Aquarea"}
+{"ev":"in","t":"2026-09-17T14:30:09","project":"aquarea"}
 {"ev":"out","t":"2026-09-17T16:31:53","note":"Keycloak setup"}
-{"ev":"in","t":"2026-09-17T20:49:58","project":"Aquarea"}
+{"ev":"in","t":"2026-09-17T20:49:58","project":"aquarea"}
 {"ev":"out","t":"2026-09-17T21:30:43","note":"Keycloak setup"}
-{"ev":"in","t":"2026-09-18T07:55:56","project":"Aquarea"}
+{"ev":"in","t":"2026-09-18T07:55:56","project":"aquarea"}
 {"ev":"break","t":"2026-09-18T12:13:16"}
-{"ev":"in","t":"2026-09-18T12:57:41","project":"Aquarea"}
+{"ev":"in","t":"2026-09-18T12:57:41","project":"aquarea"}
 {"ev":"break","t":"2026-09-18T15:31:21"}
-{"ev":"in","t":"2026-09-18T15:50:31","project":"Aquarea"}
+{"ev":"in","t":"2026-09-18T15:50:31","project":"aquarea"}
 {"ev":"out","t":"2026-09-18T16:01:21","note":"Promaster setup"}
 {"ev":"in","t":"2026-09-18T16:01:21","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-09-18T16:30:36","note":"Vertical piping"}
-{"ev":"in","t":"2026-09-21T07:55:12","project":"Aquarea"}
+{"ev":"in","t":"2026-09-21T07:55:12","project":"aquarea"}
 {"ev":"out","t":"2026-09-21T09:35:03","note":"Promaster setup"}
 {"ev":"in","t":"2026-09-21T09:35:03","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-09-21T11:45:44","note":"Vertical piping"}
-{"ev":"in","t":"2026-09-21T11:45:44","project":"Aquarea"}
+{"ev":"in","t":"2026-09-21T11:45:44","project":"aquarea"}
 {"ev":"break","t":"2026-09-21T12:18:10"}
-{"ev":"in","t":"2026-09-21T13:05:57","project":"Aquarea"}
+{"ev":"in","t":"2026-09-21T13:05:57","project":"aquarea"}
 {"ev":"out","t":"2026-09-21T13:10:37","note":"Printout"}
 {"ev":"in","t":"2026-09-21T13:10:37","project":"Pana AC Select Develop"}
 {"ev":"out","t":"2026-09-21T14:37:17","note":"AC-189: Invalid calc"}
-{"ev":"in","t":"2026-09-21T14:37:17","project":"Aquarea"}
+{"ev":"in","t":"2026-09-21T14:37:17","project":"aquarea"}
 {"ev":"out","t":"2026-09-21T16:45:24","note":"Printout"}
 {"ev":"in","t":"2026-09-22T08:30:21","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-09-22T09:51:51","note":"Vertical pipes"}
-{"ev":"in","t":"2026-09-22T09:51:51","project":"Aquarea"}
+{"ev":"in","t":"2026-09-22T09:51:51","project":"aquarea"}
 {"ev":"out","t":"2026-09-22T10:31:25","note":"Printout service"}
 {"ev":"in","t":"2026-09-22T10:31:26","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-09-22T11:58:45","note":"@dahl.se investigation"}
-{"ev":"in","t":"2026-09-22T11:58:45","project":"Aquarea"}
+{"ev":"in","t":"2026-09-22T11:58:45","project":"aquarea"}
 {"ev":"break","t":"2026-09-22T12:25:09"}
-{"ev":"in","t":"2026-09-22T13:02:25","project":"Aquarea"}
+{"ev":"in","t":"2026-09-22T13:02:25","project":"aquarea"}
 {"ev":"out","t":"2026-09-22T15:30:36","note":"Printout service"}
-{"ev":"in","t":"2026-09-22T15:30:36","project":"Aquarea"}
+{"ev":"in","t":"2026-09-22T15:30:36","project":"aquarea"}
 {"ev":"out","t":"2026-09-22T16:31:49","note":"Admin pages"}
-{"ev":"in","t":"2026-09-22T16:31:50","project":"Aquarea"}
+{"ev":"in","t":"2026-09-22T16:31:50","project":"aquarea"}
 {"ev":"out","t":"2026-09-22T16:41:42","note":"Admin pages"}
-{"ev":"in","t":"2026-09-23T07:58:29","project":"Aquarea"}
+{"ev":"in","t":"2026-09-23T07:58:29","project":"aquarea"}
 {"ev":"out","t":"2026-09-23T09:00:54","note":"Admin pages"}
 {"ev":"in","t":"2026-09-23T09:00:55","project":"Dx Pro Designer"}
 {"ev":"out","t":"2026-09-23T09:28:53","note":"Dx pro weekly"}
-{"ev":"in","t":"2026-09-23T09:28:53","project":"Aquarea"}
+{"ev":"in","t":"2026-09-23T09:28:53","project":"aquarea"}
 {"ev":"out","t":"2026-09-23T10:30:52","note":"User settings"}
 {"ev":"in","t":"2026-09-23T10:30:52","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-09-23T11:10:33","note":"Refpro weekly"}
@@ -1154,9 +1154,9 @@
 {"ev":"break","t":"2026-09-23T12:27:36"}
 {"ev":"in","t":"2026-09-23T13:07:20","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-09-23T15:26:29","note":"Vertical pipes"}
-{"ev":"in","t":"2026-09-23T15:26:29","project":"Aquarea"}
+{"ev":"in","t":"2026-09-23T15:26:29","project":"aquarea"}
 {"ev":"out","t":"2026-09-23T16:23:20","note":"User settings"}
-{"ev":"in","t":"2026-09-23T16:23:20","project":"Aquarea"}
+{"ev":"in","t":"2026-09-23T16:23:20","project":"aquarea"}
 {"ev":"out","t":"2026-09-23T16:37:32","note":"Printout service"}
 {"ev":"in","t":"2026-09-23T16:37:33","project":"Dx Pro Designer"}
 {"ev":"out","t":"2026-09-23T16:55:57","note":"Wiki"}
@@ -1190,13 +1190,13 @@
 {"ev":"out","t":"2026-09-25T16:49:07","note":"Wiki"}
 {"ev":"in","t":"2026-09-28T08:00:49","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-09-28T08:45:18","note":"External receiver"}
-{"ev":"in","t":"2026-09-28T08:45:19","project":"Aquarea"}
+{"ev":"in","t":"2026-09-28T08:45:19","project":"aquarea"}
 {"ev":"break","t":"2026-09-28T12:00:23"}
-{"ev":"in","t":"2026-09-28T12:58:29","project":"Aquarea"}
+{"ev":"in","t":"2026-09-28T12:58:29","project":"aquarea"}
 {"ev":"out","t":"2026-09-28T14:10:43","note":"Projects"}
 {"ev":"in","t":"2026-09-28T14:10:43","project":"Pana AC Select Develop"}
 {"ev":"out","t":"2026-09-28T14:57:50","note":"Meeting"}
-{"ev":"in","t":"2026-09-28T14:57:51","project":"Aquarea"}
+{"ev":"in","t":"2026-09-28T14:57:51","project":"aquarea"}
 {"ev":"out","t":"2026-09-28T15:52:10","note":"Projects"}
 {"ev":"in","t":"2026-09-28T15:52:10","project":"Pana AC Select Develop"}
 {"ev":"out","t":"2026-09-28T17:00:05","note":"price excel"}
@@ -1220,7 +1220,7 @@
 {"ev":"out","t":"2026-09-29T16:09:31","note":"Pipe drag crash"}
 {"ev":"in","t":"2026-09-30T08:59:39","project":"Dx Pro Designer"}
 {"ev":"out","t":"2026-09-30T09:43:49","note":"Dx pro weekly"}
-{"ev":"in","t":"2026-09-30T09:43:50","project":"Aquarea"}
+{"ev":"in","t":"2026-09-30T09:43:50","project":"aquarea"}
 {"ev":"out","t":"2026-09-30T10:30:11","note":"Projects"}
 {"ev":"in","t":"2026-09-30T10:30:11","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-09-30T11:01:28","note":"Refpro weekly"}
@@ -1228,35 +1228,35 @@
 {"ev":"break","t":"2026-09-30T12:17:15"}
 {"ev":"in","t":"2026-09-30T12:59:41","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-09-30T13:11:57","note":"Project link in printout"}
-{"ev":"in","t":"2026-09-30T13:11:58","project":"Aquarea"}
+{"ev":"in","t":"2026-09-30T13:11:58","project":"aquarea"}
 {"ev":"out","t":"2026-09-30T15:37:31","note":"Projects"}
-{"ev":"in","t":"2026-09-30T15:37:32","project":"Aquarea"}
+{"ev":"in","t":"2026-09-30T15:37:32","project":"aquarea"}
 {"ev":"out","t":"2026-09-30T16:45:23","note":"Projects"}
-{"ev":"in","t":"2026-10-01T07:29:52","project":"Aquarea"}
+{"ev":"in","t":"2026-10-01T07:29:52","project":"aquarea"}
 {"ev":"out","t":"2026-10-01T08:53:05","note":"Shell"}
 {"ev":"in","t":"2026-10-01T08:53:06","project":"Dx Pro Designer"}
 {"ev":"out","t":"2026-10-01T09:15:31","note":"System/project link printout"}
-{"ev":"in","t":"2026-10-01T09:15:31","project":"Aquarea"}
+{"ev":"in","t":"2026-10-01T09:15:31","project":"aquarea"}
 {"ev":"break","t":"2026-10-01T12:18:26"}
-{"ev":"in","t":"2026-10-01T13:12:53","project":"Aquarea"}
+{"ev":"in","t":"2026-10-01T13:12:53","project":"aquarea"}
 {"ev":"out","t":"2026-10-01T15:00:46","note":"building step"}
 {"ev":"in","t":"2026-10-01T15:00:47","project":"Divid - Internt"}
 {"ev":"out","t":"2026-10-01T15:44:51","note":"Månadsmöte"}
-{"ev":"in","t":"2026-10-01T15:44:52","project":"Aquarea"}
+{"ev":"in","t":"2026-10-01T15:44:52","project":"aquarea"}
 {"ev":"out","t":"2026-10-01T16:10:18","note":"Climat data"}
 {"ev":"in","t":"2026-10-01T16:10:18","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-10-01T16:50:07","note":"OCU-LRC100M08 cooling capacity"}
 {"ev":"in","t":"2026-10-02T07:55:09","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-10-02T09:35:45","note":"Cooling capacity check"}
-{"ev":"in","t":"2026-10-02T09:35:45","project":"Aquarea"}
+{"ev":"in","t":"2026-10-02T09:35:45","project":"aquarea"}
 {"ev":"break","t":"2026-10-02T12:01:48"}
-{"ev":"in","t":"2026-10-02T12:57:06","project":"Aquarea"}
+{"ev":"in","t":"2026-10-02T12:57:06","project":"aquarea"}
 {"ev":"out","t":"2026-10-02T13:20:39","note":"Climat data"}
 {"ev":"in","t":"2026-10-02T13:20:39","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-10-02T15:13:10","note":"Cooling capacity fix"}
 {"ev":"in","t":"2026-10-02T15:13:11","project":"Dx Pro Designer"}
 {"ev":"out","t":"2026-10-02T16:13:18","note":"Heating color"}
-{"ev":"in","t":"2026-10-02T16:13:19","project":"Aquarea"}
+{"ev":"in","t":"2026-10-02T16:13:19","project":"aquarea"}
 {"ev":"out","t":"2026-10-02T16:50:44","note":"Climat data"}
 {"ev":"in","t":"2026-10-05T07:58:26","project":"aquarea"}
 {"ev":"out","t":"2026-10-05T09:00:35","note":"Properties"}
