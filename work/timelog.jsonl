@@ -1394,3 +1394,5 @@
 {"ev":"break","t":"2026-10-15T12:13:13"}
 {"ev":"in","t":"2026-10-15T12:58:44","project":"dxpro"}
 {"ev":"out","t":"2026-10-15T14:20:55","note":"dxf export fixes"}
+{"ev":"in","t":"2026-10-15T14:20:55","project":"aquarea"}
+{"ev":"out","t":"2026-10-15T16:17:39","note":"Cost pages"}
