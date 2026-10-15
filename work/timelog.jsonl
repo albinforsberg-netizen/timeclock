@@ -115,8 +115,8 @@
 {"ev":"in","t":"2026-04-01T14:26:13","project":"Dx Pro Designer"}
 {"ev":"out","t":"2026-04-01T15:00:48"}
 {"ev":"in","t":"2026-04-01T15:00:48","project":"Divid - Internt"}
-{"ev":"out","t":"2026-04-01T16:00:35","note":"Månadsmöte"}
 {"ev":"in","t":"2026-04-01T16:00:05","project":"Dx Pro Designer"}
+{"ev":"out","t":"2026-04-01T16:00:35","note":"Månadsmöte"}
 {"ev":"out","t":"2026-04-01T16:45:26","note":"Better scaling on print and drawing board"}
 {"ev":"in","t":"2026-04-02T07:39:35","project":"Dx Pro Designer"}
 {"ev":"break","t":"2026-04-02T12:10:15"}
@@ -197,8 +197,8 @@
 {"ev":"in","t":"2026-04-22T07:32:48","project":"Dx Pro Designer"}
 {"ev":"out","t":"2026-04-22T09:30:05","note":"Data table"}
 {"ev":"in","t":"2026-04-22T09:30:05","project":"Dx Pro Designer"}
-{"ev":"out","t":"2026-04-22T11:12:27","note":"Smaller fixes"}
 {"ev":"in","t":"2026-04-22T11:12:07","project":"Dx Pro Designer"}
+{"ev":"out","t":"2026-04-22T11:12:27","note":"Smaller fixes"}
 {"ev":"break","t":"2026-04-22T12:20:27"}
 {"ev":"in","t":"2026-04-22T13:00:54","project":"Dx Pro Designer"}
 {"ev":"out","t":"2026-04-22T13:21:26","note":"Data table"}
@@ -361,8 +361,8 @@
 {"ev":"in","t":"2026-05-20T09:51:26","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-05-20T11:11:54","note":"refpro fixes"}
 {"ev":"in","t":"2026-05-20T11:11:55","project":"Dx Pro Designer"}
-{"ev":"out","t":"2026-05-20T12:03:03","note":"Mounting to principal"}
 {"ev":"in","t":"2026-05-20T12:00:03","project":"Residential - Development"}
+{"ev":"out","t":"2026-05-20T12:03:03","note":"Mounting to principal"}
 {"ev":"break","t":"2026-05-20T12:30:06"}
 {"ev":"in","t":"2026-05-20T13:00:47","project":"Residential - Development"}
 {"ev":"out","t":"2026-05-20T13:05:01","note":"Ventpro fix"}
@@ -453,8 +453,8 @@
 {"ev":"in","t":"2026-06-03T09:00:41","project":"Dx Pro Designer"}
 {"ev":"out","t":"2026-06-03T09:30:46","note":"Dxpro weekly"}
 {"ev":"in","t":"2026-06-03T09:30:46","project":"Refrigeration - Development"}
-{"ev":"out","t":"2026-06-03T11:16:57","note":"LCU Condencer capacity"}
 {"ev":"in","t":"2026-06-03T11:15:57","project":"Dx Pro Designer"}
+{"ev":"out","t":"2026-06-03T11:16:57","note":"LCU Condencer capacity"}
 {"ev":"break","t":"2026-06-03T12:13:15"}
 {"ev":"in","t":"2026-06-03T13:01:52","project":"Dx Pro Designer"}
 {"ev":"out","t":"2026-06-03T16:46:42","note":"Mounting to principal"}
@@ -788,9 +788,9 @@
 {"ev":"out","t":"2026-08-12T10:30:05","note":"Visibiliy toggling"}
 {"ev":"in","t":"2026-08-12T10:30:06","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-08-12T10:58:58","note":"refpro weekly"}
-{"ev":"in","t":"2026-08-12T11:58:49","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-08-12T11:51:19","note":"EEV grid labeling"}
 {"ev":"in","t":"2026-08-12T11:51:20","project":"Refrigeration - Development"}
+{"ev":"in","t":"2026-08-12T11:58:49","project":"Refrigeration - Development"}
 {"ev":"break","t":"2026-08-12T12:35:12"}
 {"ev":"in","t":"2026-08-12T13:00:50","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-08-12T15:57:26","note":"Statistics"}
@@ -857,8 +857,8 @@
 {"ev":"in","t":"2026-08-20T07:28:31","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-08-20T08:30:18","note":"Migrate projects from dev to prod"}
 {"ev":"in","t":"2026-08-20T08:30:54","project":"Refrigeration - Development"}
-{"ev":"out","t":"2026-08-20T10:35:51","note":"Migrate projects from dev to prod"}
 {"ev":"in","t":"2026-08-20T10:35:18","project":"Dx Pro Designer"}
+{"ev":"out","t":"2026-08-20T10:35:51","note":"Migrate projects from dev to prod"}
 {"ev":"out","t":"2026-08-20T11:29:51","note":"Capacity toggle"}
 {"ev":"in","t":"2026-08-20T11:29:51","project":"Dx Pro Designer"}
 {"ev":"break","t":"2026-08-20T12:16:36"}
@@ -943,8 +943,8 @@
 {"ev":"in","t":"2026-08-28T10:25:22","project":"Refrigeration - Development"}
 {"ev":"break","t":"2026-08-28T12:06:41"}
 {"ev":"in","t":"2026-08-28T12:52:32","project":"Refrigeration - Development"}
-{"ev":"out","t":"2026-08-28T15:33:49","note":"PDF preview"}
 {"ev":"in","t":"2026-08-28T15:33:25","project":"Refrigeration - Development"}
+{"ev":"out","t":"2026-08-28T15:33:49","note":"PDF preview"}
 {"ev":"out","t":"2026-08-28T16:17:07","note":"PDF preview"}
 {"ev":"in","t":"2026-08-31T07:00:02","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-08-31T07:30:34","note":"LRE100"}
@@ -963,6 +963,7 @@
 {"ev":"in","t":"2026-09-01T07:00:16","project":"Dx Pro Designer"}
 {"ev":"break","t":"2026-09-01T07:30:34"}
 {"ev":"in","t":"2026-09-01T08:00:43","project":"Dx Pro Designer"}
+{"ev":"out","t":"2026-09-01T08:30:59","note":"Oil booster settings"}
 {"ev":"break","t":"2026-09-01T11:59:58"}
 {"ev":"in","t":"2026-09-01T12:56:53","project":"Dx Pro Designer"}
 {"ev":"break","t":"2026-09-01T14:35:16"}
@@ -970,8 +971,6 @@
 {"ev":"out","t":"2026-09-01T15:12:05","note":"Branch/header conv"}
 {"ev":"in","t":"2026-09-01T15:12:06","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-09-01T15:44:59","note":"Oil booster settings"}
-{"ev":"in","t":"2026-09-02T07:45:56","project":"Refrigeration - Development"}
-{"ev":"out","t":"2026-09-01T08:30:59","note":"Oil booster settings"}
 {"ev":"in","t":"2026-09-02T07:45:56","project":"Refrigeration - Development"}
 {"ev":"out","t":"2026-09-02T08:30:00","note":"Oil booster settings"}
 {"ev":"in","t":"2026-09-02T08:30:56","project":"Refrigeration - Development"}
@@ -1309,8 +1308,8 @@
 {"ev":"in","t":"2026-10-07T10:03:33","project":"refpro"}
 {"ev":"out","t":"2026-10-07T10:17:26","note":"Meeting"}
 {"ev":"in","t":"2026-10-07T10:17:27","project":"dxpro"}
-{"ev":"out","t":"2026-10-07T10:32:27","note":"Printouts"}
 {"ev":"in","t":"2026-10-07T10:32:21","project":"refpro"}
+{"ev":"out","t":"2026-10-07T10:32:27","note":"Printouts"}
 {"ev":"out","t":"2026-10-07T11:05:21","note":"Refpro weekly"}
 {"ev":"in","t":"2026-10-07T11:05:21","project":"refpro"}
 {"ev":"break","t":"2026-10-07T12:09:26"}
@@ -1348,8 +1347,8 @@
 {"ev":"in","t":"2026-10-12T12:53:51","project":"aquarea"}
 {"ev":"out","t":"2026-10-12T14:37:00","note":"Hot water demand calc"}
 {"ev":"in","t":"2026-10-12T14:37:00","project":"aquarea"}
-{"ev":"out","t":"2026-10-12T15:21:24","note":"Heating demand properties"}
 {"ev":"in","t":"2026-10-12T15:21:09","project":"dxpro"}
+{"ev":"out","t":"2026-10-12T15:21:24","note":"Heating demand properties"}
 {"ev":"out","t":"2026-10-12T15:39:48","note":"Printouts"}
 {"ev":"in","t":"2026-10-12T15:39:48","project":"aquarea"}
 {"ev":"out","t":"2026-10-12T17:12:28","note":"Heating demand properties"}
