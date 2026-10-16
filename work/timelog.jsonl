@@ -1401,8 +1401,10 @@
 {"ev":"in","t":"2026-10-16T13:46:01","project":"aquarea"}
 {"ev":"out","t":"2026-10-16T14:06:43","note":"Report"}
 {"ev":"in","t":"2026-10-16T14:06:43","project":"dxpro"}
-{"ev":"out","t":"2026-10-16T14:34:23","note":"dxf"}
+{"ev":"out","t":"2026-10-16T14:34:19","note":"dxf improvments"}
 {"ev":"in","t":"2026-10-16T14:34:23","project":"aquarea"}
 {"ev":"out","t":"2026-10-16T15:20:07","note":"Report"}
 {"ev":"in","t":"2026-10-16T15:20:07","project":"dxpro"}
 {"ev":"out","t":"2026-10-16T16:25:09","note":"dxf improvments"}
+{"ev":"in","t":"2026-10-16T18:21:14","project":"dxpro","task":"dxf improvments"}
+{"ev":"out","t":"2026-10-16T19:30:11","note":"dxf improvments"}
