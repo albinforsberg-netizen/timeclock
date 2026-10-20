@@ -1420,3 +1420,5 @@
 {"ev":"out","t":"2026-10-20T11:48:29","note":"dxf improvments"}
 {"ev":"in","t":"2026-10-20T11:48:29","project":"dxpro"}
 {"ev":"out","t":"2026-10-20T12:18:49","note":"Better loading"}
+{"ev":"in","t":"2026-10-20T12:59:57","project":"dxpro","task":"dxf crop"}
+{"ev":"out","t":"2026-10-20T14:01:01","note":"Scalings"}
