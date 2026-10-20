@@ -1430,3 +1430,5 @@
 {"ev":"out","t":"2026-10-20T15:41:57","note":"Download file extension fix"}
 {"ev":"in","t":"2026-10-20T15:41:57","project":"dxpro"}
 {"ev":"out","t":"2026-10-20T16:02:55","note":"Indoor/outdoor height validation"}
+{"ev":"in","t":"2026-10-20T16:02:55","project":"dxpro"}
+{"ev":"out","t":"2026-10-20T17:25:05","note":"dxf crop"}
