@@ -1422,3 +1422,5 @@
 {"ev":"out","t":"2026-10-20T12:18:49","note":"Better loading"}
 {"ev":"in","t":"2026-10-20T12:59:57","project":"dxpro","task":"dxf crop"}
 {"ev":"out","t":"2026-10-20T14:01:01","note":"Scalings"}
+{"ev":"in","t":"2026-10-20T14:01:01","project":"dxpro"}
+{"ev":"out","t":"2026-10-20T14:57:04","note":"dxf crop"}

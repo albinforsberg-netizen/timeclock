@@ -558,3 +558,202 @@
 {"start":"2026-10-20T14:00:08","end":"2026-10-20T14:00:18","app":"chromium","title":"DX PRO Designer - Chromium"}
 {"start":"2026-10-20T14:00:18","end":"2026-10-20T14:00:38","app":"code-oss","title":"mounting-scale.ts - dxpro-designer - Code - OSS"}
 {"start":"2026-10-20T14:00:38","end":"2026-10-20T14:00:58","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:00:58","end":"2026-10-20T14:01:08","app":"margin","title":"Margin"}
+{"start":"2026-10-20T14:01:08","end":"2026-10-20T14:01:13","app":"code-oss","title":"mounting-scale.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:01:13","end":"2026-10-20T14:01:18","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-20T14:01:18","end":"2026-10-20T14:02:38","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-20T14:02:38","end":"2026-10-20T14:04:23","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:04:23","end":"2026-10-20T14:04:38","app":"chromium","title":"Project Report (25).pdf - Chromium"}
+{"start":"2026-10-20T14:04:38","end":"2026-10-20T14:04:43","app":"chromium","title":"New tab - Chromium"}
+{"start":"2026-10-20T14:04:43","end":"2026-10-20T14:04:53","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:04:53","end":"2026-10-20T14:05:13","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-20T14:05:13","end":"2026-10-20T14:05:28","app":"code-oss","title":"mounting-scale.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:05:28","end":"2026-10-20T14:05:43","app":"code-oss","title":"● mounting-scale.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:05:43","end":"2026-10-20T14:05:48","app":"code-oss","title":"mounting-scale.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:05:48","end":"2026-10-20T14:05:53","app":"code-oss","title":"input-provider.tsx (Index) (input-provider.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:05:53","end":"2026-10-20T14:06:08","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:06:08","end":"2026-10-20T14:06:23","app":"chromium","title":"Project Report (26).pdf - Chromium"}
+{"start":"2026-10-20T14:06:23","end":"2026-10-20T14:06:38","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:06:38","end":"2026-10-20T14:06:48","app":"org.kde.spectacle","title":"Unsaved* — Spectacle"}
+{"start":"2026-10-20T14:06:48","end":"2026-10-20T14:06:53","app":"code-oss","title":"input-provider.tsx (Index) (input-provider.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:06:53","end":"2026-10-20T14:06:58","app":"code-oss","title":"ahu-piping-mounting.tsx (Index) (ahu-piping-mounting.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:06:58","end":"2026-10-20T14:07:08","app":"code-oss","title":"heat-recovery-box-slot.tsx (Index) (heat-recovery-box-slot.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:07:08","end":"2026-10-20T14:07:13","app":"code-oss","title":"heat-recovery-box-slot.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:07:13","end":"2026-10-20T14:08:13","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:08:13","end":"2026-10-20T14:08:18","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-20T14:08:18","end":"2026-10-20T14:08:23","app":"code-oss","title":"heat-recovery-box-slot.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:08:23","end":"2026-10-20T14:08:28","app":"code-oss","title":"heat-recovery-box.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:08:28","end":"2026-10-20T14:08:33","app":"code-oss","title":"mounting-scale.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:08:33","end":"2026-10-20T14:08:38","app":"code-oss","title":"paths-route-points.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:08:38","end":"2026-10-20T14:08:48","app":"code-oss","title":"paths.tsx (Index) (paths.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:08:48","end":"2026-10-20T14:08:58","app":"code-oss","title":"paths.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:08:58","end":"2026-10-20T14:09:03","app":"code-oss","title":"pipe-paths.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:09:03","end":"2026-10-20T14:09:13","app":"code-oss","title":"piping-branches.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:09:13","end":"2026-10-20T14:09:18","app":"code-oss","title":"piping-valve.tsx (Index) (piping-valve.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:09:18","end":"2026-10-20T14:09:28","app":"code-oss","title":"piping-valve.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:09:28","end":"2026-10-20T14:09:43","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:09:43","end":"2026-10-20T14:09:53","app":"org.kde.spectacle","title":"Unsaved* — Spectacle"}
+{"start":"2026-10-20T14:09:53","end":"2026-10-20T14:10:03","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-20T14:10:03","end":"2026-10-20T14:10:08","app":"org.kde.spectacle","title":"Unsaved* — Spectacle"}
+{"start":"2026-10-20T14:10:08","end":"2026-10-20T14:10:13","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:10:13","end":"2026-10-20T14:10:18","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-20T14:10:18","end":"2026-10-20T14:10:48","app":"code-oss","title":"safety-valve-kit.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:10:48","end":"2026-10-20T14:11:13","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-20T14:11:13","end":"2026-10-20T14:12:08","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:12:08","end":"2026-10-20T14:12:13","app":"org.kde.spectacle","title":"Unsaved* — Spectacle"}
+{"start":"2026-10-20T14:12:13","end":"2026-10-20T14:13:28","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-20T14:13:28","end":"2026-10-20T14:13:48","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:13:48","end":"2026-10-20T14:13:58","app":"org.kde.spectacle","title":"Unsaved* — Spectacle"}
+{"start":"2026-10-20T14:13:58","end":"2026-10-20T14:14:13","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-20T14:14:13","end":"2026-10-20T14:14:23","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:14:23","end":"2026-10-20T14:14:43","app":"code-oss","title":"safety-valve-kit.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:14:43","end":"2026-10-20T14:15:48","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-20T14:15:48","end":"2026-10-20T14:18:08","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:18:08","end":"2026-10-20T14:18:13","app":"code-oss","title":"safety-valve-kit.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:18:13","end":"2026-10-20T14:18:28","app":"code-oss","title":"vrf-components-render.tsx (Working Tree) (vrf-components-render.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:18:28","end":"2026-10-20T14:18:33","app":"code-oss","title":"input-provider.tsx (Index) (input-provider.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:18:33","end":"2026-10-20T14:18:38","app":"code-oss","title":"ahu-piping-mounting.tsx (Index) (ahu-piping-mounting.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:18:38","end":"2026-10-20T14:18:43","app":"code-oss","title":"ahu-wiring-mounting.tsx (Index) (ahu-wiring-mounting.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:18:43","end":"2026-10-20T14:18:48","app":"code-oss","title":"control.tsx (Index) (control.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:18:48","end":"2026-10-20T14:18:58","app":"code-oss","title":"heat-recovery-box-slot.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:18:58","end":"2026-10-20T14:19:03","app":"code-oss","title":"heat-recovery-box.tsx (Index) (heat-recovery-box.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:19:03","end":"2026-10-20T14:19:08","app":"code-oss","title":"heat-recovery-box.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:19:08","end":"2026-10-20T14:19:13","app":"code-oss","title":"index.ts (Index) (index.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:19:13","end":"2026-10-20T14:19:23","app":"code-oss","title":"mounting-scale.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:19:23","end":"2026-10-20T14:19:38","app":"code-oss","title":"paths-route-points.tsx (Index) (paths-route-points.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:19:38","end":"2026-10-20T14:19:48","app":"code-oss","title":"paths.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:19:48","end":"2026-10-20T14:19:58","app":"code-oss","title":"pipe-paths.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:19:58","end":"2026-10-20T14:20:08","app":"code-oss","title":"piping-branches.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:20:08","end":"2026-10-20T14:20:13","app":"code-oss","title":"safety-valve-kit.tsx (Index) (safety-valve-kit.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:20:13","end":"2026-10-20T14:20:18","app":"code-oss","title":"● safety-valve-kit.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:20:18","end":"2026-10-20T14:20:28","app":"code-oss","title":"vrf-piping-units-mounting.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:20:28","end":"2026-10-20T14:20:33","app":"code-oss","title":"vrf-wiring-unit-mounting.tsx (Index) (vrf-wiring-unit-mounting.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:20:33","end":"2026-10-20T14:20:38","app":"code-oss","title":"wire-paths.tsx (Index) (wire-paths.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:20:38","end":"2026-10-20T14:20:43","app":"code-oss","title":"wiring-branches.tsx (Index) (wiring-branches.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:20:43","end":"2026-10-20T14:20:58","app":"code-oss","title":"vrf-components-render.tsx (Index) (vrf-components-render.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:20:58","end":"2026-10-20T14:21:23","app":"code-oss","title":"vrf-components-render.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:21:23","end":"2026-10-20T14:21:28","app":"code-oss","title":"mounting-piping-headers.tsx (Index) (mounting-piping-headers.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:21:28","end":"2026-10-20T14:22:03","app":"code-oss","title":"mounting-piping-headers.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:22:03","end":"2026-10-20T14:22:13","app":"code-oss","title":"mounting-piping-headers.tsx (Working Tree) (mounting-piping-headers.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:22:13","end":"2026-10-20T14:22:18","app":"electron","title":"Code - OSS"}
+{"start":"2026-10-20T14:22:18","end":"2026-10-20T14:22:28","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:22:28","end":"2026-10-20T14:22:33","app":"firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-10-20T14:22:33","end":"2026-10-20T14:22:38","app":"firefox","title":"panasonic / flux-panasonic-prod · GitLab — Mozilla Firefox"}
+{"start":"2026-10-20T14:22:38","end":"2026-10-20T14:22:53","app":"firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-10-20T14:22:53","end":"2026-10-20T14:22:58","app":"firefox","title":"Commits · master · panasonic / flux-panasonic-dev · GitLab — Mozilla Firefox"}
+{"start":"2026-10-20T14:22:58","end":"2026-10-20T14:23:03","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Månadsmöte | Microsoft Teams"}
+{"start":"2026-10-20T14:23:03","end":"2026-10-20T14:23:08","app":"code-oss","title":"mounting-piping-headers.tsx (Working Tree) (mounting-piping-headers.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:23:08","end":"2026-10-20T14:23:13","app":"firefox","title":"Sign in to your account — Mozilla Firefox"}
+{"start":"2026-10-20T14:23:13","end":"2026-10-20T14:23:38","app":"firefox","title":"Kalender — Mozilla Firefox"}
+{"start":"2026-10-20T14:23:38","end":"2026-10-20T14:24:33","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-20T14:24:33","end":"2026-10-20T14:24:48","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:24:48","end":"2026-10-20T14:24:53","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-20T14:24:53","end":"2026-10-20T14:25:48","app":"code-oss","title":"mounting-piping-headers.tsx (Working Tree) (mounting-piping-headers.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:25:48","end":"2026-10-20T14:26:03","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:26:03","end":"2026-10-20T14:26:13","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-20T14:26:13","end":"2026-10-20T14:26:38","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:26:38","end":"2026-10-20T14:26:43","app":"org.kde.ark","title":"9 (15).zip — Ark"}
+{"start":"2026-10-20T14:26:43","end":"2026-10-20T14:26:48","app":"LibreCAD","title":"LibreCAD - [Floor 1.dxf*]"}
+{"start":"2026-10-20T14:26:48","end":"2026-10-20T14:27:03","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:27:03","end":"2026-10-20T14:27:23","app":"LibreCAD","title":"LibreCAD - [Floor 1.dxf*]"}
+{"start":"2026-10-20T14:27:23","end":"2026-10-20T14:27:28","app":"LibreCAD","title":"Closing Drawing"}
+{"start":"2026-10-20T14:27:28","end":"2026-10-20T14:27:33","app":"code-oss","title":"mounting-piping-headers.tsx (Working Tree) (mounting-piping-headers.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:27:33","end":"2026-10-20T14:27:38","app":"chrome-pkooggnaalmfkidjmlhoelhdllpphaga-Default","title":"Outlook (PWA)"}
+{"start":"2026-10-20T14:27:38","end":"2026-10-20T14:27:43","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-20T14:27:43","end":"2026-10-20T14:27:48","app":"code-oss","title":"mounting-piping-headers.tsx (Working Tree) (mounting-piping-headers.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:27:48","end":"2026-10-20T14:30:08","app":"margin","title":"Margin"}
+{"start":"2026-10-20T14:30:08","end":"2026-10-20T14:30:23","app":"code-oss","title":"mounting-piping-headers.tsx (Working Tree) (mounting-piping-headers.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:30:23","end":"2026-10-20T14:30:28","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:30:28","end":"2026-10-20T14:30:33","app":"code-oss","title":"crop.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:30:33","end":"2026-10-20T14:31:18","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:31:18","end":"2026-10-20T14:31:23","app":"org.kde.ark","title":"9 (16).zip — Ark"}
+{"start":"2026-10-20T14:31:23","end":"2026-10-20T14:31:38","app":"LibreCAD","title":"LibreCAD - [New floor.dxf*]"}
+{"start":"2026-10-20T14:31:38","end":"2026-10-20T14:32:14","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-20T14:32:14","end":"2026-10-20T14:33:59","app":"LibreCAD","title":"LibreCAD - [New floor.dxf*]"}
+{"start":"2026-10-20T14:33:59","end":"2026-10-20T14:34:14","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:34:14","end":"2026-10-20T14:35:34","app":"code-oss","title":"crop.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:35:34","end":"2026-10-20T14:35:39","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-20T14:35:39","end":"2026-10-20T14:35:44","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:35:44","end":"2026-10-20T14:35:54","app":"LibreCAD","title":"LibreCAD - [New floor.dxf*]"}
+{"start":"2026-10-20T14:35:54","end":"2026-10-20T14:36:34","app":"LibreCAD","title":"LibreCAD - [Floor 1.dxf*]"}
+{"start":"2026-10-20T14:36:34","end":"2026-10-20T14:36:44","app":"chromium","title":"New tab - Chromium"}
+{"start":"2026-10-20T14:36:44","end":"2026-10-20T14:36:49","app":"org.freedesktop.impl.portal.desktop.kde","title":"Open File"}
+{"start":"2026-10-20T14:36:49","end":"2026-10-20T14:37:14","app":"chromium","title":"Free online CAD Viewer. View AutoCAD DWG/DXF, HPGL PLT, SVG, CGM, STEP, IGES, STL, SAT (ACIS®), Parasolid (x_t, x_b), SolidWorks ™ (sldprt) files in web - Chromium"}
+{"start":"2026-10-20T14:37:14","end":"2026-10-20T14:37:19","app":"chromium","title":"sharecad.org/WebResource.axd?d=vlpgXRaSdpfIYa0sTaX3K3OG6SgGTquQgy4yYMvcaDHL_3SDxIbftnseTX-DHLVUKsNm2VePxakSRXT6FdHXmezZw7jDnglxuT79CJ4GRn-e_3zFsgm3hVRvpGN01HZYBUaLUSJt43hbNfogyT5FCQ2&t=639137190810798154 - Chromium"}
+{"start":"2026-10-20T14:37:19","end":"2026-10-20T14:37:29","app":"chromium","title":"Free online CAD Viewer. View AutoCAD DWG/DXF, HPGL PLT, SVG, CGM, STEP, IGES, STL, SAT (ACIS®), Parasolid (x_t, x_b), SolidWorks ™ (sldprt) files in web - Chromium"}
+{"start":"2026-10-20T14:37:29","end":"2026-10-20T14:37:34","app":"chromium","title":"sharecad.org/draw/cliptopdf?id=e35a60fe-2bdd-4c3e-81c1-fa1587c22f3c325&pgw=297&pgh=210&margin=10&l=8738.329607512767&t=-470.9226219333882&w=11129.127728865516&h=7635.829999999972&ext_opts=%7B\"ScaleName\"%3A\"\"%2C\"CADsInUnit\"%3A1%2C\"measures\"%3A%5B%5D%7D&rnd=0.25396539876934743 - Chromium"}
+{"start":"2026-10-20T14:37:34","end":"2026-10-20T14:37:39","app":"chromium","title":"sharecad.org/WebResource.axd?d=vlpgXRaSdpfIYa0sTaX3K3OG6SgGTquQgy4yYMvcaDHL_3SDxIbftnseTX-DHLVUKsNm2VePxakSRXT6FdHXmezZw7jDnglxuT79CJ4GRn-e_3zFsgm3hVRvpGN01HZYBUaLUSJt43hbNfogyT5FCQ2&t=639137190810798154 - Chromium"}
+{"start":"2026-10-20T14:37:39","end":"2026-10-20T14:37:54","app":"chromium","title":"printtopdf - Chromium"}
+{"start":"2026-10-20T14:37:54","end":"2026-10-20T14:37:59","app":"chromium","title":"Free online CAD Viewer. View AutoCAD DWG/DXF, HPGL PLT, SVG, CGM, STEP, IGES, STL, SAT (ACIS®), Parasolid (x_t, x_b), SolidWorks ™ (sldprt) files in web - Chromium"}
+{"start":"2026-10-20T14:37:59","end":"2026-10-20T14:38:29","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:38:29","end":"2026-10-20T14:38:59","app":"LibreCAD","title":"LibreCAD - [Floor 1.dxf*]"}
+{"start":"2026-10-20T14:38:59","end":"2026-10-20T14:39:04","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-20T14:39:04","end":"2026-10-20T14:39:14","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T14:39:14","end":"2026-10-20T14:39:19","app":"firefox","title":"Startsida | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T14:39:19","end":"2026-10-20T14:39:49","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T14:39:49","end":"2026-10-20T14:39:54","app":"firefox","title":"Principle scheme automatically created på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T14:39:54","end":"2026-10-20T14:39:59","app":"firefox","title":"Sign in to dxpro — Mozilla Firefox"}
+{"start":"2026-10-20T14:40:04","end":"2026-10-20T14:40:09","app":"firefox","title":"Panasonic PRO Club — Mozilla Firefox"}
+{"start":"2026-10-20T14:40:09","end":"2026-10-20T14:40:44","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-20T14:40:44","end":"2026-10-20T14:41:39","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:41:39","end":"2026-10-20T14:41:44","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T14:41:44","end":"2026-10-20T14:41:49","app":"firefox","title":"Mounting scheme pipe and wiring not properly visible på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T14:41:49","end":"2026-10-20T14:42:04","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T14:42:04","end":"2026-10-20T14:42:34","app":"firefox","title":"Piping label på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T14:42:34","end":"2026-10-20T14:42:39","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:42:39","end":"2026-10-20T14:42:44","app":"firefox","title":"Piping label på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T14:42:44","end":"2026-10-20T14:43:54","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:43:54","end":"2026-10-20T14:44:34","app":"firefox","title":"Printout name with point på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T14:44:34","end":"2026-10-20T14:44:44","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:44:44","end":"2026-10-20T14:44:49","app":"org.kde.kate","title":"Project Report.1 — Kate"}
+{"start":"2026-10-20T14:44:49","end":"2026-10-20T14:44:54","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:44:54","end":"2026-10-20T14:44:59","app":"chromium","title":"Project Report (27).pdf - Chromium"}
+{"start":"2026-10-20T14:44:59","end":"2026-10-20T14:45:19","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:45:19","end":"2026-10-20T14:45:34","app":"code-oss","title":"crop.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:45:34","end":"2026-10-20T14:45:39","app":"LibreCAD","title":"LibreCAD - [Floor.dxf*]"}
+{"start":"2026-10-20T14:45:39","end":"2026-10-20T14:45:44","app":"code-oss","title":"crop.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:45:44","end":"2026-10-20T14:46:24","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:46:24","end":"2026-10-20T14:46:39","app":"code-oss","title":"crop.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:46:39","end":"2026-10-20T14:46:44","app":"code-oss","title":"● crop.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:46:44","end":"2026-10-20T14:46:49","app":"code-oss","title":"crop.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:46:49","end":"2026-10-20T14:48:09","app":"code-oss","title":"● crop.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:48:09","end":"2026-10-20T14:48:19","app":"code-oss","title":"crop.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:48:19","end":"2026-10-20T14:48:49","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:48:49","end":"2026-10-20T14:48:54","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Månadsmöte | Microsoft Teams"}
+{"start":"2026-10-20T14:48:54","end":"2026-10-20T14:49:09","app":"code-oss","title":"crop.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:49:09","end":"2026-10-20T14:49:14","app":"chromium","title":"New tab - Chromium"}
+{"start":"2026-10-20T14:49:14","end":"2026-10-20T14:49:19","app":"chromium","title":"how to edit time/date of commit - Google Search - Chromium"}
+{"start":"2026-10-20T14:49:19","end":"2026-10-20T14:49:44","app":"chromium","title":"How can one change the timestamp of an old commit in Git? - Stack Overflow - Chromium"}
+{"start":"2026-10-20T14:49:44","end":"2026-10-20T14:49:59","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:49:59","end":"2026-10-20T14:50:14","app":"code-oss","title":"crop.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:50:14","end":"2026-10-20T14:50:29","app":"code-oss","title":"download-dxf.ts (Working Tree) (download-dxf.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:50:29","end":"2026-10-20T14:50:34","app":"code-oss","title":"entity-groups.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:50:34","end":"2026-10-20T14:50:44","app":"code-oss","title":"● entity-groups.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:50:44","end":"2026-10-20T14:50:49","app":"code-oss","title":"index.ts (Working Tree) (index.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:50:49","end":"2026-10-20T14:50:54","app":"code-oss","title":"entity-groups.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:50:54","end":"2026-10-20T14:51:04","app":"code-oss","title":"translate-entities.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:51:04","end":"2026-10-20T14:51:29","app":"code-oss","title":"● translate-entities.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:51:29","end":"2026-10-20T14:51:39","app":"code-oss","title":"translate-entities.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:51:39","end":"2026-10-20T14:51:44","app":"code-oss","title":"drawing.ts (Working Tree) (drawing.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:51:44","end":"2026-10-20T14:52:04","app":"code-oss","title":"drawing.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:52:04","end":"2026-10-20T14:52:09","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-20T14:52:09","end":"2026-10-20T14:52:14","app":"chromium","title":"New tab - Chromium"}
+{"start":"2026-10-20T14:52:14","end":"2026-10-20T14:52:19","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:52:19","end":"2026-10-20T14:52:24","app":"code-oss","title":"drawing.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:52:24","end":"2026-10-20T14:52:29","app":"firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-10-20T14:52:29","end":"2026-10-20T14:52:34","app":"code-oss","title":"drawing.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:52:34","end":"2026-10-20T14:52:39","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:52:39","end":"2026-10-20T14:52:44","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T14:52:44","end":"2026-10-20T14:52:49","app":"firefox","title":"System Tab Layout på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T14:52:49","end":"2026-10-20T14:52:54","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T14:52:54","end":"2026-10-20T14:53:34","app":"firefox","title":"Mounting scheme visibility of refnet joints and indoor/outdoor units insufficient på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T14:53:34","end":"2026-10-20T14:53:44","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T14:53:44","end":"2026-10-20T14:53:54","app":"firefox","title":"Bug in height difference PACi på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T14:53:54","end":"2026-10-20T14:54:04","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T14:54:04","end":"2026-10-20T14:54:09","app":"firefox","title":"Principle scheme automatically created på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T14:54:09","end":"2026-10-20T14:54:19","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T14:54:19","end":"2026-10-20T14:54:24","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-20T14:54:24","end":"2026-10-20T14:54:49","app":"code-oss","title":"drawing.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T14:54:49","end":"2026-10-20T14:55:14","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T14:55:14","end":"2026-10-20T14:55:19","app":"org.freedesktop.impl.portal.desktop.kde","title":"Open File"}
+{"start":"2026-10-20T14:55:19","end":"2026-10-20T14:56:59","app":"chromium","title":"DX PRO Designer - Chromium"}
