@@ -1413,6 +1413,7 @@
 {"ev":"in","t":"2026-10-19T12:56:01","project":"dxpro"}
 {"ev":"out","t":"2026-10-19T16:49:13","note":"Pipe/wire color/size"}
 {"ev":"in","t":"2026-10-19T16:49:13","project":"dxpro"}
-{"ev":"out","t":"2026-10-19T16:59:25","note":"Card checks"}
+{"ev":"out","t":"2026-10-19T16:59:25","note":"Unit rotation"}
 {"ev":"in","t":"2026-10-19T21:57:16","project":"dxpro"}
-{"ev":"out","t":"2026-10-19T22:11:57","note":"Unit rotation"}
+{"ev":"out","t":"2026-10-19T22:15:57","note":"Unit rotation"}
+{"ev":"in","t":"2026-10-20T07:59:07","project":"dxpro","task":"dxf improvments"}
