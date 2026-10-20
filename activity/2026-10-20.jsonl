@@ -810,3 +810,45 @@
 {"start":"2026-10-20T15:30:05","end":"2026-10-20T15:30:10","app":"chrome-pkooggnaalmfkidjmlhoelhdllpphaga-Default","title":"Outlook (PWA)"}
 {"start":"2026-10-20T15:30:10","end":"2026-10-20T15:30:25","app":"firefox","title":"panasonic · GitLab — Mozilla Firefox"}
 {"start":"2026-10-20T15:30:25","end":"2026-10-20T15:30:35","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T15:30:35","end":"2026-10-20T15:30:55","app":"margin","title":"Margin"}
+{"start":"2026-10-20T15:30:55","end":"2026-10-20T15:31:25","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T15:31:25","end":"2026-10-20T15:32:35","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-20T15:32:35","end":"2026-10-20T15:33:30","app":"code-oss","title":"index.ts (Working Tree) (index.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T15:33:30","end":"2026-10-20T15:33:45","app":"code-oss","title":"download-file.ts (Working Tree) (download-file.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T15:33:45","end":"2026-10-20T15:34:00","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T15:34:00","end":"2026-10-20T15:34:15","app":"chromium","title":"Project Report.1.pdf - Chromium"}
+{"start":"2026-10-20T15:34:15","end":"2026-10-20T15:34:25","app":"code-oss","title":"download-file.ts (Working Tree) (download-file.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T15:34:25","end":"2026-10-20T15:34:40","app":"code-oss","title":"state.ts (Working Tree) (state.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T15:34:40","end":"2026-10-20T15:34:50","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T15:34:50","end":"2026-10-20T15:35:00","app":"code-oss","title":"state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T15:35:00","end":"2026-10-20T15:35:15","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T15:35:15","end":"2026-10-20T15:36:10","app":"code-oss","title":"state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T15:36:10","end":"2026-10-20T15:36:15","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-20T15:36:15","end":"2026-10-20T15:36:20","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T15:36:20","end":"2026-10-20T15:36:25","app":"LibreCAD","title":"Error"}
+{"start":"2026-10-20T15:36:25","end":"2026-10-20T15:36:40","app":"code-oss","title":"state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T15:36:40","end":"2026-10-20T15:37:00","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-20T15:37:00","end":"2026-10-20T15:37:05","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T15:37:05","end":"2026-10-20T15:37:20","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-20T15:37:20","end":"2026-10-20T15:37:25","app":"LibreCAD","title":"Closing Drawing"}
+{"start":"2026-10-20T15:37:25","end":"2026-10-20T15:38:10","app":"code-oss","title":"state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T15:38:10","end":"2026-10-20T15:38:15","app":"code-oss","title":"Merging: state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T15:38:15","end":"2026-10-20T15:38:20","app":"code-oss","title":"state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T15:38:20","end":"2026-10-20T15:38:45","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-20T15:38:45","end":"2026-10-20T15:38:55","app":"code-oss","title":"state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T15:38:55","end":"2026-10-20T15:39:00","app":"code-oss","title":"download-file.test.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T15:39:00","end":"2026-10-20T15:39:05","app":"code-oss","title":"package.json (Working Tree) (package.json) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T15:39:05","end":"2026-10-20T15:39:10","app":"code-oss","title":"download-file.ts (Index) (download-file.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T15:39:10","end":"2026-10-20T15:39:25","app":"code-oss","title":"download-file.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T15:39:25","end":"2026-10-20T15:39:45","app":"code-oss","title":"download-file.ts (Index) (download-file.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T15:39:45","end":"2026-10-20T15:40:15","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-20T15:40:15","end":"2026-10-20T15:40:20","app":"code-oss","title":"download-file.ts (Index) (download-file.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T15:40:20","end":"2026-10-20T15:40:25","app":"firefox","title":"DXF Colours — Mozilla Firefox"}
+{"start":"2026-10-20T15:40:25","end":"2026-10-20T15:40:30","app":"firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-10-20T15:40:30","end":"2026-10-20T15:40:35","app":"code-oss","title":"download-file.ts (Index) (download-file.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T15:40:35","end":"2026-10-20T15:41:10","app":"code-oss","title":"state.ts (Index) (state.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-20T15:41:10","end":"2026-10-20T15:41:15","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T15:41:15","end":"2026-10-20T15:41:20","app":"firefox","title":"Add total wire cable length på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T15:41:20","end":"2026-10-20T15:41:25","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T15:41:25","end":"2026-10-20T15:41:35","app":"firefox","title":"Printout name with point på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-20T15:41:35","end":"2026-10-20T15:41:40","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}

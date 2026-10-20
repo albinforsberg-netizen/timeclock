@@ -1426,3 +1426,5 @@
 {"ev":"out","t":"2026-10-20T14:57:04","note":"dxf crop"}
 {"ev":"in","t":"2026-10-20T14:57:04","project":"dxpro"}
 {"ev":"out","t":"2026-10-20T15:30:45","note":"MtP large system fix"}
+{"ev":"in","t":"2026-10-20T15:30:45","project":"dxpro"}
+{"ev":"out","t":"2026-10-20T15:41:57","note":"Download file extension fix"}
