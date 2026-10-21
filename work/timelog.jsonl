@@ -1446,3 +1446,7 @@
 {"ev":"out","t":"2026-10-21T10:59:10","note":"l"}
 {"ev":"in","t":"2026-10-21T10:59:10","project":"refpro"}
 {"ev":"out","t":"2026-10-21T11:13:24","note":"merge vertical pipes"}
+{"ev":"in","t":"2026-10-21T11:13:24","project":"dxpro"}
+{"ev":"break","t":"2026-10-21T11:46:21"}
+{"ev":"in","t":"2026-10-21T13:00:16","project":"dxpro"}
+{"ev":"out","t":"2026-10-21T13:12:35","note":"Mounting scheme scalings"}
