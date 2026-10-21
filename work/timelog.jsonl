@@ -1450,3 +1450,5 @@
 {"ev":"break","t":"2026-10-21T11:46:21"}
 {"ev":"in","t":"2026-10-21T13:00:16","project":"dxpro"}
 {"ev":"out","t":"2026-10-21T13:12:35","note":"Mounting scheme scalings"}
+{"ev":"in","t":"2026-10-21T13:12:35","project":"refpro"}
+{"ev":"out","t":"2026-10-21T14:21:52","note":"Manual pipe selection"}
