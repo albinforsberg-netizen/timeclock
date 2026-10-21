@@ -1442,9 +1442,7 @@
 {"ev":"out","t":"2026-10-21T10:30:29"}
 {"ev":"in","t":"2026-10-21T10:30:29","project":"refpro"}
 {"ev":"out","t":"2026-10-21T10:57:44","note":"refpro weekly"}
-{"ev":"in","t":"2026-10-21T10:57:44","project":"dxpro"}
-{"ev":"out","t":"2026-10-21T10:59:10","note":"l"}
-{"ev":"in","t":"2026-10-21T10:59:10","project":"refpro"}
+{"ev":"in","t":"2026-10-21T10:57:44","project":"refpro"}
 {"ev":"out","t":"2026-10-21T11:13:24","note":"merge vertical pipes"}
 {"ev":"in","t":"2026-10-21T11:13:24","project":"dxpro"}
 {"ev":"break","t":"2026-10-21T11:46:21"}
@@ -1452,3 +1450,5 @@
 {"ev":"out","t":"2026-10-21T13:12:35","note":"Mounting scheme scalings"}
 {"ev":"in","t":"2026-10-21T13:12:35","project":"refpro"}
 {"ev":"out","t":"2026-10-21T14:21:52","note":"Manual pipe selection"}
+{"ev":"in","t":"2026-10-21T14:21:52","project":"refpro"}
+{"ev":"out","t":"2026-10-21T14:40:58","note":"Pipe select bug"}
