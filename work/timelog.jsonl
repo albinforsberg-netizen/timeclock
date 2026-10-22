@@ -1456,3 +1456,5 @@
 {"ev":"out","t":"2026-10-21T16:45:59","note":"Room req table in printout"}
 {"ev":"in","t":"2026-10-21T16:46:01","project":"dxpro"}
 {"ev":"out","t":"2026-10-21T17:05:59","note":"fixes"}
+{"ev":"in","t":"2026-10-22T07:30:17","project":"dxpro"}
+{"ev":"out","t":"2026-10-22T10:18:45","note":"Mounting diagram fixes"}
