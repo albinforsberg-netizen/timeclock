@@ -573,3 +573,134 @@
 {"start":"2026-10-22T10:58:31","end":"2026-10-22T10:59:41","app":"Windows Terminal Host","title":"Ubuntu"}
 {"start":"2026-10-22T10:59:41","end":"2026-10-22T10:59:51","app":"Visual Studio Code","title":"app.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
 {"start":"2026-10-22T10:59:51","end":"2026-10-22T11:00:06","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:00:06","end":"2026-10-22T11:00:16","app":"Margin","title":"Margin"}
+{"start":"2026-10-22T11:00:16","end":"2026-10-22T11:00:31","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:00:31","end":"2026-10-22T11:01:01","app":"Visual Studio Code","title":"httproute.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:01:01","end":"2026-10-22T11:01:11","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-22T11:01:11","end":"2026-10-22T11:01:16","app":"Visual Studio Code","title":"httproute.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:01:16","end":"2026-10-22T11:01:26","app":"Visual Studio Code","title":"flexible-postgres.md - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:01:26","end":"2026-10-22T11:01:56","app":"Visual Studio Code","title":"app.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:01:56","end":"2026-10-22T11:02:06","app":"Visual Studio Code","title":"gateway.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:02:06","end":"2026-10-22T11:02:31","app":"Visual Studio Code","title":"app.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:02:31","end":"2026-10-22T11:02:36","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:02:36","end":"2026-10-22T11:02:51","app":"Firefox","title":"Implement a help section to each tool på All applications | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:02:51","end":"2026-10-22T11:03:21","app":"Firefox","title":"All applications | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:03:21","end":"2026-10-22T11:03:51","app":"Firefox","title":"kv-panasonic-aks - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-22T11:03:51","end":"2026-10-22T11:04:01","app":"Firefox","title":"EsWikiUserPostgresPassword - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-22T11:04:01","end":"2026-10-22T11:04:06","app":"Visual Studio Code","title":"azure-key-vault-identity.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:04:06","end":"2026-10-22T11:04:11","app":"Visual Studio Code","title":"release.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:04:11","end":"2026-10-22T11:04:21","app":"Visual Studio Code","title":"shared-secrets.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:04:21","end":"2026-10-22T11:05:01","app":"Visual Studio Code","title":"release.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:05:01","end":"2026-10-22T11:05:06","app":"Firefox","title":"kv-panasonic-aks - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-22T11:05:06","end":"2026-10-22T11:05:16","app":"Visual Studio Code","title":"release.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:05:16","end":"2026-10-22T11:05:21","app":"Visual Studio Code","title":"secrets.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:05:21","end":"2026-10-22T11:05:26","app":"Visual Studio Code","title":"● secrets.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:05:26","end":"2026-10-22T11:05:31","app":"Visual Studio Code","title":"secrets.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:05:31","end":"2026-10-22T11:05:51","app":"Visual Studio Code","title":"app.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:05:51","end":"2026-10-22T11:05:56","app":"Firefox","title":"All applications | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:05:56","end":"2026-10-22T11:06:01","app":"Firefox","title":"Startsida | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:06:01","end":"2026-10-22T11:06:06","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-22T11:06:06","end":"2026-10-22T11:06:11","app":"Firefox","title":"Sign in to dxpro — Mozilla Firefox"}
+{"start":"2026-10-22T11:06:11","end":"2026-10-22T11:06:51","app":"Firefox","title":"Startsida | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:06:51","end":"2026-10-22T11:06:56","app":"Visual Studio Code","title":"app.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:06:56","end":"2026-10-22T11:09:46","app":"Visual Studio Code","title":"httproute.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:09:46","end":"2026-10-22T11:12:36","app":"Visual Studio Code","title":"namespace.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:12:36","end":"2026-10-22T11:12:51","app":"Microsoft Outlook","title":"Inbox - Albin Forsberg - Outlook"}
+{"start":"2026-10-22T11:12:51","end":"2026-10-22T11:12:56","app":"Visual Studio Code","title":"namespace.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:12:56","end":"2026-10-22T11:13:21","app":"Visual Studio Code","title":"secrets.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:13:21","end":"2026-10-22T11:16:06","app":"Visual Studio Code","title":"httproute.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:16:06","end":"2026-10-22T11:16:11","app":"Firefox","title":"All applications | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:16:11","end":"2026-10-22T11:16:47","app":"Firefox","title":"Implement a help section to each tool på All applications | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:16:47","end":"2026-10-22T11:16:52","app":"Utforskaren","title":""}
+{"start":"2026-10-22T11:16:52","end":"2026-10-22T11:17:07","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-22T11:17:07","end":"2026-10-22T11:17:27","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-22T11:17:27","end":"2026-10-22T11:17:37","app":"Firefox","title":"S-21.pdf — Mozilla Firefox"}
+{"start":"2026-10-22T11:17:37","end":"2026-10-22T11:17:42","app":"Visual Studio Code","title":"readonly-text.tsx (Working Tree) (readonly-text.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:17:42","end":"2026-10-22T11:17:57","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-22T11:17:57","end":"2026-10-22T11:18:02","app":"Firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-10-22T11:18:02","end":"2026-10-22T11:18:07","app":"Firefox","title":"panasonic / flux-panasonic-dev · GitLab — Mozilla Firefox"}
+{"start":"2026-10-22T11:18:07","end":"2026-10-22T11:18:12","app":"Firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-22T11:18:12","end":"2026-10-22T11:18:32","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-22T11:18:32","end":"2026-10-22T11:18:47","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-22T11:18:47","end":"2026-10-22T11:19:37","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-22T11:19:37","end":"2026-10-22T11:19:42","app":"Visual Studio Code","title":"readonly-text.tsx (Working Tree) (readonly-text.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:19:42","end":"2026-10-22T11:19:52","app":"Firefox","title":"Startsida | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:19:52","end":"2026-10-22T11:21:07","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:21:07","end":"2026-10-22T11:21:12","app":"Firefox","title":"Increase stability of tool på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:21:12","end":"2026-10-22T11:21:22","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:21:22","end":"2026-10-22T11:21:32","app":"Firefox","title":"Mounting schemeDraw pipe through text not possible because text is choosen (Option to hide text maybe) på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:21:32","end":"2026-10-22T11:21:57","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:21:57","end":"2026-10-22T11:22:07","app":"Firefox","title":"Idea to improve readability for big mounting schemes på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:22:07","end":"2026-10-22T11:22:12","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:22:12","end":"2026-10-22T11:22:22","app":"Firefox","title":"Copied system problems with exchanging IU på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:22:22","end":"2026-10-22T11:22:27","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:22:27","end":"2026-10-22T11:22:37","app":"Firefox","title":"Mounting scheme vertical piping automatically på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:22:37","end":"2026-10-22T11:22:47","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:22:47","end":"2026-10-22T11:23:02","app":"Firefox","title":"Display problem på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:23:02","end":"2026-10-22T11:23:22","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:23:22","end":"2026-10-22T11:23:32","app":"Firefox","title":"Move units like in vent PRO på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:23:32","end":"2026-10-22T11:23:52","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:23:52","end":"2026-10-22T11:24:02","app":"Firefox","title":"Progress bar på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:24:02","end":"2026-10-22T11:25:17","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:25:17","end":"2026-10-22T11:25:32","app":"Firefox","title":"Detailed error/warning messages selectable in printout på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:25:32","end":"2026-10-22T11:25:37","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:25:37","end":"2026-10-22T11:25:42","app":"Utforskaren","title":""}
+{"start":"2026-10-22T11:25:42","end":"2026-10-22T11:26:12","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-22T11:26:12","end":"2026-10-22T11:27:27","app":"Firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-22T11:27:27","end":"2026-10-22T11:27:57","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-22T11:27:57","end":"2026-10-22T11:28:47","app":"Firefox","title":"Vent PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-22T11:28:47","end":"2026-10-22T11:29:07","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-22T11:29:07","end":"2026-10-22T11:29:12","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-22T11:29:12","end":"2026-10-22T11:29:17","app":"Slack","title":"panasonic (Channel) - Divid - 1 new item - Slack"}
+{"start":"2026-10-22T11:29:17","end":"2026-10-22T11:29:22","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-22T11:29:22","end":"2026-10-22T11:29:52","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:29:52","end":"2026-10-22T11:30:02","app":"Firefox","title":"optional addition på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:30:02","end":"2026-10-22T11:30:07","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:30:07","end":"2026-10-22T11:30:32","app":"Firefox","title":"Pipes disappearing on Mounting Scheme på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:30:32","end":"2026-10-22T11:30:37","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:30:37","end":"2026-10-22T11:30:42","app":"Firefox","title":"MZ1 Piping Rule Update på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:30:42","end":"2026-10-22T11:31:17","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:31:17","end":"2026-10-22T11:32:12","app":"Visual Studio Code","title":"httproute.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:32:12","end":"2026-10-22T11:32:22","app":"Firefox","title":"Cad export på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:32:22","end":"2026-10-22T11:32:37","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:32:37","end":"2026-10-22T11:33:12","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-22T11:33:12","end":"2026-10-22T11:33:17","app":"Google Chrome","title":"Ny flik - Google Chrome"}
+{"start":"2026-10-22T11:33:17","end":"2026-10-22T11:33:52","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-10-22T11:33:52","end":"2026-10-22T11:33:57","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-22T11:33:57","end":"2026-10-22T11:35:32","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-22T11:35:32","end":"2026-10-22T11:35:37","app":"Firefox","title":"Mozilla Firefox Privat surfning"}
+{"start":"2026-10-22T11:35:37","end":"2026-10-22T11:35:42","app":"Utforskaren","title":"Växla mellan aktiviteter"}
+{"start":"2026-10-22T11:35:42","end":"2026-10-22T11:35:57","app":"Visual Studio Code","title":"readonly-text.tsx (Working Tree) (readonly-text.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:35:57","end":"2026-10-22T11:36:02","app":"Visual Studio Code","title":"hotkeys.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:36:02","end":"2026-10-22T11:36:07","app":"Visual Studio Code","title":"● hotkeys.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:36:07","end":"2026-10-22T11:36:22","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-22T11:36:22","end":"2026-10-22T11:36:42","app":"Visual Studio Code","title":"hotkeys.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:36:42","end":"2026-10-22T11:36:57","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-22T11:36:57","end":"2026-10-22T11:37:02","app":"Visual Studio Code","title":"hotkeys.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:37:02","end":"2026-10-22T11:37:32","app":"Visual Studio Code","title":"httproute.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:37:32","end":"2026-10-22T11:37:52","app":"Visual Studio Code","title":"app.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:37:52","end":"2026-10-22T11:37:57","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:37:57","end":"2026-10-22T11:38:02","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-22T11:38:02","end":"2026-10-22T11:39:42","app":"Firefox","title":"Requirements | Wiki.js — Mozilla Firefox"}
+{"start":"2026-10-22T11:39:42","end":"2026-10-22T11:39:47","app":"Visual Studio Code","title":"app.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:39:47","end":"2026-10-22T11:39:57","app":"Visual Studio Code","title":"● app.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:39:57","end":"2026-10-22T11:41:28","app":"Visual Studio Code","title":"app.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-22T11:41:28","end":"2026-10-22T11:41:43","app":"Firefox","title":"Upgrade | Wiki.js — Mozilla Firefox"}
+{"start":"2026-10-22T11:41:43","end":"2026-10-22T11:41:48","app":"Firefox","title":"Installation | Wiki.js — Mozilla Firefox"}
+{"start":"2026-10-22T11:41:48","end":"2026-10-22T11:42:58","app":"Firefox","title":"Kubernetes | Wiki.js — Mozilla Firefox"}
+{"start":"2026-10-22T11:42:58","end":"2026-10-22T11:43:03","app":"Firefox","title":"Cad export på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:43:03","end":"2026-10-22T11:43:23","app":"Firefox","title":"Implement a help section to each tool på All applications | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:43:23","end":"2026-10-22T11:46:28","app":"Firefox","title":"All applications | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:46:28","end":"2026-10-22T11:46:33","app":"Firefox","title":"Implement a help section to each tool på All applications | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:46:33","end":"2026-10-22T11:46:58","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:46:58","end":"2026-10-22T11:47:03","app":"Firefox","title":"Delete unit in wiring is not deleted in piping also på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:47:03","end":"2026-10-22T11:47:08","app":"Utforskaren","title":"Växla mellan aktiviteter"}
+{"start":"2026-10-22T11:47:08","end":"2026-10-22T11:47:58","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-22T11:47:58","end":"2026-10-22T11:48:03","app":"Firefox","title":"Startsida | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:48:03","end":"2026-10-22T11:48:08","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:48:08","end":"2026-10-22T11:48:33","app":"Firefox","title":"Save systemless configs på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:48:33","end":"2026-10-22T11:48:38","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-22T11:48:38","end":"2026-10-22T11:48:43","app":"Firefox","title":"Sign in to dxpro — Mozilla Firefox"}
+{"start":"2026-10-22T11:48:43","end":"2026-10-22T11:49:03","app":"Firefox","title":"Save systemless configs på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-10-22T11:49:03","end":"2026-10-22T11:49:08","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-22T11:49:08","end":"2026-10-22T11:49:13","app":"Utforskaren","title":"Växla mellan aktiviteter"}
