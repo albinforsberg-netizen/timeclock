@@ -926,3 +926,6 @@
 {"start":"2026-10-23T17:54:54","end":"2026-10-23T17:55:14","app":"","title":""}
 {"start":"2026-10-23T17:55:14","end":"2026-10-23T17:55:19","app":"margin","title":"Time — Margin"}
 {"start":"2026-10-23T17:55:19","end":"2026-10-23T17:55:29","app":"org.kde.konsole","title":"flux-panasonic-dev : bash — Konsole"}
+{"start":"2026-10-23T17:55:29","end":"2026-10-23T17:55:54","app":"org.kde.konsole","title":"timeclock : bash — Konsole"}
+{"start":"2026-10-23T17:55:54","end":"2026-10-23T17:56:09","app":"margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-10-23T17:56:09","end":"2026-10-23T17:56:14","app":"margin","title":"• timelog.jsonl — Margin"}
