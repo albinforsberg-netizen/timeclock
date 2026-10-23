@@ -772,3 +772,153 @@
 {"start":"2026-10-23T15:20:14","end":"2026-10-23T15:20:29","app":"firefox","title":"Edit Profile · User Settings · GitLab — Mozilla Firefox"}
 {"start":"2026-10-23T15:20:29","end":"2026-10-23T15:20:34","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
 {"start":"2026-10-23T15:20:34","end":"2026-10-23T15:20:44","app":"code-oss","title":"tsconfig.json - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:20:44","end":"2026-10-23T15:20:54","app":"margin","title":"Time — Margin"}
+{"start":"2026-10-23T15:20:54","end":"2026-10-23T15:20:59","app":"firefox","title":"test.pdf — Mozilla Firefox"}
+{"start":"2026-10-23T15:20:59","end":"2026-10-23T15:21:09","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T15:21:09","end":"2026-10-23T15:21:14","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-23T15:21:14","end":"2026-10-23T15:21:59","app":"firefox","title":"Floor height not visible på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-23T15:21:59","end":"2026-10-23T15:22:04","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T15:22:04","end":"2026-10-23T15:22:09","app":"firefox","title":"Pipeline #212428 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:22:09","end":"2026-10-23T15:22:14","app":"code-oss","title":"tsconfig.json - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:22:14","end":"2026-10-23T15:22:34","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T15:22:34","end":"2026-10-23T15:22:39","app":"org.kde.plasmashell","title":"plasmashell"}
+{"start":"2026-10-23T15:22:39","end":"2026-10-23T15:22:44","app":"org.kde.konsole","title":"~ : bash — Konsole"}
+{"start":"2026-10-23T15:22:44","end":"2026-10-23T15:22:49","app":"org.kde.konsole","title":"flux-panasonic-dev : git — Konsole"}
+{"start":"2026-10-23T15:22:49","end":"2026-10-23T15:22:59","app":"org.kde.konsole","title":"flux-panasonic-dev : bash — Konsole"}
+{"start":"2026-10-23T15:22:59","end":"2026-10-23T15:23:09","app":"code-oss","title":"ingress.yaml - flux-panasonic-dev - Code - OSS"}
+{"start":"2026-10-23T15:23:09","end":"2026-10-23T15:23:14","app":"code-oss","title":"service.yaml - flux-panasonic-dev - Code - OSS"}
+{"start":"2026-10-23T15:23:14","end":"2026-10-23T15:23:19","app":"code-oss","title":"tsconfig.json - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:23:19","end":"2026-10-23T15:23:24","app":"code-oss","title":"router.tsx (Working Tree) (router.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:23:24","end":"2026-10-23T15:23:29","app":"code-oss","title":"printout.ts (Working Tree) (printout.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:23:29","end":"2026-10-23T15:24:04","app":"code-oss","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:24:04","end":"2026-10-23T15:24:59","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T15:24:59","end":"2026-10-23T15:25:04","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-23T15:25:04","end":"2026-10-23T15:25:09","app":"firefox","title":"User settings printout på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-23T15:25:09","end":"2026-10-23T15:25:24","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T15:25:24","end":"2026-10-23T15:25:29","app":"code-oss","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:25:29","end":"2026-10-23T15:25:34","app":"org.kde.plasmashell","title":"plasmashell"}
+{"start":"2026-10-23T15:25:34","end":"2026-10-23T15:27:14","app":"code-oss","title":"dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:27:14","end":"2026-10-23T15:27:24","app":"code-oss","title":"markdown-text.tsx (f5a8c3d) (markdown-text.tsx (f5a8c3d)) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:27:24","end":"2026-10-23T15:28:24","app":"code-oss","title":"release-notes-dialog.tsx (f5a8c3d) (release-notes-dialog.tsx (f5a8c3d)) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:28:24","end":"2026-10-23T15:28:59","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T15:28:59","end":"2026-10-23T15:29:09","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-23T15:29:09","end":"2026-10-23T15:29:19","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T15:29:19","end":"2026-10-23T15:29:24","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:29:24","end":"2026-10-23T15:31:29","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T15:31:29","end":"2026-10-23T15:32:54","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T15:32:54","end":"2026-10-23T15:34:14","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T15:34:14","end":"2026-10-23T15:34:19","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T15:34:19","end":"2026-10-23T15:34:54","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T15:34:54","end":"2026-10-23T15:35:04","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T15:35:04","end":"2026-10-23T15:35:14","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T15:39:34","end":"2026-10-23T15:39:39","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T15:39:39","end":"2026-10-23T15:39:54","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T15:39:54","end":"2026-10-23T15:40:44","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T15:40:44","end":"2026-10-23T15:41:49","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T15:41:49","end":"2026-10-23T15:41:54","app":"firefox","title":"dxf2.pdf — Mozilla Firefox"}
+{"start":"2026-10-23T15:41:54","end":"2026-10-23T15:42:14","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T15:42:14","end":"2026-10-23T15:42:19","app":"code-oss","title":"release-notes-dialog.tsx (f5a8c3d) (release-notes-dialog.tsx (f5a8c3d)) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:42:19","end":"2026-10-23T15:42:29","app":"code-oss","title":"reports.ts (Deleted) (reports.ts (Deleted)) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:42:29","end":"2026-10-23T15:42:59","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T15:42:59","end":"2026-10-23T15:43:38","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T15:52:15","end":"2026-10-23T15:52:55","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T15:52:55","end":"2026-10-23T15:53:40","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T15:53:40","end":"2026-10-23T15:53:45","app":"code-oss","title":"reports.ts (Deleted) (reports.ts (Deleted)) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:53:45","end":"2026-10-23T15:53:55","app":"code-oss","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:53:55","end":"2026-10-23T15:54:00","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T15:54:00","end":"2026-10-23T15:54:05","app":"code-oss","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:54:05","end":"2026-10-23T15:54:40","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T15:54:40","end":"2026-10-23T15:54:45","app":"code-oss","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:54:45","end":"2026-10-23T15:54:50","app":"DBeaver","title":"DBeaver 26.2.2 - __migrations"}
+{"start":"2026-10-23T15:54:50","end":"2026-10-23T15:55:00","app":"DBeaver","title":"DBeaver 26.2.2 - profile"}
+{"start":"2026-10-23T15:55:00","end":"2026-10-23T15:55:05","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T15:55:05","end":"2026-10-23T15:58:05","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T15:58:05","end":"2026-10-23T15:58:45","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T15:58:45","end":"2026-10-23T15:59:00","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T15:59:00","end":"2026-10-23T15:59:10","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-23T15:59:10","end":"2026-10-23T15:59:15","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:59:15","end":"2026-10-23T15:59:25","app":"firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:59:25","end":"2026-10-23T15:59:40","app":"firefox","title":"panasonic / flux-panasonic-dev · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:59:40","end":"2026-10-23T15:59:50","app":"firefox","title":"Preferences · User Settings · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:59:50","end":"2026-10-23T15:59:55","app":"firefox","title":"panasonic / flux-panasonic-dev · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:59:55","end":"2026-10-23T16:00:00","app":"firefox","title":"Commits · master · panasonic / flux-panasonic-dev · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T16:00:00","end":"2026-10-23T16:00:05","app":"firefox","title":"reveiw app for aquaarea. (93ec85c5) · Commits · panasonic / flux-panasonic-dev · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T16:00:05","end":"2026-10-23T16:00:15","app":"firefox","title":"panasonic / flux-panasonic-dev · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T16:00:15","end":"2026-10-23T16:01:20","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:01:20","end":"2026-10-23T16:01:25","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T16:01:25","end":"2026-10-23T16:01:50","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:01:50","end":"2026-10-23T16:02:45","app":"firefox","title":"dxf2-1.pdf — Mozilla Firefox"}
+{"start":"2026-10-23T16:02:45","end":"2026-10-23T16:03:40","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:03:40","end":"2026-10-23T16:03:45","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-23T16:03:45","end":"2026-10-23T16:05:25","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:05:25","end":"2026-10-23T16:05:30","app":"firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T16:05:30","end":"2026-10-23T16:05:45","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T16:05:45","end":"2026-10-23T16:06:10","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T16:06:10","end":"2026-10-23T16:06:30","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:06:30","end":"2026-10-23T16:07:10","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T16:07:10","end":"2026-10-23T16:12:10","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:12:10","end":"2026-10-23T16:14:00","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:14:00","end":"2026-10-23T16:14:05","app":"code-oss","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T16:14:05","end":"2026-10-23T16:14:15","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T16:14:15","end":"2026-10-23T16:14:25","app":"firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T16:14:25","end":"2026-10-23T16:14:35","app":"firefox","title":"Upgrade the toolchain and dependencies: pnpm, ts-proto 2, React 19, Mantine 9, Vite 8 (!203) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T16:14:35","end":"2026-10-23T16:15:10","app":"code-oss","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T16:15:10","end":"2026-10-23T16:16:10","app":"firefox","title":"Upgrade the toolchain and dependencies: pnpm, ts-proto 2, React 19, Mantine 9, Vite 8 (!203) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T16:16:10","end":"2026-10-23T16:16:15","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-23T16:16:15","end":"2026-10-23T16:16:30","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-23T16:16:30","end":"2026-10-23T16:16:40","app":"firefox","title":"ERV icon two times with HRPT på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-23T16:16:40","end":"2026-10-23T16:16:45","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-23T16:16:45","end":"2026-10-23T16:16:50","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:16:50","end":"2026-10-23T16:16:55","app":"firefox","title":"Upgrade the toolchain and dependencies: pnpm, ts-proto 2, React 19, Mantine 9, Vite 8 (!203) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T16:16:55","end":"2026-10-23T16:17:05","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:17:05","end":"2026-10-23T16:17:35","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Nebiyat Sirak | Microsoft Teams"}
+{"start":"2026-10-23T16:17:35","end":"2026-10-23T16:17:40","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:17:40","end":"2026-10-23T16:18:05","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T16:18:05","end":"2026-10-23T16:18:25","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-23T16:18:25","end":"2026-10-23T16:18:40","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:18:40","end":"2026-10-23T16:19:05","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T16:19:05","end":"2026-10-23T16:19:15","app":"firefox","title":"Upgrade the toolchain and dependencies: pnpm, ts-proto 2, React 19, Mantine 9, Vite 8 (!203) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T16:19:15","end":"2026-10-23T16:19:30","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:19:30","end":"2026-10-23T16:19:40","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-23T16:19:40","end":"2026-10-23T16:20:05","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:20:05","end":"2026-10-23T16:20:10","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T16:20:10","end":"2026-10-23T16:20:26","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:20:26","end":"2026-10-23T16:20:31","app":"firefox","title":"test.pdf — Mozilla Firefox"}
+{"start":"2026-10-23T16:20:31","end":"2026-10-23T16:20:51","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:20:51","end":"2026-10-23T16:21:11","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-23T16:21:11","end":"2026-10-23T16:21:16","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:21:16","end":"2026-10-23T16:21:21","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-23T16:21:21","end":"2026-10-23T16:21:31","app":"firefox","title":"<text>textid 2286</text> - report1978775903.pdf — Mozilla Firefox"}
+{"start":"2026-10-23T16:21:31","end":"2026-10-23T16:21:36","app":"firefox","title":"Upgrade the toolchain and dependencies: pnpm, ts-proto 2, React 19, Mantine 9, Vite 8 (!203) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T16:21:36","end":"2026-10-23T16:22:06","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:22:06","end":"2026-10-23T16:22:11","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:22:11","end":"2026-10-23T16:22:21","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:22:21","end":"2026-10-23T16:22:31","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T16:22:31","end":"2026-10-23T16:22:46","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:22:46","end":"2026-10-23T16:23:26","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T16:23:26","end":"2026-10-23T16:23:36","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:23:36","end":"2026-10-23T16:24:06","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-23T16:24:06","end":"2026-10-23T16:25:31","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:25:31","end":"2026-10-23T16:27:21","app":"firefox","title":"Upgrade the toolchain and dependencies: pnpm, ts-proto 2, React 19, Mantine 9, Vite 8 (!203) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T16:27:21","end":"2026-10-23T16:27:36","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T16:27:36","end":"2026-10-23T16:27:41","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Nebiyat Sirak | Microsoft Teams"}
+{"start":"2026-10-23T16:27:41","end":"2026-10-23T16:28:16","app":"code-oss","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T16:28:16","end":"2026-10-23T16:28:21","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T16:28:21","end":"2026-10-23T16:28:26","app":"code-oss","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T16:28:26","end":"2026-10-23T16:28:46","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T16:28:46","end":"2026-10-23T16:28:51","app":"code-oss","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T16:28:51","end":"2026-10-23T16:29:36","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:29:36","end":"2026-10-23T16:29:46","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T16:29:46","end":"2026-10-23T16:29:51","app":"margin","title":"Time — Margin"}
+{"start":"2026-10-23T16:29:51","end":"2026-10-23T16:29:56","app":"margin","title":"2026-10-20 — Margin"}
+{"start":"2026-10-23T16:29:56","end":"2026-10-23T16:30:16","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T16:30:16","end":"2026-10-23T16:32:06","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:32:06","end":"2026-10-23T16:32:31","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T16:32:31","end":"2026-10-23T16:32:41","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:32:41","end":"2026-10-23T16:32:46","app":"code-oss","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T16:32:46","end":"2026-10-23T16:32:56","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T16:32:56","end":"2026-10-23T16:35:31","app":"code-oss","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T16:35:31","end":"2026-10-23T16:35:36","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | DXPro Weekly | Microsoft Teams"}
+{"start":"2026-10-23T16:35:36","end":"2026-10-23T16:35:41","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-23T16:35:41","end":"2026-10-23T16:35:46","app":"code-oss","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T16:35:46","end":"2026-10-23T16:35:56","app":"com.anthropic.Claude","title":"Claude"}
