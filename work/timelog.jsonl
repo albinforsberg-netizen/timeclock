@@ -1455,6 +1455,7 @@
 {"ev":"in","t":"2026-10-21T14:41:00","project":"dxpro"}
 {"ev":"out","t":"2026-10-21T16:45:59","note":"Room req table in printout"}
 {"ev":"in","t":"2026-10-21T16:46:01","project":"dxpro"}
+{"ev":"out","t":"2026-10-21T17:05:49","note":"Fixes"}
 {"ev":"out","t":"2026-10-21T17:05:59","note":"Fixes"}
 {"ev":"in","t":"2026-10-22T07:30:17","project":"dxpro"}
 {"ev":"out","t":"2026-10-22T10:18:45","note":"Mounting diagram fixes"}
@@ -1476,6 +1477,5 @@
 {"ev":"out","t":"2026-10-23T09:35:21","note":"Principle scalings"}
 {"ev":"in","t":"2026-10-23T09:35:21","project":"dxpro"}
 {"ev":"out","t":"2026-10-23T10:58:09","note":"Wiki prod setup"}
-{"ev":"out","t":"2026-10-21T17:05:49","note":"Fixes"}
 {"ev":"in","t":"2026-10-23T10:58:09","project":"aquarea"}
 {"ev":"break","t":"2026-10-23T12:00:34"}
