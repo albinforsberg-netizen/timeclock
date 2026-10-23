@@ -444,3 +444,331 @@
 {"start":"2026-10-23T12:39:24","end":"2026-10-23T12:39:29","app":"SearchHost","title":"Sök"}
 {"start":"2026-10-23T12:53:59","end":"2026-10-23T12:54:04","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
 {"start":"2026-10-23T12:56:19","end":"2026-10-23T12:56:24","app":"margin","title":"Margin"}
+{"start":"2026-10-23T12:56:30","end":"2026-10-23T12:56:45","app":"margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-10-23T12:56:45","end":"2026-10-23T12:56:55","app":"margin","title":"Today — Margin"}
+{"start":"2026-10-23T12:56:55","end":"2026-10-23T12:57:10","app":"margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-10-23T12:57:10","end":"2026-10-23T12:57:50","app":"margin","title":"• timelog.jsonl — Margin"}
+{"start":"2026-10-23T12:57:50","end":"2026-10-23T12:58:00","app":"margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-10-23T12:58:00","end":"2026-10-23T12:58:10","app":"margin","title":"Time — Margin"}
+{"start":"2026-10-23T12:58:10","end":"2026-10-23T12:58:15","app":"Alacritty","title":"albin-divid@cachyos-x8664:~"}
+{"start":"2026-10-23T12:58:15","end":"2026-10-23T12:58:50","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T12:58:50","end":"2026-10-23T12:58:55","app":"firefox","title":"Problem loading page — Mozilla Firefox"}
+{"start":"2026-10-23T12:58:55","end":"2026-10-23T12:59:00","app":"org.kde.plasmashell","title":"plasmashell"}
+{"start":"2026-10-23T12:59:00","end":"2026-10-23T12:59:15","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T12:59:15","end":"2026-10-23T12:59:20","app":"firefox","title":"Trello — Mozilla Firefox"}
+{"start":"2026-10-23T12:59:20","end":"2026-10-23T12:59:55","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-23T12:59:55","end":"2026-10-23T13:00:00","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T13:00:00","end":"2026-10-23T13:00:10","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:00:10","end":"2026-10-23T13:00:30","app":"Alacritty","title":"albin-divid@cachyos-x8664:~"}
+{"start":"2026-10-23T13:00:30","end":"2026-10-23T13:00:50","app":"slack","title":"random (Channel) - Divid - 1 new item - Slack"}
+{"start":"2026-10-23T13:00:50","end":"2026-10-23T13:01:05","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-23T13:01:05","end":"2026-10-23T13:01:35","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:01:35","end":"2026-10-23T13:01:40","app":"org.kde.plasmashell","title":"plasmashell"}
+{"start":"2026-10-23T13:01:40","end":"2026-10-23T13:01:45","app":"Spotify","title":"Spotify Premium"}
+{"start":"2026-10-23T13:01:45","end":"2026-10-23T13:01:50","app":"Spotify","title":"Céline Dion - If You Could See Me Now"}
+{"start":"2026-10-23T13:01:50","end":"2026-10-23T13:01:55","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:01:55","end":"2026-10-23T13:02:00","app":"margin","title":"Time — Margin"}
+{"start":"2026-10-23T13:02:00","end":"2026-10-23T13:02:45","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:02:45","end":"2026-10-23T13:02:50","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T13:02:50","end":"2026-10-23T13:02:55","app":"Alacritty","title":"albin-divid@cachyos-x8664:~"}
+{"start":"2026-10-23T13:02:55","end":"2026-10-23T13:03:05","app":"code-oss","title":"components-render.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:03:05","end":"2026-10-23T13:03:15","app":"slack","title":"random (Channel) - Divid - 1 new item - Slack"}
+{"start":"2026-10-23T13:03:15","end":"2026-10-23T13:03:35","app":"slack","title":"general (Channel) - Divid - Slack"}
+{"start":"2026-10-23T13:03:35","end":"2026-10-23T13:04:15","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-23T13:04:15","end":"2026-10-23T13:04:20","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:04:20","end":"2026-10-23T13:04:35","app":"code-oss","title":"components-render.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:04:35","end":"2026-10-23T13:04:40","app":"firefox","title":"Panasonic PRO Club — Mozilla Firefox"}
+{"start":"2026-10-23T13:04:45","end":"2026-10-23T13:04:50","app":"firefox","title":"Panasonic PRO Club — Mozilla Firefox"}
+{"start":"2026-10-23T13:04:50","end":"2026-10-23T13:05:10","app":"code-oss","title":"components-render.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:05:10","end":"2026-10-23T13:05:50","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:05:50","end":"2026-10-23T13:05:55","app":"org.kde.plasmashell","title":"plasmashell"}
+{"start":"2026-10-23T13:05:55","end":"2026-10-23T13:06:00","app":"DBeaver","title":"Tip of the day"}
+{"start":"2026-10-23T13:06:00","end":"2026-10-23T13:06:10","app":"DBeaver","title":"DBeaver 26.2.2 - profile"}
+{"start":"2026-10-23T13:06:10","end":"2026-10-23T13:06:15","app":"DBeaver","title":"DBeaver 26.2.2 - aquareaproject"}
+{"start":"2026-10-23T13:06:15","end":"2026-10-23T13:06:30","app":"DBeaver","title":"DBeaver 26.2.2 - project"}
+{"start":"2026-10-23T13:06:30","end":"2026-10-23T13:07:05","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:07:05","end":"2026-10-23T13:07:20","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:07:20","end":"2026-10-23T13:08:15","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:08:15","end":"2026-10-23T13:08:25","app":"DBeaver","title":"DBeaver 26.2.2 - project"}
+{"start":"2026-10-23T13:08:25","end":"2026-10-23T13:08:45","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:08:45","end":"2026-10-23T13:08:55","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:08:55","end":"2026-10-23T13:09:00","app":"code-oss","title":"components-render.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:09:00","end":"2026-10-23T13:09:20","app":"code-oss","title":"operational-cost.tsx (Working Tree) (operational-cost.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:09:20","end":"2026-10-23T13:09:25","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:09:25","end":"2026-10-23T13:09:35","app":"code-oss","title":"operational-cost.tsx (Working Tree) (operational-cost.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:09:35","end":"2026-10-23T13:09:40","app":"code-oss","title":".graphify_python - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:09:40","end":"2026-10-23T13:09:50","app":"code-oss","title":"cost.json - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:09:50","end":"2026-10-23T13:11:05","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:11:05","end":"2026-10-23T13:11:10","app":"code-oss","title":"components-render.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:11:10","end":"2026-10-23T13:11:15","app":"code-oss","title":"operational-cost.tsx (Working Tree) (operational-cost.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:11:15","end":"2026-10-23T13:11:40","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:11:40","end":"2026-10-23T13:11:50","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:11:50","end":"2026-10-23T13:12:40","app":"code-oss","title":"product-properties.tsx (Working Tree) (product-properties.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:12:40","end":"2026-10-23T13:12:55","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-23T13:12:55","end":"2026-10-23T13:17:55","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:18:30","end":"2026-10-23T13:18:35","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:18:35","end":"2026-10-23T13:18:40","app":"code-oss","title":"0013-building-demand.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:18:40","end":"2026-10-23T13:19:05","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:19:05","end":"2026-10-23T13:19:10","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T13:19:10","end":"2026-10-23T13:19:15","app":"code-oss","title":"product-properties.tsx (Working Tree) (product-properties.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:19:15","end":"2026-10-23T13:20:05","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:20:05","end":"2026-10-23T13:20:10","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T13:20:10","end":"2026-10-23T13:20:30","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:20:30","end":"2026-10-23T13:20:45","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:20:45","end":"2026-10-23T13:21:10","app":"code-oss","title":"aquarea-project.proto (Working Tree) (aquarea-project.proto) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:21:10","end":"2026-10-23T13:21:25","app":"DBeaver","title":"DBeaver 26.2.2 - project"}
+{"start":"2026-10-23T13:21:25","end":"2026-10-23T13:21:35","app":"DBeaver","title":"DBeaver 26.2.2 - __migrations"}
+{"start":"2026-10-23T13:21:35","end":"2026-10-23T13:21:40","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:21:40","end":"2026-10-23T13:22:51","app":"DBeaver","title":"DBeaver 26.2.2 - __migrations"}
+{"start":"2026-10-23T13:22:51","end":"2026-10-23T13:22:56","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:22:56","end":"2026-10-23T13:23:01","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:23:01","end":"2026-10-23T13:23:51","app":"DBeaver","title":"DBeaver 26.2.2 - __migrations"}
+{"start":"2026-10-23T13:23:51","end":"2026-10-23T13:23:56","app":"margin","title":"Time — Margin"}
+{"start":"2026-10-23T13:23:56","end":"2026-10-23T13:25:01","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:25:01","end":"2026-10-23T13:25:11","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T13:25:11","end":"2026-10-23T13:25:16","app":"code-oss","title":"aquarea-project.proto (Working Tree) (aquarea-project.proto) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:25:16","end":"2026-10-23T13:25:21","app":"code-oss","title":"0014-building-demand.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:25:21","end":"2026-10-23T13:26:11","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:26:11","end":"2026-10-23T13:26:16","app":"DBeaver","title":"DBeaver 26.2.2 - __migrations"}
+{"start":"2026-10-23T13:26:16","end":"2026-10-23T13:26:21","app":"DBeaver","title":"DBeaver 26.2.2 - profile"}
+{"start":"2026-10-23T13:26:21","end":"2026-10-23T13:26:41","app":"DBeaver","title":"DBeaver 26.2.2 - __migrations"}
+{"start":"2026-10-23T13:26:41","end":"2026-10-23T13:27:06","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:27:06","end":"2026-10-23T13:27:11","app":"DBeaver","title":"DBeaver 26.2.2 - __migrations"}
+{"start":"2026-10-23T13:27:11","end":"2026-10-23T13:27:21","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T13:27:21","end":"2026-10-23T13:27:41","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:27:41","end":"2026-10-23T13:27:51","app":"DBeaver","title":"DBeaver 26.2.2 - __migrations"}
+{"start":"2026-10-23T13:27:51","end":"2026-10-23T13:28:11","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:28:11","end":"2026-10-23T13:28:26","app":"DBeaver","title":"DBeaver 26.2.2 - __migrations"}
+{"start":"2026-10-23T13:28:26","end":"2026-10-23T13:29:01","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:29:01","end":"2026-10-23T13:29:36","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:29:36","end":"2026-10-23T13:30:06","app":"code-oss","title":"0014-building-demand.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:30:06","end":"2026-10-23T13:30:16","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:30:16","end":"2026-10-23T13:31:11","app":"code-oss","title":"0014-building-demand.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:31:11","end":"2026-10-23T13:31:21","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T13:31:21","end":"2026-10-23T13:31:26","app":"code-oss","title":"0014-building-demand.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:31:26","end":"2026-10-23T13:31:36","app":"code-oss","title":"building.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:31:36","end":"2026-10-23T13:31:51","app":"code-oss","title":"● building.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:31:51","end":"2026-10-23T13:32:21","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:32:21","end":"2026-10-23T13:32:26","app":"electron","title":"Code - OSS"}
+{"start":"2026-10-23T13:32:26","end":"2026-10-23T13:33:01","app":"code-oss","title":"product-properties.tsx (Working Tree) (product-properties.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:33:01","end":"2026-10-23T13:33:06","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T13:33:06","end":"2026-10-23T13:33:36","app":"code-oss","title":"product-properties.tsx (Working Tree) (product-properties.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:33:36","end":"2026-10-23T13:34:31","app":"firefox","title":"Problem loading page — Mozilla Firefox"}
+{"start":"2026-10-23T13:34:31","end":"2026-10-23T13:35:11","app":"code-oss","title":"product-properties.tsx (Working Tree) (product-properties.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:35:11","end":"2026-10-23T13:35:16","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:35:16","end":"2026-10-23T13:35:21","app":"code-oss","title":"product-properties.tsx (Working Tree) (product-properties.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:35:21","end":"2026-10-23T13:35:36","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T13:35:36","end":"2026-10-23T13:35:41","app":"code-oss","title":"product-properties.tsx (Working Tree) (product-properties.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:35:41","end":"2026-10-23T13:35:51","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T13:35:51","end":"2026-10-23T13:36:26","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:36:26","end":"2026-10-23T13:36:31","app":"code-oss","title":"product-properties.tsx (Working Tree) (product-properties.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:36:31","end":"2026-10-23T13:36:56","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:36:56","end":"2026-10-23T13:37:36","app":"firefox","title":"test.pdf — Mozilla Firefox"}
+{"start":"2026-10-23T13:37:36","end":"2026-10-23T13:37:56","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:37:56","end":"2026-10-23T13:38:36","app":"code-oss","title":"product-properties.tsx (Working Tree) (product-properties.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:38:36","end":"2026-10-23T13:38:46","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:38:46","end":"2026-10-23T13:38:51","app":"code-oss","title":"product-properties.tsx (Working Tree) (product-properties.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:38:51","end":"2026-10-23T13:39:46","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:39:46","end":"2026-10-23T13:40:06","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:40:06","end":"2026-10-23T13:40:16","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-23T13:40:16","end":"2026-10-23T13:40:21","app":"firefox","title":"Panasonic PRO Club — Mozilla Firefox"}
+{"start":"2026-10-23T13:40:21","end":"2026-10-23T13:40:26","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-23T13:40:26","end":"2026-10-23T13:40:31","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:40:31","end":"2026-10-23T13:40:41","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:40:41","end":"2026-10-23T13:40:46","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T13:40:46","end":"2026-10-23T13:41:01","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:41:01","end":"2026-10-23T13:42:01","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-23T13:42:01","end":"2026-10-23T13:42:11","app":"org.kde.spectacle","title":"Unsaved* — Spectacle"}
+{"start":"2026-10-23T13:42:11","end":"2026-10-23T13:43:26","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:43:26","end":"2026-10-23T13:44:26","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:44:26","end":"2026-10-23T13:44:46","app":"code-oss","title":"product-properties.tsx (Working Tree) (product-properties.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:44:46","end":"2026-10-23T13:46:01","app":"margin","title":"Time — Margin"}
+{"start":"2026-10-23T13:46:01","end":"2026-10-23T13:46:06","app":"code-oss","title":"product-properties.tsx (Working Tree) (product-properties.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:46:06","end":"2026-10-23T13:46:21","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:46:21","end":"2026-10-23T13:46:26","app":"code-oss","title":"product-properties.tsx (Working Tree) (product-properties.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:46:26","end":"2026-10-23T13:46:41","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T13:46:41","end":"2026-10-23T13:46:56","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:46:56","end":"2026-10-23T13:47:41","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T13:47:41","end":"2026-10-23T13:47:46","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:47:46","end":"2026-10-23T13:48:21","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:48:21","end":"2026-10-23T13:48:31","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T13:48:31","end":"2026-10-23T13:48:41","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:48:41","end":"2026-10-23T13:48:46","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:48:46","end":"2026-10-23T13:49:31","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:49:31","end":"2026-10-23T13:50:56","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:50:56","end":"2026-10-23T13:51:16","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:51:16","end":"2026-10-23T13:51:46","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:51:46","end":"2026-10-23T13:52:36","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:52:36","end":"2026-10-23T13:53:06","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:53:06","end":"2026-10-23T13:54:57","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:54:57","end":"2026-10-23T13:55:27","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T13:55:27","end":"2026-10-23T13:56:22","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:56:22","end":"2026-10-23T13:56:52","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:56:52","end":"2026-10-23T13:57:42","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:57:42","end":"2026-10-23T13:57:47","app":"code-oss","title":"product-properties.tsx (Working Tree) (product-properties.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T13:57:47","end":"2026-10-23T13:58:32","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:58:32","end":"2026-10-23T13:58:47","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:58:47","end":"2026-10-23T13:58:52","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:58:52","end":"2026-10-23T13:59:47","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T13:59:47","end":"2026-10-23T13:59:52","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T13:59:52","end":"2026-10-23T14:00:17","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T14:00:17","end":"2026-10-23T14:00:37","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:00:37","end":"2026-10-23T14:01:12","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-23T14:01:12","end":"2026-10-23T14:01:17","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-23T14:01:17","end":"2026-10-23T14:01:22","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-23T14:01:22","end":"2026-10-23T14:01:27","app":"org.freedesktop.impl.portal.desktop.kde","title":"File Upload - Mozilla Firefox"}
+{"start":"2026-10-23T14:01:27","end":"2026-10-23T14:01:47","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-23T14:01:47","end":"2026-10-23T14:01:52","app":"firefox","title":"<text>textid 2286</text> - report1732490358.pdf — Mozilla Firefox"}
+{"start":"2026-10-23T14:01:52","end":"2026-10-23T14:02:07","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-23T14:02:07","end":"2026-10-23T14:02:17","app":"firefox","title":"<text>textid 2286</text> - report1358401614.pdf — Mozilla Firefox"}
+{"start":"2026-10-23T14:02:17","end":"2026-10-23T14:02:37","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-23T14:02:37","end":"2026-10-23T14:03:07","app":"code-oss","title":"product-properties.tsx (Working Tree) (product-properties.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T14:03:07","end":"2026-10-23T14:03:17","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T14:03:17","end":"2026-10-23T14:03:22","app":"code-oss","title":"product-properties.tsx (Working Tree) (product-properties.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T14:03:22","end":"2026-10-23T14:04:32","app":"code-oss","title":"product-properties.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T14:04:32","end":"2026-10-23T14:04:37","app":"firefox","title":"test.pdf — Mozilla Firefox"}
+{"start":"2026-10-23T14:04:37","end":"2026-10-23T14:07:37","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:07:37","end":"2026-10-23T14:08:07","app":"code-oss","title":"product-properties.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T14:08:07","end":"2026-10-23T14:08:37","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T14:08:37","end":"2026-10-23T14:09:42","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:09:42","end":"2026-10-23T14:10:17","app":"code-oss","title":"product-properties.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T14:10:17","end":"2026-10-23T14:10:37","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T14:10:37","end":"2026-10-23T14:10:57","app":"code-oss","title":"product-properties.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T14:10:57","end":"2026-10-23T14:11:52","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:11:52","end":"2026-10-23T14:11:57","app":"firefox","title":"Divid test.pdf — Mozilla Firefox"}
+{"start":"2026-10-23T14:11:57","end":"2026-10-23T14:12:27","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:12:27","end":"2026-10-23T14:13:42","app":"code-oss","title":"product-properties.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T14:13:42","end":"2026-10-23T14:13:47","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-23T14:13:47","end":"2026-10-23T14:13:52","app":"firefox","title":"ammed commit by hash git - Sök på Google — Mozilla Firefox"}
+{"start":"2026-10-23T14:13:52","end":"2026-10-23T14:14:07","app":"firefox","title":"git - Amend a commit that wasn't the previous commit - Stack Overflow — Mozilla Firefox"}
+{"start":"2026-10-23T14:14:07","end":"2026-10-23T14:16:07","app":"code-oss","title":"product-properties.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T14:16:07","end":"2026-10-23T14:16:17","app":"code-oss","title":"heat-pump.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T14:16:17","end":"2026-10-23T14:16:42","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T14:16:42","end":"2026-10-23T14:16:57","app":"code-oss","title":"project-validation.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T14:16:57","end":"2026-10-23T14:17:02","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T14:17:02","end":"2026-10-23T14:17:22","app":"code-oss","title":"project-validation.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T14:17:22","end":"2026-10-23T14:18:02","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T14:18:02","end":"2026-10-23T14:18:42","app":"code-oss","title":"project-validation.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T14:18:42","end":"2026-10-23T14:18:47","app":"firefox","title":"test.pdf — Mozilla Firefox"}
+{"start":"2026-10-23T14:18:47","end":"2026-10-23T14:18:57","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:18:57","end":"2026-10-23T14:19:07","app":"firefox","title":"Promaster — Mozilla Firefox"}
+{"start":"2026-10-23T14:19:07","end":"2026-10-23T14:19:22","app":"firefox","title":"No Product Selected — Mozilla Firefox"}
+{"start":"2026-10-23T14:19:22","end":"2026-10-23T14:20:52","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-23T14:20:52","end":"2026-10-23T14:21:02","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:21:02","end":"2026-10-23T14:21:07","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-23T14:21:07","end":"2026-10-23T14:21:12","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:21:12","end":"2026-10-23T14:21:17","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-23T14:21:17","end":"2026-10-23T14:21:22","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:21:22","end":"2026-10-23T14:21:52","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-23T14:21:52","end":"2026-10-23T14:22:12","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-23T14:22:12","end":"2026-10-23T14:23:17","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-23T14:23:17","end":"2026-10-23T14:23:22","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-23T14:23:22","end":"2026-10-23T14:23:27","app":"org.freedesktop.impl.portal.desktop.kde","title":"File Upload - Mozilla Firefox"}
+{"start":"2026-10-23T14:23:27","end":"2026-10-23T14:23:37","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:23:37","end":"2026-10-23T14:23:52","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-23T14:23:52","end":"2026-10-23T14:24:12","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:24:12","end":"2026-10-23T14:26:32","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-23T14:26:32","end":"2026-10-23T14:26:52","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:26:52","end":"2026-10-23T14:27:02","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-23T14:27:02","end":"2026-10-23T14:27:07","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:27:07","end":"2026-10-23T14:27:27","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-23T14:27:27","end":"2026-10-23T14:27:33","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:27:33","end":"2026-10-23T14:27:53","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-23T14:27:53","end":"2026-10-23T14:28:18","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:28:18","end":"2026-10-23T14:29:38","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-23T14:29:38","end":"2026-10-23T14:30:03","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:30:03","end":"2026-10-23T14:30:18","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-23T14:30:18","end":"2026-10-23T14:30:48","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:30:48","end":"2026-10-23T14:31:03","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-23T14:31:03","end":"2026-10-23T14:31:13","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T14:31:13","end":"2026-10-23T14:31:23","app":"firefox","title":"<text>textid 2286</text> - report1978775903.pdf — Mozilla Firefox"}
+{"start":"2026-10-23T14:31:23","end":"2026-10-23T14:31:28","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T14:31:28","end":"2026-10-23T14:31:33","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:31:33","end":"2026-10-23T14:32:03","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T14:32:03","end":"2026-10-23T14:32:08","app":"org.kde.dolphin","title":"dxpro-designer — Dolphin"}
+{"start":"2026-10-23T14:32:08","end":"2026-10-23T14:32:23","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T14:32:23","end":"2026-10-23T14:33:02","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:38:43","end":"2026-10-23T14:39:13","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:39:13","end":"2026-10-23T14:39:53","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T14:39:53","end":"2026-10-23T14:40:43","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:40:43","end":"2026-10-23T14:41:08","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T14:41:08","end":"2026-10-23T14:41:33","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:41:33","end":"2026-10-23T14:41:38","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T14:41:38","end":"2026-10-23T14:41:43","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:41:43","end":"2026-10-23T14:41:53","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-23T14:41:53","end":"2026-10-23T14:42:13","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:42:13","end":"2026-10-23T14:42:23","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-23T14:42:23","end":"2026-10-23T14:42:28","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T14:42:28","end":"2026-10-23T14:42:48","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-23T14:42:48","end":"2026-10-23T14:43:18","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T14:43:18","end":"2026-10-23T14:43:38","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-23T14:43:38","end":"2026-10-23T14:43:43","app":"firefox","title":"Price bulk update — Mozilla Firefox"}
+{"start":"2026-10-23T14:43:43","end":"2026-10-23T14:43:48","app":"firefox","title":"Diagnostics — Mozilla Firefox"}
+{"start":"2026-10-23T14:43:48","end":"2026-10-23T14:43:53","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-23T14:43:53","end":"2026-10-23T14:44:13","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T15:01:58","end":"2026-10-23T15:02:03","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-23T15:02:03","end":"2026-10-23T15:02:08","app":"margin","title":"Time — Margin"}
+{"start":"2026-10-23T15:02:08","end":"2026-10-23T15:02:13","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-23T15:02:13","end":"2026-10-23T15:02:38","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T15:02:38","end":"2026-10-23T15:02:48","app":"code-oss","title":"printout.ts (Working Tree) (printout.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:02:48","end":"2026-10-23T15:02:53","app":"code-oss","title":"● printout.ts (Working Tree) (printout.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:02:53","end":"2026-10-23T15:02:58","app":"code-oss","title":"printout.ts (Working Tree) (printout.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:02:58","end":"2026-10-23T15:03:08","app":"code-oss","title":"operational-cost.tsx (Working Tree) (operational-cost.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:03:08","end":"2026-10-23T15:03:13","app":"code-oss","title":"project-validation.ts (Working Tree) (project-validation.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:03:13","end":"2026-10-23T15:03:18","app":"code-oss","title":"report.tsx (Working Tree) (report.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:03:18","end":"2026-10-23T15:03:28","app":"code-oss","title":"● report.tsx (Working Tree) (report.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:03:28","end":"2026-10-23T15:03:38","app":"code-oss","title":"report.tsx (Working Tree) (report.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:03:38","end":"2026-10-23T15:03:48","app":"code-oss","title":"download-report-handler.tsx (Working Tree) (download-report-handler.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:03:48","end":"2026-10-23T15:03:53","app":"code-oss","title":"input-provider.ts (Working Tree) (input-provider.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:03:53","end":"2026-10-23T15:03:58","app":"code-oss","title":"report-module.ts (Working Tree) (report-module.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:03:58","end":"2026-10-23T15:04:03","app":"code-oss","title":"charts.tsx (Working Tree) (charts.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:04:03","end":"2026-10-23T15:04:08","app":"code-oss","title":"input-provider.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:04:08","end":"2026-10-23T15:04:13","app":"code-oss","title":"section.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:04:13","end":"2026-10-23T15:04:18","app":"code-oss","title":"● operational-cost-chart.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:04:18","end":"2026-10-23T15:04:23","app":"code-oss","title":"operational-cost-chart.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:04:23","end":"2026-10-23T15:04:33","app":"code-oss","title":"aquarea-printout.proto (Working Tree) (aquarea-printout.proto) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:04:33","end":"2026-10-23T15:04:38","app":"code-oss","title":"● aquarea-printout.proto (Working Tree) (aquarea-printout.proto) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:04:38","end":"2026-10-23T15:04:53","app":"code-oss","title":"aquarea-printout.proto (Working Tree) (aquarea-printout.proto) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:04:53","end":"2026-10-23T15:04:58","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-23T15:04:58","end":"2026-10-23T15:05:03","app":"firefox","title":"Sign in to your account — Mozilla Firefox"}
+{"start":"2026-10-23T15:05:03","end":"2026-10-23T15:05:13","app":"firefox","title":"GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:05:13","end":"2026-10-23T15:05:23","app":"firefox","title":"Home · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:05:23","end":"2026-10-23T15:05:28","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:05:28","end":"2026-10-23T15:05:53","app":"firefox","title":"Add release notes, a version badge and markdown notices, and only let admins close notices (f5a8c3d9) · Commits · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:05:53","end":"2026-10-23T15:07:13","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T15:07:13","end":"2026-10-23T15:07:18","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:07:18","end":"2026-10-23T15:07:28","app":"firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:07:28","end":"2026-10-23T15:07:33","app":"firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:07:33","end":"2026-10-23T15:07:53","app":"firefox","title":"Upgrade the toolchain and dependencies: pnpm, ts-proto 2, React 19, Mantine 9, Vite 8 (!203) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:07:53","end":"2026-10-23T15:08:23","app":"code-oss","title":"aquarea-printout.proto (Working Tree) (aquarea-printout.proto) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:08:23","end":"2026-10-23T15:08:48","app":"code-oss","title":"report.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:08:48","end":"2026-10-23T15:08:53","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T15:08:53","end":"2026-10-23T15:09:03","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T15:09:03","end":"2026-10-23T15:09:08","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-23T15:09:08","end":"2026-10-23T15:09:54","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-23T15:09:54","end":"2026-10-23T15:10:04","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T15:10:04","end":"2026-10-23T15:10:09","app":"code-oss","title":"report.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:10:09","end":"2026-10-23T15:10:19","app":"code-oss","title":"tsconfig.json - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:10:19","end":"2026-10-23T15:11:24","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T15:11:24","end":"2026-10-23T15:11:34","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T15:11:34","end":"2026-10-23T15:11:54","app":"code-oss","title":"tsconfig.json - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:11:54","end":"2026-10-23T15:11:59","app":"firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:11:59","end":"2026-10-23T15:12:24","app":"firefox","title":"New merge request · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:12:24","end":"2026-10-23T15:12:29","app":"firefox","title":"Aquarea report (!204) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:12:29","end":"2026-10-23T15:13:04","app":"code-oss","title":"tsconfig.json - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:13:04","end":"2026-10-23T15:13:24","app":"firefox","title":"Aquarea report (!204) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:13:24","end":"2026-10-23T15:13:54","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-23T15:13:54","end":"2026-10-23T15:15:59","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-23T15:15:59","end":"2026-10-23T15:16:24","app":"firefox","title":"Aquarea report (!204) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:16:24","end":"2026-10-23T15:16:59","app":"margin","title":"Time — Margin"}
+{"start":"2026-10-23T15:16:59","end":"2026-10-23T15:17:34","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-23T15:17:34","end":"2026-10-23T15:18:09","app":"code-oss","title":"tsconfig.json - dxpro-designer - Code - OSS"}
+{"start":"2026-10-23T15:18:09","end":"2026-10-23T15:18:39","app":"firefox","title":"Aquarea report (!204) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:18:39","end":"2026-10-23T15:18:44","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:18:44","end":"2026-10-23T15:18:49","app":"firefox","title":"Aquarea report (!204) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:18:49","end":"2026-10-23T15:19:14","app":"firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:19:14","end":"2026-10-23T15:19:19","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:19:19","end":"2026-10-23T15:20:14","app":"firefox","title":"Preferences · User Settings · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:20:14","end":"2026-10-23T15:20:29","app":"firefox","title":"Edit Profile · User Settings · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:20:29","end":"2026-10-23T15:20:34","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-23T15:20:34","end":"2026-10-23T15:20:44","app":"code-oss","title":"tsconfig.json - dxpro-designer - Code - OSS"}
