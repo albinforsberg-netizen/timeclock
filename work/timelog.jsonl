@@ -1474,3 +1474,5 @@
 {"ev":"out","t":"2026-10-23T09:03:51","note":"Standup"}
 {"ev":"in","t":"2026-10-23T09:03:51","project":"dxpro"}
 {"ev":"out","t":"2026-10-23T09:35:21","note":"Principle scalings"}
+{"ev":"in","t":"2026-10-23T09:35:21","project":"dxpro"}
+{"ev":"out","t":"2026-10-23T10:58:09","note":"Wiki prod setup"}
