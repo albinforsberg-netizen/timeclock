@@ -1468,3 +1468,6 @@
 {"ev":"out","t":"2026-10-22T14:04:28","note":"Systemless configs"}
 {"ev":"in","t":"2026-10-22T14:04:28","project":"dxpro"}
 {"ev":"out","t":"2026-10-22T16:28:46","note":"cross drawing lenghts"}
+{"ev":"in","t":"2026-10-23T08:35:31","project":"dxpro"}
+{"ev":"out","t":"2026-10-23T09:03:40","note":"Automatically switched to dxpro"}
+{"ev":"in","t":"2026-10-23T09:03:40","project":"dxpro"}
