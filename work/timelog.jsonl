@@ -1491,3 +1491,5 @@
 {"ev":"out","t":"2026-10-26T10:07:24","note":"Printout user settings"}
 {"ev":"in","t":"2026-10-26T10:07:24","project":"dxpro"}
 {"ev":"out","t":"2026-10-26T11:59:15","note":"dxf positions fix"}
+{"ev":"in","t":"2026-10-26T12:45:10","project":"dxpro","task":"Printout user settings"}
+{"ev":"out","t":"2026-10-26T13:33:12","note":"Printout user settings"}
