@@ -1484,4 +1484,6 @@
 {"ev":"in","t":"2026-10-23T15:20:46","project":"dxpro"}
 {"ev":"out","t":"2026-10-23T16:36:04","note":"Printout user settings"}
 {"ev":"in","t":"2026-10-26T07:06:35","project":"dxpro","task":"Printout user settings"}
-{"ev":"out","t":"2026-10-26T09:04:45","note":"Printout user settings"}
+{"ev":"out","t":"2026-10-26T08:40:45","note":"Printout user settings"}
+{"ev":"in","t":"2026-10-26T08:40:45","project":"dxpro"}
+{"ev":"out","t":"2026-10-26T09:05:21","note":"Standup"}
