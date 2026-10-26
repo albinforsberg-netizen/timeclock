@@ -269,3 +269,159 @@
 {"start":"2026-10-26T09:04:55","end":"2026-10-26T09:05:05","app":"margin","title":"• timelog.jsonl — Margin"}
 {"start":"2026-10-26T09:05:05","end":"2026-10-26T09:05:10","app":"margin","title":"timelog.jsonl — Margin"}
 {"start":"2026-10-26T09:05:10","end":"2026-10-26T09:05:15","app":"margin","title":"• timelog.jsonl — Margin"}
+{"start":"2026-10-26T09:05:15","end":"2026-10-26T09:05:35","app":"margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-10-26T09:05:35","end":"2026-10-26T09:05:40","app":"margin","title":"Time — Margin"}
+{"start":"2026-10-26T09:05:40","end":"2026-10-26T09:05:45","app":"firefox","title":"TypeError: yse is not a function or its return value is not iterable — panasonic-0s — designer-pro — Mozilla Firefox"}
+{"start":"2026-10-26T09:05:45","end":"2026-10-26T09:05:50","app":"firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-10-26T09:05:50","end":"2026-10-26T09:06:15","app":"firefox","title":"Error: Missing pipe route: bd30e5d4-3f14-4ad3-b59c-21d10dc78789 — panasonic-0s — designer-pro — Mozilla Firefox"}
+{"start":"2026-10-26T09:06:15","end":"2026-10-26T09:06:30","app":"DBeaver","title":"DBeaver 26.2.2 - system"}
+{"start":"2026-10-26T09:06:30","end":"2026-10-26T09:06:35","app":"firefox","title":"Error: Missing pipe route: bd30e5d4-3f14-4ad3-b59c-21d10dc78789 — panasonic-0s — designer-pro — Mozilla Firefox"}
+{"start":"2026-10-26T09:06:35","end":"2026-10-26T09:07:20","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:07:20","end":"2026-10-26T09:07:25","app":"code-oss","title":"charts.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T09:07:25","end":"2026-10-26T09:07:30","app":"Spotify","title":"The Goo Goo Dolls - Iris"}
+{"start":"2026-10-26T09:07:30","end":"2026-10-26T09:07:35","app":"firefox","title":"Startsida | Trello — Mozilla Firefox"}
+{"start":"2026-10-26T09:07:35","end":"2026-10-26T09:07:45","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:07:45","end":"2026-10-26T09:07:50","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T09:07:50","end":"2026-10-26T09:08:00","app":"code-oss","title":"component.tsx (Index) (component.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T09:08:00","end":"2026-10-26T09:08:05","app":"code-oss","title":"report-groups.ts (Index) (report-groups.ts (Index)) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T09:08:05","end":"2026-10-26T09:08:10","app":"code-oss","title":"report-group.tsx (Index) (report-group.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T09:08:10","end":"2026-10-26T09:08:15","app":"code-oss","title":"shared-state.ts (Index) (shared-state.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T09:08:15","end":"2026-10-26T09:08:20","app":"code-oss","title":"state.ts (Index) (state.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T09:08:20","end":"2026-10-26T09:08:25","app":"code-oss","title":"view.tsx (Index) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T09:08:25","end":"2026-10-26T09:08:30","app":"code-oss","title":"texts.ts (Index) (texts.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T09:08:30","end":"2026-10-26T09:08:35","app":"code-oss","title":"vrf-user-account.ts (Index) (vrf-user-account.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T09:08:35","end":"2026-10-26T09:08:40","app":"code-oss","title":"index.ts (Index) (index.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T09:08:40","end":"2026-10-26T09:09:35","app":"code-oss","title":"package.json (Index) (package.json) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T09:09:35","end":"2026-10-26T09:09:40","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:09:40","end":"2026-10-26T09:10:20","app":"code-oss","title":"index.ts (Index) (index.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T09:10:20","end":"2026-10-26T09:10:25","app":"firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-10-26T09:10:25","end":"2026-10-26T09:12:00","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:12:00","end":"2026-10-26T09:12:45","app":"code-oss","title":"index.ts (Index) (index.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T09:12:45","end":"2026-10-26T09:13:15","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:13:15","end":"2026-10-26T09:13:20","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-26T09:13:20","end":"2026-10-26T09:13:45","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:13:45","end":"2026-10-26T09:14:55","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T09:14:55","end":"2026-10-26T09:15:15","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:15:15","end":"2026-10-26T09:15:20","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T09:15:20","end":"2026-10-26T09:17:30","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:17:30","end":"2026-10-26T09:17:35","app":"org.kde.spectacle","title":"Unsaved* — Spectacle"}
+{"start":"2026-10-26T09:17:35","end":"2026-10-26T09:18:15","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T09:18:15","end":"2026-10-26T09:18:55","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:18:55","end":"2026-10-26T09:19:00","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T09:19:00","end":"2026-10-26T09:19:10","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:19:10","end":"2026-10-26T09:19:15","app":"org.kde.spectacle","title":"Unsaved* — Spectacle"}
+{"start":"2026-10-26T09:19:15","end":"2026-10-26T09:19:35","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T09:19:35","end":"2026-10-26T09:20:55","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:20:55","end":"2026-10-26T09:21:00","app":"code-oss","title":"index.ts (Index) (index.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T09:21:00","end":"2026-10-26T09:21:15","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T09:21:15","end":"2026-10-26T09:22:10","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:22:10","end":"2026-10-26T09:22:20","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T09:22:20","end":"2026-10-26T09:22:45","app":"code-oss","title":"● view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T09:22:45","end":"2026-10-26T09:22:50","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T09:22:50","end":"2026-10-26T09:23:25","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:28:25","end":"2026-10-26T09:28:30","app":"Spotify","title":"Roxette - A Thing About You"}
+{"start":"2026-10-26T09:28:30","end":"2026-10-26T09:28:35","app":"firefox","title":"Trello — Mozilla Firefox"}
+{"start":"2026-10-26T09:28:35","end":"2026-10-26T09:28:45","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-26T09:28:45","end":"2026-10-26T09:28:55","app":"firefox","title":"Floor editor V2 på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-26T09:28:55","end":"2026-10-26T09:29:05","app":"firefox","title":"Add support to add consultant specific logo in the reports på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-26T09:29:05","end":"2026-10-26T09:29:10","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-26T09:29:10","end":"2026-10-26T09:29:20","app":"firefox","title":"System Extension på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-26T09:29:20","end":"2026-10-26T09:29:25","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-26T09:29:25","end":"2026-10-26T09:29:30","app":"firefox","title":"Detailed error/warning messages selectable in printout på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-26T09:29:30","end":"2026-10-26T09:29:40","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-26T09:29:40","end":"2026-10-26T09:29:50","app":"firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-10-26T09:29:50","end":"2026-10-26T09:30:11","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:30:11","end":"2026-10-26T09:30:16","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-26T09:30:16","end":"2026-10-26T09:30:21","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:30:21","end":"2026-10-26T09:30:26","app":"firefox","title":"Releases — Mozilla Firefox"}
+{"start":"2026-10-26T09:30:26","end":"2026-10-26T09:30:36","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-26T09:30:36","end":"2026-10-26T09:30:41","app":"firefox","title":"Releases — Mozilla Firefox"}
+{"start":"2026-10-26T09:30:41","end":"2026-10-26T09:30:46","app":"firefox","title":"Jobs — Mozilla Firefox"}
+{"start":"2026-10-26T09:30:46","end":"2026-10-26T09:30:56","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-26T09:30:56","end":"2026-10-26T09:31:01","app":"firefox","title":"Publish — Mozilla Firefox"}
+{"start":"2026-10-26T09:31:01","end":"2026-10-26T09:31:11","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-26T09:31:11","end":"2026-10-26T09:31:36","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:31:36","end":"2026-10-26T09:31:41","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-26T09:31:41","end":"2026-10-26T09:31:51","app":"firefox","title":"Releases — Mozilla Firefox"}
+{"start":"2026-10-26T09:31:51","end":"2026-10-26T09:32:01","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-26T09:32:01","end":"2026-10-26T09:32:21","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:32:21","end":"2026-10-26T09:32:31","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-26T09:32:31","end":"2026-10-26T09:33:51","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:33:51","end":"2026-10-26T09:34:21","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T09:34:21","end":"2026-10-26T09:34:51","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:34:51","end":"2026-10-26T09:35:01","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-26T09:35:01","end":"2026-10-26T09:35:46","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:35:46","end":"2026-10-26T09:36:01","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T09:36:01","end":"2026-10-26T09:36:21","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:36:21","end":"2026-10-26T09:36:46","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T09:36:46","end":"2026-10-26T09:37:36","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:37:36","end":"2026-10-26T09:37:41","app":"firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-10-26T09:37:41","end":"2026-10-26T09:37:56","app":"firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-10-26T09:37:56","end":"2026-10-26T09:38:01","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:38:01","end":"2026-10-26T09:38:11","app":"Spotify","title":"Blondie - Maria"}
+{"start":"2026-10-26T09:38:11","end":"2026-10-26T09:38:56","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:38:56","end":"2026-10-26T09:39:06","app":"Spotify","title":"Blondie - Maria"}
+{"start":"2026-10-26T09:39:06","end":"2026-10-26T09:39:16","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-26T09:39:16","end":"2026-10-26T09:41:11","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:41:11","end":"2026-10-26T09:41:21","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T09:41:21","end":"2026-10-26T09:41:26","app":"code-oss","title":"● view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T09:41:26","end":"2026-10-26T09:41:36","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T09:41:36","end":"2026-10-26T09:41:41","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:41:41","end":"2026-10-26T09:41:51","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T09:41:51","end":"2026-10-26T09:41:56","app":"Spotify","title":"Spotify Premium"}
+{"start":"2026-10-26T09:41:56","end":"2026-10-26T09:42:01","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Calendar | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-26T09:42:01","end":"2026-10-26T09:42:06","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Calendar | Nebiyat Sirak | Microsoft Teams"}
+{"start":"2026-10-26T09:42:06","end":"2026-10-26T09:43:46","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:43:46","end":"2026-10-26T09:43:51","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-26T09:43:51","end":"2026-10-26T09:43:56","app":"firefox","title":"Promaster — Mozilla Firefox"}
+{"start":"2026-10-26T09:43:56","end":"2026-10-26T09:44:51","app":"firefox","title":"No Product Selected — Mozilla Firefox"}
+{"start":"2026-10-26T09:44:51","end":"2026-10-26T09:44:56","app":"firefox","title":"SMK3E5-Properties — Mozilla Firefox"}
+{"start":"2026-10-26T09:44:56","end":"2026-10-26T09:46:46","app":"firefox","title":"SMK3E5-Images — Mozilla Firefox"}
+{"start":"2026-10-26T09:46:46","end":"2026-10-26T09:47:01","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:47:01","end":"2026-10-26T09:48:16","app":"firefox","title":"SMK3E5-Images — Mozilla Firefox"}
+{"start":"2026-10-26T09:48:16","end":"2026-10-26T09:49:01","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T09:49:01","end":"2026-10-26T09:51:36","app":"firefox","title":"SMK3E5-Images — Mozilla Firefox"}
+{"start":"2026-10-26T09:51:36","end":"2026-10-26T09:51:41","app":"LibreCAD","title":"LibreCAD - [K2_big_up_V3-AC2021_V2.dxf]"}
+{"start":"2026-10-26T09:51:41","end":"2026-10-26T09:51:46","app":"firefox","title":"SMK3E5-Images — Mozilla Firefox"}
+{"start":"2026-10-26T09:51:46","end":"2026-10-26T09:52:06","app":"LibreCAD","title":"LibreCAD - [#S-22_36MK2E5_bottom (3)_blue _V3_corrected.dxf*]"}
+{"start":"2026-10-26T09:52:06","end":"2026-10-26T09:52:46","app":"LibreCAD","title":"LibreCAD - [K2_big_up_V3-AC2021_V2.dxf]"}
+{"start":"2026-10-26T09:52:46","end":"2026-10-26T09:52:51","app":"LibreCAD","title":"LibreCAD - [#S-22_36MK2E5_bottom (3)_blue _V3_corrected.dxf*]"}
+{"start":"2026-10-26T09:52:51","end":"2026-10-26T09:52:56","app":"LibreCAD","title":"LibreCAD - [K2_big_up_V3-AC2021_V2.dxf*]"}
+{"start":"2026-10-26T09:52:56","end":"2026-10-26T09:53:01","app":"LibreCAD","title":"LibreCAD - [#S-22_36MK2E5_bottom (3)_blue _V3_corrected.dxf*]"}
+{"start":"2026-10-26T09:53:01","end":"2026-10-26T09:53:46","app":"LibreCAD","title":"LibreCAD - [K2_big_up_V3-AC2021_V2.dxf*]"}
+{"start":"2026-10-26T09:53:46","end":"2026-10-26T09:53:56","app":"LibreCAD","title":"LibreCAD - [#S-22_36MK2E5_bottom (3)_blue _V3_corrected.dxf*]"}
+{"start":"2026-10-26T09:53:56","end":"2026-10-26T09:54:21","app":"LibreCAD","title":"LibreCAD - [K2_big_up_V3-AC2021_V2.dxf*]"}
+{"start":"2026-10-26T09:54:21","end":"2026-10-26T09:54:36","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T09:54:36","end":"2026-10-26T09:58:26","app":"LibreCAD","title":"LibreCAD - [K2_big_up_V3-AC2021_V2.dxf*]"}
+{"start":"2026-10-26T09:58:26","end":"2026-10-26T09:59:01","app":"firefox","title":"SMK3E5-Images — Mozilla Firefox"}
+{"start":"2026-10-26T09:59:01","end":"2026-10-26T09:59:06","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T09:59:06","end":"2026-10-26T09:59:31","app":"firefox","title":"SMK3E5-Images — Mozilla Firefox"}
+{"start":"2026-10-26T09:59:31","end":"2026-10-26T10:02:01","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:02:01","end":"2026-10-26T10:02:06","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf]"}
+{"start":"2026-10-26T10:02:06","end":"2026-10-26T10:02:11","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:02:11","end":"2026-10-26T10:02:17","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Calendar | Nebiyat Sirak | Microsoft Teams"}
+{"start":"2026-10-26T10:02:17","end":"2026-10-26T10:02:22","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:02:22","end":"2026-10-26T10:02:27","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-26T10:02:27","end":"2026-10-26T10:02:37","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:02:37","end":"2026-10-26T10:02:42","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf]"}
+{"start":"2026-10-26T10:02:42","end":"2026-10-26T10:02:57","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:02:57","end":"2026-10-26T10:03:07","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Calendar | Nebiyat Sirak | Microsoft Teams"}
+{"start":"2026-10-26T10:03:07","end":"2026-10-26T10:03:12","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:03:12","end":"2026-10-26T10:03:32","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:03:32","end":"2026-10-26T10:03:42","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-26T10:03:42","end":"2026-10-26T10:03:52","app":"margin","title":"Time — Margin"}
+{"start":"2026-10-26T10:03:52","end":"2026-10-26T10:03:57","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:03:57","end":"2026-10-26T10:04:02","app":"slack","title":"panasonic (Channel) - Divid - 1 new item - Slack"}
+{"start":"2026-10-26T10:04:02","end":"2026-10-26T10:04:07","app":"slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-10-26T10:04:07","end":"2026-10-26T10:04:12","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-26T10:04:12","end":"2026-10-26T10:04:32","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA)"}
+{"start":"2026-10-26T10:04:32","end":"2026-10-26T10:04:42","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Microsoft Teams"}
+{"start":"2026-10-26T10:04:42","end":"2026-10-26T10:04:47","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Activity | Microsoft Teams"}
+{"start":"2026-10-26T10:04:47","end":"2026-10-26T10:05:12","app":"slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-10-26T10:05:12","end":"2026-10-26T10:05:32","app":"slack","title":"Nebiyat Sirak (DM) - Divid - 1 new item - Slack"}
+{"start":"2026-10-26T10:05:32","end":"2026-10-26T10:05:37","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Activity | Microsoft Teams"}
+{"start":"2026-10-26T10:05:37","end":"2026-10-26T10:05:42","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-26T10:05:42","end":"2026-10-26T10:05:47","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Microsoft Teams"}
+{"start":"2026-10-26T10:05:47","end":"2026-10-26T10:06:02","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Activity | Microsoft Teams"}
+{"start":"2026-10-26T10:06:02","end":"2026-10-26T10:06:17","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Activity | scaling | Microsoft Teams"}
+{"start":"2026-10-26T10:06:17","end":"2026-10-26T10:07:17","app":"slack","title":"Nebiyat Sirak (DM) - Divid - 1 new item - Slack"}
