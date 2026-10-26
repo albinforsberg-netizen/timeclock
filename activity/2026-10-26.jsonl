@@ -425,3 +425,418 @@
 {"start":"2026-10-26T10:05:47","end":"2026-10-26T10:06:02","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Activity | Microsoft Teams"}
 {"start":"2026-10-26T10:06:02","end":"2026-10-26T10:06:17","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Activity | scaling | Microsoft Teams"}
 {"start":"2026-10-26T10:06:17","end":"2026-10-26T10:07:17","app":"slack","title":"Nebiyat Sirak (DM) - Divid - 1 new item - Slack"}
+{"start":"2026-10-26T10:07:17","end":"2026-10-26T10:07:27","app":"margin","title":"Time — Margin"}
+{"start":"2026-10-26T10:07:27","end":"2026-10-26T10:08:02","app":"slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-10-26T10:08:02","end":"2026-10-26T10:08:07","app":"slack","title":"Nebiyat Sirak (DM) - Divid - 1 new item - Slack"}
+{"start":"2026-10-26T10:08:07","end":"2026-10-26T10:08:12","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Activity | Meeting join | scaling | Microsoft Teams"}
+{"start":"2026-10-26T10:08:12","end":"2026-10-26T10:08:37","app":"slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-10-26T10:08:37","end":"2026-10-26T10:08:57","app":"chrome-pkooggnaalmfkidjmlhoelhdllpphaga-Default","title":"Outlook (PWA)"}
+{"start":"2026-10-26T10:08:57","end":"2026-10-26T10:09:07","app":"slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-10-26T10:09:07","end":"2026-10-26T10:09:12","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:09:12","end":"2026-10-26T10:09:27","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:09:27","end":"2026-10-26T10:09:37","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:09:37","end":"2026-10-26T10:10:07","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:10:07","end":"2026-10-26T10:10:27","app":"slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-10-26T10:10:27","end":"2026-10-26T10:10:32","app":"margin","title":"Time — Margin"}
+{"start":"2026-10-26T10:10:32","end":"2026-10-26T10:10:42","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:10:42","end":"2026-10-26T10:10:52","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:10:52","end":"2026-10-26T10:11:07","app":"firefox","title":"Releases — Mozilla Firefox"}
+{"start":"2026-10-26T10:11:07","end":"2026-10-26T10:11:22","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:11:22","end":"2026-10-26T10:11:37","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:11:37","end":"2026-10-26T10:11:57","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:11:57","end":"2026-10-26T10:12:02","app":"LibreCAD","title":"Closing Drawing"}
+{"start":"2026-10-26T10:12:02","end":"2026-10-26T10:12:07","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:12:07","end":"2026-10-26T10:12:12","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf]"}
+{"start":"2026-10-26T10:12:12","end":"2026-10-26T10:12:17","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:12:17","end":"2026-10-26T10:12:22","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:12:22","end":"2026-10-26T10:12:27","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Calendar | scaling | Microsoft Teams"}
+{"start":"2026-10-26T10:12:27","end":"2026-10-26T10:12:37","app":"slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-10-26T10:12:37","end":"2026-10-26T10:12:47","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:12:47","end":"2026-10-26T10:12:57","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:12:57","end":"2026-10-26T10:13:07","app":"chrome-pkooggnaalmfkidjmlhoelhdllpphaga-Default","title":"Outlook (PWA)"}
+{"start":"2026-10-26T10:13:07","end":"2026-10-26T10:13:22","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:13:22","end":"2026-10-26T10:13:32","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:13:32","end":"2026-10-26T10:13:37","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:13:37","end":"2026-10-26T10:13:42","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:13:42","end":"2026-10-26T10:13:52","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:13:52","end":"2026-10-26T10:14:02","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:14:02","end":"2026-10-26T10:14:12","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:14:12","end":"2026-10-26T10:14:22","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:14:22","end":"2026-10-26T10:14:27","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:14:27","end":"2026-10-26T10:14:57","app":"LibreCAD","title":"LibreCAD - [Print preview for Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:14:57","end":"2026-10-26T10:15:02","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | DXPro Weekly | Microsoft Teams"}
+{"start":"2026-10-26T10:15:02","end":"2026-10-26T10:15:07","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Dispan, Kathrin, Nebiyat Sirak +1 | Microsoft Teams"}
+{"start":"2026-10-26T10:15:07","end":"2026-10-26T10:15:12","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Microsoft Teams"}
+{"start":"2026-10-26T10:15:12","end":"2026-10-26T10:15:27","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | PRD_VRF-Designer+_PAPAEU | General | Microsoft Teams"}
+{"start":"2026-10-26T10:15:27","end":"2026-10-26T10:16:07","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Dispan, Kathrin, Nebiyat Sirak +1 | Microsoft Teams"}
+{"start":"2026-10-26T10:16:07","end":"2026-10-26T10:17:32","app":"LibreCAD","title":"LibreCAD - [Print preview for Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:17:32","end":"2026-10-26T10:18:02","app":"LibreCAD","title":"LibreCAD"}
+{"start":"2026-10-26T10:18:02","end":"2026-10-26T10:18:07","app":"LibreCAD","title":"LibreCAD - [Print preview for Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:18:07","end":"2026-10-26T10:18:12","app":"chrome-pkooggnaalmfkidjmlhoelhdllpphaga-Default","title":"Outlook (PWA)"}
+{"start":"2026-10-26T10:18:12","end":"2026-10-26T10:18:17","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf]"}
+{"start":"2026-10-26T10:18:17","end":"2026-10-26T10:19:42","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:19:42","end":"2026-10-26T10:19:57","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:19:57","end":"2026-10-26T10:20:02","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:20:02","end":"2026-10-26T10:20:07","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:20:07","end":"2026-10-26T10:20:22","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:20:22","end":"2026-10-26T10:20:57","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:20:57","end":"2026-10-26T10:21:12","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:21:12","end":"2026-10-26T10:21:17","app":"firefox","title":"Publish — Mozilla Firefox"}
+{"start":"2026-10-26T10:21:17","end":"2026-10-26T10:21:52","app":"firefox","title":"SMK3E5-Images — Mozilla Firefox"}
+{"start":"2026-10-26T10:21:52","end":"2026-10-26T10:23:07","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T10:23:07","end":"2026-10-26T10:23:12","app":"firefox","title":"SMK3E5-Images — Mozilla Firefox"}
+{"start":"2026-10-26T10:23:12","end":"2026-10-26T10:23:37","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:23:37","end":"2026-10-26T10:23:42","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf]"}
+{"start":"2026-10-26T10:23:42","end":"2026-10-26T10:24:17","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:24:17","end":"2026-10-26T10:24:32","app":"firefox","title":"SMK3E5-Images — Mozilla Firefox"}
+{"start":"2026-10-26T10:24:32","end":"2026-10-26T10:24:37","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:24:37","end":"2026-10-26T10:24:57","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T10:24:57","end":"2026-10-26T10:25:07","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:25:07","end":"2026-10-26T10:25:42","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T10:25:42","end":"2026-10-26T10:27:02","app":"firefox","title":"SMK3E5-Images — Mozilla Firefox"}
+{"start":"2026-10-26T10:27:02","end":"2026-10-26T10:27:52","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T10:27:52","end":"2026-10-26T10:28:37","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:28:37","end":"2026-10-26T10:29:12","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T10:29:12","end":"2026-10-26T10:29:17","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:29:17","end":"2026-10-26T10:29:22","app":"chrome-pkooggnaalmfkidjmlhoelhdllpphaga-Default","title":"Outlook (PWA)"}
+{"start":"2026-10-26T10:29:22","end":"2026-10-26T10:29:27","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Dispan, Kathrin, Nebiyat Sirak +1 | Microsoft Teams"}
+{"start":"2026-10-26T10:29:27","end":"2026-10-26T10:29:32","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Calendar | Microsoft Teams"}
+{"start":"2026-10-26T10:29:32","end":"2026-10-26T10:29:52","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Calendar | Meeting join | Microsoft Teams meeting | Microsoft Teams"}
+{"start":"2026-10-26T10:29:52","end":"2026-10-26T10:31:12","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Calendar | scaling | Microsoft Teams"}
+{"start":"2026-10-26T10:31:12","end":"2026-10-26T10:31:42","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:31:42","end":"2026-10-26T10:33:47","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:33:47","end":"2026-10-26T10:33:52","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:33:52","end":"2026-10-26T10:33:57","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-26T10:33:57","end":"2026-10-26T10:34:02","app":"firefox","title":"auto cad viewer - Sök på Google — Mozilla Firefox"}
+{"start":"2026-10-26T10:34:02","end":"2026-10-26T10:34:32","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:34:32","end":"2026-10-26T10:34:37","app":"firefox","title":"Sign in - Autodesk — Mozilla Firefox"}
+{"start":"2026-10-26T10:34:37","end":"2026-10-26T10:36:18","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:36:18","end":"2026-10-26T10:36:23","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Activity | scaling | Microsoft Teams"}
+{"start":"2026-10-26T10:36:23","end":"2026-10-26T10:36:28","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Dispan, Kathrin, Nebiyat Sirak | Microsoft Teams"}
+{"start":"2026-10-26T10:36:28","end":"2026-10-26T10:36:38","app":"firefox","title":"auto cad viewer - Sök på Google — Mozilla Firefox"}
+{"start":"2026-10-26T10:36:38","end":"2026-10-26T10:36:43","app":"firefox","title":"AutoCAD - DWG Viewer & Editor - Free download and install on Windows | Microsoft Store — Mozilla Firefox"}
+{"start":"2026-10-26T10:36:43","end":"2026-10-26T10:37:53","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T10:37:53","end":"2026-10-26T10:38:03","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-26T10:38:03","end":"2026-10-26T10:38:13","app":"org.freedesktop.impl.portal.desktop.kde","title":"File Upload - kulman — Kulman — Mozilla Firefox"}
+{"start":"2026-10-26T10:38:13","end":"2026-10-26T10:38:18","app":"org.kde.ark","title":"57973(2).zip — Ark"}
+{"start":"2026-10-26T10:38:18","end":"2026-10-26T10:38:28","app":"firefox","title":"kulman — Kulman — Mozilla Firefox"}
+{"start":"2026-10-26T10:38:28","end":"2026-10-26T10:38:33","app":"org.kde.dolphin","title":"Downloads — Dolphin"}
+{"start":"2026-10-26T10:38:33","end":"2026-10-26T10:38:38","app":"org.kde.ark","title":"Extract — Ark"}
+{"start":"2026-10-26T10:38:38","end":"2026-10-26T10:38:43","app":"org.kde.ark","title":"57973(2).zip — Ark"}
+{"start":"2026-10-26T10:38:43","end":"2026-10-26T10:38:48","app":"org.freedesktop.impl.portal.desktop.kde","title":"File Upload - kulman — Kulman — Mozilla Firefox"}
+{"start":"2026-10-26T10:38:48","end":"2026-10-26T10:38:53","app":"firefox","title":"##S-22_36MK2E5_bottom (3)_blue _V3_corrected — Kulman — Mozilla Firefox"}
+{"start":"2026-10-26T10:38:53","end":"2026-10-26T10:38:58","app":"org.kde.ark","title":"57973(2).zip — Ark"}
+{"start":"2026-10-26T10:38:58","end":"2026-10-26T10:39:03","app":"org.freedesktop.impl.portal.desktop.kde","title":"File Upload - ##S-22_36MK2E5_bottom (3)_blue _V3_corrected — Kulman — Mozilla Firefox"}
+{"start":"2026-10-26T10:39:03","end":"2026-10-26T10:39:08","app":"firefox","title":"Drawing 1 — Kulman — Mozilla Firefox"}
+{"start":"2026-10-26T10:39:08","end":"2026-10-26T10:39:18","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T10:39:18","end":"2026-10-26T10:39:28","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Dispan, Kathrin, Nebiyat Sirak | Microsoft Teams"}
+{"start":"2026-10-26T10:39:28","end":"2026-10-26T10:40:13","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T10:40:13","end":"2026-10-26T10:40:43","app":"firefox","title":"AutoCAD - DWG Viewer & Editor - Free download and install on Windows | Microsoft Store — Mozilla Firefox"}
+{"start":"2026-10-26T10:40:43","end":"2026-10-26T10:40:48","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:40:48","end":"2026-10-26T10:40:58","app":"firefox","title":"Create your account - Autodesk — Mozilla Firefox"}
+{"start":"2026-10-26T10:40:58","end":"2026-10-26T10:41:03","app":"firefox","title":"Verify your email - Autodesk — Mozilla Firefox"}
+{"start":"2026-10-26T10:41:03","end":"2026-10-26T10:41:08","app":"chrome-pkooggnaalmfkidjmlhoelhdllpphaga-Default","title":"Outlook (PWA)"}
+{"start":"2026-10-26T10:41:08","end":"2026-10-26T10:41:13","app":"firefox","title":"Verify your email - Autodesk — Mozilla Firefox"}
+{"start":"2026-10-26T10:41:13","end":"2026-10-26T10:41:48","app":"firefox","title":"Create your account - Autodesk — Mozilla Firefox"}
+{"start":"2026-10-26T10:41:48","end":"2026-10-26T10:41:58","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:41:58","end":"2026-10-26T10:42:03","app":"org.kde.dolphin","title":"Downloads — Dolphin"}
+{"start":"2026-10-26T10:42:03","end":"2026-10-26T10:42:18","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:42:18","end":"2026-10-26T10:43:13","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T10:43:13","end":"2026-10-26T10:43:23","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:43:23","end":"2026-10-26T10:43:33","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T10:43:33","end":"2026-10-26T10:43:43","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:43:43","end":"2026-10-26T10:44:03","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:44:03","end":"2026-10-26T10:44:28","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T10:44:28","end":"2026-10-26T10:44:33","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:44:33","end":"2026-10-26T10:44:38","app":"org.kde.spectacle","title":"Unsaved* — Spectacle"}
+{"start":"2026-10-26T10:44:38","end":"2026-10-26T10:44:48","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T10:44:48","end":"2026-10-26T10:44:53","app":"LibreCAD","title":"Closing Drawing"}
+{"start":"2026-10-26T10:44:53","end":"2026-10-26T10:44:58","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:44:58","end":"2026-10-26T10:45:08","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:45:08","end":"2026-10-26T10:45:13","app":"firefox","title":"SMK3E5-Images — Mozilla Firefox"}
+{"start":"2026-10-26T10:45:13","end":"2026-10-26T10:45:23","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:45:23","end":"2026-10-26T10:45:28","app":"firefox","title":"SMK3E5-Images — Mozilla Firefox"}
+{"start":"2026-10-26T10:45:28","end":"2026-10-26T10:45:33","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:45:33","end":"2026-10-26T10:45:38","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T10:45:38","end":"2026-10-26T10:45:43","app":"org.kde.spectacle","title":"Unsaved* — Spectacle"}
+{"start":"2026-10-26T10:45:43","end":"2026-10-26T10:46:08","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T10:46:08","end":"2026-10-26T10:46:18","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:46:18","end":"2026-10-26T10:46:28","app":"org.freedesktop.impl.portal.desktop.kde","title":"File Upload - Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:46:28","end":"2026-10-26T10:46:33","app":"docker-desktop","title":"Containers - Docker Desktop"}
+{"start":"2026-10-26T10:46:33","end":"2026-10-26T10:46:38","app":"org.freedesktop.impl.portal.desktop.kde","title":"File Upload - Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:46:38","end":"2026-10-26T10:46:43","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:46:43","end":"2026-10-26T10:46:48","app":"org.kde.ark","title":"Extract — Ark"}
+{"start":"2026-10-26T10:46:48","end":"2026-10-26T10:46:53","app":"org.kde.dolphin","title":"Desktop — Dolphin"}
+{"start":"2026-10-26T10:46:53","end":"2026-10-26T10:46:58","app":"org.freedesktop.impl.portal.desktop.kde","title":"File Upload - Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:46:58","end":"2026-10-26T10:47:03","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:47:03","end":"2026-10-26T10:48:33","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T10:48:33","end":"2026-10-26T10:48:38","app":"LibreCAD","title":"Closing Drawing"}
+{"start":"2026-10-26T10:48:38","end":"2026-10-26T10:48:48","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:48:48","end":"2026-10-26T10:48:53","app":"docker-desktop","title":"Containers - Docker Desktop"}
+{"start":"2026-10-26T10:48:53","end":"2026-10-26T10:49:03","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:49:03","end":"2026-10-26T10:49:08","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T10:49:08","end":"2026-10-26T10:49:13","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:49:13","end":"2026-10-26T10:49:18","app":"org.kde.dolphin","title":"Downloads — Dolphin"}
+{"start":"2026-10-26T10:49:18","end":"2026-10-26T10:49:23","app":"org.kde.ark","title":"File Already Exists — Ark"}
+{"start":"2026-10-26T10:49:23","end":"2026-10-26T10:49:28","app":"org.kde.dolphin","title":"Downloads — Dolphin"}
+{"start":"2026-10-26T10:49:28","end":"2026-10-26T10:49:33","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:49:33","end":"2026-10-26T10:49:38","app":"org.freedesktop.impl.portal.desktop.kde","title":"File Upload - DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:49:38","end":"2026-10-26T10:49:58","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:49:58","end":"2026-10-26T10:50:03","app":"org.kde.ark","title":"Extract — Ark"}
+{"start":"2026-10-26T10:50:03","end":"2026-10-26T10:50:08","app":"org.kde.ark","title":"24.zip — Ark"}
+{"start":"2026-10-26T10:50:08","end":"2026-10-26T10:50:18","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:50:18","end":"2026-10-26T10:50:38","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:50:38","end":"2026-10-26T10:50:43","app":"firefox","title":"Drawing 1 — Kulman — Mozilla Firefox"}
+{"start":"2026-10-26T10:50:43","end":"2026-10-26T10:50:48","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:50:48","end":"2026-10-26T10:50:58","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T10:50:58","end":"2026-10-26T10:51:08","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:51:08","end":"2026-10-26T10:51:38","app":"chrome-pkooggnaalmfkidjmlhoelhdllpphaga-Default","title":"Outlook (PWA)"}
+{"start":"2026-10-26T10:51:38","end":"2026-10-26T10:51:48","app":"org.kde.dolphin","title":"Downloads — Dolphin"}
+{"start":"2026-10-26T10:51:48","end":"2026-10-26T10:51:58","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:51:58","end":"2026-10-26T10:52:13","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T10:52:13","end":"2026-10-26T10:52:48","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T10:52:48","end":"2026-10-26T10:53:13","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:53:13","end":"2026-10-26T10:53:28","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T10:53:28","end":"2026-10-26T10:53:43","app":"code-oss","title":"translate-entities.ts (Working Tree) (translate-entities.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T10:53:43","end":"2026-10-26T10:53:53","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:53:53","end":"2026-10-26T10:54:08","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T10:54:08","end":"2026-10-26T10:54:13","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:54:13","end":"2026-10-26T10:54:23","app":"code-oss","title":"translate-entities.ts (Working Tree) (translate-entities.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T10:54:23","end":"2026-10-26T10:54:28","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:54:28","end":"2026-10-26T10:54:33","app":"org.kde.ark","title":"24(1).zip — Ark"}
+{"start":"2026-10-26T10:54:33","end":"2026-10-26T10:54:38","app":"org.kde.ark","title":"File Already Exists — Ark"}
+{"start":"2026-10-26T10:54:38","end":"2026-10-26T10:54:53","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:54:53","end":"2026-10-26T10:55:03","app":"code-oss","title":"translate-entities.ts (Working Tree) (translate-entities.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T10:55:03","end":"2026-10-26T10:55:13","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:55:13","end":"2026-10-26T10:56:23","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-26T10:56:23","end":"2026-10-26T10:56:28","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:56:28","end":"2026-10-26T10:56:33","app":"org.kde.ark","title":"24(2).zip — Ark"}
+{"start":"2026-10-26T10:56:33","end":"2026-10-26T10:56:38","app":"org.kde.ark","title":"File Already Exists — Ark"}
+{"start":"2026-10-26T10:56:38","end":"2026-10-26T10:56:43","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:56:43","end":"2026-10-26T10:56:48","app":"org.freedesktop.impl.portal.desktop.kde","title":"File Upload - Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:56:48","end":"2026-10-26T10:57:03","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:57:03","end":"2026-10-26T10:57:08","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T10:57:08","end":"2026-10-26T10:57:18","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:57:18","end":"2026-10-26T10:57:48","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T10:57:48","end":"2026-10-26T10:57:53","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T10:57:53","end":"2026-10-26T10:57:58","app":"firefox","title":"Drawing 1 — Kulman — Mozilla Firefox"}
+{"start":"2026-10-26T10:57:58","end":"2026-10-26T10:58:03","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-26T10:58:03","end":"2026-10-26T10:58:18","app":"firefox","title":"Download Autodesk Viewers | Free Online Viewers | Autodesk Official — Mozilla Firefox"}
+{"start":"2026-10-26T10:58:18","end":"2026-10-26T10:59:43","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T10:59:43","end":"2026-10-26T11:00:33","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T11:00:33","end":"2026-10-26T11:00:38","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T11:00:38","end":"2026-10-26T11:01:03","app":"code-oss","title":"translate-entities.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T11:01:03","end":"2026-10-26T11:01:43","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:01:43","end":"2026-10-26T11:01:48","app":"org.kde.ark","title":"Extract — Ark"}
+{"start":"2026-10-26T11:01:48","end":"2026-10-26T11:01:53","app":"org.kde.ark","title":"File Already Exists — Ark"}
+{"start":"2026-10-26T11:01:53","end":"2026-10-26T11:02:23","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:02:23","end":"2026-10-26T11:02:33","app":"code-oss","title":"translate-entities.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T11:02:33","end":"2026-10-26T11:02:38","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:02:38","end":"2026-10-26T11:02:43","app":"org.kde.dolphin","title":"Documents — Dolphin"}
+{"start":"2026-10-26T11:02:43","end":"2026-10-26T11:03:33","app":"LibreCAD","title":"LibreCAD - [faulty dxf fix 3.dxf*]"}
+{"start":"2026-10-26T11:03:33","end":"2026-10-26T11:04:48","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T11:04:48","end":"2026-10-26T11:05:03","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:05:03","end":"2026-10-26T11:05:13","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:05:13","end":"2026-10-26T11:05:18","app":"org.freedesktop.impl.portal.desktop.kde","title":"File Upload - DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:05:18","end":"2026-10-26T11:05:38","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:05:38","end":"2026-10-26T11:08:44","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T11:08:44","end":"2026-10-26T11:08:59","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:08:59","end":"2026-10-26T11:09:04","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:09:04","end":"2026-10-26T11:09:59","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:09:59","end":"2026-10-26T11:10:59","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T11:10:59","end":"2026-10-26T11:11:04","app":"firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:11:04","end":"2026-10-26T11:11:09","app":"firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:11:09","end":"2026-10-26T11:11:24","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:11:24","end":"2026-10-26T11:11:39","app":"LibreCAD","title":"LibreCAD - [faulty dxf fix 3.dxf*]"}
+{"start":"2026-10-26T11:11:39","end":"2026-10-26T11:12:04","app":"code-oss","title":"translate-entities.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T11:12:04","end":"2026-10-26T11:12:09","app":"code-oss","title":"● translate-entities.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T11:12:09","end":"2026-10-26T11:14:24","app":"code-oss","title":"translate-entities.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T11:14:24","end":"2026-10-26T11:14:29","app":"firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:14:29","end":"2026-10-26T11:14:34","app":"firefox","title":"New merge request · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:14:34","end":"2026-10-26T11:15:49","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T11:15:49","end":"2026-10-26T11:15:59","app":"code-oss","title":"translate-entities.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T11:15:59","end":"2026-10-26T11:16:04","app":"firefox","title":"New merge request · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:16:04","end":"2026-10-26T11:16:24","app":"code-oss","title":"translate-entities.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T11:16:24","end":"2026-10-26T11:16:29","app":"firefox","title":"New merge request · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:16:29","end":"2026-10-26T11:16:39","app":"firefox","title":"dxf entity positions (72a1aa2f) · Commits · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:16:39","end":"2026-10-26T11:16:49","app":"firefox","title":"New merge request · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:16:49","end":"2026-10-26T11:16:54","app":"firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:16:54","end":"2026-10-26T11:17:14","app":"firefox","title":"New merge request · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:17:14","end":"2026-10-26T11:17:29","app":"firefox","title":"dxf entity positions (!205) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:17:29","end":"2026-10-26T11:17:34","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-26T11:17:34","end":"2026-10-26T11:17:44","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:17:44","end":"2026-10-26T11:18:04","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T11:18:04","end":"2026-10-26T11:18:14","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:18:14","end":"2026-10-26T11:18:34","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T11:18:34","end":"2026-10-26T11:18:39","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:18:39","end":"2026-10-26T11:19:09","app":"firefox","title":"dxf entity positions (!205) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:19:09","end":"2026-10-26T11:19:19","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Dispan, Kathrin, Nebiyat Sirak | Microsoft Teams"}
+{"start":"2026-10-26T11:19:19","end":"2026-10-26T11:21:29","app":"code-oss","title":"translate-entities.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T11:21:29","end":"2026-10-26T11:21:34","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-26T11:21:34","end":"2026-10-26T11:22:04","app":"Alacritty","title":"albin-divid@cachyos-x8664:~"}
+{"start":"2026-10-26T11:22:04","end":"2026-10-26T11:22:09","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:22:09","end":"2026-10-26T11:22:49","app":"firefox","title":"dxf entity positions (!205) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:22:49","end":"2026-10-26T11:23:04","app":"Alacritty","title":"albin-divid@cachyos-x8664:~"}
+{"start":"2026-10-26T11:23:04","end":"2026-10-26T11:23:09","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-26T11:23:09","end":"2026-10-26T11:23:14","app":"firefox","title":"Welcome | Wiki.js — Mozilla Firefox"}
+{"start":"2026-10-26T11:23:14","end":"2026-10-26T11:23:19","app":"firefox","title":"Unauthorized | Wiki.js — Mozilla Firefox"}
+{"start":"2026-10-26T11:23:19","end":"2026-10-26T11:23:24","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:23:24","end":"2026-10-26T11:23:39","app":"firefox","title":"dxf entity positions (!205) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:23:39","end":"2026-10-26T11:23:49","app":"firefox","title":"503 Service Temporarily Unavailable — Mozilla Firefox"}
+{"start":"2026-10-26T11:23:49","end":"2026-10-26T11:23:54","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Dispan, Kathrin, Nebiyat Sirak | Microsoft Teams"}
+{"start":"2026-10-26T11:23:54","end":"2026-10-26T11:24:09","app":"code-oss","title":"translate-entities.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T11:24:09","end":"2026-10-26T11:24:19","app":"firefox","title":"503 Service Temporarily Unavailable — Mozilla Firefox"}
+{"start":"2026-10-26T11:24:19","end":"2026-10-26T11:25:34","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:25:34","end":"2026-10-26T11:25:39","app":"Alacritty","title":"albin-divid@cachyos-x8664:~"}
+{"start":"2026-10-26T11:25:39","end":"2026-10-26T11:25:49","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:25:49","end":"2026-10-26T11:25:54","app":"firefox","title":"Panasonic PRO Club — Mozilla Firefox"}
+{"start":"2026-10-26T11:25:54","end":"2026-10-26T11:26:09","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:26:09","end":"2026-10-26T11:27:09","app":"Alacritty","title":"albin-divid@cachyos-x8664:~"}
+{"start":"2026-10-26T11:27:09","end":"2026-10-26T11:27:14","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:27:14","end":"2026-10-26T11:27:19","app":"chromium","title":"New tab - Chromium"}
+{"start":"2026-10-26T11:27:19","end":"2026-10-26T11:27:29","app":"chromium","title":"Panasonic PRO Club - Chromium"}
+{"start":"2026-10-26T11:27:29","end":"2026-10-26T11:27:34","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-26T11:27:34","end":"2026-10-26T11:27:49","app":"Alacritty","title":"albin-divid@cachyos-x8664:~"}
+{"start":"2026-10-26T11:27:49","end":"2026-10-26T11:27:54","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-26T11:27:54","end":"2026-10-26T11:28:24","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:28:24","end":"2026-10-26T11:28:29","app":"org.kde.ark","title":"1456(1).zip — Ark"}
+{"start":"2026-10-26T11:28:29","end":"2026-10-26T11:28:34","app":"org.kde.ark","title":"File Already Exists — Ark"}
+{"start":"2026-10-26T11:28:34","end":"2026-10-26T11:28:44","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:28:44","end":"2026-10-26T11:29:14","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-26T11:29:14","end":"2026-10-26T11:29:34","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:29:34","end":"2026-10-26T11:29:44","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:29:44","end":"2026-10-26T11:30:09","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:30:09","end":"2026-10-26T11:30:24","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:30:24","end":"2026-10-26T11:30:34","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:30:34","end":"2026-10-26T11:30:39","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:30:39","end":"2026-10-26T11:30:44","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:30:44","end":"2026-10-26T11:31:14","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:31:14","end":"2026-10-26T11:31:19","app":"LibreCAD","title":"LibreCAD - [unnamed document 1*]"}
+{"start":"2026-10-26T11:31:19","end":"2026-10-26T11:31:34","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T11:31:34","end":"2026-10-26T11:31:49","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:31:49","end":"2026-10-26T11:31:54","app":"org.kde.ark","title":"1416(1).zip — Ark"}
+{"start":"2026-10-26T11:31:54","end":"2026-10-26T11:31:59","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-26T11:31:59","end":"2026-10-26T11:32:14","app":"org.kde.ark","title":"1416(1).zip — Ark"}
+{"start":"2026-10-26T11:32:14","end":"2026-10-26T11:32:19","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:32:19","end":"2026-10-26T11:32:24","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-26T11:32:24","end":"2026-10-26T11:32:29","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:32:29","end":"2026-10-26T11:32:54","app":"Alacritty","title":"albin-divid@cachyos-x8664:~"}
+{"start":"2026-10-26T11:32:54","end":"2026-10-26T11:33:09","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:33:09","end":"2026-10-26T11:33:29","app":"Alacritty","title":"albin-divid@cachyos-x8664:~"}
+{"start":"2026-10-26T11:33:29","end":"2026-10-26T11:33:44","app":"firefox","title":"503 Service Temporarily Unavailable — Mozilla Firefox"}
+{"start":"2026-10-26T11:33:44","end":"2026-10-26T11:33:54","app":"Alacritty","title":"albin-divid@cachyos-x8664:~"}
+{"start":"2026-10-26T11:33:54","end":"2026-10-26T11:34:19","app":"firefox","title":"503 Service Temporarily Unavailable — Mozilla Firefox"}
+{"start":"2026-10-26T11:34:19","end":"2026-10-26T11:34:39","app":"firefox","title":"dxf entity positions (!205) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:34:39","end":"2026-10-26T11:34:49","app":"firefox","title":"502 Bad Gateway — Mozilla Firefox"}
+{"start":"2026-10-26T11:34:49","end":"2026-10-26T11:34:54","app":"Alacritty","title":"albin-divid@cachyos-x8664:~"}
+{"start":"2026-10-26T11:34:54","end":"2026-10-26T11:35:09","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:35:09","end":"2026-10-26T11:35:14","app":"firefox","title":"Drawing 1 — Kulman — Mozilla Firefox"}
+{"start":"2026-10-26T11:35:14","end":"2026-10-26T11:35:19","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:35:19","end":"2026-10-26T11:35:34","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:35:34","end":"2026-10-26T11:35:39","app":"org.kde.ark","title":"Extract — Ark"}
+{"start":"2026-10-26T11:35:39","end":"2026-10-26T11:35:44","app":"org.kde.dolphin","title":"Desktop — Dolphin"}
+{"start":"2026-10-26T11:35:44","end":"2026-10-26T11:35:54","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:35:54","end":"2026-10-26T11:36:04","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Dispan, Kathrin, Nebiyat Sirak | Microsoft Teams"}
+{"start":"2026-10-26T11:36:04","end":"2026-10-26T11:36:14","app":"org.kde.ark","title":"1456(2).zip — Ark"}
+{"start":"2026-10-26T11:36:14","end":"2026-10-26T11:36:49","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:36:49","end":"2026-10-26T11:36:54","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:36:54","end":"2026-10-26T11:37:04","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:37:04","end":"2026-10-26T11:37:09","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:37:09","end":"2026-10-26T11:37:24","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:37:24","end":"2026-10-26T11:37:44","app":"firefox","title":"dxf entity positions (!205) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:37:44","end":"2026-10-26T11:38:29","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-26T11:38:29","end":"2026-10-26T11:38:34","app":"firefox","title":"dxf entity positions (!205) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:38:34","end":"2026-10-26T11:38:39","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:38:39","end":"2026-10-26T11:38:54","app":"code-oss","title":"translate-entities.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T11:38:54","end":"2026-10-26T11:38:59","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:38:59","end":"2026-10-26T11:39:09","app":"code-oss","title":"translate-entities.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-26T11:39:09","end":"2026-10-26T11:39:34","app":"firefox","title":"New tag · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:39:34","end":"2026-10-26T11:39:39","app":"firefox","title":"2026.10.26-3 · Tags · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:39:39","end":"2026-10-26T11:39:44","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:39:44","end":"2026-10-26T11:39:59","app":"firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:39:59","end":"2026-10-26T11:40:04","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-26T11:40:04","end":"2026-10-26T11:40:09","app":"Alacritty","title":"albin-divid@cachyos-x8664:~"}
+{"start":"2026-10-26T11:40:09","end":"2026-10-26T11:40:14","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/flux-panasonic-prod"}
+{"start":"2026-10-26T11:40:14","end":"2026-10-26T11:41:05","app":"code-oss","title":"Welcome - flux-panasonic-prod - Code - OSS"}
+{"start":"2026-10-26T11:41:05","end":"2026-10-26T11:41:10","app":"code-oss","title":"Extension: Claude Code for VS Code - flux-panasonic-prod - Code - OSS"}
+{"start":"2026-10-26T11:41:10","end":"2026-10-26T11:41:15","app":"code-oss","title":"Welcome - flux-panasonic-prod - Code - OSS"}
+{"start":"2026-10-26T11:41:15","end":"2026-10-26T11:41:25","app":"code-oss","title":"Claude Code - flux-panasonic-prod - Code - OSS"}
+{"start":"2026-10-26T11:41:25","end":"2026-10-26T11:41:30","app":"code-oss","title":"Update the pro apps, exc… - flux-panasonic-prod - Code - OSS"}
+{"start":"2026-10-26T11:41:30","end":"2026-10-26T11:41:35","app":"firefox","title":"Sign in - Claude — Mozilla Firefox"}
+{"start":"2026-10-26T11:41:40","end":"2026-10-26T11:41:50","app":"firefox","title":"Sign in - Claude — Mozilla Firefox"}
+{"start":"2026-10-26T11:41:50","end":"2026-10-26T11:41:55","app":"chrome-pkooggnaalmfkidjmlhoelhdllpphaga-Default","title":"Outlook (PWA)"}
+{"start":"2026-10-26T11:41:55","end":"2026-10-26T11:42:00","app":"chromium","title":"Claude - Chromium"}
+{"start":"2026-10-26T11:42:00","end":"2026-10-26T11:42:05","app":"firefox","title":"Claude — Mozilla Firefox"}
+{"start":"2026-10-26T11:42:05","end":"2026-10-26T11:42:10","app":"chrome-pkooggnaalmfkidjmlhoelhdllpphaga-Default","title":"Outlook (PWA)"}
+{"start":"2026-10-26T11:42:10","end":"2026-10-26T11:42:15","app":"code-oss","title":"Update the pro apps, exc… - flux-panasonic-prod - Code - OSS"}
+{"start":"2026-10-26T11:42:15","end":"2026-10-26T11:42:25","app":"code-oss","title":"Pro apps tag 2026.10.26-… - flux-panasonic-prod - Code - OSS"}
+{"start":"2026-10-26T11:42:25","end":"2026-10-26T11:42:45","app":"code-oss","title":"deployment.yaml - flux-panasonic-prod - Code - OSS"}
+{"start":"2026-10-26T11:42:45","end":"2026-10-26T11:42:50","app":"code-oss","title":"service.yaml - flux-panasonic-prod - Code - OSS"}
+{"start":"2026-10-26T11:42:50","end":"2026-10-26T11:42:55","app":"code-oss","title":"deployment.yaml - flux-panasonic-prod - Code - OSS"}
+{"start":"2026-10-26T11:42:55","end":"2026-10-26T11:43:00","app":"code-oss","title":"dxf-to-svg-service.yaml - flux-panasonic-prod - Code - OSS"}
+{"start":"2026-10-26T11:43:00","end":"2026-10-26T11:43:05","app":"code-oss","title":"pdf-to-png-service.yaml - flux-panasonic-prod - Code - OSS"}
+{"start":"2026-10-26T11:43:05","end":"2026-10-26T11:43:15","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:43:15","end":"2026-10-26T11:43:20","app":"Alacritty","title":"albin-divid@cachyos-x8664:~"}
+{"start":"2026-10-26T11:43:20","end":"2026-10-26T11:43:25","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Dispan, Kathrin, Nebiyat Sirak | Microsoft Teams"}
+{"start":"2026-10-26T11:43:25","end":"2026-10-26T11:43:30","app":"code-oss","title":"pdf-to-png-service.yaml - flux-panasonic-prod - Code - OSS"}
+{"start":"2026-10-26T11:43:30","end":"2026-10-26T11:43:40","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:43:40","end":"2026-10-26T11:43:45","app":"code-oss","title":"residential-printout-service.yaml - flux-panasonic-prod - Code - OSS"}
+{"start":"2026-10-26T11:43:45","end":"2026-10-26T11:44:00","app":"code-oss","title":"vrf-user-service.yaml - flux-panasonic-prod - Code - OSS"}
+{"start":"2026-10-26T11:44:00","end":"2026-10-26T11:44:05","app":"firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:44:05","end":"2026-10-26T11:44:10","app":"firefox","title":"Pipeline #212625 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:44:10","end":"2026-10-26T11:44:15","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-26T11:44:15","end":"2026-10-26T11:44:20","app":"firefox","title":"Skapa ett kostnadsfritt Azure-konto eller Betala allteftersom | Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-26T11:44:20","end":"2026-10-26T11:44:25","app":"firefox","title":"Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-26T11:44:25","end":"2026-10-26T11:44:45","app":"firefox","title":"panasonicacr - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-26T11:44:45","end":"2026-10-26T11:44:50","app":"firefox","title":"Home - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-26T11:44:50","end":"2026-10-26T11:45:05","app":"firefox","title":"aks-panasonic-prod-westeurope-01 - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-26T11:45:05","end":"2026-10-26T11:45:10","app":"firefox","title":"Home - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-26T11:45:10","end":"2026-10-26T11:45:20","app":"firefox","title":"rg-panasonic-prod-westeurope-01 - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-26T11:45:20","end":"2026-10-26T11:45:35","app":"firefox","title":"aks-panasonic-prod-westeurope-01 - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-26T11:45:35","end":"2026-10-26T11:45:45","app":"firefox","title":"Home - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-26T11:45:45","end":"2026-10-26T11:45:55","app":"firefox","title":"panasonicacr - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-26T11:45:55","end":"2026-10-26T11:46:40","app":"firefox","title":"dxpro-designer/server-web-dxpro - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-26T11:46:40","end":"2026-10-26T11:46:45","app":"firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-10-26T11:46:45","end":"2026-10-26T11:46:50","app":"firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-26T11:46:50","end":"2026-10-26T11:47:05","app":"firefox","title":"dxpro-designer/server-web-dxpro - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-26T11:47:05","end":"2026-10-26T11:47:10","app":"firefox","title":"dxpro-designer/server-web-aquarea - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-26T11:47:10","end":"2026-10-26T11:47:20","app":"firefox","title":"Home - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-26T11:47:20","end":"2026-10-26T11:47:25","app":"firefox","title":"Resource Manager - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-26T11:47:25","end":"2026-10-26T11:47:30","app":"firefox","title":"panasonicacr - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-26T11:47:30","end":"2026-10-26T11:47:45","app":"firefox","title":"dxpro-designer/server-web-dxpro - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-26T11:47:45","end":"2026-10-26T11:47:50","app":"firefox","title":"dxpro-designer/server-web-aquarea - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-26T11:47:50","end":"2026-10-26T11:47:55","app":"firefox","title":"dxpro-designer/server-web-refpro - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-26T11:47:55","end":"2026-10-26T11:48:00","app":"firefox","title":"dxpro-designer/server-web-dxpro - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-26T11:48:00","end":"2026-10-26T11:48:20","app":"code-oss","title":"vrf-user-service.yaml - flux-panasonic-prod - Code - OSS"}
+{"start":"2026-10-26T11:48:20","end":"2026-10-26T11:48:25","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Dispan, Kathrin, Nebiyat Sirak +1 | Microsoft Teams"}
+{"start":"2026-10-26T11:48:25","end":"2026-10-26T11:48:30","app":"code-oss","title":"residential-system-service.yaml - flux-panasonic-prod - Code - OSS"}
+{"start":"2026-10-26T11:48:30","end":"2026-10-26T11:48:35","app":"code-oss","title":"project-service.yaml - flux-panasonic-prod - Code - OSS"}
+{"start":"2026-10-26T11:48:35","end":"2026-10-26T11:48:40","app":"code-oss","title":"dxf-to-svg-service.yaml - flux-panasonic-prod - Code - OSS"}
+{"start":"2026-10-26T11:48:40","end":"2026-10-26T11:48:50","app":"Alacritty","title":"albin-divid@cachyos-x8664:~"}
+{"start":"2026-10-26T11:48:50","end":"2026-10-26T11:49:25","app":"code-oss","title":"dxf-to-svg-service.yaml - flux-panasonic-prod - Code - OSS"}
+{"start":"2026-10-26T11:49:25","end":"2026-10-26T11:50:20","app":"Alacritty","title":"albin-divid@cachyos-x8664:~"}
+{"start":"2026-10-26T11:50:20","end":"2026-10-26T11:50:30","app":"firefox","title":"dxpro-designer/server-web-dxpro - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-10-26T11:50:30","end":"2026-10-26T11:50:35","app":"Alacritty","title":"albin-divid@cachyos-x8664:~"}
+{"start":"2026-10-26T11:50:35","end":"2026-10-26T11:52:15","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:52:15","end":"2026-10-26T11:52:20","app":"org.kde.ark","title":"Extract — Ark"}
+{"start":"2026-10-26T11:52:20","end":"2026-10-26T11:52:25","app":"org.kde.dolphin","title":"Downloads — Dolphin"}
+{"start":"2026-10-26T11:52:25","end":"2026-10-26T11:52:30","app":"org.kde.ark","title":"File Already Exists — Ark"}
+{"start":"2026-10-26T11:52:30","end":"2026-10-26T11:52:35","app":"org.kde.dolphin","title":"Desktop — Dolphin"}
+{"start":"2026-10-26T11:52:35","end":"2026-10-26T11:52:40","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:52:40","end":"2026-10-26T11:52:45","app":"org.freedesktop.impl.portal.desktop.kde","title":"File Upload - Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:52:45","end":"2026-10-26T11:53:35","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:53:35","end":"2026-10-26T11:53:40","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:53:40","end":"2026-10-26T11:53:45","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:53:45","end":"2026-10-26T11:53:50","app":"chrome-pkooggnaalmfkidjmlhoelhdllpphaga-Default","title":"Outlook (PWA)"}
+{"start":"2026-10-26T11:53:50","end":"2026-10-26T11:53:55","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:53:55","end":"2026-10-26T11:56:50","app":"chrome-pkooggnaalmfkidjmlhoelhdllpphaga-Default","title":"Outlook (PWA)"}
+{"start":"2026-10-26T11:56:50","end":"2026-10-26T11:56:55","app":"Alacritty","title":"albin-divid@cachyos-x8664:~"}
+{"start":"2026-10-26T11:56:55","end":"2026-10-26T11:57:25","app":"chrome-pkooggnaalmfkidjmlhoelhdllpphaga-Default","title":"Outlook (PWA)"}
+{"start":"2026-10-26T11:57:25","end":"2026-10-26T11:57:35","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:57:35","end":"2026-10-26T11:58:05","app":"chrome-pkooggnaalmfkidjmlhoelhdllpphaga-Default","title":"Outlook (PWA)"}
+{"start":"2026-10-26T11:58:05","end":"2026-10-26T11:58:15","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-26T11:58:15","end":"2026-10-26T11:58:30","app":"chrome-pkooggnaalmfkidjmlhoelhdllpphaga-Default","title":"Outlook (PWA)"}
+{"start":"2026-10-26T11:58:30","end":"2026-10-26T11:58:35","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Dispan, Kathrin, Nebiyat Sirak +1 | Microsoft Teams"}
+{"start":"2026-10-26T11:58:35","end":"2026-10-26T11:58:40","app":"Alacritty","title":"albin-divid@cachyos-x8664:~"}
+{"start":"2026-10-26T11:58:40","end":"2026-10-26T11:59:00","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-26T11:59:00","end":"2026-10-26T11:59:05","app":"code-oss","title":"dxf-to-svg-service.yaml - flux-panasonic-prod - Code - OSS"}
