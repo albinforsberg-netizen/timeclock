@@ -1493,3 +1493,7 @@
 {"ev":"out","t":"2026-10-26T11:59:15","note":"dxf positions fix"}
 {"ev":"in","t":"2026-10-26T12:45:10","project":"dxpro","task":"Printout user settings"}
 {"ev":"out","t":"2026-10-26T13:33:12","note":"Printout user settings"}
+{"ev":"in","t":"2026-10-26T13:33:12","project":"refpro"}
+{"ev":"break","t":"2026-10-26T15:10:36"}
+{"ev":"in","t":"2026-10-26T15:15:43","project":"refpro"}
+{"ev":"out","t":"2026-10-26T15:59:02","note":"Decentralized"}
