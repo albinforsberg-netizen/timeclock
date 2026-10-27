@@ -931,3 +931,395 @@
 {"start":"2026-10-27T15:10:18","end":"2026-10-27T15:10:33","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
 {"start":"2026-10-27T15:10:33","end":"2026-10-27T15:10:38","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
 {"start":"2026-10-27T15:10:38","end":"2026-10-27T15:11:58","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:11:58","end":"2026-10-27T15:12:23","app":"margin","title":"Time — Margin"}
+{"start":"2026-10-27T15:12:23","end":"2026-10-27T15:12:33","app":"margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-10-27T15:12:33","end":"2026-10-27T15:12:38","app":"margin","title":"dagbok-work — Margin"}
+{"start":"2026-10-27T15:12:38","end":"2026-10-27T15:12:53","app":"margin","title":"Log check — Margin"}
+{"start":"2026-10-27T15:12:53","end":"2026-10-27T15:13:03","app":"margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-10-27T15:13:03","end":"2026-10-27T15:13:08","app":"margin","title":"• timelog.jsonl — Margin"}
+{"start":"2026-10-27T15:13:08","end":"2026-10-27T15:13:13","app":"margin","title":"Log check — Margin"}
+{"start":"2026-10-27T15:13:13","end":"2026-10-27T15:13:33","app":"margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-10-27T15:13:33","end":"2026-10-27T15:14:03","app":"margin","title":"Time — Margin"}
+{"start":"2026-10-27T15:14:03","end":"2026-10-27T15:14:33","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T15:14:33","end":"2026-10-27T15:14:43","app":"code-oss","title":"tree-layout.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T15:14:43","end":"2026-10-27T15:15:23","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T15:15:23","end":"2026-10-27T15:15:28","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:15:28","end":"2026-10-27T15:16:44","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T15:16:44","end":"2026-10-27T15:16:54","app":"firefox","title":"SMK2E5A-Images — Mozilla Firefox"}
+{"start":"2026-10-27T15:16:54","end":"2026-10-27T15:16:59","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T15:16:59","end":"2026-10-27T15:17:04","app":"firefox","title":"SMK2E5A-Images — Mozilla Firefox"}
+{"start":"2026-10-27T15:17:04","end":"2026-10-27T15:17:14","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T15:17:14","end":"2026-10-27T15:17:19","app":"firefox","title":"SMK2E5A-Images — Mozilla Firefox"}
+{"start":"2026-10-27T15:17:19","end":"2026-10-27T15:17:24","app":"org.kde.spectacle","title":"Unsaved* — Spectacle"}
+{"start":"2026-10-27T15:17:24","end":"2026-10-27T15:18:34","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T15:18:34","end":"2026-10-27T15:18:54","app":"firefox","title":"SMK3E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T15:18:54","end":"2026-10-27T15:18:59","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:18:59","end":"2026-10-27T15:19:04","app":"firefox","title":"SMK3E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T15:19:04","end":"2026-10-27T15:19:09","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:19:09","end":"2026-10-27T15:21:04","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T15:21:04","end":"2026-10-27T15:21:19","app":"org.kde.dolphin","title":"Desktop — Dolphin"}
+{"start":"2026-10-27T15:21:19","end":"2026-10-27T15:21:34","app":"org.kde.dolphin","title":"Downloads — Dolphin"}
+{"start":"2026-10-27T15:21:34","end":"2026-10-27T15:21:49","app":"org.kde.kate","title":"S-22_36MK2E5_top(2).svg — Kate"}
+{"start":"2026-10-27T15:21:49","end":"2026-10-27T15:22:39","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T15:22:39","end":"2026-10-27T15:23:04","app":"org.kde.kate","title":"S-22_36MK2E5_top(2).svg — Kate"}
+{"start":"2026-10-27T15:23:04","end":"2026-10-27T15:23:14","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T15:23:14","end":"2026-10-27T15:23:19","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:23:19","end":"2026-10-27T15:23:34","app":"firefox","title":"SMK3E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T15:23:34","end":"2026-10-27T15:23:49","app":"org.freedesktop.impl.portal.desktop.kde","title":"File Upload - SMK3E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T15:23:49","end":"2026-10-27T15:24:09","app":"firefox","title":"SMK3E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T15:24:09","end":"2026-10-27T15:25:09","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:25:09","end":"2026-10-27T15:25:34","app":"firefox","title":"SMK3E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T15:25:34","end":"2026-10-27T15:25:44","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:25:44","end":"2026-10-27T15:27:19","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T15:27:19","end":"2026-10-27T15:29:04","app":"code-oss","title":"tree-layout.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T15:29:04","end":"2026-10-27T15:29:44","app":"code-oss","title":"fit-svg.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T15:29:44","end":"2026-10-27T15:29:49","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:29:49","end":"2026-10-27T15:29:54","app":"code-oss","title":"fit-svg.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T15:29:54","end":"2026-10-27T15:31:24","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:31:24","end":"2026-10-27T15:31:29","app":"firefox","title":"SMK3E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T15:31:29","end":"2026-10-27T15:31:39","app":"firefox","title":"SMK2E5A-Images — Mozilla Firefox"}
+{"start":"2026-10-27T15:31:39","end":"2026-10-27T15:31:49","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:31:49","end":"2026-10-27T15:31:59","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T15:31:59","end":"2026-10-27T15:32:49","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:32:49","end":"2026-10-27T15:32:59","app":"code-oss","title":"image-utils.ts (Working Tree) (image-utils.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T15:32:59","end":"2026-10-27T15:33:09","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:33:09","end":"2026-10-27T15:33:14","app":"code-oss","title":"image-utils.ts (Working Tree) (image-utils.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T15:33:14","end":"2026-10-27T15:34:09","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T15:34:09","end":"2026-10-27T15:34:24","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:34:24","end":"2026-10-27T15:34:29","app":"code-oss","title":"image-utils.ts (Working Tree) (image-utils.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T15:34:29","end":"2026-10-27T15:34:39","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:34:39","end":"2026-10-27T15:35:04","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T15:35:04","end":"2026-10-27T15:36:14","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:36:14","end":"2026-10-27T15:36:39","app":"firefox","title":"SMK2E5A-Images — Mozilla Firefox"}
+{"start":"2026-10-27T15:36:39","end":"2026-10-27T15:37:09","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:37:09","end":"2026-10-27T15:37:14","app":"firefox","title":"SMK2E5A-Images — Mozilla Firefox"}
+{"start":"2026-10-27T15:37:14","end":"2026-10-27T15:37:54","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:37:54","end":"2026-10-27T15:37:59","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T15:37:59","end":"2026-10-27T15:38:04","app":"margin","title":"Time — Margin"}
+{"start":"2026-10-27T15:38:04","end":"2026-10-27T15:38:14","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T15:38:14","end":"2026-10-27T15:39:04","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:39:04","end":"2026-10-27T15:39:09","app":"org.kde.ark","title":"Extract — Ark"}
+{"start":"2026-10-27T15:39:09","end":"2026-10-27T15:39:14","app":"org.kde.ark","title":"File Already Exists — Ark"}
+{"start":"2026-10-27T15:39:14","end":"2026-10-27T15:39:19","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-27T15:39:19","end":"2026-10-27T15:39:24","app":"org.freedesktop.impl.portal.desktop.kde","title":"File Upload - Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-27T15:39:24","end":"2026-10-27T15:40:09","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-27T15:40:09","end":"2026-10-27T15:40:14","app":"firefox","title":"SMK2E5A-Images — Mozilla Firefox"}
+{"start":"2026-10-27T15:40:14","end":"2026-10-27T15:40:19","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:40:19","end":"2026-10-27T15:40:24","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-27T15:40:24","end":"2026-10-27T15:41:04","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T15:41:04","end":"2026-10-27T15:41:09","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-27T15:41:09","end":"2026-10-27T15:43:04","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:43:04","end":"2026-10-27T15:43:09","app":"org.kde.ark","title":"Extract — Ark"}
+{"start":"2026-10-27T15:43:09","end":"2026-10-27T15:43:14","app":"org.kde.dolphin","title":"Desktop — Dolphin"}
+{"start":"2026-10-27T15:43:14","end":"2026-10-27T15:43:19","app":"org.freedesktop.impl.portal.desktop.kde","title":"File Upload - Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-27T15:43:19","end":"2026-10-27T15:43:24","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-27T15:43:24","end":"2026-10-27T15:43:29","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Nebiyat Sirak | Microsoft Teams"}
+{"start":"2026-10-27T15:43:29","end":"2026-10-27T15:43:54","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T15:43:54","end":"2026-10-27T15:43:59","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-27T15:43:59","end":"2026-10-27T15:44:24","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:44:24","end":"2026-10-27T15:45:04","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-27T15:45:04","end":"2026-10-27T15:45:09","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T15:45:09","end":"2026-10-27T15:45:29","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-27T15:45:29","end":"2026-10-27T15:46:29","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:46:29","end":"2026-10-27T15:46:34","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-27T15:46:34","end":"2026-10-27T15:46:49","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-27T15:46:49","end":"2026-10-27T15:46:54","app":"firefox","title":"Sign In to Autodesk — Mozilla Firefox"}
+{"start":"2026-10-27T15:46:54","end":"2026-10-27T15:47:10","app":"firefox","title":"Sign in - Autodesk — Mozilla Firefox"}
+{"start":"2026-10-27T15:47:10","end":"2026-10-27T15:47:15","app":"chrome-pkooggnaalmfkidjmlhoelhdllpphaga-Default","title":"Outlook (PWA)"}
+{"start":"2026-10-27T15:47:15","end":"2026-10-27T15:47:30","app":"firefox","title":"2-step verification - Autodesk — Mozilla Firefox"}
+{"start":"2026-10-27T15:47:30","end":"2026-10-27T15:47:40","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-27T15:47:40","end":"2026-10-27T15:48:00","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T15:48:00","end":"2026-10-27T15:48:10","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:48:10","end":"2026-10-27T15:48:15","app":"org.kde.ark","title":"Extract — Ark"}
+{"start":"2026-10-27T15:48:15","end":"2026-10-27T15:48:20","app":"org.kde.ark","title":"File Already Exists — Ark"}
+{"start":"2026-10-27T15:48:20","end":"2026-10-27T15:49:25","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-27T15:49:25","end":"2026-10-27T15:49:50","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:49:50","end":"2026-10-27T15:49:55","app":"org.kde.ark","title":"30(9).zip — Ark"}
+{"start":"2026-10-27T15:49:55","end":"2026-10-27T15:50:00","app":"org.kde.ark","title":"Extract — Ark"}
+{"start":"2026-10-27T15:50:00","end":"2026-10-27T15:50:05","app":"org.kde.ark","title":"File Already Exists — Ark"}
+{"start":"2026-10-27T15:50:05","end":"2026-10-27T15:50:10","app":"org.kde.dolphin","title":"Desktop — Dolphin"}
+{"start":"2026-10-27T15:50:10","end":"2026-10-27T15:50:15","app":"org.freedesktop.impl.portal.desktop.kde","title":"File Upload - Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-27T15:50:15","end":"2026-10-27T15:50:55","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-27T15:50:55","end":"2026-10-27T15:51:05","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:51:05","end":"2026-10-27T15:51:10","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-27T15:51:10","end":"2026-10-27T15:51:20","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:51:20","end":"2026-10-27T15:51:25","app":"code-oss","title":"image-utils.ts (Working Tree) (image-utils.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T15:51:25","end":"2026-10-27T15:51:55","app":"code-oss","title":"fit-svg.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T15:51:55","end":"2026-10-27T15:52:30","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:52:30","end":"2026-10-27T15:52:35","app":"firefox","title":"mtp fix.pdf — Mozilla Firefox"}
+{"start":"2026-10-27T15:52:35","end":"2026-10-27T15:52:45","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:52:45","end":"2026-10-27T15:53:00","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T15:53:00","end":"2026-10-27T15:53:10","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:53:10","end":"2026-10-27T15:53:15","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-27T15:53:15","end":"2026-10-27T15:53:30","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:53:30","end":"2026-10-27T15:53:40","app":"code-oss","title":"fit-svg.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T15:53:40","end":"2026-10-27T15:53:45","app":"org.kde.ark","title":"30(9).zip — Ark"}
+{"start":"2026-10-27T15:53:45","end":"2026-10-27T15:54:45","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-10-27T15:54:45","end":"2026-10-27T15:55:15","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:55:15","end":"2026-10-27T15:55:20","app":"code-oss","title":"fit-svg.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T15:55:20","end":"2026-10-27T15:56:30","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T15:56:30","end":"2026-10-27T15:56:35","app":"firefox","title":"mtp fix.pdf — Mozilla Firefox"}
+{"start":"2026-10-27T15:56:35","end":"2026-10-27T15:56:45","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T15:56:45","end":"2026-10-27T15:56:50","app":"firefox","title":"SMK2E5A-Images — Mozilla Firefox"}
+{"start":"2026-10-27T15:56:50","end":"2026-10-27T15:56:55","app":"firefox","title":"SMR1E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T15:56:55","end":"2026-10-27T15:57:00","app":"firefox","title":"SMG1E5A-Images — Mozilla Firefox"}
+{"start":"2026-10-27T15:57:00","end":"2026-10-27T15:57:10","app":"firefox","title":"PAW_HRPT-Images — Mozilla Firefox"}
+{"start":"2026-10-27T15:57:10","end":"2026-10-27T15:57:15","app":"code-oss","title":"fit-svg.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T15:57:15","end":"2026-10-27T15:57:25","app":"code-oss","title":"package.json (Working Tree) (package.json) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T15:57:25","end":"2026-10-27T15:57:30","app":"electron","title":"Code - OSS"}
+{"start":"2026-10-27T15:57:30","end":"2026-10-27T15:57:45","app":"code-oss","title":"package.json (Working Tree) (package.json) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T15:57:45","end":"2026-10-27T15:58:15","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:58:15","end":"2026-10-27T15:58:25","app":"code-oss","title":"package.json (Working Tree) (package.json) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T15:58:25","end":"2026-10-27T15:58:35","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T15:58:35","end":"2026-10-27T15:58:40","app":"chrome-pkooggnaalmfkidjmlhoelhdllpphaga-Default","title":"Outlook (PWA)"}
+{"start":"2026-10-27T15:58:40","end":"2026-10-27T15:58:45","app":"chromium","title":"Sign in to dxpro - Chromium"}
+{"start":"2026-10-27T15:58:45","end":"2026-10-27T15:58:50","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T15:58:50","end":"2026-10-27T15:58:55","app":"chromium","title":"Sign in to dxpro - Chromium"}
+{"start":"2026-10-27T15:58:55","end":"2026-10-27T15:59:00","app":"chromium","title":"Panasonic PRO Club - Chromium"}
+{"start":"2026-10-27T15:59:00","end":"2026-10-27T15:59:25","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T15:59:25","end":"2026-10-27T15:59:35","app":"code-oss","title":"package.json (Working Tree) (package.json) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T15:59:35","end":"2026-10-27T15:59:50","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T15:59:50","end":"2026-10-27T16:01:15","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T16:01:15","end":"2026-10-27T16:02:15","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:02:15","end":"2026-10-27T16:02:20","app":"code-oss","title":"package.json (Working Tree) (package.json) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:02:20","end":"2026-10-27T16:02:40","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:02:40","end":"2026-10-27T16:02:45","app":"firefox","title":"Autodesk Viewer | Free Online File Viewer — Mozilla Firefox"}
+{"start":"2026-10-27T16:02:45","end":"2026-10-27T16:02:50","app":"firefox","title":"PAW_HRPT-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:02:50","end":"2026-10-27T16:03:00","app":"firefox","title":"SMY2E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:03:00","end":"2026-10-27T16:05:10","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:05:10","end":"2026-10-27T16:05:20","app":"slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-10-27T16:05:20","end":"2026-10-27T16:06:40","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:06:40","end":"2026-10-27T16:08:20","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Nebiyat Sirak | Microsoft Teams"}
+{"start":"2026-10-27T16:08:20","end":"2026-10-27T16:09:45","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:09:45","end":"2026-10-27T16:10:10","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T16:10:10","end":"2026-10-27T16:10:45","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Nebiyat Sirak | Microsoft Teams"}
+{"start":"2026-10-27T16:10:45","end":"2026-10-27T16:11:25","app":"slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-10-27T16:11:25","end":"2026-10-27T16:11:30","app":"firefox","title":"SMY2E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:11:30","end":"2026-10-27T16:11:50","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:11:50","end":"2026-10-27T16:12:10","app":"firefox","title":"SMP1E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:12:10","end":"2026-10-27T16:13:50","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:13:50","end":"2026-10-27T16:14:00","app":"slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-10-27T16:14:00","end":"2026-10-27T16:14:15","app":"firefox","title":"SMP1E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:14:15","end":"2026-10-27T16:14:30","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:14:30","end":"2026-10-27T16:14:35","app":"org.freedesktop.impl.portal.desktop.kde","title":"Open File"}
+{"start":"2026-10-27T16:14:35","end":"2026-10-27T16:16:05","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:16:05","end":"2026-10-27T16:16:15","app":"firefox","title":"SMP1E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:16:15","end":"2026-10-27T16:16:50","app":"code-oss","title":"package.json (Working Tree) (package.json) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:16:50","end":"2026-10-27T16:16:55","app":"firefox","title":"SMP1E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:16:55","end":"2026-10-27T16:17:05","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T16:17:05","end":"2026-10-27T16:17:25","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:17:25","end":"2026-10-27T16:17:30","app":"firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T16:17:30","end":"2026-10-27T16:17:35","app":"firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T16:17:35","end":"2026-10-27T16:17:45","app":"firefox","title":"Upgrade the toolchain and dependencies: pnpm, ts-proto 2, React 19, Mantine 9, Vite 8 (!203) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T16:17:45","end":"2026-10-27T16:18:20","app":"firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T16:18:20","end":"2026-10-27T16:19:31","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:19:31","end":"2026-10-27T16:20:26","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T16:20:26","end":"2026-10-27T16:20:31","app":"chromium","title":"Panasonic PRO Club - Chromium"}
+{"start":"2026-10-27T16:20:31","end":"2026-10-27T16:20:46","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:20:46","end":"2026-10-27T16:20:51","app":"org.freedesktop.impl.portal.desktop.kde","title":"Open File"}
+{"start":"2026-10-27T16:20:51","end":"2026-10-27T16:22:06","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:22:06","end":"2026-10-27T16:22:56","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T16:22:56","end":"2026-10-27T16:24:16","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:24:16","end":"2026-10-27T16:24:21","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T16:24:21","end":"2026-10-27T16:24:26","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:24:26","end":"2026-10-27T16:24:31","app":"org.kde.dolphin","title":"Downloads — Dolphin"}
+{"start":"2026-10-27T16:24:31","end":"2026-10-27T16:24:36","app":"org.kde.gwenview","title":"S-22_36MK2E5_top(2).svg - 400x400 - 97% — Gwenview"}
+{"start":"2026-10-27T16:24:36","end":"2026-10-27T16:24:41","app":"org.kde.kate","title":"S-22_36MK2E5_top(2).svg — Kate"}
+{"start":"2026-10-27T16:24:41","end":"2026-10-27T16:27:01","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T16:27:01","end":"2026-10-27T16:27:31","app":"org.kde.kate","title":"S-22_36MK2E5_top(2).svg — Kate"}
+{"start":"2026-10-27T16:27:31","end":"2026-10-27T16:27:56","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:27:56","end":"2026-10-27T16:28:01","app":"firefox","title":"SMP1E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:28:01","end":"2026-10-27T16:28:06","app":"firefox","title":"SMY2E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:28:06","end":"2026-10-27T16:28:31","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:28:31","end":"2026-10-27T16:28:46","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T16:28:46","end":"2026-10-27T16:29:01","app":"firefox","title":"(MP) Legend not so clear på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T16:29:01","end":"2026-10-27T16:29:06","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T16:29:06","end":"2026-10-27T16:29:11","app":"firefox","title":"Startsida | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T16:29:11","end":"2026-10-27T16:29:16","app":"firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T16:29:16","end":"2026-10-27T16:29:41","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T16:29:41","end":"2026-10-27T16:29:46","app":"chromium","title":"New tab - Chromium"}
+{"start":"2026-10-27T16:29:46","end":"2026-10-27T16:30:06","app":"chromium","title":"does all svg have a viewBox? - Google Search - Chromium"}
+{"start":"2026-10-27T16:30:06","end":"2026-10-27T16:31:16","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T16:31:16","end":"2026-10-27T16:31:21","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:31:21","end":"2026-10-27T16:32:41","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T16:32:41","end":"2026-10-27T16:32:46","app":"code-oss","title":"package.json (Working Tree) (package.json) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:32:46","end":"2026-10-27T16:32:51","app":"code-oss","title":"image-utils.ts (Working Tree) (image-utils.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:32:51","end":"2026-10-27T16:32:56","app":"code-oss","title":"● image-utils.ts (Working Tree) (image-utils.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:32:56","end":"2026-10-27T16:33:01","app":"code-oss","title":"image-utils.ts (Working Tree) (image-utils.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:33:01","end":"2026-10-27T16:33:11","app":"code-oss","title":"input-provider.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:33:11","end":"2026-10-27T16:33:16","app":"code-oss","title":"tsconfig.json - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:33:16","end":"2026-10-27T16:33:31","app":"code-oss","title":"create-drawing-command.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:33:31","end":"2026-10-27T16:33:36","app":"code-oss","title":"create-system-command.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:33:36","end":"2026-10-27T16:33:41","app":"code-oss","title":"index.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:33:41","end":"2026-10-27T16:34:06","app":"code-oss","title":"units.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:34:06","end":"2026-10-27T16:34:16","app":"code-oss","title":"ahu-piping-mounting.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:34:16","end":"2026-10-27T16:34:26","app":"code-oss","title":"ahu-wiring-mounting.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:34:26","end":"2026-10-27T16:35:16","app":"code-oss","title":"energy-recovery-ventilator-mounting-piping.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:35:16","end":"2026-10-27T16:35:26","app":"code-oss","title":"energy-recovery-ventilator-mounting-wiring.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:35:26","end":"2026-10-27T16:35:31","app":"code-oss","title":"fit-svg.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:35:31","end":"2026-10-27T16:35:46","app":"code-oss","title":"● fit-svg.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:35:46","end":"2026-10-27T16:35:51","app":"code-oss","title":"fit-svg.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:35:51","end":"2026-10-27T16:35:56","app":"code-oss","title":"mounting-moving-component-renderer.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:35:56","end":"2026-10-27T16:36:01","app":"code-oss","title":"mounting-scale.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:36:01","end":"2026-10-27T16:36:16","app":"code-oss","title":"vrf-piping-units-mounting.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:36:16","end":"2026-10-27T16:36:21","app":"code-oss","title":"vrf-wiring-unit-mounting.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:36:21","end":"2026-10-27T16:38:06","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T16:38:06","end":"2026-10-27T16:38:26","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:38:26","end":"2026-10-27T16:39:36","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T16:39:36","end":"2026-10-27T16:39:46","app":"code-oss","title":"vrf-wiring-unit-mounting.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:39:46","end":"2026-10-27T16:39:51","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Nebiyat Sirak | Microsoft Teams"}
+{"start":"2026-10-27T16:39:51","end":"2026-10-27T16:39:56","app":"slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-10-27T16:39:56","end":"2026-10-27T16:40:06","app":"code-oss","title":"vrf-wiring-unit-mounting.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:40:06","end":"2026-10-27T16:40:11","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | DXPro Weekly | Microsoft Teams"}
+{"start":"2026-10-27T16:40:11","end":"2026-10-27T16:40:16","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T16:40:16","end":"2026-10-27T16:40:31","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:40:31","end":"2026-10-27T16:40:41","app":"firefox","title":"SMY2E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:40:41","end":"2026-10-27T16:40:46","app":"firefox","title":"Sign in to your account — Mozilla Firefox"}
+{"start":"2026-10-27T16:40:46","end":"2026-10-27T16:41:31","app":"firefox","title":"Kalender — Mozilla Firefox"}
+{"start":"2026-10-27T16:41:31","end":"2026-10-27T16:42:06","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:42:06","end":"2026-10-27T16:42:36","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T16:42:36","end":"2026-10-27T16:42:51","app":"firefox","title":"Mounting scheme pipe and wiring not properly visible på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T16:42:51","end":"2026-10-27T16:42:56","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T16:42:56","end":"2026-10-27T16:43:11","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:43:11","end":"2026-10-27T16:43:56","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T16:43:56","end":"2026-10-27T16:44:01","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T16:44:01","end":"2026-10-27T16:44:11","app":"firefox","title":"Mounting Scheme Improvements på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T16:44:11","end":"2026-10-27T16:44:21","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T16:44:21","end":"2026-10-27T16:45:21","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T16:45:21","end":"2026-10-27T16:46:31","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:46:31","end":"2026-10-27T16:47:11","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T16:47:11","end":"2026-10-27T16:47:16","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:47:16","end":"2026-10-27T16:47:26","app":"firefox","title":"SMY2E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:47:26","end":"2026-10-27T16:47:31","app":"firefox","title":"ahu_kit_vrf-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:47:31","end":"2026-10-27T16:47:41","app":"firefox","title":"MAH4M-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:47:41","end":"2026-10-27T16:47:51","app":"firefox","title":"SMD1E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:47:51","end":"2026-10-27T16:48:06","app":"firefox","title":"SML1E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:48:06","end":"2026-10-27T16:48:11","app":"firefox","title":"SMY3E-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:48:11","end":"2026-10-27T16:48:16","app":"firefox","title":"SMU2E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:48:16","end":"2026-10-27T16:48:21","app":"firefox","title":"SMT2E5A-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:48:21","end":"2026-10-27T16:48:26","app":"firefox","title":"SME2E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:48:26","end":"2026-10-27T16:48:41","app":"firefox","title":"SMF2E5A-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:48:41","end":"2026-10-27T16:49:01","app":"firefox","title":"SMF3E5B-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:49:01","end":"2026-10-27T16:49:06","app":"firefox","title":"SMM1E5A-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:49:06","end":"2026-10-27T16:49:21","app":"firefox","title":"SMM2EB-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:49:21","end":"2026-10-27T16:50:11","app":"firefox","title":"PAW_HRPT-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:50:11","end":"2026-10-27T16:50:31","app":"firefox","title":"SMP1E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:50:31","end":"2026-10-27T16:50:41","app":"firefox","title":"SMP2E-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:50:41","end":"2026-10-27T16:50:46","app":"firefox","title":"SMR1E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:50:46","end":"2026-10-27T16:50:57","app":"firefox","title":"SMR2E-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:50:57","end":"2026-10-27T16:51:02","app":"firefox","title":"SMK2E5A-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:51:02","end":"2026-10-27T16:51:12","app":"firefox","title":"SMK3E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:51:12","end":"2026-10-27T16:51:42","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:51:42","end":"2026-10-27T16:51:57","app":"firefox","title":"SMK3E5-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:51:57","end":"2026-10-27T16:52:17","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:52:17","end":"2026-10-27T16:52:22","app":"firefox","title":"SMG1E5A-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:52:22","end":"2026-10-27T16:52:57","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:52:57","end":"2026-10-27T16:53:02","app":"code-oss","title":"vrf-wiring-unit-mounting.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:53:02","end":"2026-10-27T16:53:07","app":"code-oss","title":"input-provider.tsx (Working Tree) (input-provider.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:53:07","end":"2026-10-27T16:53:17","app":"code-oss","title":"input-provider.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:53:17","end":"2026-10-27T16:53:27","app":"code-oss","title":"package.json (Working Tree) (package.json) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:53:27","end":"2026-10-27T16:53:47","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:53:47","end":"2026-10-27T16:53:52","app":"code-oss","title":"tsconfig.json - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:53:52","end":"2026-10-27T16:53:57","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:53:57","end":"2026-10-27T16:54:12","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T16:54:12","end":"2026-10-27T16:54:27","app":"code-oss","title":"create-drawing-command.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:54:27","end":"2026-10-27T16:54:42","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:54:42","end":"2026-10-27T16:55:12","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T16:55:12","end":"2026-10-27T16:55:17","app":"code-oss","title":"create-drawing-command.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:55:17","end":"2026-10-27T16:55:37","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:55:37","end":"2026-10-27T16:56:42","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T16:56:42","end":"2026-10-27T16:56:52","app":"firefox","title":"SMK2E5A-Images — Mozilla Firefox"}
+{"start":"2026-10-27T16:56:52","end":"2026-10-27T16:57:22","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:57:22","end":"2026-10-27T16:57:32","app":"code-oss","title":"create-drawing-command.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:57:32","end":"2026-10-27T16:58:02","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T16:58:02","end":"2026-10-27T16:58:07","app":"code-oss","title":"create-drawing-command.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:58:07","end":"2026-10-27T16:58:12","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:58:12","end":"2026-10-27T16:58:27","app":"code-oss","title":"create-drawing-command.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T16:58:27","end":"2026-10-27T16:59:17","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:59:17","end":"2026-10-27T16:59:32","app":"chromium","title":"mtp fix (1).pdf - Chromium"}
+{"start":"2026-10-27T16:59:32","end":"2026-10-27T16:59:37","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T16:59:37","end":"2026-10-27T16:59:42","app":"chromium","title":"mtp fix (1).pdf - Chromium"}
+{"start":"2026-10-27T16:59:42","end":"2026-10-27T17:00:17","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T17:00:17","end":"2026-10-27T17:02:07","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T17:02:07","end":"2026-10-27T17:02:52","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T17:02:52","end":"2026-10-27T17:03:07","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T17:03:07","end":"2026-10-27T17:03:12","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T17:03:12","end":"2026-10-27T17:03:17","app":"code-oss","title":"create-drawing-command.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:03:17","end":"2026-10-27T17:03:47","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T17:03:47","end":"2026-10-27T17:04:32","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T17:04:32","end":"2026-10-27T17:04:57","app":"code-oss","title":"create-drawing-command.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:04:57","end":"2026-10-27T17:05:27","app":"code-oss","title":"vrf-wiring-unit-mounting.tsx (Index) (vrf-wiring-unit-mounting.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:05:27","end":"2026-10-27T17:05:37","app":"code-oss","title":"vrf-piping-units-mounting.tsx (Index) (vrf-piping-units-mounting.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:05:37","end":"2026-10-27T17:05:42","app":"code-oss","title":"mounting-scale.ts (Index) (mounting-scale.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:05:42","end":"2026-10-27T17:05:47","app":"code-oss","title":"mounting-scale.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:05:47","end":"2026-10-27T17:05:57","app":"code-oss","title":"mounting-moving-component-renderer.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:05:57","end":"2026-10-27T17:06:02","app":"code-oss","title":"fit-svg.tsx (Index) (fit-svg.tsx (Index)) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:06:02","end":"2026-10-27T17:06:07","app":"code-oss","title":"fit-svg.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:06:07","end":"2026-10-27T17:06:12","app":"code-oss","title":"● fit-svg.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:06:12","end":"2026-10-27T17:06:17","app":"code-oss","title":"fit-svg.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:06:17","end":"2026-10-27T17:06:32","app":"code-oss","title":"energy-recovery-ventilator-mounting-wiring.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:06:32","end":"2026-10-27T17:06:37","app":"code-oss","title":"energy-recovery-ventilator-mounting-piping.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:06:37","end":"2026-10-27T17:06:42","app":"code-oss","title":"ahu-wiring-mounting.tsx (Index) (ahu-wiring-mounting.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:06:42","end":"2026-10-27T17:06:52","app":"code-oss","title":"ahu-piping-mounting.tsx (Index) (ahu-piping-mounting.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:06:52","end":"2026-10-27T17:06:57","app":"code-oss","title":"units.ts (Index) (units.ts (Index)) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:06:57","end":"2026-10-27T17:07:02","app":"code-oss","title":"create-system-command.ts (Index) (create-system-command.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:07:02","end":"2026-10-27T17:07:07","app":"code-oss","title":"create-drawing-command.ts (Index) (create-drawing-command.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:07:07","end":"2026-10-27T17:07:12","app":"code-oss","title":"tsconfig.json (Index) (tsconfig.json) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:07:12","end":"2026-10-27T17:07:27","app":"code-oss","title":"input-provider.tsx (Index) (input-provider.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:07:27","end":"2026-10-27T17:07:32","app":"code-oss","title":"image-utils.ts (Index) (image-utils.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:07:32","end":"2026-10-27T17:08:02","app":"code-oss","title":"package.json (Index) (package.json) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:08:02","end":"2026-10-27T17:08:22","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T17:08:22","end":"2026-10-27T17:09:27","app":"code-oss","title":"package.json (Index) (package.json) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:09:27","end":"2026-10-27T17:09:32","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T17:09:32","end":"2026-10-27T17:09:52","app":"code-oss","title":"package.json (Index) (package.json) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:09:52","end":"2026-10-27T17:10:02","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T17:10:02","end":"2026-10-27T17:10:17","app":"code-oss","title":"package.json (Index) (package.json) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:10:17","end":"2026-10-27T17:10:22","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T17:10:22","end":"2026-10-27T17:10:37","app":"code-oss","title":"package.json (Index) (package.json) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:10:37","end":"2026-10-27T17:10:42","app":"firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T17:10:42","end":"2026-10-27T17:10:52","app":"firefox","title":"New merge request · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T17:10:52","end":"2026-10-27T17:10:57","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-27T17:10:57","end":"2026-10-27T17:11:02","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T17:11:02","end":"2026-10-27T17:11:07","app":"firefox","title":"New merge request · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T17:11:07","end":"2026-10-27T17:11:37","app":"firefox","title":"improved unit visibility and right size (99fb9e3c) · Commits · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T17:11:37","end":"2026-10-27T17:11:47","app":"firefox","title":"New merge request · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T17:11:47","end":"2026-10-27T17:11:57","app":"firefox","title":"improved unit visibility and right size (!206) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T17:11:57","end":"2026-10-27T17:13:07","app":"code-oss","title":"package.json (Index) (package.json) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:13:07","end":"2026-10-27T17:13:22","app":"firefox","title":"improved unit visibility and right size (!206) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T17:13:22","end":"2026-10-27T17:13:37","app":"code-oss","title":"package.json (Index) (package.json) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:13:37","end":"2026-10-27T17:13:42","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-27T17:13:42","end":"2026-10-27T17:14:22","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T17:14:22","end":"2026-10-27T17:14:37","app":"code-oss","title":"package.json (Working Tree) (package.json) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:14:37","end":"2026-10-27T17:14:47","app":"code-oss","title":"combinations.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:14:47","end":"2026-10-27T17:14:57","app":"code-oss","title":"● combinations.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:14:57","end":"2026-10-27T17:15:02","app":"code-oss","title":"● comparison.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:15:02","end":"2026-10-27T17:15:07","app":"code-oss","title":"index.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:15:07","end":"2026-10-27T17:15:17","app":"code-oss","title":"● state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:15:17","end":"2026-10-27T17:15:22","app":"code-oss","title":"state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:15:22","end":"2026-10-27T17:15:27","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:15:27","end":"2026-10-27T17:15:32","app":"code-oss","title":"● view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:15:32","end":"2026-10-27T17:15:37","app":"code-oss","title":"state.ts (Working Tree) (state.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:15:37","end":"2026-10-27T17:15:42","app":"code-oss","title":"state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:15:42","end":"2026-10-27T17:15:52","app":"code-oss","title":"wizard-step.tsx (Working Tree) (wizard-step.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:15:52","end":"2026-10-27T17:15:57","app":"code-oss","title":"wizard-step.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:15:57","end":"2026-10-27T17:16:02","app":"code-oss","title":"wizard.tsx (Working Tree) (wizard.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:16:02","end":"2026-10-27T17:16:07","app":"code-oss","title":"wizard.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:16:07","end":"2026-10-27T17:16:12","app":"code-oss","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:16:12","end":"2026-10-27T17:16:22","app":"code-oss","title":"state.ts (Working Tree) (state.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:16:22","end":"2026-10-27T17:16:27","app":"code-oss","title":"routes.ts (Working Tree) (routes.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:16:27","end":"2026-10-27T17:16:32","app":"code-oss","title":"● routes.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:16:32","end":"2026-10-27T17:16:37","app":"code-oss","title":"texts.ts (Working Tree) (texts.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:16:37","end":"2026-10-27T17:17:37","app":"firefox","title":"improved unit visibility and right size (!206) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T17:17:37","end":"2026-10-27T17:17:42","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T17:17:42","end":"2026-10-27T17:19:12","app":"code-oss","title":"texts.ts (Working Tree) (texts.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:19:12","end":"2026-10-27T17:19:17","app":"firefox","title":"Kalender — Mozilla Firefox"}
+{"start":"2026-10-27T17:19:17","end":"2026-10-27T17:23:23","app":"code-oss","title":"texts.ts (Working Tree) (texts.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:23:23","end":"2026-10-27T17:24:03","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T17:24:03","end":"2026-10-27T17:24:13","app":"code-oss","title":"texts.ts (Working Tree) (texts.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:24:13","end":"2026-10-27T17:24:23","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T17:24:23","end":"2026-10-27T17:24:58","app":"code-oss","title":"texts.ts (Working Tree) (texts.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T17:24:58","end":"2026-10-27T17:25:43","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T17:25:43","end":"2026-10-27T17:25:53","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T17:25:53","end":"2026-10-27T17:25:58","app":"firefox","title":"New merge request · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T17:25:58","end":"2026-10-27T17:26:08","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T17:26:08","end":"2026-10-27T17:26:38","app":"code-oss","title":"texts.ts (Working Tree) (texts.ts) - dxpro-designer - Code - OSS"}

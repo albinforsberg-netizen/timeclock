@@ -1456,7 +1456,6 @@
 {"ev":"out","t":"2026-10-21T16:45:59","note":"Room req table in printout"}
 {"ev":"in","t":"2026-10-21T16:46:01","project":"dxpro"}
 {"ev":"out","t":"2026-10-21T17:05:49","note":"Fixes"}
-{"ev":"out","t":"2026-10-21T17:05:59","note":"Fixes"}
 {"ev":"in","t":"2026-10-22T07:30:17","project":"dxpro"}
 {"ev":"out","t":"2026-10-22T10:18:45","note":"Mounting diagram fixes"}
 {"ev":"in","t":"2026-10-22T10:18:46","project":"refpro"}
@@ -1502,7 +1501,8 @@
 {"ev":"in","t":"2026-10-27T08:00:16","project":"refpro","task":"Decentralized"}
 {"ev":"out","t":"2026-10-27T08:40:23","note":"Decentralized"}
 {"ev":"in","t":"2026-10-27T08:40:23","project":"dxpro"}
-{"ev":"out","t":"2026-10-27T08:54:27","note":"Standup"}{"ev":"in","t":"2026-10-27T08:55:11","project":"refpro","task":"Decentralized"}
+{"ev":"out","t":"2026-10-27T08:54:27","note":"Standup"}
+{"ev":"in","t":"2026-10-27T08:55:11","project":"refpro","task":"Decentralized"}
 {"ev":"out","t":"2026-10-27T10:48:06","note":"Decenteralized"}
 {"ev":"in","t":"2026-10-27T10:48:06","project":"refpro"}
 {"ev":"break","t":"2026-10-27T12:00:41"}
@@ -1510,3 +1510,5 @@
 {"ev":"out","t":"2026-10-27T13:46:05","note":"Decentralized"}
 {"ev":"in","t":"2026-10-27T13:46:05","project":"dxpro"}
 {"ev":"out","t":"2026-10-27T15:12:18","note":"mtp fix"}
+{"ev":"in","t":"2026-10-27T15:12:18","project":"dxpro"}
+{"ev":"out","t":"2026-10-27T17:26:42","note":"Better unit visibility"}
