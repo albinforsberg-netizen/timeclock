@@ -310,3 +310,391 @@
 {"start":"2026-10-27T10:47:11","end":"2026-10-27T10:47:26","app":"DBeaver","title":"DBeaver 26.2.2 - system"}
 {"start":"2026-10-27T10:47:26","end":"2026-10-27T10:47:46","app":"DBeaver","title":"DBeaver 26.2.2 - unit"}
 {"start":"2026-10-27T10:47:46","end":"2026-10-27T10:47:56","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T10:47:56","end":"2026-10-27T10:48:21","app":"margin","title":"Time — Margin"}
+{"start":"2026-10-27T10:48:21","end":"2026-10-27T10:48:26","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T10:48:26","end":"2026-10-27T10:48:56","app":"code-oss","title":"settings.json - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T10:48:56","end":"2026-10-27T10:49:11","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T10:49:11","end":"2026-10-27T10:49:16","app":"DBeaver","title":"DBeaver 26.2.2 - unit"}
+{"start":"2026-10-27T10:49:16","end":"2026-10-27T10:49:31","app":"DBeaver","title":"DBeaver 26.2.2 - system"}
+{"start":"2026-10-27T10:49:31","end":"2026-10-27T10:50:01","app":"DBeaver","title":"DBeaver 26.2.2 - unit"}
+{"start":"2026-10-27T10:50:01","end":"2026-10-27T10:50:11","app":"code-oss","title":"settings.json - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T10:50:11","end":"2026-10-27T10:50:21","app":"firefox","title":"error: invalid input syntax for type integer: \"1.62005481486635\" — panasonic-0s — designer-pro — Mozilla Firefox"}
+{"start":"2026-10-27T10:50:21","end":"2026-10-27T10:51:36","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T10:51:36","end":"2026-10-27T10:51:51","app":"code-oss","title":"drag-and-drop.tsx (Working Tree) (drag-and-drop.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T10:51:51","end":"2026-10-27T10:51:56","app":"code-oss","title":"db-write.ts (Working Tree) (db-write.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T10:51:56","end":"2026-10-27T10:52:26","app":"code-oss","title":"drag-and-drop.tsx (Working Tree) (drag-and-drop.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T10:52:26","end":"2026-10-27T10:52:36","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T10:52:36","end":"2026-10-27T10:52:56","app":"code-oss","title":"drag-and-drop.tsx (Working Tree) (drag-and-drop.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T10:52:56","end":"2026-10-27T10:53:01","app":"firefox","title":"error: invalid input syntax for type integer: \"1.62005481486635\" — panasonic-0s — designer-pro — Mozilla Firefox"}
+{"start":"2026-10-27T10:53:01","end":"2026-10-27T10:53:11","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T10:53:11","end":"2026-10-27T10:53:16","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/timeclock"}
+{"start":"2026-10-27T10:53:16","end":"2026-10-27T10:53:21","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-27T10:53:21","end":"2026-10-27T10:53:26","app":"code-oss","title":"drag-and-drop.tsx (Working Tree) (drag-and-drop.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T10:53:26","end":"2026-10-27T10:53:51","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T10:53:51","end":"2026-10-27T10:54:31","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T10:54:31","end":"2026-10-27T10:55:06","app":"code-oss","title":"drag-and-drop.tsx (Working Tree) (drag-and-drop.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T10:55:06","end":"2026-10-27T10:55:26","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T10:55:26","end":"2026-10-27T10:55:31","app":"code-oss","title":"drag-and-drop.tsx (Working Tree) (drag-and-drop.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T10:55:31","end":"2026-10-27T10:55:41","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T10:55:41","end":"2026-10-27T10:57:01","app":"code-oss","title":"drag-and-drop.tsx (Working Tree) (drag-and-drop.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T10:57:01","end":"2026-10-27T10:58:27","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T10:58:27","end":"2026-10-27T10:59:37","app":"DBeaver","title":"DBeaver 26.2.2 - unit"}
+{"start":"2026-10-27T10:59:37","end":"2026-10-27T10:59:52","app":"code-oss","title":"db-write.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T10:59:52","end":"2026-10-27T11:00:17","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:00:17","end":"2026-10-27T11:00:22","app":"firefox","title":"Startsida | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T11:00:22","end":"2026-10-27T11:00:37","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T11:00:37","end":"2026-10-27T11:00:42","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-27T11:00:42","end":"2026-10-27T11:01:22","app":"firefox","title":"panasonic - Sök på Google — Mozilla Firefox"}
+{"start":"2026-10-27T11:07:02","end":"2026-10-27T11:07:07","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T11:07:07","end":"2026-10-27T11:07:12","app":"code-oss","title":"db-write.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:07:12","end":"2026-10-27T11:07:32","app":"code-oss","title":"drag-and-drop.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:07:32","end":"2026-10-27T11:07:37","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-27T11:07:37","end":"2026-10-27T11:07:47","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-27T11:07:47","end":"2026-10-27T11:08:12","app":"firefox","title":"git - How can I push a specific commit to a remote, and not previous commits? - Stack Overflow — Mozilla Firefox"}
+{"start":"2026-10-27T11:08:12","end":"2026-10-27T11:08:52","app":"code-oss","title":"drag-and-drop.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:08:52","end":"2026-10-27T11:10:02","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:10:02","end":"2026-10-27T11:10:07","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:10:07","end":"2026-10-27T11:10:52","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:10:52","end":"2026-10-27T11:11:07","app":"code-oss","title":"drag-and-drop.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:11:07","end":"2026-10-27T11:11:12","app":"code-oss","title":"drag-and-drop.tsx (Index) (drag-and-drop.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:11:12","end":"2026-10-27T11:11:17","app":"code-oss","title":"db-write.ts (Index) (db-write.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:11:17","end":"2026-10-27T11:11:37","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:11:37","end":"2026-10-27T11:11:52","app":"code-oss","title":"db-write.ts (Index) (db-write.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:11:52","end":"2026-10-27T11:13:07","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:13:07","end":"2026-10-27T11:13:22","app":"code-oss","title":"db-write.ts (Index) (db-write.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:13:22","end":"2026-10-27T11:13:27","app":"firefox","title":"Upgrade the toolchain and dependencies: pnpm, ts-proto 2, React 19, Mantine 9, Vite 8 (!203) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T11:13:27","end":"2026-10-27T11:13:57","app":"firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T11:13:57","end":"2026-10-27T11:14:02","app":"firefox","title":"git - How can I push a specific commit to a remote, and not previous commits? - Stack Overflow — Mozilla Firefox"}
+{"start":"2026-10-27T11:14:02","end":"2026-10-27T11:14:22","app":"firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T11:14:22","end":"2026-10-27T11:15:02","app":"code-oss","title":"db-write.ts (Index) (db-write.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:15:02","end":"2026-10-27T11:15:07","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T11:15:07","end":"2026-10-27T11:15:12","app":"firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T11:15:12","end":"2026-10-27T11:18:12","app":"code-oss","title":"db-write.ts (Index) (db-write.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:18:12","end":"2026-10-27T11:18:17","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:18:17","end":"2026-10-27T11:19:02","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-27T11:19:02","end":"2026-10-27T11:19:17","app":"code-oss","title":"db-write.ts (Index) (db-write.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:19:17","end":"2026-10-27T11:19:42","app":"code-oss","title":"building.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:19:42","end":"2026-10-27T11:20:12","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:20:12","end":"2026-10-27T11:20:37","app":"code-oss","title":"building.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:20:37","end":"2026-10-27T11:20:42","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:20:42","end":"2026-10-27T11:20:47","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:20:47","end":"2026-10-27T11:22:22","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:22:22","end":"2026-10-27T11:23:42","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:23:42","end":"2026-10-27T11:23:47","app":"code-oss","title":"building.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:23:47","end":"2026-10-27T11:23:57","app":"code-oss","title":"index.ts (Working Tree) (index.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:23:57","end":"2026-10-27T11:24:02","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:24:02","end":"2026-10-27T11:24:07","app":"code-oss","title":"index.ts (Working Tree) (index.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:24:07","end":"2026-10-27T11:24:42","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:24:42","end":"2026-10-27T11:24:57","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:24:57","end":"2026-10-27T11:25:32","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:25:32","end":"2026-10-27T11:25:37","app":"code-oss","title":"index.ts (Working Tree) (index.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:25:37","end":"2026-10-27T11:25:42","app":"code-oss","title":"texts.ts (Working Tree) (texts.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:25:42","end":"2026-10-27T11:26:17","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:26:17","end":"2026-10-27T11:26:32","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-27T11:26:32","end":"2026-10-27T11:26:42","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:26:42","end":"2026-10-27T11:26:47","app":"docker-desktop","title":"Containers - Docker Desktop"}
+{"start":"2026-10-27T11:26:47","end":"2026-10-27T11:27:02","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:27:02","end":"2026-10-27T11:27:07","app":"docker-desktop","title":"Containers - Docker Desktop"}
+{"start":"2026-10-27T11:27:07","end":"2026-10-27T11:27:22","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:27:22","end":"2026-10-27T11:27:37","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:27:37","end":"2026-10-27T11:27:52","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:27:52","end":"2026-10-27T11:27:57","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:27:57","end":"2026-10-27T11:28:02","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:28:02","end":"2026-10-27T11:28:07","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:28:07","end":"2026-10-27T11:28:12","app":"code-oss","title":"texts.ts (Working Tree) (texts.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:28:12","end":"2026-10-27T11:28:22","app":"code-oss","title":"● lang.tsx (Working Tree) (lang.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:28:22","end":"2026-10-27T11:28:32","app":"code-oss","title":"texts.ts (Working Tree) (texts.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:28:32","end":"2026-10-27T11:28:37","app":"code-oss","title":"● texts.ts (Working Tree) (texts.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:28:37","end":"2026-10-27T11:28:42","app":"code-oss","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:28:42","end":"2026-10-27T11:28:47","app":"code-oss","title":"● view.tsx (Working Tree) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:28:47","end":"2026-10-27T11:28:52","app":"code-oss","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:28:52","end":"2026-10-27T11:28:57","app":"code-oss","title":"shared-state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:28:57","end":"2026-10-27T11:29:02","app":"code-oss","title":"state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:29:02","end":"2026-10-27T11:29:07","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:29:07","end":"2026-10-27T11:29:22","app":"code-oss","title":"● view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:29:22","end":"2026-10-27T11:29:32","app":"code-oss","title":"shared-state.ts (Working Tree) (shared-state.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:29:32","end":"2026-10-27T11:29:37","app":"code-oss","title":"● shared-state.ts (Working Tree) (shared-state.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:29:37","end":"2026-10-27T11:29:42","app":"code-oss","title":"state.ts (Working Tree) (state.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:29:42","end":"2026-10-27T11:29:47","app":"code-oss","title":"● view.tsx (Working Tree) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:29:47","end":"2026-10-27T11:29:52","app":"code-oss","title":"shared-state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:29:52","end":"2026-10-27T11:30:07","app":"code-oss","title":"● shared-state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:30:07","end":"2026-10-27T11:30:23","app":"code-oss","title":"index.ts (Working Tree) (index.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:30:23","end":"2026-10-27T11:30:33","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-27T11:30:33","end":"2026-10-27T11:30:38","app":"firefox","title":"Vent PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:30:38","end":"2026-10-27T11:30:53","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-27T11:30:53","end":"2026-10-27T11:30:58","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-27T11:30:58","end":"2026-10-27T11:31:18","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:31:18","end":"2026-10-27T11:31:23","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-27T11:31:23","end":"2026-10-27T11:31:33","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-27T11:31:33","end":"2026-10-27T11:31:43","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:31:43","end":"2026-10-27T11:31:58","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:31:58","end":"2026-10-27T11:32:03","app":"code-oss","title":"index.ts (Working Tree) (index.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:32:03","end":"2026-10-27T11:32:08","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:32:08","end":"2026-10-27T11:32:18","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-27T11:32:18","end":"2026-10-27T11:32:23","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:32:23","end":"2026-10-27T11:32:33","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:32:33","end":"2026-10-27T11:33:08","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:33:08","end":"2026-10-27T11:33:58","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:33:58","end":"2026-10-27T11:34:28","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:34:28","end":"2026-10-27T11:34:38","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-27T11:34:38","end":"2026-10-27T11:34:48","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:34:48","end":"2026-10-27T11:34:53","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:34:53","end":"2026-10-27T11:35:03","app":"code-oss","title":"index.ts (Working Tree) (index.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:35:03","end":"2026-10-27T11:35:13","app":"code-oss","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:35:13","end":"2026-10-27T11:35:23","app":"code-oss","title":"shared-state.ts (Working Tree) (shared-state.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:35:23","end":"2026-10-27T11:35:38","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:35:38","end":"2026-10-27T11:35:43","app":"code-oss","title":"shared-state.ts (Working Tree) (shared-state.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:35:43","end":"2026-10-27T11:36:13","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:36:13","end":"2026-10-27T11:36:23","app":"code-oss","title":"shared-state.ts (Working Tree) (shared-state.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:36:23","end":"2026-10-27T11:36:43","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:36:43","end":"2026-10-27T11:36:53","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:36:53","end":"2026-10-27T11:37:23","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:37:23","end":"2026-10-27T11:38:43","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:38:43","end":"2026-10-27T11:38:48","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:38:48","end":"2026-10-27T11:38:58","app":"code-oss","title":"loading-spinner.module.css (Working Tree) (loading-spinner.module.css) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:38:58","end":"2026-10-27T11:39:18","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:39:18","end":"2026-10-27T11:39:23","app":"docker-desktop","title":"Containers - Docker Desktop"}
+{"start":"2026-10-27T11:39:23","end":"2026-10-27T11:39:33","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:39:33","end":"2026-10-27T11:39:38","app":"docker-desktop","title":"Containers - Docker Desktop"}
+{"start":"2026-10-27T11:39:38","end":"2026-10-27T11:40:18","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:40:18","end":"2026-10-27T11:40:23","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:40:23","end":"2026-10-27T11:40:28","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:40:28","end":"2026-10-27T11:40:43","app":"code-oss","title":"loading-spinner.module.css (Working Tree) (loading-spinner.module.css) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:40:43","end":"2026-10-27T11:40:58","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:40:58","end":"2026-10-27T11:41:23","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:41:23","end":"2026-10-27T11:41:28","app":"code-oss","title":"loading-spinner.module.css (Working Tree) (loading-spinner.module.css) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:41:28","end":"2026-10-27T11:43:13","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:43:13","end":"2026-10-27T11:43:23","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:43:23","end":"2026-10-27T11:44:38","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:44:38","end":"2026-10-27T11:44:43","app":"firefox","title":"error: invalid input syntax for type integer: \"1.62005481486635\" — panasonic-0s — designer-pro — Mozilla Firefox"}
+{"start":"2026-10-27T11:44:43","end":"2026-10-27T11:44:48","app":"firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-10-27T11:44:48","end":"2026-10-27T11:45:18","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:45:18","end":"2026-10-27T11:45:23","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-27T11:45:23","end":"2026-10-27T11:45:38","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T11:45:38","end":"2026-10-27T11:45:53","app":"chromium","title":"Panasonic PRO Club - Chromium"}
+{"start":"2026-10-27T11:45:53","end":"2026-10-27T11:46:18","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T11:46:18","end":"2026-10-27T11:46:43","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:46:43","end":"2026-10-27T11:47:03","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T11:47:03","end":"2026-10-27T11:47:08","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:47:08","end":"2026-10-27T11:47:28","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T11:47:28","end":"2026-10-27T11:47:33","app":"org.kde.spectacle","title":"Unsaved* — Spectacle"}
+{"start":"2026-10-27T11:47:33","end":"2026-10-27T11:47:48","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T11:47:48","end":"2026-10-27T11:47:53","app":"code-oss","title":"loading-spinner.tsx (Working Tree) (loading-spinner.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:47:53","end":"2026-10-27T11:48:03","app":"code-oss","title":"● loading-spinner.tsx (Working Tree) (loading-spinner.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:48:03","end":"2026-10-27T11:48:08","app":"code-oss","title":"loading-spinner.tsx (Working Tree) (loading-spinner.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:48:08","end":"2026-10-27T11:48:13","app":"code-oss","title":"shared-state.ts (Working Tree) (shared-state.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:48:13","end":"2026-10-27T11:48:23","app":"code-oss","title":"● shared-state.ts (Working Tree) (shared-state.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:48:23","end":"2026-10-27T11:48:28","app":"code-oss","title":"shared-state.ts (Working Tree) (shared-state.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:48:28","end":"2026-10-27T11:48:33","app":"code-oss","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:48:33","end":"2026-10-27T11:48:53","app":"code-oss","title":"● shared-state.ts (Working Tree) (shared-state.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:48:53","end":"2026-10-27T11:49:03","app":"code-oss","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:49:03","end":"2026-10-27T11:49:08","app":"code-oss","title":"shared-state.ts (Working Tree) (shared-state.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:49:08","end":"2026-10-27T11:49:18","app":"code-oss","title":"● shared-state.ts (Working Tree) (shared-state.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:49:18","end":"2026-10-27T11:49:23","app":"code-oss","title":"shared-state.ts (Working Tree) (shared-state.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:49:23","end":"2026-10-27T11:49:28","app":"code-oss","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:49:28","end":"2026-10-27T11:49:33","app":"code-oss","title":"maintenance.ts (Working Tree) (maintenance.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:49:33","end":"2026-10-27T11:49:48","app":"code-oss","title":"lang.tsx (Working Tree) (lang.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:49:48","end":"2026-10-27T11:49:58","app":"org.kde.spectacle","title":"Unsaved* — Spectacle"}
+{"start":"2026-10-27T11:49:58","end":"2026-10-27T11:51:33","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:51:33","end":"2026-10-27T11:51:38","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T11:51:38","end":"2026-10-27T11:51:43","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-27T11:51:43","end":"2026-10-27T11:51:53","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:51:53","end":"2026-10-27T11:52:13","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T11:52:13","end":"2026-10-27T11:52:18","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:52:18","end":"2026-10-27T11:52:23","app":"org.kde.spectacle","title":"Unsaved* — Spectacle"}
+{"start":"2026-10-27T11:52:23","end":"2026-10-27T11:53:23","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:53:23","end":"2026-10-27T11:54:03","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T11:54:03","end":"2026-10-27T11:54:28","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T11:54:28","end":"2026-10-27T11:57:43","app":"chromium","title":"DX PRO Designer - Chromium"}
+{"start":"2026-10-27T11:57:43","end":"2026-10-27T11:58:08","app":"code-oss","title":"lang.tsx (Working Tree) (lang.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T11:58:08","end":"2026-10-27T11:58:28","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T11:58:28","end":"2026-10-27T11:58:38","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-27T11:58:38","end":"2026-10-27T11:58:48","app":"margin","title":"Time — Margin"}
+{"start":"2026-10-27T11:58:48","end":"2026-10-27T11:58:53","app":"margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-10-27T11:58:53","end":"2026-10-27T11:58:58","app":"margin","title":"• timelog.jsonl — Margin"}
+{"start":"2026-10-27T11:58:58","end":"2026-10-27T11:59:03","app":"margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-10-27T11:59:03","end":"2026-10-27T11:59:26","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-27T12:57:24","end":"2026-10-27T12:57:34","app":"code-oss","title":"lang.tsx (Working Tree) (lang.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T12:57:34","end":"2026-10-27T12:57:39","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-27T12:57:39","end":"2026-10-27T12:57:44","app":"margin","title":"Time — Margin"}
+{"start":"2026-10-27T12:57:44","end":"2026-10-27T12:57:59","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-27T12:57:59","end":"2026-10-27T12:58:14","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T12:58:14","end":"2026-10-27T12:58:44","app":"firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T12:58:44","end":"2026-10-27T12:58:49","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-27T12:58:49","end":"2026-10-27T12:58:59","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T12:58:59","end":"2026-10-27T12:59:09","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-27T12:59:09","end":"2026-10-27T12:59:24","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T12:59:24","end":"2026-10-27T12:59:54","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T12:59:54","end":"2026-10-27T12:59:59","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T12:59:59","end":"2026-10-27T13:00:14","app":"code-oss","title":"lang.tsx (Working Tree) (lang.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:00:14","end":"2026-10-27T13:00:29","app":"code-oss","title":"shared-state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:00:29","end":"2026-10-27T13:00:39","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:00:39","end":"2026-10-27T13:01:39","app":"code-oss","title":"shared-state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:01:39","end":"2026-10-27T13:01:44","app":"electron","title":"Code - OSS"}
+{"start":"2026-10-27T13:01:44","end":"2026-10-27T13:01:49","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:01:49","end":"2026-10-27T13:01:54","app":"code-oss","title":"shared-state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:01:54","end":"2026-10-27T13:02:04","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:02:04","end":"2026-10-27T13:02:09","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T13:02:09","end":"2026-10-27T13:02:14","app":"firefox","title":"Startsida | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T13:02:14","end":"2026-10-27T13:02:24","app":"firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T13:02:24","end":"2026-10-27T13:03:14","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T13:03:14","end":"2026-10-27T13:03:29","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:03:29","end":"2026-10-27T13:03:34","app":"code-oss","title":"shared-state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:03:34","end":"2026-10-27T13:03:39","app":"code-oss","title":"lang.tsx (Index) (lang.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:03:39","end":"2026-10-27T13:03:44","app":"code-oss","title":"maintenance.ts (Index) (maintenance.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:03:44","end":"2026-10-27T13:03:54","app":"code-oss","title":"view.tsx (Index) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:03:54","end":"2026-10-27T13:04:04","app":"firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T13:04:04","end":"2026-10-27T13:04:09","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:04:09","end":"2026-10-27T13:04:14","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-27T13:04:14","end":"2026-10-27T13:04:39","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Månadsmöte | Microsoft Teams"}
+{"start":"2026-10-27T13:04:39","end":"2026-10-27T13:04:49","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-27T13:04:49","end":"2026-10-27T13:04:59","app":"code-oss","title":"view.tsx (Index) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:04:59","end":"2026-10-27T13:05:09","app":"code-oss","title":"shared-state.ts (Index) (shared-state.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:05:09","end":"2026-10-27T13:05:29","app":"code-oss","title":"shared-state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:05:29","end":"2026-10-27T13:05:34","app":"code-oss","title":"state.ts (Index) (state.ts) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:05:34","end":"2026-10-27T13:05:54","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:05:54","end":"2026-10-27T13:06:09","app":"code-oss","title":"shared-state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:06:09","end":"2026-10-27T13:06:14","app":"code-oss","title":"state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:06:14","end":"2026-10-27T13:06:19","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:06:19","end":"2026-10-27T13:06:24","app":"code-oss","title":"shared-state.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:06:24","end":"2026-10-27T13:06:29","app":"code-oss","title":"loading-spinner.module.css - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:06:29","end":"2026-10-27T13:06:34","app":"code-oss","title":"loading-spinner.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:06:34","end":"2026-10-27T13:07:04","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:07:04","end":"2026-10-27T13:07:34","app":"code-oss","title":"index.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:07:34","end":"2026-10-27T13:07:49","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-27T13:07:49","end":"2026-10-27T13:07:54","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:07:54","end":"2026-10-27T13:08:24","app":"code-oss","title":"index.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:08:24","end":"2026-10-27T13:08:39","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:08:39","end":"2026-10-27T13:08:54","app":"firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-10-27T13:08:54","end":"2026-10-27T13:08:59","app":"firefox","title":"git - How can I push a specific commit to a remote, and not previous commits? - Stack Overflow — Mozilla Firefox"}
+{"start":"2026-10-27T13:08:59","end":"2026-10-27T13:09:04","app":"firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-10-27T13:09:04","end":"2026-10-27T13:09:14","app":"firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-10-27T13:09:14","end":"2026-10-27T13:09:19","app":"firefox","title":"git - How can I push a specific commit to a remote, and not previous commits? - Stack Overflow — Mozilla Firefox"}
+{"start":"2026-10-27T13:09:19","end":"2026-10-27T13:09:24","app":"firefox","title":"Sign in to divid-id — Mozilla Firefox"}
+{"start":"2026-10-27T13:09:24","end":"2026-10-27T13:09:29","app":"firefox","title":"No Product Selected — Mozilla Firefox"}
+{"start":"2026-10-27T13:09:29","end":"2026-10-27T13:09:34","app":"firefox","title":"Publish — Mozilla Firefox"}
+{"start":"2026-10-27T13:09:34","end":"2026-10-27T13:09:39","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-27T13:09:39","end":"2026-10-27T13:10:44","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:10:44","end":"2026-10-27T13:11:14","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-27T13:11:14","end":"2026-10-27T13:11:19","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-27T13:11:19","end":"2026-10-27T13:11:55","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:11:55","end":"2026-10-27T13:12:00","app":"code-oss","title":"index.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:12:00","end":"2026-10-27T13:12:55","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:12:55","end":"2026-10-27T13:13:00","app":"firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T13:13:00","end":"2026-10-27T13:13:10","app":"firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-10-27T13:13:10","end":"2026-10-27T13:13:30","app":"firefox","title":"git - How can I push a specific commit to a remote, and not previous commits? - Stack Overflow — Mozilla Firefox"}
+{"start":"2026-10-27T13:13:30","end":"2026-10-27T13:13:45","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:13:45","end":"2026-10-27T13:13:55","app":"code-oss","title":"index.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:13:55","end":"2026-10-27T13:14:05","app":"code-oss","title":"combinations.ts (Index) (combinations.ts (Index)) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:14:05","end":"2026-10-27T13:15:25","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:15:25","end":"2026-10-27T13:15:30","app":"firefox","title":"Mozilla Firefox"}
+{"start":"2026-10-27T13:15:30","end":"2026-10-27T13:16:00","app":"firefox","title":"Index - Tidrapport.Web — Mozilla Firefox"}
+{"start":"2026-10-27T13:16:00","end":"2026-10-27T13:16:25","app":"firefox","title":"Tidsrapportering - Tidrapport.Web — Mozilla Firefox"}
+{"start":"2026-10-27T13:16:25","end":"2026-10-27T13:16:45","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:16:45","end":"2026-10-27T13:16:50","app":"code-oss","title":"combinations.ts (Index) (combinations.ts (Index)) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:16:50","end":"2026-10-27T13:17:00","app":"code-oss","title":"loading-spinner.tsx (Working Tree) (loading-spinner.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:17:00","end":"2026-10-27T13:17:05","app":"code-oss","title":"combinations.ts (Index) (combinations.ts (Index)) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:17:05","end":"2026-10-27T13:17:15","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:17:15","end":"2026-10-27T13:17:30","app":"firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:17:30","end":"2026-10-27T13:18:00","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:18:00","end":"2026-10-27T13:18:10","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-27T13:18:10","end":"2026-10-27T13:18:40","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:18:40","end":"2026-10-27T13:19:20","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T13:19:20","end":"2026-10-27T13:19:25","app":"code-oss","title":"combinations.ts (Index) (combinations.ts (Index)) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:19:25","end":"2026-10-27T13:19:35","app":"code-oss","title":"combinations.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:19:35","end":"2026-10-27T13:19:40","app":"code-oss","title":"combinations.ts (Index) (combinations.ts (Index)) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:19:40","end":"2026-10-27T13:19:55","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:19:55","end":"2026-10-27T13:20:00","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T13:20:00","end":"2026-10-27T13:20:10","app":"code-oss","title":"combinations.ts (Index) (combinations.ts (Index)) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:20:10","end":"2026-10-27T13:20:15","app":"code-oss","title":"● combinations.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:20:15","end":"2026-10-27T13:20:30","app":"code-oss","title":"combinations.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:20:30","end":"2026-10-27T13:20:35","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:20:35","end":"2026-10-27T13:20:40","app":"code-oss","title":"combinations.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:20:40","end":"2026-10-27T13:20:45","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:20:45","end":"2026-10-27T13:20:50","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-27T13:20:50","end":"2026-10-27T13:21:10","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:21:10","end":"2026-10-27T13:21:15","app":"code-oss","title":"combinations.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:21:15","end":"2026-10-27T13:21:50","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:21:50","end":"2026-10-27T13:21:55","app":"code-oss","title":"● combinations.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:21:55","end":"2026-10-27T13:22:00","app":"code-oss","title":"combinations.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:22:00","end":"2026-10-27T13:22:05","app":"code-oss","title":"comparison.tsx (Index) (comparison.tsx (Index)) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:22:05","end":"2026-10-27T13:22:20","app":"code-oss","title":"wizard-step.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:22:20","end":"2026-10-27T13:22:40","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-27T13:22:40","end":"2026-10-27T13:22:55","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:22:55","end":"2026-10-27T13:23:00","app":"code-oss","title":"wizard-step.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:23:00","end":"2026-10-27T13:23:25","app":"code-oss","title":"view.tsx (Index) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:23:25","end":"2026-10-27T13:23:40","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:23:40","end":"2026-10-27T13:24:35","app":"chrome-pkooggnaalmfkidjmlhoelhdllpphaga-Default","title":"Outlook (PWA)"}
+{"start":"2026-10-27T13:24:35","end":"2026-10-27T13:26:40","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:26:40","end":"2026-10-27T13:26:55","app":"code-oss","title":"combinations.ts - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:26:55","end":"2026-10-27T13:27:10","app":"code-oss","title":"view.tsx (Index) (view.tsx (Index)) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:27:10","end":"2026-10-27T13:27:20","app":"code-oss","title":"● view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:27:20","end":"2026-10-27T13:27:25","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:27:25","end":"2026-10-27T13:27:40","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:27:40","end":"2026-10-27T13:27:55","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T13:27:55","end":"2026-10-27T13:28:20","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:28:20","end":"2026-10-27T13:28:25","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-27T13:28:25","end":"2026-10-27T13:28:30","app":"chrome-pkooggnaalmfkidjmlhoelhdllpphaga-Default","title":"Outlook (PWA)"}
+{"start":"2026-10-27T13:28:30","end":"2026-10-27T13:28:35","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:28:35","end":"2026-10-27T13:28:45","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:28:45","end":"2026-10-27T13:28:50","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:28:50","end":"2026-10-27T13:29:00","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:29:00","end":"2026-10-27T13:29:05","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T13:29:05","end":"2026-10-27T13:29:20","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-27T13:29:20","end":"2026-10-27T13:29:30","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:29:30","end":"2026-10-27T13:29:35","app":"org.kde.spectacle","title":"Unsaved* — Spectacle"}
+{"start":"2026-10-27T13:29:35","end":"2026-10-27T13:30:05","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T13:30:05","end":"2026-10-27T13:30:10","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:30:10","end":"2026-10-27T13:30:35","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T13:30:35","end":"2026-10-27T13:30:45","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:30:45","end":"2026-10-27T13:31:05","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T13:31:05","end":"2026-10-27T13:31:40","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:31:40","end":"2026-10-27T13:31:45","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-27T13:31:45","end":"2026-10-27T13:32:20","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:32:20","end":"2026-10-27T13:32:25","app":"code-oss","title":"package.json (Index) (package.json) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:32:25","end":"2026-10-27T13:32:30","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T13:32:30","end":"2026-10-27T13:33:10","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:33:10","end":"2026-10-27T13:33:40","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T13:33:40","end":"2026-10-27T13:33:50","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:33:50","end":"2026-10-27T13:34:15","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-27T13:34:15","end":"2026-10-27T13:34:30","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:34:30","end":"2026-10-27T13:35:30","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:35:30","end":"2026-10-27T13:35:45","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-27T13:35:45","end":"2026-10-27T13:36:00","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-27T13:36:00","end":"2026-10-27T13:36:25","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:36:25","end":"2026-10-27T13:36:30","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:36:30","end":"2026-10-27T13:36:35","app":"code-oss","title":"view.tsx (Index) (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:36:35","end":"2026-10-27T13:36:40","app":"code-oss","title":"wizard-step.tsx (Index) (wizard-step.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:36:40","end":"2026-10-27T13:36:45","app":"code-oss","title":"view.tsx (Index) (view.tsx (Index)) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:36:45","end":"2026-10-27T13:36:55","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:36:55","end":"2026-10-27T13:37:00","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:37:00","end":"2026-10-27T13:37:10","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T13:37:10","end":"2026-10-27T13:37:35","app":"code-oss","title":"● view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:37:35","end":"2026-10-27T13:38:15","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T13:38:15","end":"2026-10-27T13:38:30","app":"code-oss","title":"● view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:38:30","end":"2026-10-27T13:38:50","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:38:50","end":"2026-10-27T13:38:55","app":"code-oss","title":"● view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:38:55","end":"2026-10-27T13:39:00","app":"code-oss","title":"● view.tsx (in file) ↔ view.tsx (in Code - OSS) - Resolve save conflict (view.tsx) - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:39:00","end":"2026-10-27T13:39:05","app":"electron","title":"Code - OSS"}
+{"start":"2026-10-27T13:39:05","end":"2026-10-27T13:39:10","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:39:10","end":"2026-10-27T13:39:15","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:39:15","end":"2026-10-27T13:39:25","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:39:25","end":"2026-10-27T13:39:30","app":"com.anthropic.Claude","title":"Claude"}
+{"start":"2026-10-27T13:39:30","end":"2026-10-27T13:39:40","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
+{"start":"2026-10-27T13:39:40","end":"2026-10-27T13:39:55","app":"chrome-ompifgpmddkgmclendfeacglnodjjndh-Default","title":"Microsoft Teams (PWA) - Chat | Panasonic Standup | Microsoft Teams"}
+{"start":"2026-10-27T13:39:55","end":"2026-10-27T13:40:05","app":"firefox","title":"Tidsrapportering - Tidrapport.Web — Mozilla Firefox"}
+{"start":"2026-10-27T13:40:05","end":"2026-10-27T13:41:00","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:41:00","end":"2026-10-27T13:41:05","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:41:05","end":"2026-10-27T13:41:15","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:41:15","end":"2026-10-27T13:41:20","app":"code-oss","title":"● view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:41:20","end":"2026-10-27T13:41:35","app":"firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-10-27T13:41:35","end":"2026-10-27T13:44:01","app":"firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-27T13:44:01","end":"2026-10-27T13:44:06","app":"firefox","title":"Trello — Mozilla Firefox"}
+{"start":"2026-10-27T13:44:06","end":"2026-10-27T13:44:11","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T13:44:11","end":"2026-10-27T13:44:16","app":"firefox","title":"Piping label på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T13:44:16","end":"2026-10-27T13:44:56","app":"firefox","title":"Bug Principle scheme på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T13:44:56","end":"2026-10-27T13:45:01","app":"firefox","title":"Add total wire cable length på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T13:45:01","end":"2026-10-27T13:45:31","app":"firefox","title":"Bug Principle scheme på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T13:45:31","end":"2026-10-27T13:45:46","app":"firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-27T13:45:46","end":"2026-10-27T13:45:51","app":"code-oss","title":"view.tsx - dxpro-designer - Code - OSS"}
+{"start":"2026-10-27T13:45:51","end":"2026-10-27T13:45:56","app":"Alacritty","title":"albin-divid@cachyos-x8664:~/code/gitlab/panasonic/dxpro-designer"}
