@@ -1536,3 +1536,5 @@
 {"ev":"out","t":"2026-10-28T15:28:56","note":"Decentralized"}
 {"ev":"in","t":"2026-10-28T15:28:56","project":"refpro"}
 {"ev":"out","t":"2026-10-28T15:56:19","note":"refpro weekly"}
+{"ev":"in","t":"2026-10-28T15:56:19","project":"refpro"}
+{"ev":"out","t":"2026-10-28T16:12:16","note":"OCU-LRC100m08 wrong data"}
