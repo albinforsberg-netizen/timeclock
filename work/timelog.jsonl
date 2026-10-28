@@ -1534,3 +1534,5 @@
 {"ev":"out","t":"2026-10-28T15:18:04","note":"Move label"}
 {"ev":"in","t":"2026-10-28T15:18:09","project":"refpro"}
 {"ev":"out","t":"2026-10-28T15:28:56","note":"Decentralized"}
+{"ev":"in","t":"2026-10-28T15:28:56","project":"refpro"}
+{"ev":"out","t":"2026-10-28T15:56:19","note":"refpro weekly"}
