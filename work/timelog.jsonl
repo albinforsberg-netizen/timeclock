@@ -1546,3 +1546,5 @@
 {"ev":"out","t":"2026-10-29T10:56:09","note":"OCU-LRE fix"}
 {"ev":"in","t":"2026-10-29T10:56:09","project":"dxpro"}
 {"ev":"out","t":"2026-10-29T12:06:48","note":"Sections fix"}
+{"ev":"in","t":"2026-10-29T12:59:30","project":"refpro"}
+{"ev":"out","t":"2026-10-29T14:08:38","note":"Decentralized"}
