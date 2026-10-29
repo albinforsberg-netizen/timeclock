@@ -119,3 +119,322 @@
 {"start":"2026-10-29T07:54:51","end":"2026-10-29T07:54:56","app":"Firefox","title":"ocu_crc150A08-refpro_refrigerants — Mozilla Firefox"}
 {"start":"2026-10-29T07:54:56","end":"2026-10-29T07:56:31","app":"Firefox","title":"ocu_crc150A08-refpro_dimensions — Mozilla Firefox"}
 {"start":"2026-10-29T07:56:31","end":"2026-10-29T07:57:51","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T07:57:51","end":"2026-10-29T07:58:11","app":"Margin","title":"Time — Margin"}
+{"start":"2026-10-29T07:58:11","end":"2026-10-29T07:58:16","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T07:58:16","end":"2026-10-29T07:58:56","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-29T07:58:56","end":"2026-10-29T07:59:36","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T07:59:36","end":"2026-10-29T08:00:01","app":"Visual Studio Code","title":"oil-booster-mode.ts (Working Tree) (oil-booster-mode.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:00:01","end":"2026-10-29T08:00:06","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:00:06","end":"2026-10-29T08:00:11","app":"Visual Studio Code","title":"oil-booster-mode.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:00:11","end":"2026-10-29T08:00:31","app":"Visual Studio Code","title":"cover-table.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:00:31","end":"2026-10-29T08:01:11","app":"Visual Studio Code","title":"comparison.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:01:11","end":"2026-10-29T08:01:26","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:01:26","end":"2026-10-29T08:03:01","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:03:01","end":"2026-10-29T08:03:21","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:03:21","end":"2026-10-29T08:03:26","app":"Slack","title":"general (Channel) - Divid - 1 new item - Slack"}
+{"start":"2026-10-29T08:03:26","end":"2026-10-29T08:03:36","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:03:36","end":"2026-10-29T08:03:51","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:03:51","end":"2026-10-29T08:04:11","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:04:11","end":"2026-10-29T08:04:26","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:04:26","end":"2026-10-29T08:04:31","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:04:31","end":"2026-10-29T08:05:01","app":"Visual Studio Code","title":"● combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:05:01","end":"2026-10-29T08:05:40","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:09:36","end":"2026-10-29T08:10:26","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:10:26","end":"2026-10-29T08:10:56","app":"Visual Studio Code","title":"● combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:10:56","end":"2026-10-29T08:11:06","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:11:06","end":"2026-10-29T08:11:41","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:11:41","end":"2026-10-29T08:12:11","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:12:11","end":"2026-10-29T08:12:41","app":"Visual Studio Code","title":"● combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:12:41","end":"2026-10-29T08:13:21","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:13:21","end":"2026-10-29T08:13:56","app":"Visual Studio Code","title":"● combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:13:56","end":"2026-10-29T08:14:26","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:14:26","end":"2026-10-29T08:14:46","app":"Visual Studio Code","title":"● combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:14:46","end":"2026-10-29T08:14:56","app":"Visual Studio Code","title":"calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:14:56","end":"2026-10-29T08:15:51","app":"Visual Studio Code","title":"power-input.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:15:51","end":"2026-10-29T08:15:56","app":"Visual Studio Code","title":"● combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:15:56","end":"2026-10-29T08:16:01","app":"Visual Studio Code","title":"power-input.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:16:01","end":"2026-10-29T08:16:46","app":"Visual Studio Code","title":"● combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:16:46","end":"2026-10-29T08:17:16","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:17:16","end":"2026-10-29T08:17:21","app":"Visual Studio Code","title":"● combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:17:21","end":"2026-10-29T08:17:26","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:17:26","end":"2026-10-29T08:19:07","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:19:07","end":"2026-10-29T08:19:47","app":"Margin","title":"Day report — Margin"}
+{"start":"2026-10-29T08:19:47","end":"2026-10-29T08:20:22","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:20:22","end":"2026-10-29T08:20:27","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:20:27","end":"2026-10-29T08:20:47","app":"Firefox","title":"S-OCU-LRC100M08-6.pdf — Mozilla Firefox"}
+{"start":"2026-10-29T08:20:47","end":"2026-10-29T08:21:07","app":"Firefox","title":"Wrong data added for this unit OCU-LRC100M08 på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-10-29T08:21:07","end":"2026-10-29T08:22:02","app":"Firefox","title":"S-OCU-LRC100M08-6.pdf — Mozilla Firefox"}
+{"start":"2026-10-29T08:22:02","end":"2026-10-29T08:22:07","app":"Firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-10-29T08:22:07","end":"2026-10-29T08:22:12","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-10-29T08:22:12","end":"2026-10-29T08:22:37","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:22:37","end":"2026-10-29T08:23:17","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:23:17","end":"2026-10-29T08:24:47","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:24:47","end":"2026-10-29T08:24:52","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-29T08:24:52","end":"2026-10-29T08:24:57","app":"Visual Studio Code","title":"deployment.yaml - flux-panasonic-prod [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:24:57","end":"2026-10-29T08:25:02","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-29T08:25:02","end":"2026-10-29T08:26:52","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:26:52","end":"2026-10-29T08:27:02","app":"Firefox","title":"S-OCU-LRC100M08-6.pdf — Mozilla Firefox"}
+{"start":"2026-10-29T08:27:02","end":"2026-10-29T08:27:57","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:27:57","end":"2026-10-29T08:28:57","app":"Visual Studio Code","title":"power-input.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:28:57","end":"2026-10-29T08:29:17","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:29:17","end":"2026-10-29T08:29:27","app":"Visual Studio Code","title":"power-input.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:29:27","end":"2026-10-29T08:29:57","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:29:57","end":"2026-10-29T08:30:07","app":"Firefox","title":"S-OCU-LRC100M08-6.pdf — Mozilla Firefox"}
+{"start":"2026-10-29T08:30:07","end":"2026-10-29T08:31:12","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:31:12","end":"2026-10-29T08:31:22","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:31:22","end":"2026-10-29T08:32:42","app":"Visual Studio Code","title":"● combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:32:42","end":"2026-10-29T08:32:52","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:32:52","end":"2026-10-29T08:33:27","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:33:27","end":"2026-10-29T08:33:37","app":"Visual Studio Code","title":"power-input.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:33:37","end":"2026-10-29T08:34:27","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:34:27","end":"2026-10-29T08:34:42","app":"Visual Studio Code","title":"● combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:34:42","end":"2026-10-29T08:35:37","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:35:37","end":"2026-10-29T08:37:07","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:37:07","end":"2026-10-29T08:37:22","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:37:22","end":"2026-10-29T08:37:27","app":"Visual Studio Code","title":"● combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:37:27","end":"2026-10-29T08:38:12","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:38:12","end":"2026-10-29T08:38:17","app":"Firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-29T08:38:17","end":"2026-10-29T08:39:02","app":"Firefox","title":"Upgrade the toolchain and dependencies: pnpm, ts-proto 2, React 19, Mantine 9, Vite 8 (!203) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-29T08:39:02","end":"2026-10-29T08:39:22","app":"Margin","title":"Day report — Margin"}
+{"start":"2026-10-29T08:39:22","end":"2026-10-29T08:39:42","app":"Firefox","title":"Upgrade the toolchain and dependencies: pnpm, ts-proto 2, React 19, Mantine 9, Vite 8 (!203) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-29T08:39:42","end":"2026-10-29T08:39:47","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-29T08:39:47","end":"2026-10-29T08:39:52","app":"ShellHost","title":"Snabbinställningar"}
+{"start":"2026-10-29T08:39:52","end":"2026-10-29T08:39:57","app":"Microsoft Teams","title":"Calendar | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-29T08:39:57","end":"2026-10-29T08:40:02","app":"Microsoft Teams","title":"Möte–Anslut | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-29T08:40:02","end":"2026-10-29T08:40:12","app":"Microsoft Teams","title":"Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-29T08:40:12","end":"2026-10-29T08:40:17","app":"Firefox","title":"Upgrade the toolchain and dependencies: pnpm, ts-proto 2, React 19, Mantine 9, Vite 8 (!203) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-29T08:40:17","end":"2026-10-29T08:40:22","app":"Firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-29T08:40:22","end":"2026-10-29T08:40:32","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-29T08:40:32","end":"2026-10-29T08:43:52","app":"Microsoft Teams","title":"Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-29T08:43:52","end":"2026-10-29T08:44:07","app":"Firefox","title":"S-OCU-LRC100M08-6.pdf — Mozilla Firefox"}
+{"start":"2026-10-29T08:44:07","end":"2026-10-29T08:44:22","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:44:22","end":"2026-10-29T08:44:28","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-29T08:44:28","end":"2026-10-29T08:45:08","app":"Microsoft Teams","title":"Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-29T08:45:08","end":"2026-10-29T08:45:13","app":"SearchHost","title":"Sök"}
+{"start":"2026-10-29T08:45:13","end":"2026-10-29T08:45:32","app":"Microsoft Teams","title":"Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-29T08:49:33","end":"2026-10-29T08:50:33","app":"Microsoft Teams","title":"Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-29T08:50:33","end":"2026-10-29T08:50:53","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-29T08:50:53","end":"2026-10-29T08:51:18","app":"Microsoft Outlook","title":"Mail - Albin Forsberg - Outlook"}
+{"start":"2026-10-29T08:51:18","end":"2026-10-29T08:51:23","app":"Utforskaren","title":""}
+{"start":"2026-10-29T08:51:23","end":"2026-10-29T08:51:28","app":"Microsoft Teams","title":"Aktivitet | AW på Kappa Bar | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-29T08:51:28","end":"2026-10-29T08:51:33","app":"Microsoft Teams","title":"Aktivitet | Julbord 2026 | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-29T08:51:33","end":"2026-10-29T08:51:38","app":"Microsoft Teams","title":"Aktivitet | AW på Kappa Bar | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-10-29T08:51:38","end":"2026-10-29T08:53:13","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-29T08:53:13","end":"2026-10-29T08:53:48","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-29T08:53:48","end":"2026-10-29T08:54:38","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:54:38","end":"2026-10-29T08:55:23","app":"Firefox","title":"Wrong data added for this unit OCU-LRC100M08 på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-10-29T08:55:23","end":"2026-10-29T08:55:33","app":"Firefox","title":"S-OCU-LRC100M08-6.pdf — Mozilla Firefox"}
+{"start":"2026-10-29T08:55:33","end":"2026-10-29T08:55:38","app":"Utforskaren","title":""}
+{"start":"2026-10-29T08:55:38","end":"2026-10-29T08:55:43","app":"ShareX","title":"ShareX 21.0"}
+{"start":"2026-10-29T08:55:43","end":"2026-10-29T08:56:33","app":"Firefox","title":"Wrong data added for this unit OCU-LRC100M08 på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-10-29T08:56:33","end":"2026-10-29T08:56:38","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-10-29T08:56:38","end":"2026-10-29T08:56:43","app":"Firefox","title":"S-OCU-LRC100M08-6.pdf — Mozilla Firefox"}
+{"start":"2026-10-29T08:56:43","end":"2026-10-29T08:56:48","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:56:48","end":"2026-10-29T08:56:58","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-29T08:56:58","end":"2026-10-29T08:57:53","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:57:53","end":"2026-10-29T08:57:58","app":"Utforskaren","title":""}
+{"start":"2026-10-29T08:57:58","end":"2026-10-29T08:58:13","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-29T08:58:13","end":"2026-10-29T08:58:18","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:58:18","end":"2026-10-29T08:58:23","app":"Windows Shell Experience Host","title":"Nytt meddelande"}
+{"start":"2026-10-29T08:58:23","end":"2026-10-29T08:58:28","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:58:28","end":"2026-10-29T08:58:38","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-29T08:58:38","end":"2026-10-29T08:58:58","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T08:58:58","end":"2026-10-29T08:59:18","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T08:59:18","end":"2026-10-29T09:00:13","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:00:13","end":"2026-10-29T09:00:18","app":"Firefox","title":"Technical Drawing Standards: Leader Lines. — Mozilla Firefox"}
+{"start":"2026-10-29T09:00:18","end":"2026-10-29T09:00:53","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:00:53","end":"2026-10-29T09:01:03","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-29T09:01:03","end":"2026-10-29T09:01:58","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:01:58","end":"2026-10-29T09:02:33","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-29T09:02:33","end":"2026-10-29T09:03:08","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:03:08","end":"2026-10-29T09:03:13","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-29T09:03:13","end":"2026-10-29T09:03:33","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:03:33","end":"2026-10-29T09:05:48","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:05:48","end":"2026-10-29T09:06:08","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-29T09:06:08","end":"2026-10-29T09:06:58","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:06:58","end":"2026-10-29T09:07:03","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:07:03","end":"2026-10-29T09:07:13","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-29T09:07:13","end":"2026-10-29T09:07:18","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:07:18","end":"2026-10-29T09:10:59","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:10:59","end":"2026-10-29T09:11:14","app":"Visual Studio Code","title":"comparison.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:11:14","end":"2026-10-29T09:11:44","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:11:44","end":"2026-10-29T09:11:59","app":"Visual Studio Code","title":"comparison.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:11:59","end":"2026-10-29T09:12:19","app":"Visual Studio Code","title":"toolbar-buttons.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:12:19","end":"2026-10-29T09:12:59","app":"Visual Studio Code","title":"grid-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:12:59","end":"2026-10-29T09:13:19","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:13:19","end":"2026-10-29T09:13:39","app":"Visual Studio Code","title":"grid-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:13:39","end":"2026-10-29T09:13:59","app":"Visual Studio Code","title":"elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:13:59","end":"2026-10-29T09:14:59","app":"Visual Studio Code","title":"● elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:14:59","end":"2026-10-29T09:15:04","app":"Visual Studio Code","title":"elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:15:04","end":"2026-10-29T09:15:34","app":"Visual Studio Code","title":"new-refrigeration-system-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:15:34","end":"2026-10-29T09:15:54","app":"Visual Studio Code","title":"● decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:15:54","end":"2026-10-29T09:15:59","app":"Visual Studio Code","title":"decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:15:59","end":"2026-10-29T09:16:04","app":"Visual Studio Code","title":"elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:16:04","end":"2026-10-29T09:16:14","app":"Visual Studio Code","title":"decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:16:14","end":"2026-10-29T09:16:29","app":"Visual Studio Code","title":"● index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:16:29","end":"2026-10-29T09:16:39","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:16:39","end":"2026-10-29T09:16:49","app":"Visual Studio Code","title":"● elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:16:49","end":"2026-10-29T09:16:59","app":"Visual Studio Code","title":"elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:16:59","end":"2026-10-29T09:17:04","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:17:04","end":"2026-10-29T09:17:14","app":"Visual Studio Code","title":"elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:17:14","end":"2026-10-29T09:17:59","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:17:59","end":"2026-10-29T09:18:09","app":"Visual Studio Code","title":"elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:18:09","end":"2026-10-29T09:18:14","app":"Visual Studio Code","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:18:14","end":"2026-10-29T09:18:19","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:18:19","end":"2026-10-29T09:18:44","app":"Visual Studio Code","title":"decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:18:44","end":"2026-10-29T09:18:49","app":"Visual Studio Code","title":"elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:18:49","end":"2026-10-29T09:18:54","app":"Visual Studio Code","title":"new-refrigeration-system-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:18:54","end":"2026-10-29T09:22:44","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:22:44","end":"2026-10-29T09:23:14","app":"Microsoft Outlook","title":"Mail - Albin Forsberg - Outlook"}
+{"start":"2026-10-29T09:23:14","end":"2026-10-29T09:23:19","app":"Microsoft Edge WebView2","title":"Varning! Den här webbplatsen kan se ändringar som du gör"}
+{"start":"2026-10-29T09:23:19","end":"2026-10-29T09:23:24","app":"Microsoft Edge WebView2","title":"Bekräfta Spara som"}
+{"start":"2026-10-29T09:23:24","end":"2026-10-29T09:23:29","app":"Microsoft Edge WebView2","title":"Varning! Den här webbplatsen kan se ändringar som du gör"}
+{"start":"2026-10-29T09:23:29","end":"2026-10-29T09:23:34","app":"Utforskaren","title":"Start – Utforskaren"}
+{"start":"2026-10-29T09:23:34","end":"2026-10-29T09:23:39","app":"Utforskaren","title":"Hämtade filer – Utforskaren"}
+{"start":"2026-10-29T09:23:39","end":"2026-10-29T09:23:44","app":"Utforskaren","title":"Egenskaper för 31.07.2026.xlsm"}
+{"start":"2026-10-29T09:23:44","end":"2026-10-29T09:23:49","app":"Microsoft Excel","title":"31.07.2026.xlsm - Excel"}
+{"start":"2026-10-29T09:23:49","end":"2026-10-29T09:23:59","app":"Microsoft Excel","title":"Microsoft Excel"}
+{"start":"2026-10-29T09:23:59","end":"2026-10-29T09:24:04","app":"Microsoft Excel","title":"31.07.2026.xlsm - Excel"}
+{"start":"2026-10-29T09:24:04","end":"2026-10-29T09:24:09","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:24:09","end":"2026-10-29T09:24:19","app":"Microsoft Excel","title":"31.07.2026.xlsm - Excel"}
+{"start":"2026-10-29T09:24:19","end":"2026-10-29T09:24:49","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:24:49","end":"2026-10-29T09:25:49","app":"Microsoft Excel","title":"31.07.2026.xlsm - Excel"}
+{"start":"2026-10-29T09:25:49","end":"2026-10-29T09:26:04","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:26:04","end":"2026-10-29T09:26:19","app":"Microsoft Excel","title":"31.07.2026.xlsm - Excel"}
+{"start":"2026-10-29T09:26:19","end":"2026-10-29T09:26:24","app":"SearchHost","title":"Sök"}
+{"start":"2026-10-29T09:26:24","end":"2026-10-29T09:26:59","app":"Calculator","title":"Kalkylatorn med graffunktion"}
+{"start":"2026-10-29T09:26:59","end":"2026-10-29T09:27:34","app":"Microsoft Excel","title":"31.07.2026.xlsm - Excel"}
+{"start":"2026-10-29T09:27:34","end":"2026-10-29T09:27:39","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:27:39","end":"2026-10-29T09:27:59","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-29T09:27:59","end":"2026-10-29T09:28:44","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:28:44","end":"2026-10-29T09:28:54","app":"Visual Studio Code","title":"new-refrigeration-system-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:28:54","end":"2026-10-29T09:28:59","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:28:59","end":"2026-10-29T09:29:04","app":"Visual Studio Code","title":"new-refrigeration-system-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:29:04","end":"2026-10-29T09:29:09","app":"Visual Studio Code","title":"state.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:29:09","end":"2026-10-29T09:29:24","app":"Visual Studio Code","title":"view.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:29:24","end":"2026-10-29T09:29:39","app":"Visual Studio Code","title":"state.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:29:39","end":"2026-10-29T09:30:44","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:30:44","end":"2026-10-29T09:30:49","app":"Firefox","title":"Promaster — Mozilla Firefox"}
+{"start":"2026-10-29T09:30:49","end":"2026-10-29T09:30:59","app":"Firefox","title":"Releases — Mozilla Firefox"}
+{"start":"2026-10-29T09:30:59","end":"2026-10-29T09:31:04","app":"Firefox","title":"No Product Selected — Mozilla Firefox"}
+{"start":"2026-10-29T09:31:04","end":"2026-10-29T09:31:14","app":"Firefox","title":"Releases — Mozilla Firefox"}
+{"start":"2026-10-29T09:31:14","end":"2026-10-29T09:31:19","app":"Firefox","title":"No Product Selected — Mozilla Firefox"}
+{"start":"2026-10-29T09:31:19","end":"2026-10-29T09:31:24","app":"Firefox","title":"sys-auto_property — Mozilla Firefox"}
+{"start":"2026-10-29T09:31:24","end":"2026-10-29T09:31:49","app":"Firefox","title":"sys-refrigeration_search_info — Mozilla Firefox"}
+{"start":"2026-10-29T09:31:49","end":"2026-10-29T09:34:45","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:34:45","end":"2026-10-29T09:34:50","app":"Visual Studio Code","title":"elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:34:50","end":"2026-10-29T09:34:55","app":"Visual Studio Code","title":"new-refrigeration-system-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:34:55","end":"2026-10-29T09:35:00","app":"Visual Studio Code","title":"elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:35:00","end":"2026-10-29T09:35:30","app":"Visual Studio Code","title":"decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:35:30","end":"2026-10-29T09:35:35","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-10-29T09:35:35","end":"2026-10-29T09:36:45","app":"Firefox","title":"Descentralized solution på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-10-29T09:36:45","end":"2026-10-29T09:38:10","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:38:10","end":"2026-10-29T09:38:35","app":"Visual Studio Code","title":"● decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:38:35","end":"2026-10-29T09:38:40","app":"Visual Studio Code","title":"new-refrigeration-system-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:38:40","end":"2026-10-29T09:38:50","app":"Visual Studio Code","title":"● decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:38:50","end":"2026-10-29T09:38:55","app":"Visual Studio Code","title":"new-refrigeration-system-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:38:55","end":"2026-10-29T09:39:15","app":"Visual Studio Code","title":"● decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:39:15","end":"2026-10-29T09:39:25","app":"Visual Studio Code","title":"decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:39:25","end":"2026-10-29T09:39:30","app":"Visual Studio Code","title":"● decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:39:30","end":"2026-10-29T09:39:35","app":"Visual Studio Code","title":"decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:39:35","end":"2026-10-29T09:39:40","app":"Visual Studio Code","title":"new-refrigeration-system-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:39:40","end":"2026-10-29T09:39:45","app":"Visual Studio Code","title":"decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:39:45","end":"2026-10-29T09:39:55","app":"Visual Studio Code","title":"● decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:39:55","end":"2026-10-29T09:40:35","app":"Visual Studio Code","title":"decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:40:35","end":"2026-10-29T09:40:55","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:40:55","end":"2026-10-29T09:41:35","app":"Visual Studio Code","title":"new-refrigeration-system-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:41:35","end":"2026-10-29T09:41:40","app":"Visual Studio Code","title":"decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:41:40","end":"2026-10-29T09:41:50","app":"Visual Studio Code","title":"● decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:41:50","end":"2026-10-29T09:42:00","app":"Visual Studio Code","title":"new-refrigeration-system-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:42:00","end":"2026-10-29T09:42:05","app":"Visual Studio Code","title":"● decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:42:05","end":"2026-10-29T09:42:10","app":"Visual Studio Code","title":"decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:42:10","end":"2026-10-29T09:42:55","app":"Visual Studio Code","title":"● decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:42:55","end":"2026-10-29T09:43:00","app":"Visual Studio Code","title":"decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:43:00","end":"2026-10-29T09:43:30","app":"Visual Studio Code","title":"● decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:43:30","end":"2026-10-29T09:43:40","app":"Visual Studio Code","title":"decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:43:40","end":"2026-10-29T09:43:50","app":"Visual Studio Code","title":"new-refrigeration-system-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:43:50","end":"2026-10-29T09:44:05","app":"Visual Studio Code","title":"● decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:44:05","end":"2026-10-29T09:44:10","app":"Visual Studio Code","title":"decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:44:10","end":"2026-10-29T09:44:15","app":"Visual Studio Code","title":"● decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:44:15","end":"2026-10-29T09:44:20","app":"Visual Studio Code","title":"new-refrigeration-system-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:44:20","end":"2026-10-29T09:44:25","app":"Visual Studio Code","title":"● decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:44:25","end":"2026-10-29T09:44:55","app":"Visual Studio Code","title":"decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:44:55","end":"2026-10-29T09:45:05","app":"Visual Studio Code","title":"● decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:45:05","end":"2026-10-29T09:45:10","app":"Visual Studio Code","title":"decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:45:10","end":"2026-10-29T09:45:40","app":"Visual Studio Code","title":"● elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:45:40","end":"2026-10-29T09:45:50","app":"Visual Studio Code","title":"elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:45:50","end":"2026-10-29T09:46:10","app":"Visual Studio Code","title":"decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:46:10","end":"2026-10-29T09:46:20","app":"Visual Studio Code","title":"● decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:46:20","end":"2026-10-29T09:47:05","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:47:05","end":"2026-10-29T09:47:15","app":"Visual Studio Code","title":"● decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:47:15","end":"2026-10-29T09:48:00","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:48:00","end":"2026-10-29T09:48:20","app":"Visual Studio Code","title":"new-refrigeration-system-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:48:20","end":"2026-10-29T09:48:25","app":"Firefox","title":"Startsida | Trello — Mozilla Firefox"}
+{"start":"2026-10-29T09:48:25","end":"2026-10-29T09:48:35","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-29T09:48:35","end":"2026-10-29T09:48:50","app":"Firefox","title":"Descentralized solution på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-10-29T09:48:50","end":"2026-10-29T09:49:10","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:49:10","end":"2026-10-29T09:49:15","app":"Utforskaren","title":""}
+{"start":"2026-10-29T09:49:15","end":"2026-10-29T09:51:50","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:51:50","end":"2026-10-29T09:51:55","app":"Visual Studio Code","title":"decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:51:55","end":"2026-10-29T09:52:15","app":"Visual Studio Code","title":"new-refrigeration-system-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:52:15","end":"2026-10-29T09:53:15","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:53:15","end":"2026-10-29T09:54:15","app":"Visual Studio Code","title":"elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T09:54:15","end":"2026-10-29T09:55:50","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:55:50","end":"2026-10-29T09:56:00","app":"Firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-10-29T09:56:00","end":"2026-10-29T09:56:05","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-10-29T09:56:05","end":"2026-10-29T09:57:00","app":"Firefox","title":"Error: Could not resolve file format — panasonic-0s — designer-pro — Mozilla Firefox"}
+{"start":"2026-10-29T09:57:00","end":"2026-10-29T09:57:40","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T09:57:40","end":"2026-10-29T09:57:58","app":"Visual Studio Code","title":"elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T10:23:26","end":"2026-10-29T10:23:31","app":"Visual Studio Code","title":"elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T10:23:31","end":"2026-10-29T10:23:46","app":"Microsoft Outlook","title":"Inbox - Albin Forsberg - Outlook"}
+{"start":"2026-10-29T10:23:46","end":"2026-10-29T10:24:06","app":"Visual Studio Code","title":"elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T10:24:06","end":"2026-10-29T10:24:11","app":"Firefox","title":"Descentralized solution på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-10-29T10:24:11","end":"2026-10-29T10:24:16","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-10-29T10:24:16","end":"2026-10-29T10:24:21","app":"Firefox","title":"Trello — Mozilla Firefox"}
+{"start":"2026-10-29T10:24:21","end":"2026-10-29T10:24:36","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-10-29T10:24:36","end":"2026-10-29T10:25:01","app":"Firefox","title":"Wrong data added for this unit OCU-LRC100M08 på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-10-29T10:25:01","end":"2026-10-29T10:28:26","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T10:28:26","end":"2026-10-29T10:28:41","app":"Firefox","title":"Wrong data added for this unit OCU-LRC100M08 på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-10-29T10:28:41","end":"2026-10-29T10:29:56","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T10:29:56","end":"2026-10-29T10:30:01","app":"Firefox","title":"ocu_crc150A08-refpro_dimensions — Mozilla Firefox"}
+{"start":"2026-10-29T10:30:01","end":"2026-10-29T10:30:06","app":"Firefox","title":"ocu_crc150A08-Properties — Mozilla Firefox"}
+{"start":"2026-10-29T10:30:06","end":"2026-10-29T10:30:11","app":"Firefox","title":"ocu_crc150A08-refpro_dimensions — Mozilla Firefox"}
+{"start":"2026-10-29T10:30:11","end":"2026-10-29T10:31:01","app":"Firefox","title":"ocu_crc150A08-refpro_product_range — Mozilla Firefox"}
+{"start":"2026-10-29T10:31:01","end":"2026-10-29T10:31:06","app":"Firefox","title":"ocu_lrc100m08-refpro_product_range — Mozilla Firefox"}
+{"start":"2026-10-29T10:31:06","end":"2026-10-29T10:31:11","app":"Firefox","title":"ocu_lrc100m08-refpro_application — Mozilla Firefox"}
+{"start":"2026-10-29T10:31:11","end":"2026-10-29T10:31:16","app":"Firefox","title":"ocu_lrc100m08-refpro_product_range — Mozilla Firefox"}
+{"start":"2026-10-29T10:31:16","end":"2026-10-29T10:31:21","app":"Firefox","title":"ocu_lre030l05-Properties — Mozilla Firefox"}
+{"start":"2026-10-29T10:31:21","end":"2026-10-29T10:31:26","app":"Firefox","title":"ocu_lrc100m08-refpro_ambient_temperature — Mozilla Firefox"}
+{"start":"2026-10-29T10:31:26","end":"2026-10-29T10:31:46","app":"Firefox","title":"ocu_lrc100m08-refpro_ped_category — Mozilla Firefox"}
+{"start":"2026-10-29T10:31:46","end":"2026-10-29T10:32:31","app":"Firefox","title":"ocu_lrc100m08-refrigeration_cooling_capacity — Mozilla Firefox"}
+{"start":"2026-10-29T10:32:31","end":"2026-10-29T10:32:51","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T10:32:51","end":"2026-10-29T10:32:56","app":"Firefox","title":"ocu_kre012l05-refrigeration_cooling_capacity — Mozilla Firefox"}
+{"start":"2026-10-29T10:32:56","end":"2026-10-29T10:33:01","app":"Firefox","title":"ocu_kre022l05-Setup — Mozilla Firefox"}
+{"start":"2026-10-29T10:33:01","end":"2026-10-29T10:33:16","app":"Firefox","title":"ocu_kre045m05-Setup — Mozilla Firefox"}
+{"start":"2026-10-29T10:33:16","end":"2026-10-29T10:33:21","app":"Firefox","title":"ocu_kre070m05-Setup — Mozilla Firefox"}
+{"start":"2026-10-29T10:33:21","end":"2026-10-29T10:33:32","app":"Firefox","title":"ocu_lre070m05-Setup — Mozilla Firefox"}
+{"start":"2026-10-29T10:33:32","end":"2026-10-29T10:33:37","app":"Firefox","title":"ocu_lre070m05-Languages — Mozilla Firefox"}
+{"start":"2026-10-29T10:33:37","end":"2026-10-29T10:33:42","app":"Firefox","title":"ocu_lre070m05-refpro_ambient_temperature — Mozilla Firefox"}
+{"start":"2026-10-29T10:33:42","end":"2026-10-29T10:33:47","app":"Firefox","title":"ocu_lre070m05-refpro_line — Mozilla Firefox"}
+{"start":"2026-10-29T10:33:47","end":"2026-10-29T10:33:52","app":"Firefox","title":"ocu_lre070m05-refpro_application — Mozilla Firefox"}
+{"start":"2026-10-29T10:33:52","end":"2026-10-29T10:33:57","app":"Firefox","title":"ocu_lre070m05-refpro_refrigerants — Mozilla Firefox"}
+{"start":"2026-10-29T10:33:57","end":"2026-10-29T10:34:02","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-10-29T10:34:02","end":"2026-10-29T10:34:07","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-29T10:34:07","end":"2026-10-29T10:34:32","app":"Firefox","title":"Sections cause piping not to be printed out anymore på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-29T10:34:32","end":"2026-10-29T10:34:47","app":"Firefox","title":"ocu_lre070m05-refpro_refrigerants — Mozilla Firefox"}
+{"start":"2026-10-29T10:34:47","end":"2026-10-29T10:34:52","app":"Firefox","title":"ocu_lre070m05-Ordering code — Mozilla Firefox"}
+{"start":"2026-10-29T10:34:52","end":"2026-10-29T10:35:02","app":"Firefox","title":"ocu_lre070m05-refpro_refrigerants — Mozilla Firefox"}
+{"start":"2026-10-29T10:35:02","end":"2026-10-29T10:35:47","app":"Firefox","title":"ocu_lre070m05-refrigeration_cooling_capacity — Mozilla Firefox"}
+{"start":"2026-10-29T10:35:47","end":"2026-10-29T10:35:52","app":"Firefox","title":"ocu_lre070m05-refpro_dimensions — Mozilla Firefox"}
+{"start":"2026-10-29T10:35:52","end":"2026-10-29T10:35:57","app":"Firefox","title":"ocu_lre070m05-Documents — Mozilla Firefox"}
+{"start":"2026-10-29T10:35:57","end":"2026-10-29T10:36:57","app":"Firefox","title":"ocu_lre070m05-Texts — Mozilla Firefox"}
+{"start":"2026-10-29T10:36:57","end":"2026-10-29T10:37:02","app":"Firefox","title":"ocu_lre012l05-Texts — Mozilla Firefox"}
+{"start":"2026-10-29T10:37:02","end":"2026-10-29T10:37:07","app":"Firefox","title":"ocu_lre070m05-Texts — Mozilla Firefox"}
+{"start":"2026-10-29T10:37:07","end":"2026-10-29T10:37:12","app":"Firefox","title":"ocu_lre012l05-Texts — Mozilla Firefox"}
+{"start":"2026-10-29T10:37:12","end":"2026-10-29T10:37:17","app":"Firefox","title":"ocu_lre022l05-Texts — Mozilla Firefox"}
+{"start":"2026-10-29T10:37:17","end":"2026-10-29T10:40:27","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T10:40:27","end":"2026-10-29T10:40:37","app":"Firefox","title":"ocu_lrE045m05-Texts — Mozilla Firefox"}
+{"start":"2026-10-29T10:40:37","end":"2026-10-29T10:41:27","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-29T10:41:27","end":"2026-10-29T10:42:02","app":"Firefox","title":"ocu_lre070m05-Texts — Mozilla Firefox"}
+{"start":"2026-10-29T10:42:02","end":"2026-10-29T10:42:12","app":"ShareX","title":"ShareX 21.0"}
+{"start":"2026-10-29T10:42:12","end":"2026-10-29T10:42:22","app":"Windows Terminal Host","title":"Ubuntu"}
