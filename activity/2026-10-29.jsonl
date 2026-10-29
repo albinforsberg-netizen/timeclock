@@ -1107,3 +1107,66 @@
 {"start":"2026-10-29T15:42:11","end":"2026-10-29T15:42:21","app":"Visual Studio Code","title":"● .npmrc - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
 {"start":"2026-10-29T15:42:21","end":"2026-10-29T15:42:41","app":"Windows Terminal Host","title":"Ubuntu"}
 {"start":"2026-10-29T15:42:41","end":"2026-10-29T15:43:21","app":"Visual Studio Code","title":".npmrc - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:43:21","end":"2026-10-29T15:43:31","app":"Margin","title":"Time — Margin"}
+{"start":"2026-10-29T15:43:31","end":"2026-10-29T15:43:36","app":"Visual Studio Code","title":".npmrc - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:43:36","end":"2026-10-29T15:43:41","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-29T15:43:41","end":"2026-10-29T15:43:56","app":"Visual Studio Code","title":".npmrc - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:43:56","end":"2026-10-29T15:44:06","app":"Visual Studio Code","title":"wizard-step.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:44:06","end":"2026-10-29T15:44:21","app":"Visual Studio Code","title":"● Merging: wizard-step.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:44:21","end":"2026-10-29T15:44:31","app":"Visual Studio Code","title":"wizard.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:44:31","end":"2026-10-29T15:44:36","app":"Visual Studio Code","title":"● wizard.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:44:36","end":"2026-10-29T15:45:41","app":"Visual Studio Code","title":"wizard.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:45:41","end":"2026-10-29T15:47:41","app":"Visual Studio Code","title":"wizard-step.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:47:41","end":"2026-10-29T15:48:21","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-29T15:48:21","end":"2026-10-29T15:49:21","app":"Visual Studio Code","title":"wizard-step.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:49:21","end":"2026-10-29T15:49:31","app":"Visual Studio Code","title":"decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:49:31","end":"2026-10-29T15:49:41","app":"Visual Studio Code","title":"● decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:49:41","end":"2026-10-29T15:49:46","app":"Firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-29T15:49:46","end":"2026-10-29T15:50:11","app":"Firefox","title":"Upgrade the toolchain and dependencies: pnpm, ts-proto 2, React 19, Mantine 9, Vite 8 (!203) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-29T15:50:11","end":"2026-10-29T15:50:21","app":"Visual Studio Code","title":"● decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:50:21","end":"2026-10-29T15:50:26","app":"Visual Studio Code","title":"decentralized-toolbar.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:50:26","end":"2026-10-29T15:50:31","app":"Visual Studio Code","title":"combinations.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:50:31","end":"2026-10-29T15:50:46","app":"Visual Studio Code","title":"● comparison.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:50:46","end":"2026-10-29T15:50:51","app":"Visual Studio Code","title":"state.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:50:51","end":"2026-10-29T15:50:56","app":"Visual Studio Code","title":"view.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:50:56","end":"2026-10-29T15:51:06","app":"Visual Studio Code","title":"● view.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:51:06","end":"2026-10-29T15:51:11","app":"Visual Studio Code","title":"view.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:51:11","end":"2026-10-29T15:52:11","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-29T15:52:11","end":"2026-10-29T15:52:21","app":"Visual Studio Code","title":"report.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:52:21","end":"2026-10-29T15:52:36","app":"Visual Studio Code","title":"● report.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:52:36","end":"2026-10-29T15:52:41","app":"Visual Studio Code","title":"report.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:52:41","end":"2026-10-29T15:52:56","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-29T15:52:56","end":"2026-10-29T15:53:36","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T15:53:36","end":"2026-10-29T15:53:41","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-29T15:53:41","end":"2026-10-29T15:54:07","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T15:54:07","end":"2026-10-29T15:54:12","app":"Firefox","title":"PDF.js viewer — Mozilla Firefox"}
+{"start":"2026-10-29T15:54:12","end":"2026-10-29T15:54:17","app":"Firefox","title":"Decentralized solution-8.pdf — Mozilla Firefox"}
+{"start":"2026-10-29T15:54:17","end":"2026-10-29T15:55:22","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-10-29T15:55:22","end":"2026-10-29T15:55:32","app":"Firefox","title":"Upgrade the toolchain and dependencies: pnpm, ts-proto 2, React 19, Mantine 9, Vite 8 (!203) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-29T15:55:32","end":"2026-10-29T15:55:37","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T15:55:37","end":"2026-10-29T15:55:42","app":"Firefox","title":"OUpipingmountingscheme_to_principle på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-29T15:55:42","end":"2026-10-29T15:56:02","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-10-29T15:56:02","end":"2026-10-29T15:57:17","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T15:57:17","end":"2026-10-29T15:57:57","app":"Visual Studio Code","title":"report.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T15:57:57","end":"2026-10-29T15:58:27","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T15:58:27","end":"2026-10-29T15:58:32","app":"Firefox","title":"Upgrade the toolchain and dependencies: pnpm, ts-proto 2, React 19, Mantine 9, Vite 8 (!203) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-29T15:58:32","end":"2026-10-29T15:58:37","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-10-29T15:58:37","end":"2026-10-29T15:59:02","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T15:59:02","end":"2026-10-29T15:59:07","app":"Firefox","title":"Mozilla Firefox Privat surfning"}
+{"start":"2026-10-29T15:59:07","end":"2026-10-29T16:00:02","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-10-29T16:00:02","end":"2026-10-29T16:00:22","app":"Google Chrome","title":"Ref PRO Designer - Google Chrome"}
+{"start":"2026-10-29T16:00:22","end":"2026-10-29T16:00:27","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-10-29T16:00:27","end":"2026-10-29T16:00:57","app":"Visual Studio Code","title":"report.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T16:00:57","end":"2026-10-29T16:02:22","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T16:02:22","end":"2026-10-29T16:02:42","app":"Firefox","title":"Decentralized solution-9.pdf — Mozilla Firefox"}
+{"start":"2026-10-29T16:02:42","end":"2026-10-29T16:02:47","app":"Visual Studio Code","title":"report.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T16:02:47","end":"2026-10-29T16:03:02","app":"Visual Studio Code","title":"input-provider.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T16:03:02","end":"2026-10-29T16:03:07","app":"Visual Studio Code","title":"● input-provider.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T16:03:07","end":"2026-10-29T16:03:17","app":"Visual Studio Code","title":"input-provider.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T16:03:17","end":"2026-10-29T16:03:27","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T16:03:27","end":"2026-10-29T16:03:32","app":"Firefox","title":"Decentralized solution-10.pdf — Mozilla Firefox"}
+{"start":"2026-10-29T16:03:32","end":"2026-10-29T16:04:07","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T16:04:07","end":"2026-10-29T16:05:27","app":"Visual Studio Code","title":"input-provider.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T16:05:27","end":"2026-10-29T16:06:47","app":"Visual Studio Code","title":"vrf-system.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-10-29T16:06:47","end":"2026-10-29T16:06:52","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-10-29T16:06:52","end":"2026-10-29T16:06:57","app":"Windows Terminal Host","title":"Ubuntu"}
