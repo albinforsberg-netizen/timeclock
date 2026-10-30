@@ -1560,3 +1560,5 @@
 {"ev":"out","t":"2026-10-30T08:24:08","note":"Default wizard values"}
 {"ev":"in","t":"2026-10-30T08:24:09","project":"dxpro"}
 {"ev":"out","t":"2026-10-30T09:00:54","note":"Move label"}
+{"ev":"in","t":"2026-10-30T09:00:54","project":"dxpro"}
+{"ev":"out","t":"2026-10-30T10:08:15","note":"mtp fixes"}
