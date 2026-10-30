@@ -1503,7 +1503,7 @@
 {"ev":"in","t":"2026-10-27T08:40:23","project":"dxpro"}
 {"ev":"out","t":"2026-10-27T08:54:27","note":"Standup"}
 {"ev":"in","t":"2026-10-27T08:55:11","project":"refpro","task":"Decentralized"}
-{"ev":"out","t":"2026-10-27T10:48:06","note":"Decenteralized"}
+{"ev":"out","t":"2026-10-27T10:48:06","note":"Decentralized"}
 {"ev":"in","t":"2026-10-27T10:48:06","project":"refpro"}
 {"ev":"break","t":"2026-10-27T12:00:41"}
 {"ev":"in","t":"2026-10-27T12:57:37","project":"refpro"}
@@ -1558,3 +1558,5 @@
 {"ev":"out","t":"2026-10-30T08:10:58","note":"Move label"}
 {"ev":"in","t":"2026-10-30T08:10:58","project":"refpro"}
 {"ev":"out","t":"2026-10-30T08:24:08","note":"Default wizard values"}
+{"ev":"in","t":"2026-10-30T08:24:09","project":"dxpro"}
+{"ev":"out","t":"2026-10-30T09:00:54","note":"Move label"}
