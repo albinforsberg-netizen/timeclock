@@ -1568,3 +1568,5 @@
 {"ev":"break","t":"2026-10-30T12:10:11"}
 {"ev":"in","t":"2026-10-30T12:59:55","project":"dxpro"}
 {"ev":"out","t":"2026-10-30T14:34:03","note":"Move label"}
+{"ev":"in","t":"2026-10-30T14:34:03","project":"aquarea"}
+{"ev":"out","t":"2026-10-30T16:56:52","note":"label + fiche"}
