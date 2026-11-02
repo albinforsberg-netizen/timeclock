@@ -747,3 +747,115 @@
 {"start":"2026-11-02T14:22:06","end":"2026-11-02T14:22:11","app":"ShareX","title":"ShareX - Region capture"}
 {"start":"2026-11-02T14:22:11","end":"2026-11-02T14:22:16","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
 {"start":"2026-11-02T14:22:16","end":"2026-11-02T14:23:26","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-02T14:23:26","end":"2026-11-02T14:23:36","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-02T14:23:36","end":"2026-11-02T14:23:41","app":"Margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-11-02T14:23:41","end":"2026-11-02T14:23:46","app":"Margin","title":"• timelog.jsonl — Margin"}
+{"start":"2026-11-02T14:23:46","end":"2026-11-02T14:23:56","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-02T14:23:56","end":"2026-11-02T14:25:31","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T14:25:31","end":"2026-11-02T14:27:26","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-02T14:27:26","end":"2026-11-02T14:27:31","app":"Visual Studio Code","title":"vrf-components-render.tsx (Index) (vrf-components-render.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T14:27:31","end":"2026-11-02T14:27:41","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T14:27:41","end":"2026-11-02T14:27:51","app":"Visual Studio Code","title":"vrf-components-render.tsx (Index) (vrf-components-render.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T14:27:51","end":"2026-11-02T14:28:31","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T14:28:31","end":"2026-11-02T14:29:21","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-02T14:29:21","end":"2026-11-02T14:29:46","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T14:29:46","end":"2026-11-02T14:32:36","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-02T14:32:36","end":"2026-11-02T14:35:01","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T14:35:01","end":"2026-11-02T14:35:06","app":"LibreCAD","title":"LibreCAD"}
+{"start":"2026-11-02T14:35:06","end":"2026-11-02T14:35:16","app":"LibreCAD","title":"LibreCAD - [Floor 1.dxf]"}
+{"start":"2026-11-02T14:35:16","end":"2026-11-02T14:35:26","app":"LibreCAD","title":"LibreCAD - [Floor 1.dxf*]"}
+{"start":"2026-11-02T14:35:26","end":"2026-11-02T14:35:31","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-02T14:35:31","end":"2026-11-02T14:36:21","app":"Firefox","title":"Piping label på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-02T14:36:21","end":"2026-11-02T14:36:31","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-02T14:36:31","end":"2026-11-02T14:36:36","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T14:36:36","end":"2026-11-02T14:37:01","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-02T14:37:01","end":"2026-11-02T14:37:46","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T14:37:46","end":"2026-11-02T14:37:51","app":"Visual Studio Code","title":"vrf-components-render.tsx (Index) (vrf-components-render.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T14:37:51","end":"2026-11-02T14:38:01","app":"Visual Studio Code","title":"state.ts (Working Tree) (state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T14:38:01","end":"2026-11-02T14:38:06","app":"Visual Studio Code","title":"component-context-menu.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T14:38:06","end":"2026-11-02T14:38:11","app":"Visual Studio Code","title":"● component-context-menu.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T14:38:11","end":"2026-11-02T14:38:16","app":"Visual Studio Code","title":"component-menu.tsx (Working Tree) (component-menu.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T14:38:16","end":"2026-11-02T14:38:21","app":"Visual Studio Code","title":"config-changed-event.ts (Working Tree) (config-changed-event.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T14:38:21","end":"2026-11-02T14:38:36","app":"Visual Studio Code","title":"add-vertical-pipe-command.ts (Working Tree) (add-vertical-pipe-command.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T14:38:36","end":"2026-11-02T14:38:41","app":"Visual Studio Code","title":"delete-vertical-pipe-command.ts (Working Tree) (delete-vertical-pipe-command.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T14:38:41","end":"2026-11-02T14:38:46","app":"Visual Studio Code","title":"● paths-route-points.tsx (Working Tree) (paths-route-points.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T14:38:46","end":"2026-11-02T14:38:51","app":"Visual Studio Code","title":"paths-route-points.tsx (Working Tree) (paths-route-points.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T14:38:51","end":"2026-11-02T14:39:06","app":"Visual Studio Code","title":"vrf-components-render.tsx (Working Tree) (vrf-components-render.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T14:39:06","end":"2026-11-02T14:39:26","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T14:39:26","end":"2026-11-02T14:39:31","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-02T14:39:31","end":"2026-11-02T14:40:31","app":"Firefox","title":"Piping label på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-02T14:40:31","end":"2026-11-02T14:40:36","app":"Firefox","title":"Vertical-1.pdf — Mozilla Firefox"}
+{"start":"2026-11-02T14:40:36","end":"2026-11-02T14:40:41","app":"Firefox","title":"Piping label på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-02T14:40:41","end":"2026-11-02T14:41:06","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T14:41:06","end":"2026-11-02T14:41:21","app":"Firefox","title":"Vertical-2.pdf — Mozilla Firefox"}
+{"start":"2026-11-02T14:41:21","end":"2026-11-02T14:44:17","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T14:44:17","end":"2026-11-02T14:44:52","app":"Firefox","title":"Piping label på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-02T14:44:52","end":"2026-11-02T14:45:12","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T14:45:12","end":"2026-11-02T14:46:12","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-02T14:46:12","end":"2026-11-02T14:46:47","app":"Visual Studio Code","title":"vrf-components-render.tsx (Working Tree) (vrf-components-render.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T14:46:47","end":"2026-11-02T14:47:02","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T14:47:02","end":"2026-11-02T14:47:52","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-02T14:47:52","end":"2026-11-02T14:48:57","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T14:48:57","end":"2026-11-02T14:49:22","app":"Visual Studio Code","title":"vrf-components-render.tsx (Working Tree) (vrf-components-render.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T14:49:22","end":"2026-11-02T14:50:02","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T14:50:02","end":"2026-11-02T14:50:32","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-02T14:50:32","end":"2026-11-02T14:51:52","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T14:51:52","end":"2026-11-02T14:52:02","app":"Firefox","title":"Principle labels.pdf — Mozilla Firefox"}
+{"start":"2026-11-02T14:55:57","end":"2026-11-02T14:56:22","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T14:56:22","end":"2026-11-02T14:56:32","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-02T14:56:32","end":"2026-11-02T14:56:47","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-02T14:56:47","end":"2026-11-02T14:57:52","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T14:57:52","end":"2026-11-02T14:58:47","app":"Visual Studio Code","title":"vrf-components-render.tsx (Working Tree) (vrf-components-render.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T14:58:52","end":"2026-11-02T14:58:57","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-02T14:58:57","end":"2026-11-02T14:59:17","app":"Firefox","title":"Piping label på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-02T14:59:17","end":"2026-11-02T14:59:27","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-02T14:59:27","end":"2026-11-02T14:59:32","app":"Visual Studio Code","title":"vrf-components-render.tsx (Working Tree) (vrf-components-render.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T14:59:32","end":"2026-11-02T15:00:27","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T15:00:27","end":"2026-11-02T15:00:32","app":"Firefox","title":"TypeError: Cannot read properties of null (reading 'toString') — panasonic-0s — designer-pro — Mozilla Firefox"}
+{"start":"2026-11-02T15:00:32","end":"2026-11-02T15:00:42","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-02T15:00:42","end":"2026-11-02T15:00:57","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-02T15:00:57","end":"2026-11-02T15:03:22","app":"Firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-02T15:03:22","end":"2026-11-02T15:03:57","app":"Visual Studio Code","title":"vrf-components-render.tsx (Working Tree) (vrf-components-render.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T15:03:57","end":"2026-11-02T15:04:42","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T15:04:42","end":"2026-11-02T15:04:52","app":"Firefox","title":"Tidsrapportering - Tidrapport.Web — Mozilla Firefox"}
+{"start":"2026-11-02T15:04:52","end":"2026-11-02T15:05:32","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T15:05:32","end":"2026-11-02T15:05:57","app":"Visual Studio Code","title":"vrf-components-render.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T15:05:57","end":"2026-11-02T15:06:02","app":"Firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-11-02T15:06:02","end":"2026-11-02T15:06:22","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-02T15:06:22","end":"2026-11-02T15:06:52","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-02T15:06:52","end":"2026-11-02T15:07:12","app":"Firefox","title":"Change ICORE på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-02T15:07:12","end":"2026-11-02T15:07:22","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-02T15:07:22","end":"2026-11-02T15:07:37","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-02T15:07:37","end":"2026-11-02T15:07:42","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T15:07:42","end":"2026-11-02T15:07:52","app":"Visual Studio Code","title":"vrf-components-render.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T15:07:52","end":"2026-11-02T15:08:52","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-02T15:08:52","end":"2026-11-02T15:09:27","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T15:09:27","end":"2026-11-02T15:09:47","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-02T15:09:47","end":"2026-11-02T15:10:22","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T15:10:22","end":"2026-11-02T15:10:32","app":"Visual Studio Code","title":"vrf-components-render.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T15:10:32","end":"2026-11-02T15:11:23","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T15:11:23","end":"2026-11-02T15:11:33","app":"Firefox","title":"Principle labels-1.pdf — Mozilla Firefox"}
+{"start":"2026-11-02T15:11:33","end":"2026-11-02T15:11:38","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T15:11:38","end":"2026-11-02T15:11:48","app":"Visual Studio Code","title":"heat-recovery-box.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T15:11:48","end":"2026-11-02T15:13:03","app":"Visual Studio Code","title":"vrf-components-render.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T15:13:03","end":"2026-11-02T15:16:43","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T15:16:43","end":"2026-11-02T15:19:08","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-02T15:19:08","end":"2026-11-02T15:19:28","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T15:19:28","end":"2026-11-02T15:19:38","app":"Firefox","title":"Vertical-3.pdf — Mozilla Firefox"}
+{"start":"2026-11-02T15:19:38","end":"2026-11-02T15:20:23","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T15:20:23","end":"2026-11-02T15:20:33","app":"Visual Studio Code","title":"vrf-components-render.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-02T15:20:33","end":"2026-11-02T15:21:23","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T15:21:23","end":"2026-11-02T15:21:53","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-02T15:21:53","end":"2026-11-02T15:22:33","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T15:22:33","end":"2026-11-02T15:22:38","app":"Firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-11-02T15:22:38","end":"2026-11-02T15:22:58","app":"Firefox","title":"Global — Mozilla Firefox"}
+{"start":"2026-11-02T15:22:58","end":"2026-11-02T15:23:18","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T15:23:18","end":"2026-11-02T15:24:13","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T15:24:13","end":"2026-11-02T15:24:18","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-02T15:24:18","end":"2026-11-02T15:24:48","app":"Firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-11-02T15:24:48","end":"2026-11-02T15:24:53","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-02T15:24:53","end":"2026-11-02T15:24:58","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T15:24:58","end":"2026-11-02T15:28:08","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-02T15:28:08","end":"2026-11-02T15:28:18","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-02T15:28:18","end":"2026-11-02T15:28:23","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-02T15:28:23","end":"2026-11-02T15:30:08","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}

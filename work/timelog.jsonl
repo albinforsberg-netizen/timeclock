@@ -1581,4 +1581,6 @@
 {"ev":"in","t":"2026-11-02T10:11:02","project":"dxpro"}
 {"ev":"break","t":"2026-11-02T12:01:20"}
 {"ev":"in","t":"2026-11-02T12:59:33","project":"dxpro"}
-{"ev":"out","t":"2026-11-02T14:23:34","note":"Move label"}
+{"ev":"out","t":"2026-11-02T14:00:34","note":"Move label"}
+{"ev":"in","t":"2026-11-02T14:00:34","project":"dxpro"}
+{"ev":"out","t":"2026-11-02T15:30:12","note":"Move label"}
