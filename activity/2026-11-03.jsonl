@@ -281,3 +281,114 @@
 {"start":"2026-11-03T11:10:17","end":"2026-11-03T11:10:22","app":"Utforskaren","title":"pad-raw – Utforskaren"}
 {"start":"2026-11-03T11:10:22","end":"2026-11-03T11:10:27","app":"Google Chrome","title":"PAD2020 - Google Chrome"}
 {"start":"2026-11-03T11:10:27","end":"2026-11-03T11:11:12","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-03T11:11:12","end":"2026-11-03T11:11:27","app":"Margin","title":"Today — Margin"}
+{"start":"2026-11-03T11:11:27","end":"2026-11-03T11:11:32","app":"Visual Studio Code","title":"calculate.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-03T11:11:32","end":"2026-11-03T11:11:37","app":"Visual Studio Code","title":"● .env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-03T11:11:37","end":"2026-11-03T11:11:42","app":"openvpn-gui","title":"OpenVPN"}
+{"start":"2026-11-03T11:11:42","end":"2026-11-03T11:11:52","app":"Google Chrome","title":"panasonicproclub.com/GB_en/tools/aquarea-designer/ - Google Chrome"}
+{"start":"2026-11-03T11:11:52","end":"2026-11-03T11:12:12","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-03T11:12:12","end":"2026-11-03T11:12:32","app":"Google Chrome","title":"PAD2020 - Google Chrome"}
+{"start":"2026-11-03T11:12:32","end":"2026-11-03T11:12:37","app":"Google Chrome","title":"panasonicproclub.com/GB_en/tools/aquarea-designer/ - Google Chrome"}
+{"start":"2026-11-03T11:12:42","end":"2026-11-03T11:13:17","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-03T11:13:17","end":"2026-11-03T11:13:32","app":"Google Chrome","title":"PAD2020 - Google Chrome"}
+{"start":"2026-11-03T11:13:32","end":"2026-11-03T11:13:47","app":"Google Chrome","title":"panasonicproclub.com/GB_en/tools/aquarea-designer/ - Google Chrome"}
+{"start":"2026-11-03T11:13:47","end":"2026-11-03T11:13:57","app":"Google Chrome","title":"PAD2020 - Google Chrome"}
+{"start":"2026-11-03T11:13:57","end":"2026-11-03T11:14:07","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-03T11:14:07","end":"2026-11-03T11:14:12","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-03T11:14:12","end":"2026-11-03T11:14:22","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-03T11:14:22","end":"2026-11-03T11:14:27","app":"openvpn-gui","title":"OpenVPN Anslutning (divid)"}
+{"start":"2026-11-03T11:14:27","end":"2026-11-03T11:15:37","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-03T11:15:37","end":"2026-11-03T11:15:47","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-03T11:15:47","end":"2026-11-03T11:16:22","app":"Visual Studio Code","title":".env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-03T11:16:22","end":"2026-11-03T11:16:27","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-03T11:16:27","end":"2026-11-03T11:16:42","app":"Visual Studio Code","title":".env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-03T11:16:42","end":"2026-11-03T11:18:22","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-03T11:18:22","end":"2026-11-03T11:18:42","app":"Visual Studio Code","title":".env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-03T11:18:42","end":"2026-11-03T11:18:52","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-03T11:18:52","end":"2026-11-03T11:19:07","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-03T11:19:07","end":"2026-11-03T11:19:17","app":"Visual Studio Code","title":".env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-03T11:19:17","end":"2026-11-03T11:19:32","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-03T11:19:32","end":"2026-11-03T11:20:27","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-03T11:20:27","end":"2026-11-03T11:20:42","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-03T11:20:42","end":"2026-11-03T11:21:12","app":"Visual Studio Code","title":".env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-03T11:21:12","end":"2026-11-03T11:21:17","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-03T11:21:17","end":"2026-11-03T11:21:22","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-03T11:21:22","end":"2026-11-03T11:21:27","app":"Visual Studio Code","title":".env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-03T11:21:27","end":"2026-11-03T11:21:37","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-03T11:21:37","end":"2026-11-03T11:21:47","app":"Firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-11-03T11:21:47","end":"2026-11-03T11:22:42","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-03T11:22:42","end":"2026-11-03T11:23:02","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-11-03T11:23:02","end":"2026-11-03T11:23:17","app":"Google Chrome","title":"panasonicproclub.com/GB_en/tools/aquarea-designer/ - Google Chrome"}
+{"start":"2026-11-03T11:23:17","end":"2026-11-03T11:23:42","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-03T11:23:42","end":"2026-11-03T11:23:52","app":"Visual Studio Code","title":".env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-03T11:23:52","end":"2026-11-03T11:24:02","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-03T11:24:02","end":"2026-11-03T11:24:07","app":"Visual Studio Code","title":".env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-03T11:24:07","end":"2026-11-03T11:24:24","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-03T11:27:42","end":"2026-11-03T11:28:02","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-03T11:28:02","end":"2026-11-03T11:28:12","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-03T11:28:12","end":"2026-11-03T11:28:52","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-03T11:28:52","end":"2026-11-03T11:29:02","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-03T11:29:02","end":"2026-11-03T11:29:07","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-03T11:29:07","end":"2026-11-03T11:29:12","app":"Utforskaren","title":"pad-tools – Utforskaren"}
+{"start":"2026-11-03T11:29:12","end":"2026-11-03T11:29:42","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-03T11:29:42","end":"2026-11-03T11:29:47","app":"Visual Studio Code","title":"grid-svg.tsx (Working Tree) (grid-svg.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-03T11:29:47","end":"2026-11-03T11:29:52","app":"Visual Studio Code","title":"mounting-svg.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-03T11:29:52","end":"2026-11-03T11:29:57","app":"Visual Studio Code","title":"movable-label.tsx (Working Tree) (movable-label.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-03T11:29:57","end":"2026-11-03T11:30:02","app":"Visual Studio Code","title":"● movable-label.tsx (Working Tree) (movable-label.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-03T11:30:02","end":"2026-11-03T11:30:07","app":"Visual Studio Code","title":"movable-label.tsx (Working Tree) (movable-label.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-03T11:30:07","end":"2026-11-03T11:30:12","app":"Visual Studio Code","title":"package.json (Working Tree) (package.json) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-03T11:30:12","end":"2026-11-03T11:30:42","app":"Visual Studio Code","title":"pnpm-lock.yaml (Working Tree) (pnpm-lock.yaml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-03T11:30:42","end":"2026-11-03T11:30:52","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-03T11:30:52","end":"2026-11-03T11:31:07","app":"Firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-03T11:31:07","end":"2026-11-03T11:31:17","app":"Firefox","title":"Synchronize properties (353eca77) · Commits · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-03T11:31:17","end":"2026-11-03T11:31:22","app":"Google Chrome","title":"panasonicproclub.com/GB_en/tools/aquarea-designer/ - Google Chrome"}
+{"start":"2026-11-03T11:31:22","end":"2026-11-03T11:31:27","app":"openvpn-gui","title":"OpenVPN Anslutning (divid)"}
+{"start":"2026-11-03T11:31:27","end":"2026-11-03T11:31:37","app":"Google Chrome","title":"panasonicproclub.com/GB_en/tools/aquarea-designer/ - Google Chrome"}
+{"start":"2026-11-03T11:31:37","end":"2026-11-03T11:31:47","app":"Visual Studio Code","title":"pnpm-lock.yaml (Working Tree) (pnpm-lock.yaml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-03T11:31:47","end":"2026-11-03T11:31:57","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-03T11:31:57","end":"2026-11-03T11:32:07","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-03T11:32:07","end":"2026-11-03T11:32:22","app":"Visual Studio Code","title":"pnpm-lock.yaml (Working Tree) (pnpm-lock.yaml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-03T11:32:22","end":"2026-11-03T11:32:32","app":"Firefox","title":"Piping label på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-03T11:32:32","end":"2026-11-03T11:32:52","app":"Visual Studio Code","title":"pnpm-lock.yaml (Working Tree) (pnpm-lock.yaml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-03T11:32:52","end":"2026-11-03T11:33:27","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-03T11:33:27","end":"2026-11-03T11:33:57","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-03T11:33:57","end":"2026-11-03T11:34:42","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-03T11:34:42","end":"2026-11-03T11:34:47","app":"Firefox","title":"Piping label på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-03T11:34:47","end":"2026-11-03T11:35:47","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-03T11:35:47","end":"2026-11-03T11:36:02","app":"Firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-03T11:36:02","end":"2026-11-03T11:37:17","app":"Firefox","title":"Synchronize properties (353eca77) · Commits · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-03T11:37:17","end":"2026-11-03T11:37:22","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-03T11:37:22","end":"2026-11-03T11:37:27","app":"Firefox","title":"Piping label på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-03T11:37:27","end":"2026-11-03T11:38:37","app":"Firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-03T11:38:37","end":"2026-11-03T11:38:47","app":"Firefox","title":"publish (#526870) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-03T11:38:47","end":"2026-11-03T11:38:52","app":"Firefox","title":"Pipeline #213672 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-03T11:38:52","end":"2026-11-03T11:39:47","app":"Firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-03T11:39:47","end":"2026-11-03T11:40:07","app":"Margin","title":"Today — Margin"}
+{"start":"2026-11-03T11:40:07","end":"2026-11-03T11:40:42","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-03T11:40:42","end":"2026-11-03T11:41:12","app":"Firefox","title":"PAD2020 — Mozilla Firefox"}
+{"start":"2026-11-03T11:41:12","end":"2026-11-03T11:41:27","app":"Firefox","title":"Överordnad process för webbläsarkonsol"}
+{"start":"2026-11-03T11:41:27","end":"2026-11-03T11:41:37","app":"Firefox","title":"PAD2020 — Mozilla Firefox"}
+{"start":"2026-11-03T11:41:37","end":"2026-11-03T11:41:42","app":"Firefox","title":"Web Developer's Toolbox – Tillägg för Firefox (sv-SE) — Mozilla Firefox"}
+{"start":"2026-11-03T11:41:42","end":"2026-11-03T11:42:17","app":"Firefox","title":"PAD2020 — Mozilla Firefox"}
+{"start":"2026-11-03T11:42:17","end":"2026-11-03T11:42:27","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-03T11:42:27","end":"2026-11-03T11:42:32","app":"Firefox","title":"PAD2020 — Mozilla Firefox"}
+{"start":"2026-11-03T11:42:32","end":"2026-11-03T11:42:37","app":"Firefox","title":"Tavla – AC-Select anslagstavla - Jira — Mozilla Firefox"}
+{"start":"2026-11-03T11:42:37","end":"2026-11-03T11:42:42","app":"Firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-03T11:42:42","end":"2026-11-03T11:42:47","app":"Firefox","title":"publish (#526874) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-03T11:42:47","end":"2026-11-03T11:42:52","app":"Firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-03T11:42:52","end":"2026-11-03T11:42:57","app":"Microsoft Outlook","title":"Gitlab - Albin Forsberg - Outlook"}
+{"start":"2026-11-03T11:42:57","end":"2026-11-03T11:43:02","app":"Microsoft Outlook","title":"Sentry - Albin Forsberg - Outlook"}
+{"start":"2026-11-03T11:43:02","end":"2026-11-03T11:43:07","app":"Microsoft Outlook","title":"Gitlab - Albin Forsberg - Outlook"}
+{"start":"2026-11-03T11:43:07","end":"2026-11-03T11:43:12","app":"Microsoft Outlook","title":"Sentry - Albin Forsberg - Outlook"}
+{"start":"2026-11-03T11:43:12","end":"2026-11-03T11:44:12","app":"Firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-03T11:44:12","end":"2026-11-03T11:44:47","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-03T11:44:47","end":"2026-11-03T11:45:38","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-03T11:45:38","end":"2026-11-03T11:45:48","app":"Margin","title":"Today — Margin"}
+{"start":"2026-11-03T11:45:48","end":"2026-11-03T11:46:28","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-03T11:46:28","end":"2026-11-03T11:46:58","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-03T11:46:58","end":"2026-11-03T11:47:08","app":"Firefox","title":"Missing oil pipe in the printout table på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-03T11:47:08","end":"2026-11-03T11:47:13","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-03T11:47:13","end":"2026-11-03T11:47:53","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-03T11:47:53","end":"2026-11-03T11:47:58","app":"Firefox","title":"Principle labels-2.pdf — Mozilla Firefox"}
+{"start":"2026-11-03T11:47:58","end":"2026-11-03T11:48:03","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-03T11:48:03","end":"2026-11-03T11:48:08","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
