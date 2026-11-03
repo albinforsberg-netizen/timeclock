@@ -3,22 +3,25 @@ export_code = "Pana AC Select Develop"
 rounding = 0.5
 round_up = true
 active = true
+customer = "Panasonic"
 
 [aquarea]
 export_code = "aquarea"
 rounding = 0.5
 round_up = true
 active = true
+customer = "Panasonic"
 
 [dxpro]
 export_code = "Dx Pro Designer"
 rounding = 0.5
 round_up = true
 active = true
+customer = "Panasonic"
 
 [intern]
 export_code = "Divid - Internt"
-rounding = 0.5
+rounding = 0.25
 round_up = false
 active = true
 
@@ -27,10 +30,11 @@ export_code = "Refrigeration - Development"
 rounding = 0.5
 round_up = true
 active = true
+customer = "Panasonic"
 
 [utbildning]
 export_code = "Divid - Utbildning"
-rounding = 0.5
+rounding = 0.25
 round_up = false
 active = true
 
@@ -39,3 +43,4 @@ export_code = "Residential - Development"
 rounding = 0.5
 round_up = true
 active = true
+customer = "Panasonic"
