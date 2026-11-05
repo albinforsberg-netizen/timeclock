@@ -1618,5 +1618,7 @@
 {"ev":"out","t":"2026-11-05T13:03:39","note":"Texts, fixes"}
 {"ev":"in","t":"2026-11-05T13:03:40","project":"dxpro"}
 {"ev":"out","t":"2026-11-05T15:00:16","note":"Project dates"}
-{"ev":"in","t":"2026-11-05T15:42:16","project":"intern"}
+{"ev":"in","t":"2026-11-05T15:00:16","project":"intern"}
 {"ev":"out","t":"2026-11-05T15:42:34","note":"Månadsmöte"}
+{"ev":"in","t":"2026-11-05T15:42:34","project":"dxpro"}
+{"ev":"out","t":"2026-11-05T16:26:50","note":"Project date"}
