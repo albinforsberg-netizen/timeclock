@@ -1612,3 +1612,7 @@
 {"ev":"out","t":"2026-11-05T07:59:40","note":"Oil booster tooltip"}
 {"ev":"in","t":"2026-11-05T07:59:40","project":"dxpro"}
 {"ev":"out","t":"2026-11-05T09:14:11","note":"Translations fix"}
+{"ev":"in","t":"2026-11-05T09:14:11","project":"aquarea"}
+{"ev":"break","t":"2026-11-05T11:49:57"}
+{"ev":"in","t":"2026-11-05T12:42:59","project":"aquarea"}
+{"ev":"out","t":"2026-11-05T13:03:39","note":"Texts, fixes"}
