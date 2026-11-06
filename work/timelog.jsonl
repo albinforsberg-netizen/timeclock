@@ -1622,5 +1622,9 @@
 {"ev":"out","t":"2026-11-05T15:42:34","note":"Månadsmöte"}
 {"ev":"in","t":"2026-11-05T15:42:34","project":"dxpro"}
 {"ev":"out","t":"2026-11-05T16:26:50","note":"Project dates"}
-{"ev":"in","t":"2026-11-06T07:58:07","project":"dxpro","task":"Project modified"}
+{"ev":"in","t":"2026-11-06T07:58:07","project":"dxpro","task":"Project dates"}
 {"ev":"out","t":"2026-11-06T09:56:49","note":"Project dates"}
+{"ev":"in","t":"2026-11-06T09:56:50","project":"dxpro"}
+{"ev":"break","t":"2026-11-06T12:17:47"}
+{"ev":"in","t":"2026-11-06T13:01:33","project":"dxpro"}
+{"ev":"out","t":"2026-11-06T16:37:47","note":"Tests setup"}

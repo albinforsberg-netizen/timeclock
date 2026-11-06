@@ -205,3 +205,785 @@
 {"start":"2026-11-06T09:56:11","end":"2026-11-06T09:56:16","app":"Firefox","title":"Pipeline #214261 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
 {"start":"2026-11-06T09:56:16","end":"2026-11-06T09:56:36","app":"Visual Studio Code","title":"persist-config.ts (Working Tree) (persist-config.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
 {"start":"2026-11-06T09:56:36","end":"2026-11-06T09:56:46","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T09:56:46","end":"2026-11-06T09:56:51","app":"Margin","title":"Day report — Margin"}
+{"start":"2026-11-06T09:56:51","end":"2026-11-06T09:57:11","app":"Margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-11-06T09:57:11","end":"2026-11-06T09:57:21","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-06T09:57:21","end":"2026-11-06T09:57:56","app":"Margin","title":"Week report — Margin"}
+{"start":"2026-11-06T09:57:56","end":"2026-11-06T09:58:06","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T09:58:06","end":"2026-11-06T09:58:11","app":"Firefox","title":"Installation | Playwright — Mozilla Firefox"}
+{"start":"2026-11-06T09:58:11","end":"2026-11-06T09:59:31","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-06T09:59:31","end":"2026-11-06T09:59:36","app":"Spotify\u00008\u0016\u0001FileV","title":"Snow Patrol - Chasing Cars"}
+{"start":"2026-11-06T09:59:36","end":"2026-11-06T09:59:41","app":"Spotify\u00008\u0016\u0001FileV","title":"David Bowie - \"Heroes\" - 2017 Remaster"}
+{"start":"2026-11-06T09:59:41","end":"2026-11-06T10:00:31","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-06T10:00:31","end":"2026-11-06T10:01:01","app":"DBeaver Community","title":"DBeaver 26.2.1 - project"}
+{"start":"2026-11-06T10:01:01","end":"2026-11-06T10:01:26","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-06T10:01:26","end":"2026-11-06T10:04:26","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:04:26","end":"2026-11-06T10:04:31","app":"Visual Studio Code","title":"persist-config.ts (Working Tree) (persist-config.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:04:31","end":"2026-11-06T10:04:56","app":"Visual Studio Code","title":"package.json (Working Tree) (package.json) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:04:56","end":"2026-11-06T10:05:06","app":"Visual Studio Code","title":"smoke.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:05:06","end":"2026-11-06T10:06:36","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:06:36","end":"2026-11-06T10:06:41","app":"Margin","title":"Week report — Margin"}
+{"start":"2026-11-06T10:06:41","end":"2026-11-06T10:06:56","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:06:56","end":"2026-11-06T10:07:41","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:07:41","end":"2026-11-06T10:09:12","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:09:12","end":"2026-11-06T10:09:22","app":"Visual Studio Code","title":"trace.zip - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:09:22","end":"2026-11-06T10:10:22","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:10:22","end":"2026-11-06T10:10:27","app":"Visual Studio Code","title":"trace.zip - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:10:27","end":"2026-11-06T10:10:42","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:10:42","end":"2026-11-06T10:11:22","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:11:22","end":"2026-11-06T10:11:52","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:11:52","end":"2026-11-06T10:12:02","app":"Visual Studio Code","title":"package.json (Working Tree) (package.json) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:12:02","end":"2026-11-06T10:12:07","app":"Visual Studio Code","title":"smoke.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:12:07","end":"2026-11-06T10:14:02","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:14:02","end":"2026-11-06T10:14:17","app":"Docker Desktop","title":"Containers - Docker Desktop"}
+{"start":"2026-11-06T10:14:17","end":"2026-11-06T10:14:57","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:14:57","end":"2026-11-06T10:15:22","app":"Firefox","title":"Agents | Playwright — Mozilla Firefox"}
+{"start":"2026-11-06T10:15:22","end":"2026-11-06T10:16:32","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:16:32","end":"2026-11-06T10:17:02","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:17:02","end":"2026-11-06T10:19:02","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:19:02","end":"2026-11-06T10:19:12","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:19:12","end":"2026-11-06T10:19:17","app":"Visual Studio Code","title":".gitignore (Working Tree) (.gitignore) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:19:17","end":"2026-11-06T10:19:57","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:19:57","end":"2026-11-06T10:20:47","app":"Firefox","title":"Agents | Playwright — Mozilla Firefox"}
+{"start":"2026-11-06T10:20:47","end":"2026-11-06T10:20:52","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:20:52","end":"2026-11-06T10:21:12","app":"Visual Studio Code","title":"smoke.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:21:12","end":"2026-11-06T10:21:42","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:21:42","end":"2026-11-06T10:23:02","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:23:02","end":"2026-11-06T10:23:12","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:23:12","end":"2026-11-06T10:23:17","app":"Visual Studio Code","title":"smoke.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:23:17","end":"2026-11-06T10:23:22","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:23:22","end":"2026-11-06T10:23:57","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:23:57","end":"2026-11-06T10:24:17","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:24:17","end":"2026-11-06T10:24:22","app":"Visual Studio Code","title":"package.json (Working Tree) (package.json) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:24:22","end":"2026-11-06T10:24:32","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:24:32","end":"2026-11-06T10:26:32","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:26:32","end":"2026-11-06T10:26:42","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:26:42","end":"2026-11-06T10:26:47","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:26:47","end":"2026-11-06T10:27:07","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:27:07","end":"2026-11-06T10:27:22","app":"Docker Desktop","title":"Containers - Docker Desktop"}
+{"start":"2026-11-06T10:27:22","end":"2026-11-06T10:27:32","app":"Visual Studio Code","title":"package.json (Working Tree) (package.json) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:27:32","end":"2026-11-06T10:27:42","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:27:42","end":"2026-11-06T10:27:52","app":"Docker Desktop","title":"Containers - Docker Desktop"}
+{"start":"2026-11-06T10:27:52","end":"2026-11-06T10:27:57","app":"Docker Desktop","title":"Images - Docker Desktop"}
+{"start":"2026-11-06T10:27:57","end":"2026-11-06T10:28:47","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:28:47","end":"2026-11-06T10:28:52","app":"Docker Desktop","title":"Containers - Docker Desktop"}
+{"start":"2026-11-06T10:28:52","end":"2026-11-06T10:31:07","app":"Docker Desktop","title":"dagger-engine-v0.21.10 - Container - Docker Desktop"}
+{"start":"2026-11-06T10:31:07","end":"2026-11-06T10:31:12","app":"Visual Studio Code","title":"package.json (Working Tree) (package.json) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:31:12","end":"2026-11-06T10:31:22","app":"Visual Studio Code","title":"tsconfig.json - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:31:22","end":"2026-11-06T10:31:27","app":"Visual Studio Code","title":"smoke.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:31:27","end":"2026-11-06T10:31:32","app":"Utforskaren","title":""}
+{"start":"2026-11-06T10:31:32","end":"2026-11-06T10:35:03","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:35:03","end":"2026-11-06T10:35:18","app":"Firefox","title":"Installation | Playwright — Mozilla Firefox"}
+{"start":"2026-11-06T10:35:18","end":"2026-11-06T10:35:23","app":"Firefox","title":"Playwright Test Report — Mozilla Firefox"}
+{"start":"2026-11-06T10:35:23","end":"2026-11-06T10:35:43","app":"Firefox","title":"Installation | Playwright — Mozilla Firefox"}
+{"start":"2026-11-06T10:35:43","end":"2026-11-06T10:37:18","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:37:18","end":"2026-11-06T10:37:38","app":"Visual Studio Code","title":"smoke.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:37:38","end":"2026-11-06T10:38:13","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:38:13","end":"2026-11-06T10:38:18","app":"Utforskaren","title":""}
+{"start":"2026-11-06T10:38:18","end":"2026-11-06T10:42:48","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:42:48","end":"2026-11-06T10:42:58","app":"Fjärrskrivbord","title":"Playwright Test (Ubuntu)"}
+{"start":"2026-11-06T10:42:58","end":"2026-11-06T10:43:28","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:43:28","end":"2026-11-06T10:44:23","app":"Fjärrskrivbord","title":"Playwright Test (Ubuntu)"}
+{"start":"2026-11-06T10:44:23","end":"2026-11-06T10:44:33","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:44:33","end":"2026-11-06T10:44:38","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-06T10:44:38","end":"2026-11-06T10:44:48","app":"Firefox","title":"Playwright Test — Mozilla Firefox"}
+{"start":"2026-11-06T10:44:48","end":"2026-11-06T10:44:53","app":"Utforskaren","title":""}
+{"start":"2026-11-06T10:44:53","end":"2026-11-06T10:46:48","app":"Firefox","title":"Playwright Test — Mozilla Firefox"}
+{"start":"2026-11-06T10:46:48","end":"2026-11-06T10:47:23","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:47:23","end":"2026-11-06T10:47:28","app":"Visual Studio Code","title":"Visual Studio Code"}
+{"start":"2026-11-06T10:47:28","end":"2026-11-06T10:47:33","app":"Visual Studio Code","title":"vrf-system.proto (Working Tree) (vrf-system.proto) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:47:33","end":"2026-11-06T10:47:38","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:47:38","end":"2026-11-06T10:47:53","app":"Visual Studio Code","title":"smoke.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:47:53","end":"2026-11-06T10:48:08","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:48:08","end":"2026-11-06T10:48:13","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-06T10:48:13","end":"2026-11-06T10:48:18","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T10:48:18","end":"2026-11-06T10:48:33","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-06T10:48:33","end":"2026-11-06T10:49:18","app":"Visual Studio Code","title":"zz-dump.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:49:18","end":"2026-11-06T10:49:23","app":"Visual Studio Code","title":"smoke.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:49:23","end":"2026-11-06T10:49:38","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:49:38","end":"2026-11-06T10:49:48","app":"Firefox","title":"Installation | Playwright — Mozilla Firefox"}
+{"start":"2026-11-06T10:49:48","end":"2026-11-06T10:50:38","app":"Firefox","title":"Annotations | Playwright — Mozilla Firefox"}
+{"start":"2026-11-06T10:50:38","end":"2026-11-06T10:50:43","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:50:43","end":"2026-11-06T10:51:08","app":"Visual Studio Code","title":"smoke.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:51:08","end":"2026-11-06T10:51:13","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:51:13","end":"2026-11-06T10:51:18","app":"Firefox","title":""}
+{"start":"2026-11-06T10:51:18","end":"2026-11-06T10:53:14","app":"Firefox","title":"Playwright Test — Mozilla Firefox"}
+{"start":"2026-11-06T10:53:14","end":"2026-11-06T10:53:44","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:53:44","end":"2026-11-06T10:54:04","app":"Firefox","title":"Playwright Test — Mozilla Firefox"}
+{"start":"2026-11-06T10:54:04","end":"2026-11-06T10:54:09","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:54:09","end":"2026-11-06T10:55:54","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T10:55:54","end":"2026-11-06T10:55:59","app":"SearchHost","title":"Sök"}
+{"start":"2026-11-06T10:55:59","end":"2026-11-06T10:56:04","app":"Utforskaren","title":""}
+{"start":"2026-11-06T10:56:04","end":"2026-11-06T10:56:09","app":"Microsoft Outlook","title":"Outlook"}
+{"start":"2026-11-06T10:56:09","end":"2026-11-06T10:56:14","app":"Microsoft Outlook","title":"Mail - Albin Forsberg - Outlook"}
+{"start":"2026-11-06T10:56:14","end":"2026-11-06T10:57:04","app":"Firefox","title":"2645 Custom.docx — Mozilla Firefox"}
+{"start":"2026-11-06T10:57:04","end":"2026-11-06T10:57:19","app":"Firefox","title":"2644 Custom.docx — Mozilla Firefox"}
+{"start":"2026-11-06T10:57:19","end":"2026-11-06T10:57:29","app":"Firefox","title":"Playwright Test — Mozilla Firefox"}
+{"start":"2026-11-06T10:57:29","end":"2026-11-06T10:57:39","app":"Visual Studio Code","title":"projects.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:57:39","end":"2026-11-06T10:57:49","app":"Visual Studio Code","title":"projects.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T10:57:49","end":"2026-11-06T10:58:19","app":"Firefox","title":"Playwright Test — Mozilla Firefox"}
+{"start":"2026-11-06T10:58:19","end":"2026-11-06T10:58:24","app":"Utforskaren","title":""}
+{"start":"2026-11-06T10:58:24","end":"2026-11-06T11:03:24","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:03:24","end":"2026-11-06T11:07:19","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:07:19","end":"2026-11-06T11:07:34","app":"Visual Studio Code","title":"projects.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:07:34","end":"2026-11-06T11:07:44","app":"Visual Studio Code","title":"projects.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:07:44","end":"2026-11-06T11:08:19","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:08:19","end":"2026-11-06T11:08:54","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:08:54","end":"2026-11-06T11:08:59","app":"Firefox","title":"Annotations | Playwright — Mozilla Firefox"}
+{"start":"2026-11-06T11:08:59","end":"2026-11-06T11:09:29","app":"Firefox","title":"Emulation | Playwright — Mozilla Firefox"}
+{"start":"2026-11-06T11:09:29","end":"2026-11-06T11:09:34","app":"Utforskaren","title":""}
+{"start":"2026-11-06T11:09:34","end":"2026-11-06T11:10:19","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:10:19","end":"2026-11-06T11:10:24","app":"Visual Studio Code","title":"index.html - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:10:24","end":"2026-11-06T11:10:29","app":"Firefox","title":"vscode-remote://wsl%2Bubuntu/home/albinforsberg/code/gitlab.divid.se/panasonic/dxpro-designer-2/playwright-report/index.html - Sök på Google — Mozilla Firefox"}
+{"start":"2026-11-06T11:10:29","end":"2026-11-06T11:10:39","app":"Visual Studio Code","title":"index.html - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:10:39","end":"2026-11-06T11:10:49","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-06T11:10:49","end":"2026-11-06T11:10:54","app":"Firefox","title":"listing directory / — Mozilla Firefox"}
+{"start":"2026-11-06T11:10:54","end":"2026-11-06T11:11:29","app":"Firefox","title":"Playwright Test Report — Mozilla Firefox"}
+{"start":"2026-11-06T11:11:29","end":"2026-11-06T11:11:44","app":"Visual Studio Code","title":"index.html - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:11:44","end":"2026-11-06T11:11:49","app":"Firefox","title":"Playwright Test — Mozilla Firefox"}
+{"start":"2026-11-06T11:11:49","end":"2026-11-06T11:11:54","app":"Visual Studio Code","title":"index.html - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:11:54","end":"2026-11-06T11:12:20","app":"Visual Studio Code","title":"vrf-system.proto (Working Tree) (vrf-system.proto) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:12:20","end":"2026-11-06T11:12:30","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:12:30","end":"2026-11-06T11:12:35","app":"Visual Studio Code","title":"smoke.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:12:35","end":"2026-11-06T11:13:20","app":"Visual Studio Code","title":"projects.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:13:20","end":"2026-11-06T11:14:35","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:14:35","end":"2026-11-06T11:14:55","app":"Firefox","title":"Playwright Test — Mozilla Firefox"}
+{"start":"2026-11-06T11:14:55","end":"2026-11-06T11:15:20","app":"Firefox","title":"Fel vid sidhämtning — Mozilla Firefox"}
+{"start":"2026-11-06T11:15:20","end":"2026-11-06T11:16:05","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:16:05","end":"2026-11-06T11:16:10","app":"Firefox","title":"Playwright Test — Mozilla Firefox"}
+{"start":"2026-11-06T11:16:10","end":"2026-11-06T11:16:50","app":"Firefox","title":"Global setup and teardown | Playwright — Mozilla Firefox"}
+{"start":"2026-11-06T11:16:50","end":"2026-11-06T11:17:10","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:17:10","end":"2026-11-06T11:17:15","app":"Firefox","title":"Global setup and teardown | Playwright — Mozilla Firefox"}
+{"start":"2026-11-06T11:17:15","end":"2026-11-06T11:18:20","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:18:20","end":"2026-11-06T11:18:50","app":"Firefox","title":"Parallelism | Playwright — Mozilla Firefox"}
+{"start":"2026-11-06T11:18:50","end":"2026-11-06T11:19:01","app":"Firefox","title":"Projects | Playwright — Mozilla Firefox"}
+{"start":"2026-11-06T11:22:55","end":"2026-11-06T11:23:00","app":"Visual Studio Code","title":"projects.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:23:00","end":"2026-11-06T11:23:50","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:23:50","end":"2026-11-06T11:24:05","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:24:05","end":"2026-11-06T11:24:10","app":"Visual Studio Code","title":"sign-in.setup.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:24:10","end":"2026-11-06T11:24:15","app":"Visual Studio Code","title":"tsconfig.json - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:24:15","end":"2026-11-06T11:24:30","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:24:30","end":"2026-11-06T11:25:30","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:25:30","end":"2026-11-06T11:25:35","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-06T11:25:35","end":"2026-11-06T11:25:55","app":"Firefox","title":"Matrix expressions in GitLab CI/CD | GitLab Docs — Mozilla Firefox"}
+{"start":"2026-11-06T11:25:55","end":"2026-11-06T11:26:40","app":"Firefox","title":"Projects | Playwright — Mozilla Firefox"}
+{"start":"2026-11-06T11:26:40","end":"2026-11-06T11:26:45","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T11:26:45","end":"2026-11-06T11:26:50","app":"Firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T11:26:50","end":"2026-11-06T11:26:55","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T11:26:55","end":"2026-11-06T11:27:00","app":"Firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T11:27:00","end":"2026-11-06T11:27:05","app":"Firefox","title":"panasonic / flux-panasonic-prod · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T11:27:05","end":"2026-11-06T11:27:10","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-06T11:27:10","end":"2026-11-06T11:27:35","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:27:35","end":"2026-11-06T11:30:45","app":"Visual Studio Code","title":".gitlab-ci.yml - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:30:45","end":"2026-11-06T11:33:21","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:33:21","end":"2026-11-06T11:33:26","app":"Visual Studio Code","title":"package.json - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:33:26","end":"2026-11-06T11:36:16","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:36:16","end":"2026-11-06T11:36:21","app":"Firefox","title":"Sign in to dxpro — Mozilla Firefox"}
+{"start":"2026-11-06T11:36:21","end":"2026-11-06T11:36:26","app":"Firefox","title":"Panasonic PRO Club — Mozilla Firefox"}
+{"start":"2026-11-06T11:36:26","end":"2026-11-06T11:36:51","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-06T11:36:51","end":"2026-11-06T11:37:01","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-06T11:37:01","end":"2026-11-06T11:37:21","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:37:21","end":"2026-11-06T11:37:26","app":"Visual Studio Code","title":".gitlab-ci.yml - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:37:26","end":"2026-11-06T11:37:31","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:37:31","end":"2026-11-06T11:37:46","app":"Microsoft Outlook","title":"Gitlab - Albin Forsberg - Outlook"}
+{"start":"2026-11-06T11:37:46","end":"2026-11-06T11:37:56","app":"Microsoft Outlook","title":"Sentry - Albin Forsberg - Outlook"}
+{"start":"2026-11-06T11:37:56","end":"2026-11-06T11:39:36","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:39:36","end":"2026-11-06T11:39:46","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:39:46","end":"2026-11-06T11:40:01","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:40:01","end":"2026-11-06T11:40:06","app":"Visual Studio Code","title":"● playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:40:06","end":"2026-11-06T11:43:21","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:43:21","end":"2026-11-06T11:43:46","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:43:46","end":"2026-11-06T11:43:51","app":"Firefox","title":"Fel vid sidhämtning — Mozilla Firefox"}
+{"start":"2026-11-06T11:43:51","end":"2026-11-06T11:44:21","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:44:21","end":"2026-11-06T11:45:31","app":"Visual Studio Code","title":"Extension: Playwright Test for VSCode - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:45:31","end":"2026-11-06T11:45:36","app":"Firefox","title":"Fel vid sidhämtning — Mozilla Firefox"}
+{"start":"2026-11-06T11:45:36","end":"2026-11-06T11:45:41","app":"Visual Studio Code","title":"Extension: Playwright Test for VSCode - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:45:41","end":"2026-11-06T11:46:06","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:46:06","end":"2026-11-06T11:46:46","app":"Firefox","title":"Playwright Test — Mozilla Firefox"}
+{"start":"2026-11-06T11:46:46","end":"2026-11-06T11:46:51","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:46:51","end":"2026-11-06T11:47:41","app":"Fjärrskrivbord","title":"DX PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T11:47:41","end":"2026-11-06T11:48:01","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:48:01","end":"2026-11-06T11:48:06","app":"Firefox","title":"Playwright Test — Mozilla Firefox"}
+{"start":"2026-11-06T11:48:06","end":"2026-11-06T11:48:16","app":"Visual Studio Code","title":"Extension: Playwright Test for VSCode - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:48:16","end":"2026-11-06T11:48:31","app":"Firefox","title":"Agents | Playwright — Mozilla Firefox"}
+{"start":"2026-11-06T11:48:31","end":"2026-11-06T11:49:41","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:49:41","end":"2026-11-06T11:50:01","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:50:01","end":"2026-11-06T11:50:06","app":"Visual Studio Code","title":"README.md - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:50:06","end":"2026-11-06T11:50:26","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:50:26","end":"2026-11-06T11:50:36","app":"Visual Studio Code","title":"seed.spec.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:50:36","end":"2026-11-06T11:50:51","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:50:51","end":"2026-11-06T11:51:46","app":"Visual Studio Code","title":".mcp.json - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:51:46","end":"2026-11-06T11:52:57","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:52:57","end":"2026-11-06T11:53:17","app":"Visual Studio Code","title":".mcp.json - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:53:17","end":"2026-11-06T11:53:27","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-06T11:53:27","end":"2026-11-06T11:53:47","app":"Firefox","title":"Startsida | Trello — Mozilla Firefox"}
+{"start":"2026-11-06T11:53:47","end":"2026-11-06T11:53:52","app":"Fjärrskrivbord","title":"about:blank - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T11:53:52","end":"2026-11-06T11:53:57","app":"Visual Studio Code","title":".mcp.json - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:53:57","end":"2026-11-06T11:54:12","app":"Fjärrskrivbord","title":"DX PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T11:54:12","end":"2026-11-06T11:54:27","app":"Visual Studio Code","title":"seed.spec.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:54:27","end":"2026-11-06T11:55:17","app":"Fjärrskrivbord","title":"DX PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T11:55:17","end":"2026-11-06T11:57:57","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T11:57:57","end":"2026-11-06T11:58:02","app":"Visual Studio Code","title":"projects.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T11:58:02","end":"2026-11-06T12:00:22","app":"Visual Studio Code","title":"projects.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T12:00:22","end":"2026-11-06T12:00:57","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T12:00:57","end":"2026-11-06T12:01:02","app":"Visual Studio Code","title":"projects.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T12:01:02","end":"2026-11-06T12:01:07","app":"Visual Studio Code","title":"projects.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T12:01:07","end":"2026-11-06T12:01:12","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T12:01:12","end":"2026-11-06T12:02:47","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T12:02:47","end":"2026-11-06T12:02:52","app":"Firefox","title":"Fel vid sidhämtning — Mozilla Firefox"}
+{"start":"2026-11-06T12:02:52","end":"2026-11-06T12:02:57","app":"Firefox","title":""}
+{"start":"2026-11-06T12:02:57","end":"2026-11-06T12:03:12","app":"Firefox","title":"Playwright Test — Mozilla Firefox"}
+{"start":"2026-11-06T12:03:12","end":"2026-11-06T12:03:17","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-06T12:03:17","end":"2026-11-06T12:06:17","app":"Firefox","title":"Playwright Test — Mozilla Firefox"}
+{"start":"2026-11-06T12:06:17","end":"2026-11-06T12:06:37","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T12:06:37","end":"2026-11-06T12:06:52","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T12:06:52","end":"2026-11-06T12:06:57","app":"Visual Studio Code","title":"● .gitignore - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T12:06:57","end":"2026-11-06T12:07:02","app":"Visual Studio Code","title":".gitignore - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T12:07:02","end":"2026-11-06T12:07:07","app":"Visual Studio Code","title":"seed.spec.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T12:07:07","end":"2026-11-06T12:09:02","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T12:09:02","end":"2026-11-06T12:09:07","app":"Firefox","title":"Fel vid sidhämtning — Mozilla Firefox"}
+{"start":"2026-11-06T12:09:07","end":"2026-11-06T12:09:32","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-06T12:09:32","end":"2026-11-06T12:13:02","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T12:13:02","end":"2026-11-06T12:13:27","app":"Fjärrskrivbord","title":"DX PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T12:13:27","end":"2026-11-06T12:14:03","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T12:17:43","end":"2026-11-06T12:17:48","app":"Fjärrskrivbord","title":"DX PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T12:21:38","end":"2026-11-06T12:21:43","app":"Visual Studio Code","title":"seed.spec.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T12:21:43","end":"2026-11-06T12:21:48","app":"Visual Studio Code","title":"systems.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T12:21:48","end":"2026-11-06T12:21:53","app":"Visual Studio Code","title":"systems.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T12:21:53","end":"2026-11-06T12:22:03","app":"Visual Studio Code","title":"systems.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T12:22:03","end":"2026-11-06T12:22:08","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T12:22:08","end":"2026-11-06T12:22:13","app":"Visual Studio Code","title":"systems.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T12:22:13","end":"2026-11-06T12:25:58","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T12:25:58","end":"2026-11-06T12:26:03","app":"Visual Studio Code","title":"smoke.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T12:26:03","end":"2026-11-06T12:26:08","app":"Visual Studio Code","title":"systems.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T12:26:08","end":"2026-11-06T12:26:13","app":"Visual Studio Code","title":"systems.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T12:29:43","end":"2026-11-06T12:29:46","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T12:32:58","end":"2026-11-06T12:34:53","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T12:34:53","end":"2026-11-06T12:35:13","app":"Fjärrskrivbord","title":"DX PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T12:38:03","end":"2026-11-06T12:38:13","app":"Visual Studio Code","title":"systems.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T12:38:13","end":"2026-11-06T12:38:33","app":"Visual Studio Code","title":"floorplan.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:00:44","end":"2026-11-06T13:00:49","app":"Fjärrskrivbord","title":"DX PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T13:00:49","end":"2026-11-06T13:00:54","app":"Utforskaren","title":""}
+{"start":"2026-11-06T13:00:54","end":"2026-11-06T13:01:09","app":"Claude","title":"Claude"}
+{"start":"2026-11-06T13:01:09","end":"2026-11-06T13:01:14","app":"Fjärrskrivbord","title":"DX PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T13:01:14","end":"2026-11-06T13:01:34","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-06T13:01:34","end":"2026-11-06T13:03:44","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-06T13:03:44","end":"2026-11-06T13:03:49","app":"Visual Studio Code","title":"floorplan.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:03:49","end":"2026-11-06T13:03:54","app":"Visual Studio Code","title":"systems.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:03:54","end":"2026-11-06T13:04:24","app":"Visual Studio Code","title":"systems.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:04:24","end":"2026-11-06T13:04:34","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:04:34","end":"2026-11-06T13:04:39","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:04:39","end":"2026-11-06T13:04:44","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:04:44","end":"2026-11-06T13:04:59","app":"Visual Studio Code","title":"health.ts (Working Tree) (health.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:04:59","end":"2026-11-06T13:05:04","app":"Visual Studio Code","title":"systems.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:05:04","end":"2026-11-06T13:05:09","app":"Visual Studio Code","title":"vite.config.ts (Working Tree) (vite.config.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:05:09","end":"2026-11-06T13:05:19","app":"Visual Studio Code","title":"grid-svg.tsx (Working Tree) (grid-svg.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:05:19","end":"2026-11-06T13:05:59","app":"Visual Studio Code","title":"mounting-svg.tsx (Working Tree) (mounting-svg.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:05:59","end":"2026-11-06T13:06:29","app":"Visual Studio Code","title":"systems.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:06:29","end":"2026-11-06T13:06:34","app":"Visual Studio Code","title":"tsconfig.json - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:06:34","end":"2026-11-06T13:06:49","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:06:49","end":"2026-11-06T13:07:30","app":"Visual Studio Code","title":"floorplan.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:07:30","end":"2026-11-06T13:11:55","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:11:55","end":"2026-11-06T13:12:00","app":"Visual Studio Code","title":"floorplan.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:12:00","end":"2026-11-06T13:12:05","app":"Visual Studio Code","title":"health.ts (Working Tree) (health.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:12:05","end":"2026-11-06T13:12:10","app":"Visual Studio Code","title":"grid-svg.tsx (Working Tree) (grid-svg.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:12:10","end":"2026-11-06T13:12:15","app":"Visual Studio Code","title":"mounting-svg.tsx (Working Tree) (mounting-svg.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:12:15","end":"2026-11-06T13:13:05","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:13:05","end":"2026-11-06T13:13:10","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-06T13:13:10","end":"2026-11-06T13:13:25","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:13:25","end":"2026-11-06T13:13:50","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-06T13:13:50","end":"2026-11-06T13:13:55","app":"Utforskaren","title":""}
+{"start":"2026-11-06T13:13:55","end":"2026-11-06T13:14:50","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:14:50","end":"2026-11-06T13:14:55","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-06T13:14:55","end":"2026-11-06T13:17:35","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:17:35","end":"2026-11-06T13:17:40","app":"Firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:17:40","end":"2026-11-06T13:17:45","app":"Firefox","title":"Startsida | Trello — Mozilla Firefox"}
+{"start":"2026-11-06T13:17:45","end":"2026-11-06T13:17:55","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-06T13:17:55","end":"2026-11-06T13:18:00","app":"Firefox","title":"Detailed error/warning messages selectable in printout på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-06T13:18:00","end":"2026-11-06T13:18:10","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-06T13:18:10","end":"2026-11-06T13:18:40","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:18:40","end":"2026-11-06T13:19:35","app":"Visual Studio Code","title":"mounting-svg.tsx (Working Tree) (mounting-svg.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:19:35","end":"2026-11-06T13:19:55","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:19:55","end":"2026-11-06T13:20:20","app":"Visual Studio Code","title":"README.md - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:20:20","end":"2026-11-06T13:20:55","app":"Visual Studio Code","title":".gitlab-ci.yml (Index) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:20:55","end":"2026-11-06T13:21:30","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:21:30","end":"2026-11-06T13:21:35","app":"Visual Studio Code","title":".gitlab-ci.yml (Index) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:21:35","end":"2026-11-06T13:23:10","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:23:10","end":"2026-11-06T13:23:15","app":"Visual Studio Code","title":".gitlab-ci.yml (Index) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:23:15","end":"2026-11-06T13:23:20","app":"Visual Studio Code","title":"index.ts (Index) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:23:20","end":"2026-11-06T13:23:25","app":"Visual Studio Code","title":"health.ts (Index) (health.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:23:25","end":"2026-11-06T13:23:30","app":"Visual Studio Code","title":"● health.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:23:30","end":"2026-11-06T13:23:35","app":"Visual Studio Code","title":"health.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:23:35","end":"2026-11-06T13:23:45","app":"Visual Studio Code","title":"vite.config.ts (Index) (vite.config.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:23:45","end":"2026-11-06T13:23:50","app":"Visual Studio Code","title":"smoke.e2e.ts (Index) (smoke.e2e.ts (Index)) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:23:50","end":"2026-11-06T13:23:55","app":"Visual Studio Code","title":"tsconfig.json (Index) (tsconfig.json (Index)) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:23:55","end":"2026-11-06T13:24:00","app":"Visual Studio Code","title":"● tsconfig.json - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:24:00","end":"2026-11-06T13:24:15","app":"Visual Studio Code","title":"sign-in.setup.ts (Index) (sign-in.setup.ts (Index)) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:24:15","end":"2026-11-06T13:24:20","app":"Visual Studio Code","title":"sign-in.setup.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:24:20","end":"2026-11-06T13:24:25","app":"Visual Studio Code","title":"● sign-in.setup.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:24:25","end":"2026-11-06T13:24:30","app":"Visual Studio Code","title":"sign-in.setup.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:24:30","end":"2026-11-06T13:24:35","app":"Visual Studio Code","title":"● sign-in.setup.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:24:35","end":"2026-11-06T13:24:40","app":"Visual Studio Code","title":"sign-in.setup.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:24:40","end":"2026-11-06T13:24:50","app":"Visual Studio Code","title":"fixtures.ts (Index) (fixtures.ts (Index)) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:24:50","end":"2026-11-06T13:24:55","app":"Visual Studio Code","title":"● fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:24:55","end":"2026-11-06T13:25:00","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:25:00","end":"2026-11-06T13:25:35","app":"Visual Studio Code","title":"index.ts (Index) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:25:35","end":"2026-11-06T13:25:40","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:25:40","end":"2026-11-06T13:25:45","app":"Visual Studio Code","title":"● index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:25:45","end":"2026-11-06T13:26:00","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:26:00","end":"2026-11-06T13:26:55","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:26:55","end":"2026-11-06T13:27:00","app":"DBeaver Community","title":"DBeaver 26.2.1 - project"}
+{"start":"2026-11-06T13:27:00","end":"2026-11-06T13:27:05","app":"Docker Desktop","title":"dagger-engine-v0.21.10 - Container - Docker Desktop"}
+{"start":"2026-11-06T13:27:05","end":"2026-11-06T13:27:10","app":"Docker Desktop","title":"Images - Docker Desktop"}
+{"start":"2026-11-06T13:27:10","end":"2026-11-06T13:27:40","app":"DBeaver Community","title":"DBeaver 26.2.1 - project"}
+{"start":"2026-11-06T13:27:40","end":"2026-11-06T13:28:55","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:28:55","end":"2026-11-06T13:29:00","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-06T13:29:00","end":"2026-11-06T13:30:45","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:30:45","end":"2026-11-06T13:31:10","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:31:10","end":"2026-11-06T13:31:15","app":"Visual Studio Code","title":"● index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:31:15","end":"2026-11-06T13:32:11","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:32:11","end":"2026-11-06T13:32:16","app":"Visual Studio Code","title":"playwright.config.ts (Index) (playwright.config.ts (Index)) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:32:16","end":"2026-11-06T13:32:21","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:32:21","end":"2026-11-06T13:32:46","app":"Visual Studio Code","title":"● playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:32:46","end":"2026-11-06T13:32:51","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:32:51","end":"2026-11-06T13:33:06","app":"Visual Studio Code","title":"● playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:33:06","end":"2026-11-06T13:33:31","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:33:31","end":"2026-11-06T13:33:41","app":"Firefox","title":"Automatic tests for calcualtion på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-06T13:33:41","end":"2026-11-06T13:33:51","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-06T13:33:51","end":"2026-11-06T13:33:56","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:33:56","end":"2026-11-06T13:34:31","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:34:31","end":"2026-11-06T13:35:11","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:35:11","end":"2026-11-06T13:35:16","app":"Visual Studio Code","title":"● playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:35:16","end":"2026-11-06T13:35:21","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:35:21","end":"2026-11-06T13:36:56","app":"Firefox","title":"Playwright Test — Mozilla Firefox"}
+{"start":"2026-11-06T13:36:56","end":"2026-11-06T13:37:06","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:37:06","end":"2026-11-06T13:37:11","app":"Visual Studio Code","title":"package.json (Index) (package.json) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:37:11","end":"2026-11-06T13:37:26","app":"Visual Studio Code","title":".gitlab-ci.yml (Index) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:37:26","end":"2026-11-06T13:37:31","app":"Visual Studio Code","title":"● .gitlab-ci.yml - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:37:31","end":"2026-11-06T13:37:41","app":"Visual Studio Code","title":".gitlab-ci.yml - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:37:41","end":"2026-11-06T13:37:46","app":"Visual Studio Code","title":"package.json (Index) (package.json) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:37:46","end":"2026-11-06T13:37:51","app":"Visual Studio Code","title":"pnpm-lock.yaml (Index) (pnpm-lock.yaml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:37:51","end":"2026-11-06T13:37:56","app":"Visual Studio Code","title":"index.ts (Index) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:37:56","end":"2026-11-06T13:38:01","app":"Visual Studio Code","title":"smoke.e2e.ts (Index) (smoke.e2e.ts (Index)) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:38:01","end":"2026-11-06T13:38:11","app":"Visual Studio Code","title":"vite.config.ts (Index) (vite.config.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:38:11","end":"2026-11-06T13:39:01","app":"Visual Studio Code","title":"index.ts (Index) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:39:01","end":"2026-11-06T13:39:16","app":"Visual Studio Code","title":"DEPENDENCY-UPGRADES.md (578a2ec) ↔ DEPENDENCY-UPGRADES.md (993da62) (DEPENDENCY-UPGRADES.md) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:39:16","end":"2026-11-06T13:39:21","app":"Firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:39:21","end":"2026-11-06T13:39:26","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:39:26","end":"2026-11-06T13:39:51","app":"Firefox","title":"Remove Chromium, puppeteer and Monaco, move vitest to devDependencies (993da62c) · Commits · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:39:51","end":"2026-11-06T13:40:26","app":"Visual Studio Code","title":"DEPENDENCY-UPGRADES.md (578a2ec) ↔ DEPENDENCY-UPGRADES.md (993da62) (DEPENDENCY-UPGRADES.md) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:40:26","end":"2026-11-06T13:40:36","app":"Firefox","title":"Branches · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:40:36","end":"2026-11-06T13:40:41","app":"Visual Studio Code","title":"DEPENDENCY-UPGRADES.md (578a2ec) ↔ DEPENDENCY-UPGRADES.md (993da62) (DEPENDENCY-UPGRADES.md) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:40:41","end":"2026-11-06T13:40:46","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:40:46","end":"2026-11-06T13:40:51","app":"Visual Studio Code","title":".gitlab-ci.yml - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:40:51","end":"2026-11-06T13:41:31","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:41:31","end":"2026-11-06T13:42:01","app":"Visual Studio Code","title":".gitlab-ci.yml - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:42:01","end":"2026-11-06T13:42:06","app":"Firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:42:06","end":"2026-11-06T13:42:11","app":"Firefox","title":"Pipelines · Commits · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:42:11","end":"2026-11-06T13:42:36","app":"Firefox","title":"Pipeline #214311 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:42:36","end":"2026-11-06T13:42:56","app":"Visual Studio Code","title":".gitlab-ci.yml - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:42:56","end":"2026-11-06T13:43:11","app":"Firefox","title":"e2e: [aquarea] (#527737) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:43:11","end":"2026-11-06T13:43:26","app":"Firefox","title":"Pipeline #214311 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:43:26","end":"2026-11-06T13:43:36","app":"Firefox","title":"e2e: [aquarea] (#527737) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:43:36","end":"2026-11-06T13:44:16","app":"Firefox","title":"Pipeline #214311 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:44:16","end":"2026-11-06T13:44:51","app":"Firefox","title":"e2e: [aquarea] (#527737) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:44:51","end":"2026-11-06T13:45:16","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:45:16","end":"2026-11-06T13:46:11","app":"Firefox","title":"e2e: [aquarea] (#527737) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:46:11","end":"2026-11-06T13:46:16","app":"Visual Studio Code","title":".gitlab-ci.yml - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:46:16","end":"2026-11-06T13:46:21","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:46:21","end":"2026-11-06T13:46:41","app":"Firefox","title":"Pipeline #214311 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:46:41","end":"2026-11-06T13:46:56","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:46:56","end":"2026-11-06T13:47:21","app":"Firefox","title":"e2e: [aquarea] (#527737) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:47:21","end":"2026-11-06T13:47:26","app":"Firefox","title":"Pipeline #214311 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:47:26","end":"2026-11-06T13:48:06","app":"Firefox","title":"e2e: [aquarea] (#527737) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:48:06","end":"2026-11-06T13:48:11","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-06T13:48:11","end":"2026-11-06T13:48:16","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:48:16","end":"2026-11-06T13:48:21","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-06T13:48:21","end":"2026-11-06T13:48:36","app":"Firefox","title":"e2e: [aquarea] (#527737) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:48:36","end":"2026-11-06T13:48:46","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:48:46","end":"2026-11-06T13:49:26","app":"Firefox","title":"Pipeline #214311 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:49:26","end":"2026-11-06T13:49:31","app":"Utforskaren","title":"playwright-report – Utforskaren"}
+{"start":"2026-11-06T13:49:31","end":"2026-11-06T13:49:36","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:49:36","end":"2026-11-06T13:49:41","app":"Utforskaren","title":"artifacts.zip – Utforskaren"}
+{"start":"2026-11-06T13:49:41","end":"2026-11-06T13:49:51","app":"Utforskaren","title":"Hämtade filer – Utforskaren"}
+{"start":"2026-11-06T13:49:51","end":"2026-11-06T13:49:56","app":"Utforskaren","title":"artifacts – Utforskaren"}
+{"start":"2026-11-06T13:49:56","end":"2026-11-06T13:51:46","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T13:51:46","end":"2026-11-06T13:51:51","app":"Firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:51:51","end":"2026-11-06T13:51:56","app":"Firefox","title":"New merge request · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:51:56","end":"2026-11-06T13:52:01","app":"Firefox","title":"Pipelines · Commits · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:52:01","end":"2026-11-06T13:52:11","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:52:11","end":"2026-11-06T13:52:26","app":"Visual Studio Code","title":"playwright.config.ts (Working Tree) (playwright.config.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:52:26","end":"2026-11-06T13:53:36","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:53:36","end":"2026-11-06T13:55:01","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-06T13:55:01","end":"2026-11-06T13:56:36","app":"Visual Studio Code","title":"smoke.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T13:56:36","end":"2026-11-06T13:56:46","app":"Firefox","title":"Pipelines · Commits · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:56:46","end":"2026-11-06T13:56:56","app":"Firefox","title":"added playwright (6acd4a0f) · Commits · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:56:56","end":"2026-11-06T13:57:01","app":"Firefox","title":"Pipeline #214311 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:57:01","end":"2026-11-06T13:57:16","app":"Firefox","title":"e2e: [aquarea] (#527737) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:57:16","end":"2026-11-06T13:57:27","app":"Firefox","title":"Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:57:27","end":"2026-11-06T13:57:37","app":"Firefox","title":"e2e: [aquarea] (#527743) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T13:57:37","end":"2026-11-06T13:59:32","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-06T13:59:32","end":"2026-11-06T14:00:27","app":"Firefox","title":"e2e: [aquarea] (#527743) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:00:27","end":"2026-11-06T14:00:32","app":"Firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:00:32","end":"2026-11-06T14:00:37","app":"Visual Studio Code","title":"smoke.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:00:37","end":"2026-11-06T14:00:42","app":"Visual Studio Code","title":"config.ts (Working Tree) (config.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:00:42","end":"2026-11-06T14:00:47","app":"Visual Studio Code","title":"● config.ts (Working Tree) (config.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:00:47","end":"2026-11-06T14:01:02","app":"Visual Studio Code","title":"playwright.config.ts (Working Tree) (playwright.config.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:01:02","end":"2026-11-06T14:01:27","app":"Visual Studio Code","title":"config.ts (Index) (config.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:01:27","end":"2026-11-06T14:01:32","app":"Firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:01:32","end":"2026-11-06T14:01:42","app":"Firefox","title":"Pipelines · Commits · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:01:42","end":"2026-11-06T14:03:17","app":"Firefox","title":"e2e: [aquarea] (#527752) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:03:17","end":"2026-11-06T14:03:22","app":"Firefox","title":"Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:03:22","end":"2026-11-06T14:03:32","app":"Firefox","title":"e2e: [dxpro] (#527749) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:03:32","end":"2026-11-06T14:03:42","app":"Firefox","title":"Artifacts · e2e: [dxpro] (#527749) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:03:42","end":"2026-11-06T14:04:02","app":"Firefox","title":"Playwright Test Report — Mozilla Firefox"}
+{"start":"2026-11-06T14:04:02","end":"2026-11-06T14:04:12","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-11-06T14:04:12","end":"2026-11-06T14:04:27","app":"Firefox","title":"Playwright Test Report — Mozilla Firefox"}
+{"start":"2026-11-06T14:04:27","end":"2026-11-06T14:04:32","app":"Firefox","title":"Artifacts · e2e: [dxpro] (#527749) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:04:32","end":"2026-11-06T14:04:42","app":"Firefox","title":"New merge request · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:04:42","end":"2026-11-06T14:04:47","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:04:47","end":"2026-11-06T14:04:57","app":"Visual Studio Code","title":"config.ts (Index) (config.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:04:57","end":"2026-11-06T14:05:12","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:05:12","end":"2026-11-06T14:05:52","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T14:05:52","end":"2026-11-06T14:06:32","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:06:32","end":"2026-11-06T14:06:57","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T14:06:57","end":"2026-11-06T14:07:42","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:07:42","end":"2026-11-06T14:07:47","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:07:47","end":"2026-11-06T14:07:57","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:07:57","end":"2026-11-06T14:09:07","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T14:09:07","end":"2026-11-06T14:09:12","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:09:12","end":"2026-11-06T14:09:32","app":"Visual Studio Code","title":"playwright.config.ts (Working Tree) (playwright.config.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:09:32","end":"2026-11-06T14:10:17","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T14:10:17","end":"2026-11-06T14:10:22","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:10:22","end":"2026-11-06T14:10:57","app":"Visual Studio Code","title":"playwright.config.ts (Working Tree) (playwright.config.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:10:57","end":"2026-11-06T14:11:27","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:11:27","end":"2026-11-06T14:11:42","app":"Firefox","title":"Pipeline #214324 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:11:42","end":"2026-11-06T14:11:57","app":"Firefox","title":"e2e: [aquarea] (#527772) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:11:57","end":"2026-11-06T14:12:02","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-06T14:12:02","end":"2026-11-06T14:12:07","app":"Firefox","title":"Panasonic PRO Club — Mozilla Firefox"}
+{"start":"2026-11-06T14:12:07","end":"2026-11-06T14:12:12","app":"Firefox","title":"POST data — Mozilla Firefox"}
+{"start":"2026-11-06T14:12:12","end":"2026-11-06T14:12:22","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-06T14:12:22","end":"2026-11-06T14:12:52","app":"Firefox","title":"Pipeline #214324 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:12:52","end":"2026-11-06T14:13:32","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T14:13:32","end":"2026-11-06T14:14:12","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-11-06T14:14:12","end":"2026-11-06T14:14:22","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:14:22","end":"2026-11-06T14:14:37","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-11-06T14:14:37","end":"2026-11-06T14:14:42","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:14:42","end":"2026-11-06T14:14:47","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-11-06T14:14:47","end":"2026-11-06T14:14:52","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:14:52","end":"2026-11-06T14:15:02","app":"Visual Studio Code","title":"config.ts (6acd4a0) ↔ config.ts (f14b7b3) (config.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:15:02","end":"2026-11-06T14:15:47","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-11-06T14:15:47","end":"2026-11-06T14:15:52","app":"Visual Studio Code","title":".gitlab-ci.yml (6acd4a0) ↔ .gitlab-ci.yml (f14b7b3) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:15:52","end":"2026-11-06T14:15:57","app":"Visual Studio Code","title":"playwright.config.ts (6acd4a0) ↔ playwright.config.ts (f14b7b3) (playwright.config.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:15:57","end":"2026-11-06T14:16:57","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-11-06T14:16:57","end":"2026-11-06T14:17:47","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T14:17:47","end":"2026-11-06T14:17:57","app":"Visual Studio Code","title":"vitest.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:17:57","end":"2026-11-06T14:18:02","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T14:18:02","end":"2026-11-06T14:18:17","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:18:17","end":"2026-11-06T14:18:57","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T14:18:57","end":"2026-11-06T14:20:02","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:20:02","end":"2026-11-06T14:20:17","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:20:17","end":"2026-11-06T14:20:37","app":"Visual Studio Code","title":"vitest.config.mts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:20:37","end":"2026-11-06T14:20:47","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T14:20:47","end":"2026-11-06T14:21:07","app":"Visual Studio Code","title":"vitest.config.mts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:21:07","end":"2026-11-06T14:21:12","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:21:12","end":"2026-11-06T14:21:32","app":"Visual Studio Code","title":"vitest.config.mts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:21:32","end":"2026-11-06T14:22:27","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T14:22:27","end":"2026-11-06T14:22:32","app":"Visual Studio Code","title":"vitest.config.mts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:22:32","end":"2026-11-06T14:23:17","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:23:17","end":"2026-11-06T14:23:27","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:23:27","end":"2026-11-06T14:23:52","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:23:52","end":"2026-11-06T14:24:52","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:24:52","end":"2026-11-06T14:25:20","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:30:33","end":"2026-11-06T14:31:18","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:31:18","end":"2026-11-06T14:31:33","app":"Visual Studio Code","title":"sweden.test.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:31:33","end":"2026-11-06T14:31:53","app":"Visual Studio Code","title":"sweden.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:31:53","end":"2026-11-06T14:32:43","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T14:32:43","end":"2026-11-06T14:32:48","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:32:48","end":"2026-11-06T14:32:58","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:32:58","end":"2026-11-06T14:33:13","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T14:33:13","end":"2026-11-06T14:33:18","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:33:18","end":"2026-11-06T14:33:23","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-06T14:33:23","end":"2026-11-06T14:33:28","app":"Firefox","title":"Pipeline #214324 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:33:28","end":"2026-11-06T14:34:23","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:34:23","end":"2026-11-06T14:34:43","app":"Visual Studio Code","title":"vitest.config.mts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:34:43","end":"2026-11-06T14:34:48","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:34:48","end":"2026-11-06T14:34:58","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:34:58","end":"2026-11-06T14:35:13","app":"Visual Studio Code","title":"● index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:35:13","end":"2026-11-06T14:36:03","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:36:03","end":"2026-11-06T14:36:13","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:36:13","end":"2026-11-06T14:36:28","app":"Visual Studio Code","title":".gitlab-ci.yml - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:36:28","end":"2026-11-06T14:36:33","app":"Visual Studio Code","title":"vitest.config.mts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:36:33","end":"2026-11-06T14:37:08","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:37:08","end":"2026-11-06T14:37:33","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T14:37:33","end":"2026-11-06T14:38:03","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:38:03","end":"2026-11-06T14:38:13","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:38:13","end":"2026-11-06T14:38:18","app":"Firefox","title":"unit-test (#527785) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:38:18","end":"2026-11-06T14:38:43","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:38:43","end":"2026-11-06T14:39:28","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T14:39:28","end":"2026-11-06T14:39:43","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:39:43","end":"2026-11-06T14:39:48","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:39:48","end":"2026-11-06T14:39:53","app":"Firefox","title":"unit-test (#527785) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:39:53","end":"2026-11-06T14:40:18","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:40:18","end":"2026-11-06T14:40:38","app":"Fjärrskrivbord","title":"DX PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T14:40:38","end":"2026-11-06T14:40:43","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:40:43","end":"2026-11-06T14:40:53","app":"Visual Studio Code","title":"project-list-item.tsx (Working Tree) (project-list-item.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:40:53","end":"2026-11-06T14:41:23","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:41:23","end":"2026-11-06T14:41:33","app":"Visual Studio Code","title":"project-list-item.tsx (Working Tree) (project-list-item.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:41:33","end":"2026-11-06T14:41:48","app":"Firefox","title":"Pipeline #214328 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:41:48","end":"2026-11-06T14:41:53","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - 1 new item - Slack"}
+{"start":"2026-11-06T14:41:53","end":"2026-11-06T14:41:58","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-11-06T14:41:58","end":"2026-11-06T14:42:23","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:42:23","end":"2026-11-06T14:42:33","app":"Visual Studio Code","title":"project-list-item.tsx (Working Tree) (project-list-item.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:42:33","end":"2026-11-06T14:42:43","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:42:43","end":"2026-11-06T14:42:53","app":"Visual Studio Code","title":"project-list.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:42:53","end":"2026-11-06T14:43:13","app":"Visual Studio Code","title":"projects.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:43:13","end":"2026-11-06T14:43:43","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:43:43","end":"2026-11-06T14:43:48","app":"Visual Studio Code","title":"projects.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:43:48","end":"2026-11-06T14:44:18","app":"Visual Studio Code","title":".gitlab-ci.yml - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:44:18","end":"2026-11-06T14:45:13","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:45:13","end":"2026-11-06T14:45:18","app":"Visual Studio Code","title":".gitlab-ci.yml - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:45:18","end":"2026-11-06T14:45:38","app":"Visual Studio Code","title":"projects.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:45:38","end":"2026-11-06T14:45:43","app":"Visual Studio Code","title":"smoke.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:45:43","end":"2026-11-06T14:45:58","app":"Visual Studio Code","title":"projects.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:45:58","end":"2026-11-06T14:46:03","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-06T14:46:03","end":"2026-11-06T14:46:23","app":"Fjärrskrivbord","title":"DX PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T14:46:23","end":"2026-11-06T14:46:43","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:46:43","end":"2026-11-06T14:46:53","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:46:53","end":"2026-11-06T14:46:58","app":"Firefox","title":"Pipeline #214328 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:46:58","end":"2026-11-06T14:47:18","app":"Firefox","title":"unit-test (#527785) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:47:18","end":"2026-11-06T14:47:23","app":"Firefox","title":"Pipeline #214328 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:47:23","end":"2026-11-06T14:47:38","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:47:38","end":"2026-11-06T14:47:53","app":"Firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:47:53","end":"2026-11-06T14:48:03","app":"Firefox","title":"AHU Kit removal of some table dependencies + report section split (ab70c48e) · Commits · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:48:03","end":"2026-11-06T14:48:08","app":"Firefox","title":"Merge branch 'master' of gitlab.divid.se:panasonic/dxpro-designer (181cbb64) · Commits · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:48:08","end":"2026-11-06T14:48:13","app":"Firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:48:13","end":"2026-11-06T14:48:18","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:48:18","end":"2026-11-06T14:48:43","app":"Fjärrskrivbord","title":"DX PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T14:48:43","end":"2026-11-06T14:48:58","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:48:58","end":"2026-11-06T14:49:03","app":"Firefox","title":"Pipeline #214330 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:49:03","end":"2026-11-06T14:49:23","app":"Firefox","title":"Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:49:23","end":"2026-11-06T14:49:28","app":"Firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:49:28","end":"2026-11-06T14:50:23","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:50:23","end":"2026-11-06T14:50:28","app":"Visual Studio Code","title":"projects.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:50:28","end":"2026-11-06T14:52:19","app":"Visual Studio Code","title":"smoke.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:52:19","end":"2026-11-06T14:52:24","app":"Fjärrskrivbord","title":"DX PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T14:52:24","end":"2026-11-06T14:53:59","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:53:59","end":"2026-11-06T14:54:24","app":"Fjärrskrivbord","title":"DX PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T14:54:24","end":"2026-11-06T14:54:59","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T14:54:59","end":"2026-11-06T14:55:19","app":"Visual Studio Code","title":"projects.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:55:19","end":"2026-11-06T14:55:54","app":"Visual Studio Code","title":"project-list.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:55:54","end":"2026-11-06T14:58:34","app":"Visual Studio Code","title":"sign-in.setup.ts (Working Tree) (sign-in.setup.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T14:58:34","end":"2026-11-06T15:00:34","app":"Visual Studio Code","title":"project-list.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:00:34","end":"2026-11-06T15:00:49","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:00:49","end":"2026-11-06T15:00:54","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T15:00:54","end":"2026-11-06T15:00:59","app":"Firefox","title":"Agents | Playwright — Mozilla Firefox"}
+{"start":"2026-11-06T15:00:59","end":"2026-11-06T15:01:04","app":"Firefox","title":"Library | Playwright — Mozilla Firefox"}
+{"start":"2026-11-06T15:01:04","end":"2026-11-06T15:01:09","app":"Firefox","title":"Clock | Playwright — Mozilla Firefox"}
+{"start":"2026-11-06T15:01:09","end":"2026-11-06T15:01:49","app":"Firefox","title":"Component testing | Playwright — Mozilla Firefox"}
+{"start":"2026-11-06T15:01:49","end":"2026-11-06T15:02:04","app":"Firefox","title":"Mock APIs | Playwright — Mozilla Firefox"}
+{"start":"2026-11-06T15:02:04","end":"2026-11-06T15:02:14","app":"Firefox","title":"Test generator | Playwright — Mozilla Firefox"}
+{"start":"2026-11-06T15:02:14","end":"2026-11-06T15:02:19","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:02:19","end":"2026-11-06T15:02:24","app":"Visual Studio Code","title":"test-1.spec.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:02:24","end":"2026-11-06T15:02:39","app":"Fjärrskrivbord","title":"about:blank - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T15:02:39","end":"2026-11-06T15:02:44","app":"Fjärrskrivbord","title":"localhost - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T15:02:44","end":"2026-11-06T15:03:14","app":"Visual Studio Code","title":"● test-1.spec.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:03:14","end":"2026-11-06T15:03:49","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:03:49","end":"2026-11-06T15:03:54","app":"Fjärrskrivbord","title":"about:blank - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T15:03:54","end":"2026-11-06T15:04:09","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:04:09","end":"2026-11-06T15:04:14","app":"Fjärrskrivbord","title":""}
+{"start":"2026-11-06T15:04:14","end":"2026-11-06T15:04:24","app":"Fjärrskrivbord","title":"about:blank - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T15:04:24","end":"2026-11-06T15:04:34","app":"Visual Studio Code","title":"test-1.spec.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:04:34","end":"2026-11-06T15:04:39","app":"Fjärrskrivbord","title":"about:blank - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T15:04:39","end":"2026-11-06T15:04:44","app":"Visual Studio Code","title":"test-1.spec.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:04:44","end":"2026-11-06T15:05:04","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:05:04","end":"2026-11-06T15:05:09","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-06T15:05:09","end":"2026-11-06T15:05:14","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T15:05:14","end":"2026-11-06T15:05:29","app":"Firefox","title":"Pipeline #214328 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T15:05:29","end":"2026-11-06T15:05:39","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T15:05:39","end":"2026-11-06T15:05:49","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:05:49","end":"2026-11-06T15:05:54","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - 1 new item - Slack"}
+{"start":"2026-11-06T15:05:54","end":"2026-11-06T15:06:09","app":"Slack","title":"general (Channel) - Divid - Slack"}
+{"start":"2026-11-06T15:06:09","end":"2026-11-06T15:06:19","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:06:19","end":"2026-11-06T15:06:34","app":"Visual Studio Code","title":".gitlab-ci.yml - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:06:34","end":"2026-11-06T15:06:59","app":"Visual Studio Code","title":"● .gitlab-ci.yml - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:06:59","end":"2026-11-06T15:07:44","app":"Visual Studio Code","title":".gitlab-ci.yml - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:07:44","end":"2026-11-06T15:07:49","app":"Claude","title":"Claude"}
+{"start":"2026-11-06T15:07:49","end":"2026-11-06T15:11:20","app":"Visual Studio Code","title":".gitlab-ci.yml - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:11:20","end":"2026-11-06T15:11:25","app":"Utforskaren","title":"Växla mellan aktiviteter"}
+{"start":"2026-11-06T15:11:25","end":"2026-11-06T15:12:20","app":"Slack","title":"general (Channel) - Divid - Slack"}
+{"start":"2026-11-06T15:12:20","end":"2026-11-06T15:12:45","app":"Visual Studio Code","title":".gitlab-ci.yml - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:12:45","end":"2026-11-06T15:12:50","app":"Firefox","title":"Playwright Test — Mozilla Firefox"}
+{"start":"2026-11-06T15:12:50","end":"2026-11-06T15:12:55","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-06T15:12:55","end":"2026-11-06T15:15:55","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-06T15:15:55","end":"2026-11-06T15:16:00","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T15:16:00","end":"2026-11-06T15:16:05","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-06T15:16:05","end":"2026-11-06T15:16:10","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T15:16:10","end":"2026-11-06T15:17:10","app":"Visual Studio Code","title":".gitlab-ci.yml - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:17:10","end":"2026-11-06T15:19:25","app":"Fjärrskrivbord","title":"DX PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T15:19:25","end":"2026-11-06T15:19:30","app":"Fjärrskrivbord","title":"about:blank - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T15:19:30","end":"2026-11-06T15:19:45","app":"Fjärrskrivbord","title":"DX PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T15:19:45","end":"2026-11-06T15:19:50","app":"Visual Studio Code","title":".gitlab-ci.yml - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:19:50","end":"2026-11-06T15:20:05","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T15:20:05","end":"2026-11-06T15:20:10","app":"Fjärrskrivbord","title":"DX PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T15:20:10","end":"2026-11-06T15:20:15","app":"Visual Studio Code","title":".gitlab-ci.yml - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:20:15","end":"2026-11-06T15:20:24","app":"Visual Studio Code","title":".snap2.mjs - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:23:40","end":"2026-11-06T15:23:45","app":"Utforskaren","title":"Växla mellan aktiviteter"}
+{"start":"2026-11-06T15:23:45","end":"2026-11-06T15:25:50","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T15:25:50","end":"2026-11-06T15:25:55","app":"Utforskaren","title":"Växla mellan aktiviteter"}
+{"start":"2026-11-06T15:25:55","end":"2026-11-06T15:26:51","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T15:26:51","end":"2026-11-06T15:28:21","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T15:28:21","end":"2026-11-06T15:28:26","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-06T15:28:26","end":"2026-11-06T15:28:41","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T15:28:41","end":"2026-11-06T15:28:46","app":"Utforskaren","title":"Växla mellan aktiviteter"}
+{"start":"2026-11-06T15:28:46","end":"2026-11-06T15:31:51","app":"Claude","title":"Claude"}
+{"start":"2026-11-06T15:31:51","end":"2026-11-06T15:32:01","app":"Fjärrskrivbord","title":"DX PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T15:32:01","end":"2026-11-06T15:35:36","app":"Visual Studio Code","title":".snap2.mjs - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:35:36","end":"2026-11-06T15:35:46","app":"Visual Studio Code","title":"tsconfig.json - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:35:46","end":"2026-11-06T15:36:36","app":"Visual Studio Code","title":"vitest.config.mts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:36:36","end":"2026-11-06T15:36:41","app":"Visual Studio Code","title":"playwright.config.ts (Working Tree) (playwright.config.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:36:41","end":"2026-11-06T15:36:56","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:36:56","end":"2026-11-06T15:39:21","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T15:39:21","end":"2026-11-06T15:39:31","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:39:31","end":"2026-11-06T15:39:36","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T15:39:36","end":"2026-11-06T15:39:41","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T15:39:41","end":"2026-11-06T15:39:46","app":"Firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T15:39:46","end":"2026-11-06T15:39:51","app":"Firefox","title":"panasonic / diaq-publish-server · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T15:39:51","end":"2026-11-06T15:39:56","app":"Firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T15:39:56","end":"2026-11-06T15:40:01","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T15:40:01","end":"2026-11-06T15:40:51","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T15:40:51","end":"2026-11-06T15:42:01","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:42:01","end":"2026-11-06T15:42:06","app":"Fjärrskrivbord","title":"Untitled - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T15:42:06","end":"2026-11-06T15:42:26","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:42:26","end":"2026-11-06T15:42:31","app":"Firefox","title":"Playwright Trace Viewer — Mozilla Firefox"}
+{"start":"2026-11-06T15:42:31","end":"2026-11-06T15:42:36","app":"Visual Studio Code","title":"playwright.config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:42:36","end":"2026-11-06T15:42:41","app":"Firefox","title":"Playwright Trace Viewer — Mozilla Firefox"}
+{"start":"2026-11-06T15:42:41","end":"2026-11-06T15:43:31","app":"Visual Studio Code","title":"project-list.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:43:31","end":"2026-11-06T15:43:41","app":"Fjärrskrivbord","title":"DX PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T15:43:41","end":"2026-11-06T15:43:51","app":"Fjärrskrivbord","title":"Ref PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T15:43:51","end":"2026-11-06T15:44:02","app":"Fjärrskrivbord","title":"Vent PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T15:44:02","end":"2026-11-06T15:44:12","app":"Fjärrskrivbord","title":"Aquarea - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T15:44:12","end":"2026-11-06T15:45:07","app":"Fjärrskrivbord","title":"DX PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T15:45:07","end":"2026-11-06T15:45:12","app":"Fjärrskrivbord","title":"127.0.0.1:3100 - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T15:45:12","end":"2026-11-06T15:45:27","app":"Visual Studio Code","title":"project-list.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:45:27","end":"2026-11-06T15:46:57","app":"Fjärrskrivbord","title":"Ref PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T15:46:57","end":"2026-11-06T15:47:02","app":"Fjärrskrivbord","title":"127.0.0.1:3120 - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T15:47:02","end":"2026-11-06T15:47:07","app":"Fjärrskrivbord","title":"Vent PRO Designer - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T15:47:07","end":"2026-11-06T15:48:22","app":"Visual Studio Code","title":"project-list.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:48:22","end":"2026-11-06T15:49:47","app":"Fjärrskrivbord","title":"Aquarea - Google Chrome for Testing (Ubuntu)"}
+{"start":"2026-11-06T15:49:47","end":"2026-11-06T15:49:52","app":"Visual Studio Code","title":"project-list.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:49:52","end":"2026-11-06T15:49:57","app":"Firefox","title":"Playwright Trace Viewer — Mozilla Firefox"}
+{"start":"2026-11-06T15:49:57","end":"2026-11-06T15:53:12","app":"Visual Studio Code","title":"project-list.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:53:12","end":"2026-11-06T15:54:17","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T15:54:17","end":"2026-11-06T15:54:22","app":"Visual Studio Code","title":"project-list.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:54:22","end":"2026-11-06T15:54:27","app":"Visual Studio Code","title":"fixtures.ts (Working Tree) (fixtures.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:54:27","end":"2026-11-06T15:54:32","app":"Visual Studio Code","title":"project-list.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:54:32","end":"2026-11-06T15:54:37","app":"Visual Studio Code","title":"● project-list.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:54:37","end":"2026-11-06T15:54:42","app":"Visual Studio Code","title":"project-list.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:54:42","end":"2026-11-06T15:54:47","app":"Visual Studio Code","title":"sign-in.setup.ts (Working Tree) (sign-in.setup.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:54:47","end":"2026-11-06T15:54:52","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:54:52","end":"2026-11-06T15:54:57","app":"Visual Studio Code","title":"projects.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:54:57","end":"2026-11-06T15:55:02","app":"Visual Studio Code","title":"● projects.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:55:02","end":"2026-11-06T15:55:07","app":"Visual Studio Code","title":"projects.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:55:07","end":"2026-11-06T15:55:12","app":"Visual Studio Code","title":"smoke.e2e.ts (Working Tree) (smoke.e2e.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:55:12","end":"2026-11-06T15:55:17","app":"Visual Studio Code","title":"projects.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:55:17","end":"2026-11-06T15:55:27","app":"Visual Studio Code","title":"project-list-item.tsx (Working Tree) (project-list-item.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:55:27","end":"2026-11-06T15:58:22","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T15:58:22","end":"2026-11-06T15:58:47","app":"Visual Studio Code","title":"project-list-item.tsx (Working Tree) (project-list-item.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:58:47","end":"2026-11-06T15:59:02","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T15:59:02","end":"2026-11-06T15:59:12","app":"Visual Studio Code","title":"project-list-item.tsx (Working Tree) (project-list-item.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:59:12","end":"2026-11-06T15:59:32","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T15:59:32","end":"2026-11-06T15:59:42","app":"Visual Studio Code","title":"project-list-item.tsx (Working Tree) (project-list-item.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T15:59:42","end":"2026-11-06T16:00:58","app":"Visual Studio Code","title":"project-list.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:00:58","end":"2026-11-06T16:01:13","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T16:01:13","end":"2026-11-06T16:01:18","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:01:18","end":"2026-11-06T16:01:28","app":"Visual Studio Code","title":"project-list.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:01:28","end":"2026-11-06T16:01:53","app":"Visual Studio Code","title":"projects.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:01:53","end":"2026-11-06T16:02:33","app":"Visual Studio Code","title":"smoke.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:02:33","end":"2026-11-06T16:03:03","app":"Visual Studio Code","title":"projects.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:03:03","end":"2026-11-06T16:03:08","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-06T16:03:08","end":"2026-11-06T16:03:33","app":"Visual Studio Code","title":"projects.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:03:33","end":"2026-11-06T16:03:43","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T16:03:43","end":"2026-11-06T16:03:48","app":"Visual Studio Code","title":"smoke.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:03:48","end":"2026-11-06T16:03:53","app":"Visual Studio Code","title":"fixtures.ts (Index) (fixtures.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:03:53","end":"2026-11-06T16:03:58","app":"Visual Studio Code","title":"fixtures.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:03:58","end":"2026-11-06T16:04:03","app":"Visual Studio Code","title":"projects.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:04:03","end":"2026-11-06T16:04:08","app":"Visual Studio Code","title":"● projects.e2e.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:04:08","end":"2026-11-06T16:04:13","app":"Visual Studio Code","title":"projects.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:04:13","end":"2026-11-06T16:04:18","app":"Visual Studio Code","title":"fixtures.ts (Working Tree) (fixtures.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:04:18","end":"2026-11-06T16:04:28","app":"Visual Studio Code","title":"● project-list.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:04:28","end":"2026-11-06T16:04:58","app":"Visual Studio Code","title":"project-list-item.tsx (Working Tree) (project-list-item.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:04:58","end":"2026-11-06T16:05:23","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T16:05:23","end":"2026-11-06T16:05:48","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:05:48","end":"2026-11-06T16:06:18","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:06:18","end":"2026-11-06T16:06:38","app":"Visual Studio Code","title":"vitest.config.mts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:06:38","end":"2026-11-06T16:07:08","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T16:07:08","end":"2026-11-06T16:07:13","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:07:13","end":"2026-11-06T16:07:18","app":"Visual Studio Code","title":"● index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:07:18","end":"2026-11-06T16:07:23","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:07:23","end":"2026-11-06T16:07:33","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:07:33","end":"2026-11-06T16:07:38","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T16:07:38","end":"2026-11-06T16:07:43","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:07:43","end":"2026-11-06T16:07:53","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T16:07:53","end":"2026-11-06T16:08:03","app":"Visual Studio Code","title":"vitest.config.mts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:08:03","end":"2026-11-06T16:08:58","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T16:08:58","end":"2026-11-06T16:09:08","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:09:08","end":"2026-11-06T16:09:28","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:09:28","end":"2026-11-06T16:09:43","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:09:43","end":"2026-11-06T16:10:28","app":"Firefox","title":"Pipeline #214356 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:10:28","end":"2026-11-06T16:10:33","app":"ShareX","title":"Update is available"}
+{"start":"2026-11-06T16:10:33","end":"2026-11-06T16:10:38","app":"Firefox","title":"Pipeline #214356 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:10:38","end":"2026-11-06T16:10:43","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T16:10:43","end":"2026-11-06T16:10:58","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:10:58","end":"2026-11-06T16:11:28","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:11:28","end":"2026-11-06T16:11:33","app":"Firefox","title":"Pipeline #214356 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:11:33","end":"2026-11-06T16:11:43","app":"Firefox","title":"unit-tests: [dxpro] (#527837) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:11:43","end":"2026-11-06T16:11:53","app":"Firefox","title":"Pipeline #214356 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:11:53","end":"2026-11-06T16:13:43","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:13:43","end":"2026-11-06T16:13:58","app":"Firefox","title":"Pipeline #214356 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:13:58","end":"2026-11-06T16:14:23","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:14:23","end":"2026-11-06T16:14:38","app":"Firefox","title":"e2e: [dxpro] (#527842) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:14:38","end":"2026-11-06T16:15:03","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:15:03","end":"2026-11-06T16:16:58","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T16:16:58","end":"2026-11-06T16:17:08","app":"Firefox","title":"e2e: [dxpro] (#527842) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:17:08","end":"2026-11-06T16:18:03","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:18:03","end":"2026-11-06T16:18:23","app":"Firefox","title":"Pipeline #214356 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:18:23","end":"2026-11-06T16:18:28","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:18:28","end":"2026-11-06T16:18:48","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T16:18:48","end":"2026-11-06T16:19:23","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:19:23","end":"2026-11-06T16:19:28","app":"Claude","title":"Claude"}
+{"start":"2026-11-06T16:19:28","end":"2026-11-06T16:19:38","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:19:38","end":"2026-11-06T16:19:43","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:19:43","end":"2026-11-06T16:19:58","app":"Firefox","title":"Pipeline #214356 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:19:58","end":"2026-11-06T16:20:03","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:20:03","end":"2026-11-06T16:20:33","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:20:33","end":"2026-11-06T16:20:38","app":"Visual Studio Code","title":".gitlab-ci.yml - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:20:38","end":"2026-11-06T16:21:27","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T16:24:58","end":"2026-11-06T16:25:09","app":"Utforskaren","title":"Växla mellan aktiviteter"}
+{"start":"2026-11-06T16:25:09","end":"2026-11-06T16:26:39","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T16:26:39","end":"2026-11-06T16:26:49","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:26:49","end":"2026-11-06T16:27:29","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:27:29","end":"2026-11-06T16:27:34","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-06T16:27:34","end":"2026-11-06T16:27:39","app":"Utforskaren","title":""}
+{"start":"2026-11-06T16:27:39","end":"2026-11-06T16:27:49","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-06T16:27:49","end":"2026-11-06T16:28:19","app":"Margin","title":"Projects — Margin"}
+{"start":"2026-11-06T16:28:19","end":"2026-11-06T16:29:14","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-06T16:29:14","end":"2026-11-06T16:29:19","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:29:19","end":"2026-11-06T16:29:39","app":"Firefox","title":"Repository graph · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:29:39","end":"2026-11-06T16:29:44","app":"Firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:29:44","end":"2026-11-06T16:29:49","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-06T16:29:49","end":"2026-11-06T16:29:59","app":"Firefox","title":"Infobox in the tool about the last update (maybe with version ) på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-06T16:29:59","end":"2026-11-06T16:30:04","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-06T16:30:04","end":"2026-11-06T16:30:09","app":"Firefox","title":"Infobox in the tool about the last update (maybe with version ) på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-06T16:30:09","end":"2026-11-06T16:30:19","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-06T16:30:19","end":"2026-11-06T16:30:24","app":"Firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:30:24","end":"2026-11-06T16:35:24","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T16:35:59","end":"2026-11-06T16:36:09","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-06T16:36:09","end":"2026-11-06T16:36:14","app":"Firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:36:14","end":"2026-11-06T16:36:29","app":"Firefox","title":"Pipeline #214356 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:36:29","end":"2026-11-06T16:36:44","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-06T16:36:44","end":"2026-11-06T16:36:49","app":"Microsoft Outlook","title":"Gitlab - Albin Forsberg - Outlook"}
+{"start":"2026-11-06T16:36:49","end":"2026-11-06T16:36:54","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-06T16:36:54","end":"2026-11-06T16:36:59","app":"Firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:36:59","end":"2026-11-06T16:37:14","app":"Firefox","title":"Add testing (!210) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-06T16:37:14","end":"2026-11-06T16:37:39","app":"Windows Terminal Host","title":"Ubuntu"}
