@@ -34,3 +34,23 @@
 {"start":"2026-11-07T00:08:25","end":"2026-11-07T00:08:55","app":"Claude","title":"Claude"}
 {"start":"2026-11-07T00:08:55","end":"2026-11-07T00:09:25","app":"Windows Terminal Host","title":"Ubuntu"}
 {"start":"2026-11-07T00:09:25","end":"2026-11-07T00:09:30","app":"SearchHost","title":"Sök"}
+{"start":"2026-11-07T00:34:04","end":"2026-11-07T00:34:24","app":"margin","title":"Time — Margin"}
+{"start":"2026-11-07T00:34:24","end":"2026-11-07T00:34:34","app":"firefox","title":"Index - Tidrapport.Web — Mozilla Firefox"}
+{"start":"2026-11-07T00:34:34","end":"2026-11-07T00:34:39","app":"org.freedesktop.impl.portal.desktop.kde","title":"File Upload - Tidsrapportering - Tidrapport.Web — Mozilla Firefox"}
+{"start":"2026-11-07T00:34:39","end":"2026-11-07T00:34:44","app":"firefox","title":"Tidsrapportering - Tidrapport.Web — Mozilla Firefox"}
+{"start":"2026-11-07T00:34:44","end":"2026-11-07T00:35:34","app":"firefox","title":"Importera Excel - Tidrapport.Web — Mozilla Firefox"}
+{"start":"2026-11-07T00:35:34","end":"2026-11-07T00:35:39","app":"firefox","title":"Choose a color"}
+{"start":"2026-11-07T00:35:39","end":"2026-11-07T00:35:44","app":"firefox","title":"Tidsrapportering - Tidrapport.Web — Mozilla Firefox"}
+{"start":"2026-11-07T00:35:44","end":"2026-11-07T00:35:49","app":"firefox","title":"Choose a color"}
+{"start":"2026-11-07T00:35:49","end":"2026-11-07T00:35:55","app":"firefox","title":"Tidsrapportering - Tidrapport.Web — Mozilla Firefox"}
+{"start":"2026-11-07T00:35:55","end":"2026-11-07T00:36:05","app":"firefox","title":"Choose a color"}
+{"start":"2026-11-07T00:36:05","end":"2026-11-07T00:36:10","app":"firefox","title":"Tidsrapportering - Tidrapport.Web — Mozilla Firefox"}
+{"start":"2026-11-07T00:36:10","end":"2026-11-07T00:36:20","app":"firefox","title":"Choose a color"}
+{"start":"2026-11-07T00:36:20","end":"2026-11-07T00:36:40","app":"firefox","title":"Tidsrapportering - Tidrapport.Web — Mozilla Firefox"}
+{"start":"2026-11-07T00:36:40","end":"2026-11-07T00:36:45","app":"firefox","title":"Choose a color"}
+{"start":"2026-11-07T00:36:45","end":"2026-11-07T00:37:50","app":"firefox","title":"Tidsrapportering - Tidrapport.Web — Mozilla Firefox"}
+{"start":"2026-11-07T00:37:50","end":"2026-11-07T00:37:55","app":"margin","title":"Time — Margin"}
+{"start":"2026-11-07T00:37:55","end":"2026-11-07T00:38:40","app":"firefox","title":"Tidsrapportering - Tidrapport.Web — Mozilla Firefox"}
+{"start":"2026-11-07T00:38:40","end":"2026-11-07T00:38:50","app":"firefox","title":"Index - Tidrapport.Web — Mozilla Firefox"}
+{"start":"2026-11-07T00:38:50","end":"2026-11-07T00:38:55","app":"firefox","title":"Tidsrapportering - Tidrapport.Web — Mozilla Firefox"}
+{"start":"2026-11-07T00:38:55","end":"2026-11-07T00:39:00","app":"firefox","title":"Choose a color"}
