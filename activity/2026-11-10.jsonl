@@ -716,3 +716,57 @@
 {"start":"2026-11-10T16:59:02","end":"2026-11-10T16:59:17","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
 {"start":"2026-11-10T16:59:17","end":"2026-11-10T17:01:32","app":"Claude","title":"Claude"}
 {"start":"2026-11-10T17:01:32","end":"2026-11-10T17:03:27","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-10T17:03:27","end":"2026-11-10T17:03:37","app":"Margin","title":"Today — Margin"}
+{"start":"2026-11-10T17:03:37","end":"2026-11-10T17:03:47","app":"Margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-11-10T17:03:47","end":"2026-11-10T17:03:57","app":"Margin","title":"• timelog.jsonl — Margin"}
+{"start":"2026-11-10T17:03:57","end":"2026-11-10T17:04:02","app":"Margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-11-10T17:04:02","end":"2026-11-10T17:04:07","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-10T17:04:07","end":"2026-11-10T17:04:33","app":"Margin","title":"Week report — Margin"}
+{"start":"2026-11-10T17:04:33","end":"2026-11-10T17:04:53","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-10T17:04:53","end":"2026-11-10T17:05:08","app":"Margin","title":"Month report — Margin"}
+{"start":"2026-11-10T17:05:08","end":"2026-11-10T17:05:18","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-10T17:05:18","end":"2026-11-10T17:05:23","app":"Visual Studio Code","title":"alerts.e2e.ts (Working Tree) (alerts.e2e.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-10T17:05:23","end":"2026-11-10T17:05:28","app":"Visual Studio Code","title":"multi-unit-alerts.test.ts (Working Tree) (multi-unit-alerts.test.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-10T17:05:28","end":"2026-11-10T17:05:38","app":"Visual Studio Code","title":"● multi-unit-alerts.test.ts (Working Tree) (multi-unit-alerts.test.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-10T17:05:38","end":"2026-11-10T17:05:48","app":"Visual Studio Code","title":"validate.ts (Working Tree) (validate.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-10T17:05:48","end":"2026-11-10T17:05:53","app":"Visual Studio Code","title":"run.ts (Working Tree) (run.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-10T17:05:53","end":"2026-11-10T17:06:03","app":"Visual Studio Code","title":"● run.ts (Working Tree) (run.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-10T17:06:03","end":"2026-11-10T17:06:08","app":"Visual Studio Code","title":"run.ts (Working Tree) (run.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-10T17:06:08","end":"2026-11-10T17:06:13","app":"Visual Studio Code","title":"validate-sensors.ts (Working Tree) (validate-sensors.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-10T17:06:13","end":"2026-11-10T17:06:18","app":"Visual Studio Code","title":"run.ts (Working Tree) (run.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-10T17:06:18","end":"2026-11-10T17:06:28","app":"Visual Studio Code","title":"● run.ts (Working Tree) (run.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-10T17:06:28","end":"2026-11-10T17:06:33","app":"Visual Studio Code","title":"run.ts (Working Tree) (run.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-10T17:06:33","end":"2026-11-10T17:06:43","app":"Visual Studio Code","title":"validate-branch.ts (Working Tree) (validate-branch.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-10T17:06:43","end":"2026-11-10T17:06:53","app":"Visual Studio Code","title":"validate-heat-recovery-box.ts (Working Tree) (validate-heat-recovery-box.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-10T17:06:53","end":"2026-11-10T17:07:08","app":"Visual Studio Code","title":"validate-node.ts (Working Tree) (validate-node.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-10T17:07:08","end":"2026-11-10T17:07:18","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-10T17:07:18","end":"2026-11-10T17:07:58","app":"Claude","title":"Claude"}
+{"start":"2026-11-10T17:07:58","end":"2026-11-10T17:08:03","app":"Visual Studio Code","title":"validate-node.ts (Working Tree) (validate-node.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-10T17:08:03","end":"2026-11-10T17:08:18","app":"Visual Studio Code","title":"state.ts (Working Tree) (state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-10T17:08:18","end":"2026-11-10T17:09:08","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-10T17:09:08","end":"2026-11-10T17:09:38","app":"Claude","title":"Claude"}
+{"start":"2026-11-10T17:09:38","end":"2026-11-10T17:09:43","app":"Visual Studio Code","title":"state.ts (Working Tree) (state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-10T17:09:43","end":"2026-11-10T17:09:48","app":"Margin","title":"Month report — Margin"}
+{"start":"2026-11-10T17:09:48","end":"2026-11-10T17:09:53","app":"Margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-11-10T17:09:53","end":"2026-11-10T17:09:58","app":"Margin","title":"• timelog.jsonl — Margin"}
+{"start":"2026-11-10T17:09:58","end":"2026-11-10T17:10:03","app":"Margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-11-10T17:10:03","end":"2026-11-10T17:10:18","app":"Claude","title":"Claude"}
+{"start":"2026-11-10T17:10:18","end":"2026-11-10T17:12:08","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-10T17:12:08","end":"2026-11-10T17:12:38","app":"Claude","title":"Claude"}
+{"start":"2026-11-10T17:12:38","end":"2026-11-10T17:12:43","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-10T17:12:43","end":"2026-11-10T17:12:48","app":"Microsoft Teams","title":"Aktivitet | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-10T17:12:48","end":"2026-11-10T17:12:58","app":"Microsoft Teams","title":"Aktivitet | Utvecklingssamtal Albin | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-10T17:12:58","end":"2026-11-10T17:13:03","app":"Utforskaren","title":""}
+{"start":"2026-11-10T17:13:03","end":"2026-11-10T17:14:38","app":"Microsoft Outlook","title":"Utvecklingssamtal Albin - Meeting - Calendar"}
+{"start":"2026-11-10T17:14:38","end":"2026-11-10T17:14:43","app":"Microsoft Teams","title":"Aktivitet | Utvecklingssamtal Albin | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-10T17:14:43","end":"2026-11-10T17:15:03","app":"Claude","title":"Claude"}
+{"start":"2026-11-10T17:15:03","end":"2026-11-10T17:15:08","app":"Visual Studio Code","title":"state.ts (Working Tree) (state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-10T17:15:08","end":"2026-11-10T17:15:28","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-10T17:15:28","end":"2026-11-10T17:15:38","app":"Firefox","title":"e2e testing-11.pdf — Mozilla Firefox"}
+{"start":"2026-11-10T17:15:38","end":"2026-11-10T17:15:43","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-10T17:15:43","end":"2026-11-10T17:15:48","app":"Firefox","title":"e2e testing-11.pdf — Mozilla Firefox"}
+{"start":"2026-11-10T17:15:48","end":"2026-11-10T17:16:28","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-10T17:16:28","end":"2026-11-10T17:16:33","app":"Firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-10T17:16:33","end":"2026-11-10T17:17:08","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-10T17:17:08","end":"2026-11-10T17:17:13","app":"Visual Studio Code","title":"state.ts (Working Tree) (state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-10T17:17:13","end":"2026-11-10T17:19:23","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
