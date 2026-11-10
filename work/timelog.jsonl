@@ -1637,3 +1637,5 @@
 {"ev":"break","t":"2026-11-09T16:24:41"}
 {"ev":"in","t":"2026-11-09T16:32:52","project":"dxpro"}
 {"ev":"out","t":"2026-11-09T16:41:21","note":"Multi alerts"}
+{"ev":"in","t":"2026-11-10T08:00:04","project":"dxpro","task":"Multi alerts"}
+{"ev":"out","t":"2026-11-10T10:49:46","note":"Multi alerts"}
