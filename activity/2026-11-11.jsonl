@@ -861,3 +861,32 @@
 {"start":"2026-11-11T16:53:43","end":"2026-11-11T16:54:53","app":"Firefox","title":"Panasonic Prod - Logs - Dashboards - Grafana — Mozilla Firefox"}
 {"start":"2026-11-11T16:54:53","end":"2026-11-11T16:56:33","app":"Windows Terminal Host","title":"Ubuntu"}
 {"start":"2026-11-11T16:56:33","end":"2026-11-11T16:56:48","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-11T16:56:48","end":"2026-11-11T16:57:13","app":"Margin","title":"Today — Margin"}
+{"start":"2026-11-11T16:57:13","end":"2026-11-11T16:57:28","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-11T16:57:28","end":"2026-11-11T16:58:08","app":"Margin","title":"Today — Margin"}
+{"start":"2026-11-11T16:58:08","end":"2026-11-11T16:58:28","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-11T16:58:28","end":"2026-11-11T16:58:38","app":"Firefox","title":"Error: Could not find EEV size mapping for: UNRECOGNIZED — panasonic-0s — refpro — Mozilla Firefox"}
+{"start":"2026-11-11T16:58:38","end":"2026-11-11T16:59:38","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-11T16:59:38","end":"2026-11-11T17:00:13","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-11T17:00:13","end":"2026-11-11T17:00:33","app":"Visual Studio Code","title":"calculate-capacity.ts (642d0c9) ↔ calculate-capacity.ts (68d6f4d) (calculate-capacity.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T17:00:33","end":"2026-11-11T17:00:48","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-11T17:00:48","end":"2026-11-11T17:01:08","app":"Visual Studio Code","title":"calculate-capacity.ts (642d0c9) ↔ calculate-capacity.ts (68d6f4d) (calculate-capacity.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T17:01:08","end":"2026-11-11T17:02:13","app":"Visual Studio Code","title":"columns.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T17:02:13","end":"2026-11-11T17:02:43","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-11T17:02:43","end":"2026-11-11T17:03:33","app":"Claude","title":"Claude"}
+{"start":"2026-11-11T17:03:33","end":"2026-11-11T17:03:38","app":"Visual Studio Code","title":"columns.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T17:03:38","end":"2026-11-11T17:04:13","app":"Claude","title":"Claude"}
+{"start":"2026-11-11T17:04:13","end":"2026-11-11T17:04:18","app":"Visual Studio Code","title":"columns.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T17:04:18","end":"2026-11-11T17:04:23","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-11T17:04:23","end":"2026-11-11T17:04:33","app":"Firefox","title":"Error: Could not find EEV size mapping for: UNRECOGNIZED — panasonic-0s — refpro — Mozilla Firefox"}
+{"start":"2026-11-11T17:04:33","end":"2026-11-11T17:04:48","app":"Firefox","title":"EEV på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-11T17:04:48","end":"2026-11-11T17:05:19","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-11T17:05:19","end":"2026-11-11T17:05:24","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-11T17:05:24","end":"2026-11-11T17:05:44","app":"Visual Studio Code","title":"columns.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T17:05:44","end":"2026-11-11T17:05:54","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-11-11T17:05:54","end":"2026-11-11T17:05:59","app":"Firefox","title":"Error: Could not find EEV size mapping for: UNRECOGNIZED — panasonic-0s — refpro — Mozilla Firefox"}
+{"start":"2026-11-11T17:05:59","end":"2026-11-11T17:06:09","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-11T17:06:09","end":"2026-11-11T17:06:24","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-11T17:06:24","end":"2026-11-11T17:06:29","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-11T17:06:29","end":"2026-11-11T17:06:49","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-11T17:06:49","end":"2026-11-11T17:07:04","app":"Margin","title":"Today — Margin"}
