@@ -1647,3 +1647,5 @@
 {"ev":"out","t":"2026-11-10T17:19:26","note":"Related warnings"}
 {"ev":"in","t":"2026-11-11T08:00:31","project":"dxpro"}
 {"ev":"out","t":"2026-11-11T09:01:09","note":"Related warnings"}
+{"ev":"in","t":"2026-11-11T09:01:10","project":"dxpro"}
+{"ev":"out","t":"2026-11-11T09:41:29","note":"Dxpro weekly"}
