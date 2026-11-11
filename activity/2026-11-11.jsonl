@@ -644,3 +644,220 @@
 {"start":"2026-11-11T15:42:13","end":"2026-11-11T15:42:18","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
 {"start":"2026-11-11T15:42:18","end":"2026-11-11T15:42:38","app":"Claude","title":"Claude"}
 {"start":"2026-11-11T15:42:38","end":"2026-11-11T15:42:53","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-11T15:42:53","end":"2026-11-11T15:43:03","app":"Margin","title":"Today — Margin"}
+{"start":"2026-11-11T15:43:03","end":"2026-11-11T15:43:08","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-11T15:43:08","end":"2026-11-11T15:43:23","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-11T15:43:23","end":"2026-11-11T15:43:33","app":"Claude","title":"Claude"}
+{"start":"2026-11-11T15:43:33","end":"2026-11-11T15:44:03","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-11T15:44:03","end":"2026-11-11T15:44:28","app":"Claude","title":"Claude"}
+{"start":"2026-11-11T15:44:28","end":"2026-11-11T15:44:33","app":"Firefox","title":"ocu_crc210m08-refrigeration_temperature_limits — Mozilla Firefox"}
+{"start":"2026-11-11T15:44:33","end":"2026-11-11T15:45:48","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-11T15:45:48","end":"2026-11-11T15:45:58","app":"Claude","title":"Claude"}
+{"start":"2026-11-11T15:45:58","end":"2026-11-11T15:46:03","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-11T15:46:03","end":"2026-11-11T15:46:43","app":"Claude","title":"Claude"}
+{"start":"2026-11-11T15:46:43","end":"2026-11-11T15:46:48","app":"Firefox","title":"ocu_crc210m08-refrigeration_eev_capacity_evaporation_temperature — Mozilla Firefox"}
+{"start":"2026-11-11T15:46:48","end":"2026-11-11T15:50:23","app":"Claude","title":"Claude"}
+{"start":"2026-11-11T15:50:23","end":"2026-11-11T15:50:28","app":"Utforskaren","title":""}
+{"start":"2026-11-11T15:50:28","end":"2026-11-11T15:50:33","app":"Microsoft Outlook","title":"Inbox - Albin Forsberg - Outlook"}
+{"start":"2026-11-11T15:50:33","end":"2026-11-11T15:50:58","app":"Claude","title":"Claude"}
+{"start":"2026-11-11T15:50:58","end":"2026-11-11T15:51:08","app":"Firefox","title":"ocu_crc210m08-refpro_ambient_temperature — Mozilla Firefox"}
+{"start":"2026-11-11T15:51:08","end":"2026-11-11T15:51:33","app":"Firefox","title":"ocu_crc210m08-refrigeration_eev_capacity_evaporation_temperature — Mozilla Firefox"}
+{"start":"2026-11-11T15:51:33","end":"2026-11-11T15:52:13","app":"Claude","title":"Claude"}
+{"start":"2026-11-11T15:52:13","end":"2026-11-11T15:52:18","app":"Visual Studio Code","title":"printout.ts (Working Tree) (printout.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T15:52:18","end":"2026-11-11T15:52:23","app":"Visual Studio Code","title":"eev.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T15:52:23","end":"2026-11-11T15:53:13","app":"Visual Studio Code","title":"calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T15:53:13","end":"2026-11-11T15:53:33","app":"Visual Studio Code","title":"eev.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T15:53:33","end":"2026-11-11T15:53:38","app":"Claude","title":"Claude"}
+{"start":"2026-11-11T15:53:38","end":"2026-11-11T15:53:43","app":"Visual Studio Code","title":"eev.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T15:53:43","end":"2026-11-11T15:54:23","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-11T15:54:23","end":"2026-11-11T15:54:28","app":"Visual Studio Code","title":"eev.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T15:54:28","end":"2026-11-11T15:54:43","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-11T15:54:43","end":"2026-11-11T15:56:18","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-11T15:56:18","end":"2026-11-11T15:56:38","app":"Visual Studio Code","title":"eev.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T15:56:38","end":"2026-11-11T15:56:53","app":"Firefox","title":"ocu_crc210m08-refrigeration_eev_capacity_evaporation_temperature — Mozilla Firefox"}
+{"start":"2026-11-11T15:56:53","end":"2026-11-11T15:58:08","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-11T15:58:08","end":"2026-11-11T15:58:13","app":"Utforskaren","title":""}
+{"start":"2026-11-11T15:58:13","end":"2026-11-11T15:58:23","app":"Visual Studio Code","title":"eev.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T15:58:23","end":"2026-11-11T15:58:33","app":"Visual Studio Code","title":"package.json (Working Tree) (package.json) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T15:58:33","end":"2026-11-11T15:58:48","app":"Visual Studio Code","title":"eev.ts (Working Tree) (eev.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T15:58:48","end":"2026-11-11T15:58:54","app":"Visual Studio Code","title":"● eev.ts (Working Tree) (eev.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T15:58:54","end":"2026-11-11T15:59:14","app":"Visual Studio Code","title":"eev.ts (Working Tree) (eev.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T15:59:14","end":"2026-11-11T15:59:24","app":"Visual Studio Code","title":"calculate-capacity.ts (Working Tree) (calculate-capacity.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T15:59:24","end":"2026-11-11T15:59:49","app":"Visual Studio Code","title":"eev.ts (Working Tree) (eev.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T15:59:49","end":"2026-11-11T15:59:59","app":"Visual Studio Code","title":"calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T15:59:59","end":"2026-11-11T16:00:29","app":"Visual Studio Code","title":"eev.ts (Working Tree) (eev.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:00:29","end":"2026-11-11T16:00:49","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-11T16:00:49","end":"2026-11-11T16:00:54","app":"Firefox","title":"ocu_crc210m08-refrigeration_eev_capacity_evaporation_temperature — Mozilla Firefox"}
+{"start":"2026-11-11T16:00:54","end":"2026-11-11T16:00:59","app":"Firefox","title":"Root-config_query — Mozilla Firefox"}
+{"start":"2026-11-11T16:00:59","end":"2026-11-11T16:01:09","app":"Firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-11-11T16:01:09","end":"2026-11-11T16:02:39","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-11T16:02:39","end":"2026-11-11T16:02:54","app":"Firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-11-11T16:02:54","end":"2026-11-11T16:03:14","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-11T16:03:14","end":"2026-11-11T16:03:19","app":"Utforskaren","title":""}
+{"start":"2026-11-11T16:03:19","end":"2026-11-11T16:03:24","app":"Claude","title":"Claude"}
+{"start":"2026-11-11T16:03:24","end":"2026-11-11T16:03:34","app":"Microsoft Teams","title":"Chatt | Client config | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-11T16:03:34","end":"2026-11-11T16:03:44","app":"Visual Studio Code","title":"eev.ts (Working Tree) (eev.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:03:44","end":"2026-11-11T16:03:49","app":"Microsoft Teams","title":"Chatt | Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-11T16:03:49","end":"2026-11-11T16:04:04","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-11T16:04:04","end":"2026-11-11T16:04:09","app":"Claude","title":"Claude"}
+{"start":"2026-11-11T16:04:09","end":"2026-11-11T16:04:29","app":"Visual Studio Code","title":"calculate-capacity.ts (Working Tree) (calculate-capacity.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:04:29","end":"2026-11-11T16:04:39","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-11T16:04:39","end":"2026-11-11T16:04:54","app":"Visual Studio Code","title":"calculate-capacity.ts (Working Tree) (calculate-capacity.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:04:54","end":"2026-11-11T16:05:19","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-11T16:05:19","end":"2026-11-11T16:05:29","app":"Visual Studio Code","title":"eev.ts (Working Tree) (eev.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:05:29","end":"2026-11-11T16:07:39","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-11T16:07:39","end":"2026-11-11T16:08:44","app":"Visual Studio Code","title":"eev.ts (Working Tree) (eev.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:08:44","end":"2026-11-11T16:08:49","app":"Firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:08:49","end":"2026-11-11T16:09:04","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:09:04","end":"2026-11-11T16:09:29","app":"Firefox","title":"Tags · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:09:29","end":"2026-11-11T16:09:34","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-11T16:09:34","end":"2026-11-11T16:09:49","app":"Firefox","title":"Tags · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:09:49","end":"2026-11-11T16:09:59","app":"Visual Studio Code","title":"eev.ts (Working Tree) (eev.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:09:59","end":"2026-11-11T16:10:04","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-11T16:10:04","end":"2026-11-11T16:10:19","app":"Visual Studio Code","title":"eev.ts (Working Tree) (eev.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:10:19","end":"2026-11-11T16:10:24","app":"Utforskaren","title":""}
+{"start":"2026-11-11T16:10:24","end":"2026-11-11T16:10:29","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-11T16:10:29","end":"2026-11-11T16:10:39","app":"Visual Studio Code","title":"eev.ts (Working Tree) (eev.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:10:39","end":"2026-11-11T16:10:54","app":"Claude","title":"Claude"}
+{"start":"2026-11-11T16:10:54","end":"2026-11-11T16:12:04","app":"Visual Studio Code","title":"eev.ts (Working Tree) (eev.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:12:04","end":"2026-11-11T16:12:09","app":"Utforskaren","title":""}
+{"start":"2026-11-11T16:12:09","end":"2026-11-11T16:12:29","app":"Visual Studio Code","title":"eev.ts (Working Tree) (eev.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:12:29","end":"2026-11-11T16:12:34","app":"Firefox","title":"EEV på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-11T16:12:34","end":"2026-11-11T16:12:40","app":"Firefox","title":"Tags · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:12:40","end":"2026-11-11T16:12:45","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:12:45","end":"2026-11-11T16:13:25","app":"Visual Studio Code","title":"eev.ts (Working Tree) (eev.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:13:25","end":"2026-11-11T16:13:35","app":"Visual Studio Code","title":"calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:13:35","end":"2026-11-11T16:14:00","app":"Visual Studio Code","title":"● calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:14:00","end":"2026-11-11T16:14:30","app":"Visual Studio Code","title":"promaster-tables.proto - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:14:30","end":"2026-11-11T16:14:35","app":"Visual Studio Code","title":"● promaster-tables.proto - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:14:35","end":"2026-11-11T16:14:40","app":"Visual Studio Code","title":"● calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:14:40","end":"2026-11-11T16:14:55","app":"Visual Studio Code","title":"calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:14:55","end":"2026-11-11T16:15:00","app":"Visual Studio Code","title":"Visual Studio Code"}
+{"start":"2026-11-11T16:15:00","end":"2026-11-11T16:15:45","app":"Visual Studio Code","title":"calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:15:45","end":"2026-11-11T16:15:50","app":"Visual Studio Code","title":"promaster-tables.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:15:50","end":"2026-11-11T16:16:15","app":"Visual Studio Code","title":"● promaster-tables.proto - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:16:15","end":"2026-11-11T16:17:50","app":"Visual Studio Code","title":"promaster-tables.proto - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:17:50","end":"2026-11-11T16:17:55","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-11T16:17:55","end":"2026-11-11T16:18:05","app":"Visual Studio Code","title":"promaster-tables.proto - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:18:05","end":"2026-11-11T16:18:15","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-11T16:18:15","end":"2026-11-11T16:18:20","app":"Visual Studio Code","title":"promaster-tables.proto - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:18:20","end":"2026-11-11T16:18:50","app":"Visual Studio Code","title":"calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:18:50","end":"2026-11-11T16:19:10","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-11T16:19:10","end":"2026-11-11T16:19:21","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-11T16:19:21","end":"2026-11-11T16:20:01","app":"Visual Studio Code","title":"calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:20:01","end":"2026-11-11T16:20:06","app":"Utforskaren","title":""}
+{"start":"2026-11-11T16:20:06","end":"2026-11-11T16:20:11","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-11T16:20:11","end":"2026-11-11T16:20:16","app":"Visual Studio Code","title":"calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:20:16","end":"2026-11-11T16:20:21","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-11T16:20:21","end":"2026-11-11T16:20:31","app":"Visual Studio Code","title":"calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:20:31","end":"2026-11-11T16:21:06","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-11T16:21:06","end":"2026-11-11T16:21:36","app":"Visual Studio Code","title":"calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:21:36","end":"2026-11-11T16:21:41","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-11T16:21:41","end":"2026-11-11T16:21:56","app":"Firefox","title":"Fel vid sidhämtning — Mozilla Firefox"}
+{"start":"2026-11-11T16:21:56","end":"2026-11-11T16:22:46","app":"Visual Studio Code","title":"calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:22:46","end":"2026-11-11T16:23:11","app":"Visual Studio Code","title":"config.ts (Working Tree) (config.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:23:11","end":"2026-11-11T16:23:26","app":"Firefox","title":"Fel vid sidhämtning — Mozilla Firefox"}
+{"start":"2026-11-11T16:23:26","end":"2026-11-11T16:23:36","app":"Visual Studio Code","title":"config.ts (Working Tree) (config.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:23:36","end":"2026-11-11T16:23:41","app":"Visual Studio Code","title":"config.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:23:41","end":"2026-11-11T16:23:51","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-11T16:23:51","end":"2026-11-11T16:23:56","app":"Visual Studio Code","title":"calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:23:56","end":"2026-11-11T16:24:01","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-11T16:24:01","end":"2026-11-11T16:24:21","app":"Visual Studio Code","title":"calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:24:21","end":"2026-11-11T16:24:26","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-11T16:24:26","end":"2026-11-11T16:24:31","app":"Visual Studio Code","title":"calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:24:31","end":"2026-11-11T16:25:21","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-11T16:25:21","end":"2026-11-11T16:25:41","app":"Firefox","title":"Fel vid sidhämtning — Mozilla Firefox"}
+{"start":"2026-11-11T16:25:41","end":"2026-11-11T16:25:56","app":"Firefox","title":"EEV på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-11T16:25:56","end":"2026-11-11T16:27:21","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-11T16:27:21","end":"2026-11-11T16:27:31","app":"Visual Studio Code","title":"calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:27:31","end":"2026-11-11T16:29:21","app":"Visual Studio Code","title":"promaster-tables.ts (Working Tree) (promaster-tables.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:29:21","end":"2026-11-11T16:29:26","app":"Claude","title":"Claude"}
+{"start":"2026-11-11T16:29:26","end":"2026-11-11T16:29:41","app":"Visual Studio Code","title":"promaster-tables.ts (Working Tree) (promaster-tables.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:29:41","end":"2026-11-11T16:29:46","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-11T16:29:46","end":"2026-11-11T16:29:51","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:29:51","end":"2026-11-11T16:30:11","app":"Firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:30:11","end":"2026-11-11T16:30:16","app":"Firefox","title":"Tags · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:30:16","end":"2026-11-11T16:30:21","app":"Firefox","title":"publish (#528800) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:30:21","end":"2026-11-11T16:30:27","app":"Firefox","title":"Pipeline #214906 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:30:27","end":"2026-11-11T16:30:47","app":"Firefox","title":"Tags · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:30:47","end":"2026-11-11T16:30:57","app":"Firefox","title":"Pipeline #214906 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:30:57","end":"2026-11-11T16:31:22","app":"Visual Studio Code","title":"calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:31:22","end":"2026-11-11T16:31:32","app":"Firefox","title":"Tags · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:31:32","end":"2026-11-11T16:31:57","app":"Firefox","title":"publish (#528800) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:31:57","end":"2026-11-11T16:32:07","app":"Firefox","title":"Pipeline #214906 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:32:07","end":"2026-11-11T16:32:12","app":"Firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:32:12","end":"2026-11-11T16:32:27","app":"Visual Studio Code","title":"calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:32:27","end":"2026-11-11T16:32:32","app":"Firefox","title":"Branches · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:32:32","end":"2026-11-11T16:32:37","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:32:37","end":"2026-11-11T16:32:47","app":"Firefox","title":"build (#528799) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:32:47","end":"2026-11-11T16:33:07","app":"Visual Studio Code","title":"calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:33:07","end":"2026-11-11T16:33:27","app":"Claude","title":"Claude"}
+{"start":"2026-11-11T16:33:27","end":"2026-11-11T16:35:52","app":"Visual Studio Code","title":"calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:35:52","end":"2026-11-11T16:35:57","app":"Firefox","title":"build (#528799) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:35:57","end":"2026-11-11T16:36:22","app":"Firefox","title":"Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:36:22","end":"2026-11-11T16:36:27","app":"Utforskaren","title":"New system – Utforskaren"}
+{"start":"2026-11-11T16:36:27","end":"2026-11-11T16:36:32","app":"Firefox","title":"Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:36:32","end":"2026-11-11T16:36:37","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-11T16:36:37","end":"2026-11-11T16:36:42","app":"Firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-11-11T16:36:42","end":"2026-11-11T16:37:47","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-11T16:37:47","end":"2026-11-11T16:37:57","app":"Firefox","title":"Error: Could not find EEV size mapping for: UNRECOGNIZED — panasonic-0s — refpro — Mozilla Firefox"}
+{"start":"2026-11-11T16:37:57","end":"2026-11-11T16:38:52","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-11T16:38:52","end":"2026-11-11T16:39:07","app":"Firefox","title":"Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:39:07","end":"2026-11-11T16:39:12","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-11T16:39:12","end":"2026-11-11T16:39:17","app":"Firefox","title":"Microsoft Authentication — Mozilla Firefox"}
+{"start":"2026-11-11T16:39:17","end":"2026-11-11T16:39:22","app":"Firefox","title":"Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-11-11T16:39:22","end":"2026-11-11T16:39:27","app":"Firefox","title":"Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:39:27","end":"2026-11-11T16:39:47","app":"Firefox","title":"Start - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-11-11T16:39:47","end":"2026-11-11T16:39:57","app":"Firefox","title":"panasonicacr - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-11-11T16:39:57","end":"2026-11-11T16:40:02","app":"Firefox","title":"Promaster — Mozilla Firefox"}
+{"start":"2026-11-11T16:40:02","end":"2026-11-11T16:40:07","app":"Firefox","title":"No Product Selected — Mozilla Firefox"}
+{"start":"2026-11-11T16:40:07","end":"2026-11-11T16:40:12","app":"Firefox","title":"Publish — Mozilla Firefox"}
+{"start":"2026-11-11T16:40:12","end":"2026-11-11T16:41:47","app":"Firefox","title":"Releases — Mozilla Firefox"}
+{"start":"2026-11-11T16:41:47","end":"2026-11-11T16:41:52","app":"Firefox","title":"Jobs — Mozilla Firefox"}
+{"start":"2026-11-11T16:41:52","end":"2026-11-11T16:41:57","app":"Firefox","title":"Publish — Mozilla Firefox"}
+{"start":"2026-11-11T16:41:57","end":"2026-11-11T16:42:02","app":"Firefox","title":"Releases — Mozilla Firefox"}
+{"start":"2026-11-11T16:42:02","end":"2026-11-11T16:42:07","app":"Firefox","title":"panasonicacr - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-11-11T16:42:07","end":"2026-11-11T16:42:12","app":"Firefox","title":"dxpro-designer/server-web-dxpro - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-11-11T16:42:12","end":"2026-11-11T16:42:32","app":"Firefox","title":"dxpro-designer/server-web-refpro - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-11-11T16:42:32","end":"2026-11-11T16:43:12","app":"Firefox","title":"Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:43:12","end":"2026-11-11T16:43:43","app":"Firefox","title":"publish (#528804) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:43:43","end":"2026-11-11T16:43:53","app":"Firefox","title":"dxpro-designer/server-web-refpro - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-11-11T16:43:53","end":"2026-11-11T16:44:08","app":"Visual Studio Code","title":"calculate-capacity.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:44:08","end":"2026-11-11T16:44:13","app":"Visual Studio Code","title":"calculate-capacity.ts (642d0c9) ↔ calculate-capacity.ts (68d6f4d) (calculate-capacity.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:44:13","end":"2026-11-11T16:44:28","app":"Firefox","title":"dxpro-designer/server-web-refpro - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-11-11T16:44:28","end":"2026-11-11T16:44:33","app":"Visual Studio Code","title":"calculate-capacity.ts (642d0c9) ↔ calculate-capacity.ts (68d6f4d) (calculate-capacity.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:44:33","end":"2026-11-11T16:44:38","app":"Visual Studio Code","title":"promaster-tables.proto (642d0c9) ↔ promaster-tables.proto (68d6f4d) (promaster-tables.proto) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:44:38","end":"2026-11-11T16:44:48","app":"Visual Studio Code","title":"promaster-tables.ts (642d0c9) ↔ promaster-tables.ts (68d6f4d) (promaster-tables.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:44:48","end":"2026-11-11T16:44:53","app":"Visual Studio Code","title":"promaster-tables.proto (642d0c9) ↔ promaster-tables.proto (68d6f4d) (promaster-tables.proto) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:44:53","end":"2026-11-11T16:44:58","app":"Visual Studio Code","title":"eev.ts (642d0c9) ↔ eev.ts (68d6f4d) (eev.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:44:58","end":"2026-11-11T16:45:13","app":"Visual Studio Code","title":"calculate-capacity.ts (642d0c9) ↔ calculate-capacity.ts (68d6f4d) (calculate-capacity.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:45:13","end":"2026-11-11T16:45:18","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-11T16:45:18","end":"2026-11-11T16:45:23","app":"Visual Studio Code","title":"calculate-capacity.ts (642d0c9) ↔ calculate-capacity.ts (68d6f4d) (calculate-capacity.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:45:23","end":"2026-11-11T16:45:33","app":"Firefox","title":"publish (#528804) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:45:33","end":"2026-11-11T16:45:58","app":"Firefox","title":"Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:45:58","end":"2026-11-11T16:46:13","app":"Firefox","title":"publish (#528804) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:46:13","end":"2026-11-11T16:46:18","app":"Firefox","title":"Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:46:18","end":"2026-11-11T16:47:23","app":"Firefox","title":"publish (#528804) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:47:23","end":"2026-11-11T16:48:48","app":"Firefox","title":"Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:48:48","end":"2026-11-11T16:49:08","app":"Firefox","title":"publish (#528815) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:49:08","end":"2026-11-11T16:49:13","app":"Visual Studio Code","title":"calculate-capacity.ts (642d0c9) ↔ calculate-capacity.ts (68d6f4d) (calculate-capacity.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-11T16:49:13","end":"2026-11-11T16:49:53","app":"Firefox","title":"Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:49:53","end":"2026-11-11T16:49:58","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:49:58","end":"2026-11-11T16:50:18","app":"Firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:50:18","end":"2026-11-11T16:50:28","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-11T16:50:28","end":"2026-11-11T16:50:38","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-11T16:50:38","end":"2026-11-11T16:50:43","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-11-11T16:50:43","end":"2026-11-11T16:50:48","app":"Firefox","title":"Sign in to divid-id — Mozilla Firefox"}
+{"start":"2026-11-11T16:50:48","end":"2026-11-11T16:51:43","app":"Firefox","title":"Grafana — Mozilla Firefox"}
+{"start":"2026-11-11T16:51:43","end":"2026-11-11T16:51:48","app":"Utforskaren","title":""}
+{"start":"2026-11-11T16:51:48","end":"2026-11-11T16:51:53","app":"Microsoft Outlook","title":"Inbox - Albin Forsberg - Outlook"}
+{"start":"2026-11-11T16:51:53","end":"2026-11-11T16:51:58","app":"Firefox","title":"Grafana — Mozilla Firefox"}
+{"start":"2026-11-11T16:51:58","end":"2026-11-11T16:52:18","app":"Firefox","title":"- Grafana — Mozilla Firefox"}
+{"start":"2026-11-11T16:52:18","end":"2026-11-11T16:52:23","app":"Firefox","title":"Home - Dashboards - Grafana — Mozilla Firefox"}
+{"start":"2026-11-11T16:52:23","end":"2026-11-11T16:52:33","app":"Firefox","title":"EEV på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-11T16:52:33","end":"2026-11-11T16:53:33","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-11T16:53:33","end":"2026-11-11T16:53:38","app":"Firefox","title":"Home - Dashboards - Grafana — Mozilla Firefox"}
+{"start":"2026-11-11T16:53:38","end":"2026-11-11T16:53:43","app":"Firefox","title":"Dashboards - Grafana — Mozilla Firefox"}
+{"start":"2026-11-11T16:53:43","end":"2026-11-11T16:54:53","app":"Firefox","title":"Panasonic Prod - Logs - Dashboards - Grafana — Mozilla Firefox"}
+{"start":"2026-11-11T16:54:53","end":"2026-11-11T16:56:33","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-11T16:56:33","end":"2026-11-11T16:56:48","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
