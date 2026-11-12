@@ -1662,3 +1662,5 @@
 {"ev":"out","t":"2026-11-11T16:57:01","note":"Hotfix eev"}
 {"ev":"in","t":"2026-11-11T16:57:01","project":"dxpro"}
 {"ev":"out","t":"2026-11-11T17:07:07","note":"DXF exports"}
+{"ev":"in","t":"2026-11-12T07:52:34","project":"dxpro","task":"DXF exports"}
+{"ev":"out","t":"2026-11-12T11:18:09","note":"DXF exports"}
