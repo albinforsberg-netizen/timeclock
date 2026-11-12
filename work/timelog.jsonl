@@ -1668,3 +1668,5 @@
 {"ev":"break","t":"2026-11-12T12:03:10"}
 {"ev":"in","t":"2026-11-12T13:01:00","project":"dxpro"}
 {"ev":"out","t":"2026-11-12T14:40:40","note":"Rotade units"}
+{"ev":"in","t":"2026-11-12T14:40:40","project":"dxpro"}
+{"ev":"out","t":"2026-11-12T15:47:56","note":"Copy problem"}
