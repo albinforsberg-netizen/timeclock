@@ -1667,8 +1667,10 @@
 {"ev":"in","t":"2026-11-12T11:18:10","project":"dxpro"}
 {"ev":"break","t":"2026-11-12T12:03:10"}
 {"ev":"in","t":"2026-11-12T13:01:00","project":"dxpro"}
-{"ev":"out","t":"2026-11-12T14:40:40","note":"Rotade units"}
+{"ev":"out","t":"2026-11-12T14:40:36","note":"Rotate units"}
 {"ev":"in","t":"2026-11-12T14:40:40","project":"dxpro"}
 {"ev":"out","t":"2026-11-12T15:47:56","note":"Copy problem"}
 {"ev":"in","t":"2026-11-12T15:47:57","project":"dxpro"}
 {"ev":"out","t":"2026-11-12T16:10:47","note":"Rotate units"}
+{"ev":"in","t":"2026-11-13T07:58:50","project":"dxpro","task":"Rotate units"}
+{"ev":"out","t":"2026-11-13T10:35:55","note":"Rotate units"}
