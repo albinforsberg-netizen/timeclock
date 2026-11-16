@@ -1682,3 +1682,5 @@
 {"ev":"break","t":"2026-11-16T11:58:19"}
 {"ev":"in","t":"2026-11-16T13:00:23","project":"dxpro","task":"Warnings in printout"}
 {"ev":"out","t":"2026-11-16T16:44:28","note":"Warnings in printout"}
+{"ev":"in","t":"2026-11-16T16:44:29","project":"dxpro"}
+{"ev":"out","t":"2026-11-16T16:52:32","note":"Fixes"}
