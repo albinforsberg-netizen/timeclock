@@ -1657,13 +1657,13 @@
 {"ev":"in","t":"2026-11-11T11:46:19","project":"dxpro"}
 {"ev":"break","t":"2026-11-11T12:01:08"}
 {"ev":"in","t":"2026-11-11T13:01:51","project":"dxpro"}
-{"ev":"out","t":"2026-11-11T15:42:59","note":"DXF exports"}
+{"ev":"out","t":"2026-11-11T15:42:59","note":"DXF exports fixes"}
 {"ev":"in","t":"2026-11-11T15:43:00","project":"refpro"}
 {"ev":"out","t":"2026-11-11T16:57:01","note":"Hotfix eev"}
 {"ev":"in","t":"2026-11-11T16:57:01","project":"dxpro"}
-{"ev":"out","t":"2026-11-11T17:07:07","note":"DXF exports"}
-{"ev":"in","t":"2026-11-12T07:52:34","project":"dxpro","task":"DXF exports"}
-{"ev":"out","t":"2026-11-12T11:18:09","note":"DXF exports"}
+{"ev":"out","t":"2026-11-11T17:07:07","note":"DXF exports fixes"}
+{"ev":"in","t":"2026-11-12T07:52:34","project":"dxpro","task":"DXF exports fixes"}
+{"ev":"out","t":"2026-11-12T11:18:09","note":"DXF exports fixes"}
 {"ev":"in","t":"2026-11-12T11:18:10","project":"dxpro"}
 {"ev":"break","t":"2026-11-12T12:03:10"}
 {"ev":"in","t":"2026-11-12T13:01:00","project":"dxpro"}
@@ -1678,3 +1678,7 @@
 {"ev":"break","t":"2026-11-13T12:06:41"}
 {"ev":"in","t":"2026-11-13T13:28:45","project":"dxpro"}
 {"ev":"out","t":"2026-11-13T16:48:46","note":"Warnings in printout"}
+{"ev":"in","t":"2026-11-16T07:54:16","project":"dxpro","task":"Warnings in printout"}
+{"ev":"break","t":"2026-11-16T11:58:19"}
+{"ev":"in","t":"2026-11-16T13:00:23","project":"dxpro","task":"Warnings in printout"}
+{"ev":"out","t":"2026-11-16T16:44:28","note":"Warnings in printout"}
