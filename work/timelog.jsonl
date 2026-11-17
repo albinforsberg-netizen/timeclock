@@ -1683,4 +1683,6 @@
 {"ev":"in","t":"2026-11-16T13:00:23","project":"dxpro","task":"Warnings in printout"}
 {"ev":"out","t":"2026-11-16T16:44:28","note":"Warnings in printout"}
 {"ev":"in","t":"2026-11-16T16:44:29","project":"dxpro"}
-{"ev":"out","t":"2026-11-16T16:52:32","note":"Fixes"}
+{"ev":"out","t":"2026-11-16T16:56:32","note":"Fixes"}
+{"ev":"in","t":"2026-11-17T07:55:26","project":"dxpro","task":"Warnings in printout"}
+{"ev":"out","t":"2026-11-17T09:43:46","note":"Warnings in printout"}
