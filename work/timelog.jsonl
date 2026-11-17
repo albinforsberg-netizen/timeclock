@@ -1686,3 +1686,7 @@
 {"ev":"out","t":"2026-11-16T16:56:32","note":"Fixes"}
 {"ev":"in","t":"2026-11-17T07:55:26","project":"dxpro","task":"Warnings in printout"}
 {"ev":"out","t":"2026-11-17T09:43:46","note":"Warnings in printout"}
+{"ev":"in","t":"2026-11-17T09:43:47","project":"dxpro"}
+{"ev":"break","t":"2026-11-17T12:18:55"}
+{"ev":"in","t":"2026-11-17T12:59:42","project":"dxpro"}
+{"ev":"out","t":"2026-11-17T15:58:52","note":"Orphaned components"}
