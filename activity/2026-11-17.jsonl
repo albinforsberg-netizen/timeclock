@@ -930,3 +930,99 @@
 {"start":"2026-11-17T16:36:20","end":"2026-11-17T16:36:25","app":"Firefox","title":"Activity — Mozilla Firefox"}
 {"start":"2026-11-17T16:36:25","end":"2026-11-17T16:36:50","app":"Firefox","title":"sys-alerts — Mozilla Firefox"}
 {"start":"2026-11-17T16:36:50","end":"2026-11-17T16:41:50","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-17T16:41:50","end":"2026-11-17T16:42:00","app":"Margin","title":"Today — Margin"}
+{"start":"2026-11-17T16:42:00","end":"2026-11-17T16:42:10","app":"Margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-11-17T16:42:10","end":"2026-11-17T16:42:15","app":"Margin","title":"• timelog.jsonl — Margin"}
+{"start":"2026-11-17T16:42:15","end":"2026-11-17T16:42:25","app":"Margin","title":"Day report — Margin"}
+{"start":"2026-11-17T16:42:25","end":"2026-11-17T16:42:30","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-17T21:45:39","end":"2026-11-17T21:45:44","app":"Firefox","title":"Printout warnings (!216) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T21:45:44","end":"2026-11-17T21:45:54","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T21:45:54","end":"2026-11-17T21:46:29","app":"Visual Studio Code","title":"index.ts (074f725) ↔ index.ts (6460e4a) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-17T21:46:29","end":"2026-11-17T21:46:34","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - 1 new item - Slack"}
+{"start":"2026-11-17T21:46:34","end":"2026-11-17T21:46:49","app":"Microsoft Teams","title":"Chatt | Client config | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-17T21:46:49","end":"2026-11-17T21:46:54","app":"Slack","title":"panasonic-prod-alerts (Channel) - Divid - Slack"}
+{"start":"2026-11-17T21:46:54","end":"2026-11-17T21:47:39","app":"Visual Studio Code","title":"index.ts (074f725) ↔ index.ts (6460e4a) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-17T21:47:39","end":"2026-11-17T21:47:44","app":"Visual Studio Code","title":"system.ts (d0c498d) ↔ system.ts (540b7a4) (system.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-17T21:47:44","end":"2026-11-17T21:47:59","app":"Visual Studio Code","title":"partial-pipes-wires.ts (d0c498d) ↔ partial-pipes-wires.ts (540b7a4) (partial-pipes-wires.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-17T21:47:59","end":"2026-11-17T21:48:19","app":"Visual Studio Code","title":"service-module.ts (d0c498d) ↔ service-module.ts (540b7a4) (service-module.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-17T21:48:19","end":"2026-11-17T21:48:24","app":"Visual Studio Code","title":"partial-pipes-wires.ts (d0c498d) ↔ partial-pipes-wires.ts (540b7a4) (partial-pipes-wires.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-17T21:48:24","end":"2026-11-17T21:48:29","app":"Visual Studio Code","title":"system.ts (d0c498d) ↔ system.ts (540b7a4) (system.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-17T21:48:29","end":"2026-11-17T21:48:54","app":"Visual Studio Code","title":"db-read.ts (d0c498d) ↔ db-read.ts (540b7a4) (db-read.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-17T21:48:54","end":"2026-11-17T21:48:59","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T21:48:59","end":"2026-11-17T21:49:04","app":"Firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T21:49:04","end":"2026-11-17T21:49:19","app":"Firefox","title":"Printout warnings (!216) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T21:49:19","end":"2026-11-17T21:49:29","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T21:49:29","end":"2026-11-17T21:49:39","app":"Microsoft Outlook","title":"Inbox - Albin Forsberg - Outlook"}
+{"start":"2026-11-17T21:49:39","end":"2026-11-17T21:50:19","app":"Microsoft Outlook","title":"Drafts - Albin Forsberg - Outlook"}
+{"start":"2026-11-17T21:50:19","end":"2026-11-17T21:50:24","app":"Microsoft Outlook","title":"Inbox - Albin Forsberg - Outlook"}
+{"start":"2026-11-17T21:50:24","end":"2026-11-17T21:50:29","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T21:50:29","end":"2026-11-17T21:50:44","app":"Firefox","title":"publish (#529924) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T21:50:44","end":"2026-11-17T21:51:14","app":"Visual Studio Code","title":"db-read.ts (d0c498d) ↔ db-read.ts (540b7a4) (db-read.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-17T21:51:14","end":"2026-11-17T21:51:30","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-17T21:51:30","end":"2026-11-17T21:51:35","app":"Claude","title":"Claude"}
+{"start":"2026-11-17T21:51:35","end":"2026-11-17T21:51:45","app":"Visual Studio Code","title":"● index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-17T21:51:45","end":"2026-11-17T21:51:55","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-17T21:51:55","end":"2026-11-17T21:52:05","app":"Claude","title":"Claude"}
+{"start":"2026-11-17T21:52:05","end":"2026-11-17T21:52:30","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-17T21:52:30","end":"2026-11-17T21:52:50","app":"Claude","title":"Claude"}
+{"start":"2026-11-17T21:52:50","end":"2026-11-17T21:52:55","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-17T21:52:55","end":"2026-11-17T21:53:20","app":"Claude","title":"Claude"}
+{"start":"2026-11-17T21:53:20","end":"2026-11-17T21:53:45","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-17T21:53:45","end":"2026-11-17T21:53:50","app":"Microsoft Outlook","title":"Gitlab - Albin Forsberg - Outlook"}
+{"start":"2026-11-17T21:53:50","end":"2026-11-17T21:54:30","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T21:54:30","end":"2026-11-17T21:54:55","app":"Firefox","title":"Pipeline #215517 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T21:54:55","end":"2026-11-17T21:55:00","app":"Firefox","title":"publish (#529944) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T21:55:00","end":"2026-11-17T21:55:05","app":"Firefox","title":"Pipeline #215517 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T21:55:05","end":"2026-11-17T21:55:10","app":"Firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T21:55:10","end":"2026-11-17T21:55:20","app":"Firefox","title":"Printout warnings (!216) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T21:55:20","end":"2026-11-17T21:55:25","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T21:55:25","end":"2026-11-17T21:55:55","app":"Firefox","title":"Pipeline #215517 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T21:55:55","end":"2026-11-17T21:56:00","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T21:56:00","end":"2026-11-17T21:56:10","app":"Microsoft Teams","title":"Chatt | Client config | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-17T21:56:10","end":"2026-11-17T21:56:15","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T21:56:15","end":"2026-11-17T21:56:25","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-17T21:56:25","end":"2026-11-17T21:56:30","app":"Microsoft Outlook","title":"Gitlab - Albin Forsberg - Outlook"}
+{"start":"2026-11-17T21:56:30","end":"2026-11-17T21:56:35","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-17T21:56:35","end":"2026-11-17T21:56:40","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-17T21:56:40","end":"2026-11-17T21:57:10","app":"Firefox","title":"View panel - Panasonic Prod - Logs - Dashboards - Grafana — Mozilla Firefox"}
+{"start":"2026-11-17T21:57:10","end":"2026-11-17T21:57:20","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-17T21:57:20","end":"2026-11-17T21:58:50","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-17T21:58:50","end":"2026-11-17T21:59:00","app":"Firefox","title":"Panasonic | Tavlor | Trello — Mozilla Firefox"}
+{"start":"2026-11-17T21:59:00","end":"2026-11-17T21:59:05","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-17T21:59:05","end":"2026-11-17T21:59:10","app":"Firefox","title":"Sign in to dxpro — Mozilla Firefox"}
+{"start":"2026-11-17T21:59:10","end":"2026-11-17T21:59:15","app":"Firefox","title":"Panasonic PRO Club — Mozilla Firefox"}
+{"start":"2026-11-17T21:59:15","end":"2026-11-17T21:59:30","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-17T21:59:30","end":"2026-11-17T22:00:30","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-17T22:00:30","end":"2026-11-17T22:01:00","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-17T22:01:00","end":"2026-11-17T22:02:45","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-17T22:02:45","end":"2026-11-17T22:02:55","app":"Firefox","title":"Demo 2026_11_18.pdf — Mozilla Firefox"}
+{"start":"2026-11-17T22:02:55","end":"2026-11-17T22:03:05","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-17T22:03:05","end":"2026-11-17T22:03:10","app":"Firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-11-17T22:03:10","end":"2026-11-17T22:03:20","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-17T22:03:20","end":"2026-11-17T22:03:25","app":"Firefox","title":"Panasonic | Tavlor | Trello — Mozilla Firefox"}
+{"start":"2026-11-17T22:03:25","end":"2026-11-17T22:03:40","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-17T22:03:40","end":"2026-11-17T22:03:45","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T22:03:45","end":"2026-11-17T22:03:50","app":"Firefox","title":"Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T22:03:50","end":"2026-11-17T22:04:10","app":"Firefox","title":"Printout warnings (!216) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T22:04:10","end":"2026-11-17T22:04:15","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T22:04:15","end":"2026-11-17T22:04:30","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-17T22:04:30","end":"2026-11-17T22:04:50","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-17T22:04:50","end":"2026-11-17T22:05:20","app":"Visual Studio Code","title":".gitlab-ci.yml (Working Tree) (.gitlab-ci.yml) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-17T22:05:20","end":"2026-11-17T22:06:35","app":"Claude","title":"Claude"}
+{"start":"2026-11-17T22:06:35","end":"2026-11-17T22:07:20","app":"Visual Studio Code","title":"index.ts (Index) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-17T22:07:20","end":"2026-11-17T22:07:40","app":"Claude","title":"Claude"}
+{"start":"2026-11-17T22:07:40","end":"2026-11-17T22:08:30","app":"Visual Studio Code","title":"index.ts (Index) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-17T22:08:30","end":"2026-11-17T22:08:35","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-17T22:08:35","end":"2026-11-17T22:08:40","app":"Firefox","title":"Pipeline #215519 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T22:08:40","end":"2026-11-17T22:08:50","app":"Firefox","title":"lint (#529965) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T22:08:50","end":"2026-11-17T22:08:55","app":"Margin","title":"Day report — Margin"}
+{"start":"2026-11-17T22:08:55","end":"2026-11-17T22:09:00","app":"Firefox","title":"Pipeline #215519 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T22:09:00","end":"2026-11-17T22:09:05","app":"Firefox","title":"publish (#529964) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T22:09:05","end":"2026-11-17T22:09:10","app":"Firefox","title":"Pipeline #215519 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T22:09:10","end":"2026-11-17T22:09:20","app":"Firefox","title":"lint (#529965) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T22:09:20","end":"2026-11-17T22:10:21","app":"Firefox","title":"Pipeline #215519 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T22:10:21","end":"2026-11-17T22:11:01","app":"Claude","title":"Claude"}
+{"start":"2026-11-17T22:11:01","end":"2026-11-17T22:11:06","app":"Firefox","title":"Pipeline #215519 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-17T22:11:06","end":"2026-11-17T22:11:11","app":"Margin","title":"Day report — Margin"}
+{"start":"2026-11-17T22:11:11","end":"2026-11-17T22:11:16","app":"Utforskaren","title":""}
+{"start":"2026-11-17T22:11:16","end":"2026-11-17T22:11:21","app":"Windows Start Experience Host","title":"Start"}
