@@ -1696,3 +1696,5 @@
 {"ev":"out","t":"2026-11-18T09:00:34","note":"Height validation"}
 {"ev":"in","t":"2026-11-18T09:00:35","project":"dxpro"}
 {"ev":"out","t":"2026-11-18T09:28:40","note":"dxpro weekly"}
+{"ev":"in","t":"2026-11-18T09:28:41","project":"dxpro"}
+{"ev":"out","t":"2026-11-18T10:29:25","note":"Warnings in printout"}
