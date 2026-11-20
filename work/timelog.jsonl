@@ -1726,3 +1726,5 @@
 {"ev":"out","t":"2026-11-20T15:03:28","note":"Utv samtal prep"}
 {"ev":"in","t":"2026-11-20T15:03:28","project":"refpro"}
 {"ev":"out","t":"2026-11-20T16:13:24","note":"A2L"}
+{"ev":"in","t":"2026-11-20T16:13:25","project":"refpro"}
+{"ev":"out","t":"2026-11-20T16:16:24","note":"Stats dashboard"}
