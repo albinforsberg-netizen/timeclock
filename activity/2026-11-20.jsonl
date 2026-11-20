@@ -265,3 +265,142 @@
 {"start":"2026-11-20T10:56:44","end":"2026-11-20T10:56:49","app":"Visual Studio Code","title":"● input-provider.ts (Working Tree) (input-provider.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
 {"start":"2026-11-20T10:56:49","end":"2026-11-20T10:57:24","app":"Visual Studio Code","title":"report.tsx (Working Tree) (report.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
 {"start":"2026-11-20T10:57:24","end":"2026-11-20T10:57:29","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-20T10:57:29","end":"2026-11-20T10:57:44","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-20T10:57:44","end":"2026-11-20T10:57:59","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-20T10:57:59","end":"2026-11-20T10:58:04","app":"Visual Studio Code","title":".env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:01:34","end":"2026-11-20T11:01:39","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-20T11:01:39","end":"2026-11-20T11:01:44","app":"Visual Studio Code","title":".env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:01:44","end":"2026-11-20T11:02:04","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T11:02:04","end":"2026-11-20T11:02:24","app":"Claude","title":"Claude"}
+{"start":"2026-11-20T11:02:24","end":"2026-11-20T11:02:49","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T11:02:49","end":"2026-11-20T11:03:19","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-20T11:03:19","end":"2026-11-20T11:06:09","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T11:06:09","end":"2026-11-20T11:07:34","app":"Claude","title":"Claude"}
+{"start":"2026-11-20T11:07:34","end":"2026-11-20T11:07:39","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-20T11:07:39","end":"2026-11-20T11:07:54","app":"Claude","title":"Claude"}
+{"start":"2026-11-20T11:07:54","end":"2026-11-20T11:07:59","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T11:07:59","end":"2026-11-20T11:09:25","app":"Claude","title":"Claude"}
+{"start":"2026-11-20T11:09:25","end":"2026-11-20T11:11:10","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T11:11:10","end":"2026-11-20T11:11:15","app":"Visual Studio Code","title":".env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:11:15","end":"2026-11-20T11:15:20","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T11:15:20","end":"2026-11-20T11:16:40","app":"Claude","title":"Claude"}
+{"start":"2026-11-20T11:16:40","end":"2026-11-20T11:17:15","app":"Visual Studio Code","title":".env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:17:15","end":"2026-11-20T11:18:40","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T11:18:40","end":"2026-11-20T11:19:45","app":"Claude","title":"Claude"}
+{"start":"2026-11-20T11:19:45","end":"2026-11-20T11:19:50","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T11:19:50","end":"2026-11-20T11:20:41","app":"Claude","title":"Claude"}
+{"start":"2026-11-20T11:20:41","end":"2026-11-20T11:20:56","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T11:20:56","end":"2026-11-20T11:21:06","app":"Visual Studio Code","title":".env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:21:06","end":"2026-11-20T11:21:46","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T11:21:46","end":"2026-11-20T11:24:11","app":"Claude","title":"Claude"}
+{"start":"2026-11-20T11:24:11","end":"2026-11-20T11:26:01","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T11:26:01","end":"2026-11-20T11:26:11","app":"Claude","title":"Claude"}
+{"start":"2026-11-20T11:26:11","end":"2026-11-20T11:26:21","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T11:26:21","end":"2026-11-20T11:26:41","app":"Claude","title":"Claude"}
+{"start":"2026-11-20T11:26:41","end":"2026-11-20T11:26:53","app":"Visual Studio Code","title":".env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:30:46","end":"2026-11-20T11:31:51","app":"Visual Studio Code","title":".env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:31:51","end":"2026-11-20T11:32:26","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T11:32:26","end":"2026-11-20T11:33:06","app":"Claude","title":"Claude"}
+{"start":"2026-11-20T11:33:06","end":"2026-11-20T11:33:21","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T11:33:21","end":"2026-11-20T11:33:46","app":"Claude","title":"Claude"}
+{"start":"2026-11-20T11:33:46","end":"2026-11-20T11:36:21","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T11:36:21","end":"2026-11-20T11:36:51","app":"Claude","title":"Claude"}
+{"start":"2026-11-20T11:36:51","end":"2026-11-20T11:38:16","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T11:38:16","end":"2026-11-20T11:38:31","app":"Visual Studio Code","title":".env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:38:31","end":"2026-11-20T11:39:21","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T11:39:21","end":"2026-11-20T11:39:26","app":"Visual Studio Code","title":".env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:39:26","end":"2026-11-20T11:39:31","app":"Visual Studio Code","title":"component.tsx (Working Tree) (component.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:39:31","end":"2026-11-20T11:39:51","app":"Visual Studio Code","title":"dashboard.tsx (Working Tree) (dashboard.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:39:51","end":"2026-11-20T11:39:56","app":"Visual Studio Code","title":"statistics-admin.tsx (Working Tree) (statistics-admin.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:39:56","end":"2026-11-20T11:40:01","app":"Visual Studio Code","title":"use-dashboard.ts (Working Tree) (use-dashboard.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:40:01","end":"2026-11-20T11:40:11","app":"Visual Studio Code","title":"● use-dashboard.ts (Working Tree) (use-dashboard.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:40:11","end":"2026-11-20T11:40:16","app":"Visual Studio Code","title":"● statistics-shared.proto (Working Tree) (statistics-shared.proto) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:40:16","end":"2026-11-20T11:40:21","app":"Visual Studio Code","title":"statistics-shared.proto (Working Tree) (statistics-shared.proto) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:40:21","end":"2026-11-20T11:40:31","app":"Visual Studio Code","title":"db.ts (Working Tree) (db.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:40:31","end":"2026-11-20T11:40:56","app":"Visual Studio Code","title":"statistics-dashboard.test.ts (Working Tree) (statistics-dashboard.test.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:40:56","end":"2026-11-20T11:41:01","app":"Visual Studio Code","title":"statistics-admin.tsx (Working Tree) (statistics-admin.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:41:01","end":"2026-11-20T11:41:06","app":"Visual Studio Code","title":"statistics-page.tsx (Working Tree) (statistics-page.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:41:06","end":"2026-11-20T11:41:11","app":"Visual Studio Code","title":"component.tsx (Working Tree) (component.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:41:11","end":"2026-11-20T11:41:16","app":"Visual Studio Code","title":"statistics-shared.proto (Working Tree) (statistics-shared.proto) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:41:16","end":"2026-11-20T11:41:21","app":"Visual Studio Code","title":"charts.tsx (Working Tree) (charts.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:41:21","end":"2026-11-20T11:41:51","app":"Visual Studio Code","title":"dashboard.tsx (Working Tree) (dashboard.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:41:51","end":"2026-11-20T11:42:16","app":"Visual Studio Code","title":"statistics-admin.tsx (Working Tree) (statistics-admin.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:42:16","end":"2026-11-20T11:42:21","app":"Microsoft Excel","title":"oil-booster.xlsx - Excel"}
+{"start":"2026-11-20T11:42:21","end":"2026-11-20T11:42:31","app":"Microsoft Excel","title":"statistics-overview(2).xlsx  -  Skyddad vy - Excel"}
+{"start":"2026-11-20T11:42:31","end":"2026-11-20T11:44:41","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T11:44:41","end":"2026-11-20T11:45:11","app":"Microsoft Excel","title":"statistics-overview(3).xlsx  -  Skyddad vy - Excel"}
+{"start":"2026-11-20T11:45:11","end":"2026-11-20T11:46:02","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T11:46:02","end":"2026-11-20T11:46:47","app":"Microsoft Excel","title":"statistics-overview(4).xlsx  -  Skyddad vy - Excel"}
+{"start":"2026-11-20T11:46:47","end":"2026-11-20T11:46:52","app":"Microsoft Excel","title":"oil-booster.xlsx - Excel"}
+{"start":"2026-11-20T11:46:52","end":"2026-11-20T11:47:37","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T11:47:37","end":"2026-11-20T11:47:43","app":"Visual Studio Code","title":"statistics-admin.tsx (Working Tree) (statistics-admin.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:51:52","end":"2026-11-20T11:52:57","app":"Visual Studio Code","title":"statistics-admin.tsx (Working Tree) (statistics-admin.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:52:57","end":"2026-11-20T11:53:02","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-20T11:53:02","end":"2026-11-20T11:53:07","app":"Firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-11-20T11:53:07","end":"2026-11-20T11:53:12","app":"Firefox","title":"panasonic / diaq-app-pana · GitLab — Mozilla Firefox"}
+{"start":"2026-11-20T11:53:12","end":"2026-11-20T11:53:47","app":"Visual Studio Code","title":"statistics-admin.tsx (Working Tree) (statistics-admin.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:53:47","end":"2026-11-20T11:53:52","app":"Visual Studio Code","title":"package.json - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:53:52","end":"2026-11-20T11:54:17","app":"Claude","title":"Claude"}
+{"start":"2026-11-20T11:54:17","end":"2026-11-20T11:54:27","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-20T11:54:27","end":"2026-11-20T11:54:37","app":"Firefox","title":"Pipeline #215783 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-20T11:54:37","end":"2026-11-20T11:54:42","app":"Firefox","title":"unit-tests (#530407) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-20T11:54:42","end":"2026-11-20T11:54:57","app":"Firefox","title":"Pipeline #215783 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-20T11:54:57","end":"2026-11-20T11:55:02","app":"Visual Studio Code","title":"package.json - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:55:02","end":"2026-11-20T11:55:07","app":"Firefox","title":"Pipeline #215783 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-20T11:55:07","end":"2026-11-20T11:55:22","app":"Firefox","title":"unit-tests (#530407) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-20T11:55:22","end":"2026-11-20T11:55:32","app":"Visual Studio Code","title":"package.json - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:55:32","end":"2026-11-20T11:55:42","app":"Claude","title":"Claude"}
+{"start":"2026-11-20T11:55:42","end":"2026-11-20T11:55:57","app":"Visual Studio Code","title":"package.json - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:55:57","end":"2026-11-20T11:56:17","app":"Claude","title":"Claude"}
+{"start":"2026-11-20T11:56:17","end":"2026-11-20T11:56:22","app":"Firefox","title":"Pipeline #215783 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-20T11:56:22","end":"2026-11-20T11:56:42","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-20T11:56:42","end":"2026-11-20T11:56:57","app":"Firefox","title":"unit-tests (#530407) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-20T11:56:57","end":"2026-11-20T11:57:07","app":"Visual Studio Code","title":"package.json - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:57:07","end":"2026-11-20T11:57:17","app":"Visual Studio Code","title":"state.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:57:17","end":"2026-11-20T11:57:22","app":"Firefox","title":"unit-tests (#530407) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-20T11:57:22","end":"2026-11-20T11:57:57","app":"Claude","title":"Claude"}
+{"start":"2026-11-20T11:57:57","end":"2026-11-20T11:58:02","app":"Visual Studio Code","title":"state.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:58:02","end":"2026-11-20T11:58:32","app":"Visual Studio Code","title":"state.ts (Working Tree) (state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T11:58:32","end":"2026-11-20T11:58:37","app":"Firefox","title":"Pipeline #215783 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-20T11:58:37","end":"2026-11-20T11:58:47","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-20T11:58:47","end":"2026-11-20T11:58:52","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-20T11:58:52","end":"2026-11-20T11:59:12","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-20T11:59:12","end":"2026-11-20T12:00:42","app":"Visual Studio Code","title":"state.ts (Working Tree) (state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T12:00:42","end":"2026-11-20T12:00:47","app":"Firefox","title":"Pipeline #215784 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-20T12:00:47","end":"2026-11-20T12:00:52","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-20T12:01:16","end":"2026-11-20T12:01:21","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-20T12:01:21","end":"2026-11-20T12:01:46","app":"Margin","title":"Settings — Margin"}
+{"start":"2026-11-20T12:01:46","end":"2026-11-20T12:01:51","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-20T12:01:51","end":"2026-11-20T12:01:56","app":"Utforskaren","title":""}
+{"start":"2026-11-20T12:32:12","end":"2026-11-20T12:32:13","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-20T13:00:37","end":"2026-11-20T13:00:52","app":"Visual Studio Code","title":"state.ts (Working Tree) (state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T13:00:52","end":"2026-11-20T13:01:02","app":"Firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-11-20T13:01:02","end":"2026-11-20T13:01:07","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-20T13:01:07","end":"2026-11-20T13:01:12","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-20T13:01:12","end":"2026-11-20T13:01:17","app":"Margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-11-20T13:01:17","end":"2026-11-20T13:01:22","app":"Margin","title":"• timelog.jsonl — Margin"}
+{"start":"2026-11-20T13:01:22","end":"2026-11-20T13:01:27","app":"Margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-11-20T13:01:27","end":"2026-11-20T13:03:12","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-20T13:03:12","end":"2026-11-20T13:03:22","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-20T13:03:22","end":"2026-11-20T13:03:42","app":"Firefox","title":"Increase stability of tool på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-20T13:03:42","end":"2026-11-20T13:03:47","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T13:03:47","end":"2026-11-20T13:04:22","app":"Visual Studio Code","title":"state.ts (Working Tree) (state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T13:04:22","end":"2026-11-20T13:04:27","app":"Utforskaren","title":""}
+{"start":"2026-11-20T13:04:27","end":"2026-11-20T13:06:07","app":"Visual Studio Code","title":"state.ts (Working Tree) (state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-20T13:06:07","end":"2026-11-20T13:06:17","app":"Firefox","title":"Tidsrapportering - Tidrapport.Web — Mozilla Firefox"}
+{"start":"2026-11-20T13:06:17","end":"2026-11-20T13:06:47","app":"Firefox","title":"Index - Tidrapport.Web — Mozilla Firefox"}
+{"start":"2026-11-20T13:06:47","end":"2026-11-20T13:06:57","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-20T13:06:57","end":"2026-11-20T13:07:12","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-20T13:07:12","end":"2026-11-20T13:07:17","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-20T13:07:17","end":"2026-11-20T13:07:22","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-20T13:07:22","end":"2026-11-20T13:07:27","app":"Firefox","title":"Startsida | Trello — Mozilla Firefox"}
+{"start":"2026-11-20T13:07:27","end":"2026-11-20T13:07:32","app":"Firefox","title":"Trello — Mozilla Firefox"}
+{"start":"2026-11-20T13:07:32","end":"2026-11-20T13:07:37","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-20T13:07:37","end":"2026-11-20T13:08:02","app":"Firefox","title":"A2L refrigerant calculation på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-20T13:08:02","end":"2026-11-20T13:08:07","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-20T13:08:07","end":"2026-11-20T13:09:17","app":"Firefox","title":"Descentralized solution på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-20T13:09:17","end":"2026-11-20T13:09:22","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-20T13:09:22","end":"2026-11-20T13:09:27","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-20T13:09:27","end":"2026-11-20T13:09:32","app":"Firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-20T13:09:32","end":"2026-11-20T13:09:37","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-20T13:09:37","end":"2026-11-20T13:09:47","app":"Firefox","title":"A2L refrigerant calculation på Refrigeration | Trello — Mozilla Firefox"}
