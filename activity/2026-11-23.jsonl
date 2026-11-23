@@ -269,3 +269,100 @@
 {"start":"2026-11-23T10:39:36","end":"2026-11-23T10:39:41","app":"Microsoft Teams","title":"Utvecklingssamtal Albin | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
 {"start":"2026-11-23T10:39:41","end":"2026-11-23T10:39:51","app":"Margin","title":"Time — Margin"}
 {"start":"2026-11-23T10:39:51","end":"2026-11-23T10:39:56","app":"Margin","title":"• timelog.jsonl — Margin"}
+{"start":"2026-11-23T10:39:56","end":"2026-11-23T10:40:06","app":"Margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-11-23T10:40:06","end":"2026-11-23T10:40:26","app":"Margin","title":"inbox — Margin"}
+{"start":"2026-11-23T10:40:26","end":"2026-11-23T10:40:36","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-23T10:40:36","end":"2026-11-23T10:40:41","app":"Margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-11-23T10:40:41","end":"2026-11-23T10:40:46","app":"Margin","title":"• timelog.jsonl — Margin"}
+{"start":"2026-11-23T10:40:46","end":"2026-11-23T10:41:01","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-23T10:41:01","end":"2026-11-23T10:41:06","app":"Microsoft Teams","title":"Calendar | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-23T10:41:06","end":"2026-11-23T10:43:46","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-23T10:43:46","end":"2026-11-23T10:43:51","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-23T10:43:51","end":"2026-11-23T10:44:11","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-23T10:44:11","end":"2026-11-23T10:44:16","app":"Firefox","title":"TypeError: Cannot read properties of undefined (reading 'id') — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-23T10:44:16","end":"2026-11-23T10:44:21","app":"Firefox","title":"Panasonic PRO Club — Mozilla Firefox"}
+{"start":"2026-11-23T10:44:21","end":"2026-11-23T10:44:36","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-23T10:44:36","end":"2026-11-23T10:44:41","app":"Firefox","title":"TypeError: Cannot read properties of undefined (reading 'id') — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-23T10:44:41","end":"2026-11-23T10:45:41","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-23T10:45:41","end":"2026-11-23T10:46:16","app":"Firefox","title":"error: insert or update on table \"floor\" violates foreign key constraint \"fk_floor_drawing\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-23T10:46:16","end":"2026-11-23T10:46:36","app":"Claude","title":"Claude"}
+{"start":"2026-11-23T10:46:36","end":"2026-11-23T10:46:41","app":"Visual Studio Code","title":"spec.md - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-23T10:46:41","end":"2026-11-23T10:46:46","app":"Firefox","title":"Trello — Mozilla Firefox"}
+{"start":"2026-11-23T10:46:46","end":"2026-11-23T10:47:51","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-23T10:47:51","end":"2026-11-23T10:48:56","app":"Firefox","title":"error: insert or update on table \"floor\" violates foreign key constraint \"fk_floor_drawing\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-23T10:48:56","end":"2026-11-23T10:49:36","app":"Claude","title":"Claude"}
+{"start":"2026-11-23T10:49:36","end":"2026-11-23T10:49:46","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-23T10:49:46","end":"2026-11-23T10:49:56","app":"Firefox","title":"Update starting page på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-23T10:49:56","end":"2026-11-23T10:50:16","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-23T10:50:16","end":"2026-11-23T10:50:31","app":"Firefox","title":"OUpipingmountingscheme_to_principle på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-23T10:50:31","end":"2026-11-23T10:50:41","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-23T10:50:41","end":"2026-11-23T10:50:56","app":"Firefox","title":"Tags · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-23T10:50:56","end":"2026-11-23T10:51:11","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-23T10:51:11","end":"2026-11-23T10:51:41","app":"Firefox","title":"Infobox in the tool about the last update (maybe with version ) på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-23T10:51:41","end":"2026-11-23T10:51:46","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-23T10:51:46","end":"2026-11-23T10:51:56","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-23T10:51:56","end":"2026-11-23T10:52:01","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-23T10:52:01","end":"2026-11-23T10:52:11","app":"Microsoft Teams","title":"Chatt | Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-23T10:52:11","end":"2026-11-23T10:52:16","app":"Microsoft Teams","title":"albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-23T10:52:16","end":"2026-11-23T10:52:56","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-23T10:52:56","end":"2026-11-23T10:53:21","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-23T10:53:21","end":"2026-11-23T10:53:27","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-23T10:53:27","end":"2026-11-23T10:53:57","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-23T10:53:57","end":"2026-11-23T10:54:17","app":"Firefox","title":"error: insert or update on table \"unit\" violates foreign key constraint \"fk_unit_room\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-23T10:54:17","end":"2026-11-23T10:56:12","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-23T10:56:12","end":"2026-11-23T10:56:17","app":"Firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-11-23T10:56:17","end":"2026-11-23T10:56:37","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-23T10:56:37","end":"2026-11-23T10:56:52","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-23T10:56:52","end":"2026-11-23T10:56:57","app":"Microsoft Teams","title":"Chatt | Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-23T10:56:57","end":"2026-11-23T10:58:17","app":"Microsoft Teams","title":"Calendar | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-23T10:58:17","end":"2026-11-23T10:58:32","app":"Firefox","title":"Tags · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-23T10:58:32","end":"2026-11-23T10:59:02","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-23T10:59:02","end":"2026-11-23T10:59:12","app":"Firefox","title":"Pipeline #215817 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-23T10:59:12","end":"2026-11-23T10:59:47","app":"Firefox","title":"integration-e2e: [aquarea] (#530485) · Jobs · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-23T10:59:47","end":"2026-11-23T10:59:57","app":"Firefox","title":"Pipeline #215817 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-23T10:59:57","end":"2026-11-23T11:03:22","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-23T11:03:22","end":"2026-11-23T11:03:27","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-23T11:03:27","end":"2026-11-23T11:03:37","app":"Firefox","title":"Sign in to divid-id — Mozilla Firefox"}
+{"start":"2026-11-23T11:03:37","end":"2026-11-23T11:04:57","app":"Claude","title":"Claude"}
+{"start":"2026-11-23T11:08:42","end":"2026-11-23T11:08:57","app":"Slack","title":"panasonic (Channel) - Divid - Slack"}
+{"start":"2026-11-23T11:08:57","end":"2026-11-23T11:09:52","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-23T11:09:52","end":"2026-11-23T11:10:02","app":"Slack","title":"panasonic (Channel) - Divid - Slack"}
+{"start":"2026-11-23T11:10:02","end":"2026-11-23T11:10:57","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-23T11:10:57","end":"2026-11-23T11:11:02","app":"Microsoft Teams","title":"Chatt | Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-23T11:11:02","end":"2026-11-23T11:13:22","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-23T11:13:22","end":"2026-11-23T11:13:27","app":"Slack","title":"panasonic (Channel) - Divid - Slack"}
+{"start":"2026-11-23T11:13:27","end":"2026-11-23T11:14:02","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-23T11:14:02","end":"2026-11-23T11:14:07","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-23T11:14:07","end":"2026-11-23T11:14:17","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-23T11:14:17","end":"2026-11-23T11:15:07","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-23T11:15:07","end":"2026-11-23T11:15:17","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-23T11:15:17","end":"2026-11-23T11:15:47","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-23T11:15:47","end":"2026-11-23T11:15:52","app":"Firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-11-23T11:15:52","end":"2026-11-23T11:19:08","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-23T11:19:08","end":"2026-11-23T11:19:13","app":"Claude","title":"Claude"}
+{"start":"2026-11-23T11:19:13","end":"2026-11-23T11:19:18","app":"ShareX","title":"ShareX - Region capture"}
+{"start":"2026-11-23T11:19:18","end":"2026-11-23T11:19:43","app":"Claude","title":"Claude"}
+{"start":"2026-11-23T11:19:43","end":"2026-11-23T11:19:48","app":"Firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-11-23T11:19:48","end":"2026-11-23T11:20:38","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-23T11:20:38","end":"2026-11-23T11:21:03","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-23T11:21:03","end":"2026-11-23T11:21:18","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-23T11:21:18","end":"2026-11-23T11:21:43","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-23T11:21:43","end":"2026-11-23T11:21:58","app":"Slack","title":"panasonic (Channel) - Divid - 1 new item - Slack"}
+{"start":"2026-11-23T11:21:58","end":"2026-11-23T11:22:23","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-23T11:22:23","end":"2026-11-23T11:22:28","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-23T11:22:28","end":"2026-11-23T11:22:33","app":"Slack","title":"panasonic (Channel) - Divid - 1 new item - Slack"}
+{"start":"2026-11-23T11:22:33","end":"2026-11-23T11:22:43","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-23T11:22:43","end":"2026-11-23T11:22:48","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-23T11:22:48","end":"2026-11-23T11:22:53","app":"Slack","title":"panasonic (Channel) - Divid - 1 new item - Slack"}
+{"start":"2026-11-23T11:22:53","end":"2026-11-23T11:22:58","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-23T11:22:58","end":"2026-11-23T11:23:03","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-23T11:23:03","end":"2026-11-23T11:23:48","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-23T11:23:48","end":"2026-11-23T11:24:33","app":"Firefox","title":"Filöverföring"}
+{"start":"2026-11-23T11:24:33","end":"2026-11-23T11:25:13","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-23T11:25:13","end":"2026-11-23T11:25:58","app":"Claude","title":"Claude"}
+{"start":"2026-11-23T11:25:58","end":"2026-11-23T11:26:13","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-23T11:26:13","end":"2026-11-23T11:26:28","app":"Claude","title":"Claude"}
+{"start":"2026-11-23T11:26:28","end":"2026-11-23T11:26:33","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-23T11:26:33","end":"2026-11-23T11:27:38","app":"Claude","title":"Claude"}
+{"start":"2026-11-23T11:27:38","end":"2026-11-23T11:27:53","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-23T11:27:53","end":"2026-11-23T11:27:58","app":"Slack","title":"panasonic (Channel) - Divid - 1 new item - Slack"}

@@ -1730,5 +1730,7 @@
 {"ev":"out","t":"2026-11-20T16:16:24","note":"Stats dashboard"}
 {"ev":"in","t":"2026-11-23T07:57:15","project":"refpro","task":"A2L"}
 {"ev":"out","t":"2026-11-23T10:00:45","note":"A2L"}
-{"ev":"in","t":"2026-11-23T10:39:45","project":"intern"}
+{"ev":"in","t":"2026-11-23T10:00:45","project":"intern"}
 {"ev":"out","t":"2026-11-23T10:40:02","note":"Utv samtal"}
+{"ev":"in","t":"2026-11-23T10:40:02","project":"refpro"}
+{"ev":"out","t":"2026-11-23T11:28:02","note":"A2L"}
