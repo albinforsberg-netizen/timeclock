@@ -499,3 +499,496 @@
 {"start":"2026-11-24T10:21:52","end":"2026-11-24T10:24:07","app":"Windows Terminal Host","title":"Ubuntu"}
 {"start":"2026-11-24T10:24:07","end":"2026-11-24T10:24:47","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
 {"start":"2026-11-24T10:24:47","end":"2026-11-24T10:25:02","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:25:02","end":"2026-11-24T10:25:12","app":"Margin","title":"Day report — Margin"}
+{"start":"2026-11-24T10:25:12","end":"2026-11-24T10:25:17","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-24T10:25:17","end":"2026-11-24T10:26:02","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:26:02","end":"2026-11-24T10:26:17","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:26:17","end":"2026-11-24T10:26:22","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:26:22","end":"2026-11-24T10:26:37","app":"Visual Studio Code","title":"maintenance.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T10:26:37","end":"2026-11-24T10:26:47","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T10:26:47","end":"2026-11-24T10:27:02","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:27:02","end":"2026-11-24T10:27:32","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T10:27:32","end":"2026-11-24T10:27:52","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:27:52","end":"2026-11-24T10:27:57","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:27:57","end":"2026-11-24T10:28:12","app":"Visual Studio Code","title":"maintenance.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T10:28:12","end":"2026-11-24T10:28:57","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:28:57","end":"2026-11-24T10:29:23","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:29:23","end":"2026-11-24T10:30:28","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:30:28","end":"2026-11-24T10:30:33","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:30:33","end":"2026-11-24T10:30:43","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:30:43","end":"2026-11-24T10:31:23","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:31:23","end":"2026-11-24T10:32:48","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:32:48","end":"2026-11-24T10:33:38","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:33:38","end":"2026-11-24T10:33:48","app":"Firefox","title":"Pipelines · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-24T10:33:48","end":"2026-11-24T10:33:58","app":"Firefox","title":"Tags · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-24T10:33:58","end":"2026-11-24T10:34:08","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:34:08","end":"2026-11-24T10:35:03","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:35:03","end":"2026-11-24T10:35:08","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:35:08","end":"2026-11-24T10:35:23","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:35:23","end":"2026-11-24T10:35:28","app":"Visual Studio Code","title":"maintenance.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T10:35:28","end":"2026-11-24T10:36:33","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T10:36:33","end":"2026-11-24T10:36:58","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:36:58","end":"2026-11-24T10:37:08","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:37:08","end":"2026-11-24T10:37:28","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T10:37:28","end":"2026-11-24T10:37:33","app":"Visual Studio Code","title":"view.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T10:37:33","end":"2026-11-24T10:37:48","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:37:48","end":"2026-11-24T10:38:23","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:38:23","end":"2026-11-24T10:39:13","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:39:13","end":"2026-11-24T10:39:18","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:39:18","end":"2026-11-24T10:39:23","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:39:23","end":"2026-11-24T10:40:33","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:40:33","end":"2026-11-24T10:40:38","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T10:40:38","end":"2026-11-24T10:40:48","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:40:48","end":"2026-11-24T10:41:18","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:41:18","end":"2026-11-24T10:41:58","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:41:58","end":"2026-11-24T10:42:03","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T10:42:03","end":"2026-11-24T10:42:08","app":"Firefox","title":"Startsida | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T10:42:08","end":"2026-11-24T10:42:13","app":"Firefox","title":"Panasonic | Tavlor | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T10:42:13","end":"2026-11-24T10:42:28","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T10:42:28","end":"2026-11-24T10:42:33","app":"Firefox","title":"Save systemless configs på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T10:42:33","end":"2026-11-24T10:42:38","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T10:42:38","end":"2026-11-24T10:42:48","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:42:48","end":"2026-11-24T10:42:53","app":"Firefox","title":"Sign in to divid-id — Mozilla Firefox"}
+{"start":"2026-11-24T10:42:53","end":"2026-11-24T10:43:03","app":"Firefox","title":"Kalender — Mozilla Firefox"}
+{"start":"2026-11-24T10:43:03","end":"2026-11-24T10:43:08","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:43:08","end":"2026-11-24T10:43:18","app":"Visual Studio Code","title":"view.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T10:43:18","end":"2026-11-24T10:44:48","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:44:48","end":"2026-11-24T10:45:08","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:45:08","end":"2026-11-24T10:45:13","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T10:45:13","end":"2026-11-24T10:45:18","app":"Firefox","title":"jonathan.forsell@dahl.se på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T10:45:18","end":"2026-11-24T10:45:23","app":"Microsoft Teams","title":"Chatt | Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-24T10:45:23","end":"2026-11-24T10:45:33","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-24T10:45:33","end":"2026-11-24T10:45:43","app":"Microsoft Teams","title":"Chatt | PRD_VRF-Designer+_PAPAEU | Allmänt | Panasonic Europe | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-24T10:45:43","end":"2026-11-24T10:45:48","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-24T10:45:48","end":"2026-11-24T10:46:13","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T10:46:13","end":"2026-11-24T10:46:23","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T10:46:23","end":"2026-11-24T10:46:28","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-24T10:46:28","end":"2026-11-24T10:46:33","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T10:46:33","end":"2026-11-24T10:46:38","app":"Visual Studio Code","title":"view.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T10:46:38","end":"2026-11-24T10:46:43","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:46:43","end":"2026-11-24T10:46:48","app":"Visual Studio Code","title":"view.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T10:46:48","end":"2026-11-24T10:46:53","app":"Firefox","title":"dxpro-designer/server-web-dxpro - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-11-24T10:46:53","end":"2026-11-24T10:47:38","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T10:47:38","end":"2026-11-24T10:47:53","app":"Firefox","title":"Mark old products somehow in the selector på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T10:47:53","end":"2026-11-24T10:47:58","app":"Firefox","title":"New order of pipes på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T10:47:58","end":"2026-11-24T10:48:03","app":"Firefox","title":"Wrong capacity output på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T10:48:03","end":"2026-11-24T10:48:13","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T10:48:13","end":"2026-11-24T10:48:18","app":"Visual Studio Code","title":"view.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T10:48:18","end":"2026-11-24T10:48:23","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T10:48:23","end":"2026-11-24T10:48:53","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:48:53","end":"2026-11-24T10:48:58","app":"Firefox","title":"Filöverföring"}
+{"start":"2026-11-24T10:48:58","end":"2026-11-24T10:49:13","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:49:13","end":"2026-11-24T10:49:18","app":"Visual Studio Code","title":"view.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T10:49:18","end":"2026-11-24T10:49:23","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T10:49:23","end":"2026-11-24T10:49:53","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:49:53","end":"2026-11-24T10:49:58","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:49:58","end":"2026-11-24T10:50:08","app":"Firefox","title":"Filöverföring"}
+{"start":"2026-11-24T10:50:08","end":"2026-11-24T10:50:43","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:50:43","end":"2026-11-24T10:50:53","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:50:53","end":"2026-11-24T10:51:08","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:51:08","end":"2026-11-24T10:51:13","app":"Visual Studio Code","title":"view.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T10:51:13","end":"2026-11-24T10:51:18","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T10:51:18","end":"2026-11-24T10:51:23","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:51:23","end":"2026-11-24T10:51:38","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T10:51:38","end":"2026-11-24T10:51:43","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:51:43","end":"2026-11-24T10:51:48","app":"Firefox","title":"Filöverföring"}
+{"start":"2026-11-24T10:51:48","end":"2026-11-24T10:51:53","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:51:53","end":"2026-11-24T10:51:58","app":"Firefox","title":"Filöverföring"}
+{"start":"2026-11-24T10:51:58","end":"2026-11-24T10:52:08","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:52:08","end":"2026-11-24T10:52:13","app":"Firefox","title":"Filöverföring"}
+{"start":"2026-11-24T10:52:13","end":"2026-11-24T10:52:23","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:52:23","end":"2026-11-24T10:52:28","app":"Firefox","title":"Filöverföring"}
+{"start":"2026-11-24T10:52:28","end":"2026-11-24T10:53:08","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:53:08","end":"2026-11-24T10:53:23","app":"ShareX","title":"ShareX 21.0"}
+{"start":"2026-11-24T10:53:23","end":"2026-11-24T10:53:28","app":"ShareX","title":"ShareX - Screen recording"}
+{"start":"2026-11-24T10:53:28","end":"2026-11-24T10:53:59","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:53:59","end":"2026-11-24T10:54:24","app":"ShareX","title":"ShareX 21.0"}
+{"start":"2026-11-24T10:54:24","end":"2026-11-24T10:54:34","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:54:34","end":"2026-11-24T10:54:59","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T10:54:59","end":"2026-11-24T10:55:04","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:55:04","end":"2026-11-24T10:55:09","app":"ShareX","title":"ShareX 21.0"}
+{"start":"2026-11-24T10:55:09","end":"2026-11-24T10:55:19","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:55:19","end":"2026-11-24T10:55:29","app":"ShareX","title":"ShareX 21.0"}
+{"start":"2026-11-24T10:55:29","end":"2026-11-24T10:55:34","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:55:34","end":"2026-11-24T10:55:49","app":"ShareX","title":"ShareX 21.0"}
+{"start":"2026-11-24T10:55:49","end":"2026-11-24T10:55:54","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:55:54","end":"2026-11-24T10:56:04","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:56:04","end":"2026-11-24T10:56:09","app":"Photos","title":"Foton"}
+{"start":"2026-11-24T10:56:09","end":"2026-11-24T10:56:24","app":"Photos","title":"firefox_2yDGAvyp3C.gif"}
+{"start":"2026-11-24T10:56:24","end":"2026-11-24T10:56:29","app":"SearchHost","title":"Sök"}
+{"start":"2026-11-24T10:56:29","end":"2026-11-24T10:56:34","app":"ShareX","title":"ShareX 21.0"}
+{"start":"2026-11-24T10:56:34","end":"2026-11-24T10:56:44","app":"Utforskaren","title":"2026-11 – Utforskaren"}
+{"start":"2026-11-24T10:56:44","end":"2026-11-24T10:57:04","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:57:04","end":"2026-11-24T10:57:19","app":"Firefox","title":"Filöverföring"}
+{"start":"2026-11-24T10:57:19","end":"2026-11-24T10:57:39","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:57:39","end":"2026-11-24T10:57:44","app":"ShareX","title":"ShareX 21.0"}
+{"start":"2026-11-24T10:57:44","end":"2026-11-24T10:57:54","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:57:54","end":"2026-11-24T10:58:04","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:58:04","end":"2026-11-24T10:58:44","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:58:44","end":"2026-11-24T10:58:59","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T10:58:59","end":"2026-11-24T10:59:14","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T10:59:14","end":"2026-11-24T10:59:19","app":"Firefox","title":"Bibliotek"}
+{"start":"2026-11-24T10:59:19","end":"2026-11-24T11:00:59","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:00:59","end":"2026-11-24T11:01:04","app":"Visual Studio Code","title":"view.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:01:04","end":"2026-11-24T11:01:24","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:01:24","end":"2026-11-24T11:01:39","app":"ShareX","title":"ShareX 21.0"}
+{"start":"2026-11-24T11:01:39","end":"2026-11-24T11:01:44","app":"ShareX","title":"ShareX - Screen recording"}
+{"start":"2026-11-24T11:01:44","end":"2026-11-24T11:01:49","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:01:49","end":"2026-11-24T11:02:09","app":"ShareX","title":"ShareX 21.0"}
+{"start":"2026-11-24T11:02:09","end":"2026-11-24T11:02:19","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:02:19","end":"2026-11-24T11:02:24","app":"Utforskaren","title":"2026-11 – Utforskaren"}
+{"start":"2026-11-24T11:02:24","end":"2026-11-24T11:02:29","app":"Utforskaren","title":"*. - 2026-11 – Utforskaren"}
+{"start":"2026-11-24T11:02:29","end":"2026-11-24T11:02:34","app":"Utforskaren","title":"*.gif - Sökresultat i 2026-11 – Utforskaren"}
+{"start":"2026-11-24T11:02:34","end":"2026-11-24T11:02:39","app":"ShareX","title":"ShareX 21.0"}
+{"start":"2026-11-24T11:02:39","end":"2026-11-24T11:02:44","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:02:44","end":"2026-11-24T11:02:49","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T11:02:49","end":"2026-11-24T11:03:34","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:03:34","end":"2026-11-24T11:03:39","app":"ShareX","title":"ShareX 21.0"}
+{"start":"2026-11-24T11:03:39","end":"2026-11-24T11:03:44","app":"ShareX","title":"ShareX - Image viewer"}
+{"start":"2026-11-24T11:03:44","end":"2026-11-24T11:03:49","app":"ShareX","title":"ShareX 21.0"}
+{"start":"2026-11-24T11:03:49","end":"2026-11-24T11:04:04","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T11:04:04","end":"2026-11-24T11:04:14","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:04:14","end":"2026-11-24T11:05:04","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T11:05:04","end":"2026-11-24T11:05:29","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:05:29","end":"2026-11-24T11:06:14","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T11:06:14","end":"2026-11-24T11:06:34","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:06:34","end":"2026-11-24T11:06:39","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T11:06:39","end":"2026-11-24T11:07:14","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:07:14","end":"2026-11-24T11:07:24","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T11:07:24","end":"2026-11-24T11:08:04","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:08:04","end":"2026-11-24T11:08:09","app":"Utforskaren","title":"*.gif - Sökresultat i 2026-11 – Utforskaren"}
+{"start":"2026-11-24T11:08:09","end":"2026-11-24T11:08:34","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:08:34","end":"2026-11-24T11:08:49","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T11:08:49","end":"2026-11-24T11:10:59","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:10:59","end":"2026-11-24T11:11:04","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T11:11:04","end":"2026-11-24T11:11:14","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T11:11:14","end":"2026-11-24T11:11:24","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:11:24","end":"2026-11-24T11:11:34","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T11:11:34","end":"2026-11-24T11:13:14","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:13:14","end":"2026-11-24T11:13:34","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T11:13:34","end":"2026-11-24T11:14:44","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:14:44","end":"2026-11-24T11:15:09","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T11:15:09","end":"2026-11-24T11:15:39","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:15:39","end":"2026-11-24T11:16:24","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T11:16:24","end":"2026-11-24T11:16:29","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:16:29","end":"2026-11-24T11:16:34","app":"Visual Studio Code","title":"view.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:16:34","end":"2026-11-24T11:16:39","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T11:16:39","end":"2026-11-24T11:16:44","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:16:44","end":"2026-11-24T11:16:59","app":"DBeaver Community","title":"DBeaver 26.2.1 - system"}
+{"start":"2026-11-24T11:16:59","end":"2026-11-24T11:17:24","app":"DBeaver Community","title":"DBeaver 26.2.1 - notice_image"}
+{"start":"2026-11-24T11:17:24","end":"2026-11-24T11:17:34","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:17:34","end":"2026-11-24T11:17:39","app":"DBeaver Community","title":"DBeaver 26.2.1 - notice_image"}
+{"start":"2026-11-24T11:17:39","end":"2026-11-24T11:18:00","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:18:00","end":"2026-11-24T11:18:10","app":"DBeaver Community","title":"DBeaver 26.2.1 - notice_image"}
+{"start":"2026-11-24T11:18:10","end":"2026-11-24T11:18:25","app":"Visual Studio Code","title":"view.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:18:25","end":"2026-11-24T11:18:45","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:18:45","end":"2026-11-24T11:19:30","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T11:19:30","end":"2026-11-24T11:19:40","app":"Firefox","title":"Activity — Mozilla Firefox"}
+{"start":"2026-11-24T11:19:40","end":"2026-11-24T11:19:45","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:19:45","end":"2026-11-24T11:20:10","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T11:20:10","end":"2026-11-24T11:21:10","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:21:10","end":"2026-11-24T11:21:25","app":"Visual Studio Code","title":"view.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:21:25","end":"2026-11-24T11:21:40","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:21:40","end":"2026-11-24T11:22:00","app":"Visual Studio Code","title":"elements.tsx (Working Tree) (elements.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:22:00","end":"2026-11-24T11:22:10","app":"Visual Studio Code","title":"maintenance.tsx (Working Tree) (maintenance.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:22:10","end":"2026-11-24T11:22:15","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T11:22:15","end":"2026-11-24T11:22:20","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-24T11:22:20","end":"2026-11-24T11:24:05","app":"Firefox","title":"Aquarea — Mozilla Firefox"}
+{"start":"2026-11-24T11:24:05","end":"2026-11-24T11:24:15","app":"Visual Studio Code","title":"maintenance.tsx (Working Tree) (maintenance.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:24:15","end":"2026-11-24T11:24:20","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T11:24:20","end":"2026-11-24T11:24:35","app":"Visual Studio Code","title":"root.tsx (Working Tree) (root.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:24:35","end":"2026-11-24T11:24:40","app":"Visual Studio Code","title":"state.ts (Working Tree) (state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:24:40","end":"2026-11-24T11:24:45","app":"Visual Studio Code","title":"elements.tsx (Working Tree) (elements.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:24:45","end":"2026-11-24T11:24:55","app":"Visual Studio Code","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:24:55","end":"2026-11-24T11:25:00","app":"Visual Studio Code","title":"shared-state.ts (Working Tree) (shared-state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:25:00","end":"2026-11-24T11:25:05","app":"Visual Studio Code","title":"state.ts (Working Tree) (state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:25:05","end":"2026-11-24T11:25:15","app":"Visual Studio Code","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:25:15","end":"2026-11-24T11:25:20","app":"Visual Studio Code","title":"shared-state.ts (Working Tree) (shared-state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:25:20","end":"2026-11-24T11:25:25","app":"Visual Studio Code","title":"elements.tsx (Working Tree) (elements.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:25:25","end":"2026-11-24T11:25:30","app":"Windows Shell Experience Host","title":"Värd för Windows Shell-upplevelse"}
+{"start":"2026-11-24T11:25:30","end":"2026-11-24T11:25:35","app":"Visual Studio Code","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:25:35","end":"2026-11-24T11:25:40","app":"Visual Studio Code","title":"shared-state.ts (Working Tree) (shared-state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:25:40","end":"2026-11-24T11:25:45","app":"Visual Studio Code","title":"maintenance-notice-dialog.tsx (Working Tree) (maintenance-notice-dialog.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:25:45","end":"2026-11-24T11:25:55","app":"Visual Studio Code","title":"● maintenance-notice-dialog.tsx (Working Tree) (maintenance-notice-dialog.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:25:55","end":"2026-11-24T11:26:05","app":"Visual Studio Code","title":"markdown-text.tsx (Working Tree) (markdown-text.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:26:05","end":"2026-11-24T11:26:10","app":"Visual Studio Code","title":"● markdown-text.tsx (Working Tree) (markdown-text.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:26:10","end":"2026-11-24T11:26:15","app":"Visual Studio Code","title":"notice-images.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:26:15","end":"2026-11-24T11:26:30","app":"Visual Studio Code","title":"● notice-images.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:26:30","end":"2026-11-24T11:26:40","app":"Visual Studio Code","title":"release-notes-dialog.tsx (Working Tree) (release-notes-dialog.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:26:40","end":"2026-11-24T11:26:45","app":"Visual Studio Code","title":"● release-notes-dialog.tsx (Working Tree) (release-notes-dialog.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:26:45","end":"2026-11-24T11:26:50","app":"Visual Studio Code","title":"release-notes-dialog.tsx (Working Tree) (release-notes-dialog.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:26:50","end":"2026-11-24T11:26:55","app":"Visual Studio Code","title":"maintenance.tsx (Working Tree) (maintenance.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:26:55","end":"2026-11-24T11:27:15","app":"Visual Studio Code","title":"● maintenance.tsx (Working Tree) (maintenance.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:27:15","end":"2026-11-24T11:27:25","app":"Visual Studio Code","title":"service-module.ts (Working Tree) (service-module.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:27:25","end":"2026-11-24T11:27:30","app":"Visual Studio Code","title":"db-read.ts (Working Tree) (db-read.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:27:30","end":"2026-11-24T11:27:35","app":"Visual Studio Code","title":"db-write.ts (Working Tree) (db-write.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:27:35","end":"2026-11-24T11:27:40","app":"Visual Studio Code","title":"● db-write.ts (Working Tree) (db-write.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:27:40","end":"2026-11-24T11:27:45","app":"Visual Studio Code","title":"● 00019-add-notice-image.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:27:45","end":"2026-11-24T11:27:55","app":"Visual Studio Code","title":"service-module.ts (Working Tree) (service-module.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:27:55","end":"2026-11-24T11:28:05","app":"Visual Studio Code","title":"db-read.ts (Working Tree) (db-read.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:28:05","end":"2026-11-24T11:28:10","app":"Visual Studio Code","title":"db-write.ts (Working Tree) (db-write.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:28:10","end":"2026-11-24T11:28:15","app":"Visual Studio Code","title":"00019-add-notice-image.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:28:15","end":"2026-11-24T11:28:20","app":"Visual Studio Code","title":"service-module.ts (Working Tree) (service-module.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:28:20","end":"2026-11-24T11:28:25","app":"Visual Studio Code","title":"db-read.ts (Working Tree) (db-read.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:28:25","end":"2026-11-24T11:28:30","app":"Visual Studio Code","title":"db-write.ts (Working Tree) (db-write.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:28:30","end":"2026-11-24T11:28:35","app":"Visual Studio Code","title":"00019-add-notice-image.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:28:35","end":"2026-11-24T11:28:45","app":"Visual Studio Code","title":"service-module.ts (Working Tree) (service-module.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:28:45","end":"2026-11-24T11:28:50","app":"Visual Studio Code","title":"db-read.ts (Working Tree) (db-read.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:28:50","end":"2026-11-24T11:28:55","app":"Visual Studio Code","title":"00018-add-notice-image.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:28:55","end":"2026-11-24T11:29:00","app":"Visual Studio Code","title":"aquarea-user-account.proto (Working Tree) (aquarea-user-account.proto) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:29:00","end":"2026-11-24T11:29:05","app":"Visual Studio Code","title":"refrigeration-user-account.proto (Working Tree) (refrigeration-user-account.proto) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:29:05","end":"2026-11-24T11:29:10","app":"Visual Studio Code","title":"user-account-shared.proto (Working Tree) (user-account-shared.proto) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:29:10","end":"2026-11-24T11:29:15","app":"Visual Studio Code","title":"● user-account-shared.proto (Working Tree) (user-account-shared.proto) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:29:15","end":"2026-11-24T11:30:05","app":"Visual Studio Code","title":"vrf-user-account.proto (Working Tree) (vrf-user-account.proto) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:30:05","end":"2026-11-24T11:30:15","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T11:30:15","end":"2026-11-24T11:32:25","app":"Visual Studio Code","title":"vrf-user-account.proto (Working Tree) (vrf-user-account.proto) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:32:25","end":"2026-11-24T11:32:40","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:32:40","end":"2026-11-24T11:33:15","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T11:33:15","end":"2026-11-24T11:33:20","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:33:20","end":"2026-11-24T11:33:30","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-24T11:33:30","end":"2026-11-24T11:33:35","app":"Firefox","title":"Wrong capacity output på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T11:33:35","end":"2026-11-24T11:34:30","app":"Firefox","title":"Mark old products somehow in the selector på Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T11:34:30","end":"2026-11-24T11:34:35","app":"Utforskaren","title":""}
+{"start":"2026-11-24T11:34:35","end":"2026-11-24T11:34:40","app":"Firefox","title":"Refrigeration | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T11:34:40","end":"2026-11-24T11:35:20","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T11:35:20","end":"2026-11-24T11:36:10","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:36:10","end":"2026-11-24T11:36:30","app":"Visual Studio Code","title":"vrf-user-account.proto (Working Tree) (vrf-user-account.proto) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:36:30","end":"2026-11-24T11:36:35","app":"Visual Studio Code","title":"view.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:36:35","end":"2026-11-24T11:37:15","app":"Visual Studio Code","title":"maintenance.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:37:15","end":"2026-11-24T11:37:20","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:37:20","end":"2026-11-24T11:37:45","app":"Visual Studio Code","title":"● maintenance.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:37:45","end":"2026-11-24T11:37:50","app":"Visual Studio Code","title":"maintenance.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:37:50","end":"2026-11-24T11:37:55","app":"Visual Studio Code","title":"● maintenance.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:37:55","end":"2026-11-24T11:38:10","app":"Visual Studio Code","title":"maintenance.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:38:10","end":"2026-11-24T11:38:45","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T11:38:45","end":"2026-11-24T11:38:55","app":"Visual Studio Code","title":"maintenance.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:38:55","end":"2026-11-24T11:39:35","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:39:35","end":"2026-11-24T11:39:40","app":"Visual Studio Code","title":"maintenance.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:39:40","end":"2026-11-24T11:40:15","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:40:15","end":"2026-11-24T11:40:56","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T11:40:56","end":"2026-11-24T11:41:06","app":"Visual Studio Code","title":"maintenance.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:41:06","end":"2026-11-24T11:41:11","app":"Visual Studio Code","title":"● maintenance.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:41:11","end":"2026-11-24T11:41:56","app":"Visual Studio Code","title":"maintenance.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:41:56","end":"2026-11-24T11:42:41","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:42:41","end":"2026-11-24T11:42:46","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-24T11:42:46","end":"2026-11-24T11:43:21","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T11:43:21","end":"2026-11-24T11:43:56","app":"Visual Studio Code","title":"maintenance.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:43:56","end":"2026-11-24T11:45:11","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:45:11","end":"2026-11-24T11:45:16","app":"Visual Studio Code","title":"maintenance.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T11:45:16","end":"2026-11-24T11:49:56","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:49:56","end":"2026-11-24T11:50:01","app":"Firefox","title":"Mozilla Firefox Privat surfning"}
+{"start":"2026-11-24T11:50:01","end":"2026-11-24T11:50:41","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:50:41","end":"2026-11-24T11:50:46","app":"Firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T11:50:46","end":"2026-11-24T11:50:51","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T11:50:51","end":"2026-11-24T11:51:01","app":"Firefox","title":"error: insert or update on table \"floor\" violates foreign key constraint \"fk_floor_drawing\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T11:51:01","end":"2026-11-24T11:51:11","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T11:51:11","end":"2026-11-24T11:51:16","app":"Firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T11:51:16","end":"2026-11-24T11:52:11","app":"Firefox","title":"TypeError: Cannot read properties of undefined (reading '0') — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T11:52:11","end":"2026-11-24T11:52:21","app":"ShareX","title":"ShareX 21.0"}
+{"start":"2026-11-24T11:52:21","end":"2026-11-24T11:52:26","app":"Utforskaren","title":""}
+{"start":"2026-11-24T11:52:26","end":"2026-11-24T11:52:31","app":"ShareX","title":"ShareX - Region capture"}
+{"start":"2026-11-24T11:52:31","end":"2026-11-24T11:52:51","app":"ShareX","title":"ShareX 21.0"}
+{"start":"2026-11-24T11:52:51","end":"2026-11-24T11:53:21","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:53:21","end":"2026-11-24T11:53:41","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T11:53:41","end":"2026-11-24T11:53:56","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:53:56","end":"2026-11-24T11:54:01","app":"Firefox","title":"TypeError: Cannot read properties of undefined (reading '0') — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T11:54:01","end":"2026-11-24T11:55:56","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-11-24T11:55:56","end":"2026-11-24T11:56:01","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - 1 new item - Slack"}
+{"start":"2026-11-24T11:56:01","end":"2026-11-24T11:56:06","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-11-24T11:56:06","end":"2026-11-24T11:56:11","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - 1 new item - Slack"}
+{"start":"2026-11-24T11:56:11","end":"2026-11-24T11:56:21","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-11-24T11:56:21","end":"2026-11-24T11:56:46","app":"Firefox","title":"TypeError: Cannot read properties of undefined (reading '0') — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T11:56:46","end":"2026-11-24T11:56:51","app":"Microsoft Teams","title":"Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-24T11:56:51","end":"2026-11-24T11:57:01","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-24T11:57:01","end":"2026-11-24T11:57:41","app":"Firefox","title":"TypeError: Cannot read properties of undefined (reading '0') — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T11:57:41","end":"2026-11-24T11:57:51","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T11:57:51","end":"2026-11-24T11:58:01","app":"Firefox","title":"TypeError: Cannot read properties of undefined (reading '0') — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T11:58:01","end":"2026-11-24T11:58:26","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:58:26","end":"2026-11-24T11:58:36","app":"Firefox","title":"TypeError: Cannot read properties of undefined (reading '0') — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T11:58:36","end":"2026-11-24T11:58:41","app":"DBeaver Community","title":"DBeaver 26.2.1 - notice_image"}
+{"start":"2026-11-24T11:58:41","end":"2026-11-24T11:58:56","app":"DBeaver Community","title":"DBeaver 26.2.1 - system"}
+{"start":"2026-11-24T11:58:56","end":"2026-11-24T11:59:11","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:59:11","end":"2026-11-24T11:59:21","app":"Firefox","title":"TypeError: Cannot read properties of undefined (reading '0') — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T11:59:21","end":"2026-11-24T11:59:41","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:59:41","end":"2026-11-24T11:59:46","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T11:59:46","end":"2026-11-24T11:59:51","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T11:59:51","end":"2026-11-24T11:59:56","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-24T11:59:56","end":"2026-11-24T12:00:11","app":"Firefox","title":"TypeError: Cannot read properties of undefined (reading '0') — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T12:00:11","end":"2026-11-24T12:00:16","app":"DBeaver Community","title":"DBeaver 26.2.1 - system"}
+{"start":"2026-11-24T12:00:16","end":"2026-11-24T12:00:37","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T12:00:37","end":"2026-11-24T12:00:42","app":"DBeaver Community","title":"DBeaver 26.2.1 - system"}
+{"start":"2026-11-24T12:00:42","end":"2026-11-24T12:03:02","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T12:03:02","end":"2026-11-24T12:03:07","app":"Visual Studio Code","title":"maintenance.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T12:03:07","end":"2026-11-24T12:03:12","app":"Firefox","title":"TypeError: Cannot read properties of undefined (reading '0') — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T12:03:12","end":"2026-11-24T12:03:27","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T12:03:27","end":"2026-11-24T12:03:32","app":"Visual Studio Code","title":".env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T12:03:32","end":"2026-11-24T12:03:37","app":"Firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T12:03:37","end":"2026-11-24T12:03:42","app":"Utforskaren","title":"Växla mellan aktiviteter"}
+{"start":"2026-11-24T12:03:42","end":"2026-11-24T12:03:47","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T12:03:47","end":"2026-11-24T12:03:57","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T12:03:57","end":"2026-11-24T12:04:02","app":"Firefox","title":"accessories-equipment_list — Mozilla Firefox"}
+{"start":"2026-11-24T12:04:02","end":"2026-11-24T12:04:07","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T12:04:07","end":"2026-11-24T12:04:12","app":"Firefox","title":"dxpro-designer/server-web-dxpro - Microsoft Azure — Mozilla Firefox"}
+{"start":"2026-11-24T12:04:12","end":"2026-11-24T12:04:17","app":"Utforskaren","title":"Växla mellan aktiviteter"}
+{"start":"2026-11-24T12:04:17","end":"2026-11-24T12:04:22","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T12:04:22","end":"2026-11-24T12:04:32","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T12:04:32","end":"2026-11-24T12:04:57","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T12:04:57","end":"2026-11-24T12:05:22","app":"Firefox","title":"Error: Expected module — panasonic-0s — designer-pro — Mozilla Firefox"}
+{"start":"2026-11-24T12:05:22","end":"2026-11-24T12:05:32","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T12:05:32","end":"2026-11-24T12:05:42","app":"Google Chrome","title":"Nyheter - Google Chrome"}
+{"start":"2026-11-24T12:05:42","end":"2026-11-24T12:05:47","app":"Google Chrome","title":"Sign in to dxpro - Google Chrome"}
+{"start":"2026-11-24T12:05:52","end":"2026-11-24T12:05:57","app":"Google Chrome","title":"Panasonic PRO Club - Google Chrome"}
+{"start":"2026-11-24T12:05:57","end":"2026-11-24T12:06:17","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-11-24T12:06:17","end":"2026-11-24T12:06:27","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T12:06:27","end":"2026-11-24T12:06:47","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-24T12:06:47","end":"2026-11-24T12:07:17","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:12:43","end":"2026-11-24T13:12:53","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - 1 new item - Slack"}
+{"start":"2026-11-24T13:12:53","end":"2026-11-24T13:13:03","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:13:03","end":"2026-11-24T13:13:08","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-24T13:13:08","end":"2026-11-24T13:13:23","app":"Margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-11-24T13:13:23","end":"2026-11-24T13:13:28","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:13:28","end":"2026-11-24T13:13:34","app":"Firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:13:34","end":"2026-11-24T13:13:39","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-24T13:13:39","end":"2026-11-24T13:13:49","app":"Firefox","title":"accessories-equipment_list — Mozilla Firefox"}
+{"start":"2026-11-24T13:13:49","end":"2026-11-24T13:13:59","app":"Slack","title":"panasonic-prod-alerts (Channel) - Divid - Slack"}
+{"start":"2026-11-24T13:13:59","end":"2026-11-24T13:14:34","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:14:34","end":"2026-11-24T13:14:44","app":"Firefox","title":"TypeError: Cannot read properties of undefined (reading '0') — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T13:14:44","end":"2026-11-24T13:14:49","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:14:49","end":"2026-11-24T13:15:04","app":"Firefox","title":"error: invalid input syntax for type integer: \"NaN\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T13:15:04","end":"2026-11-24T13:15:09","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T13:15:09","end":"2026-11-24T13:15:14","app":"Firefox","title":"Panasonic PRO Club — Mozilla Firefox"}
+{"start":"2026-11-24T13:15:14","end":"2026-11-24T13:15:54","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T13:15:54","end":"2026-11-24T13:15:59","app":"Firefox","title":"error: invalid input syntax for type integer: \"NaN\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T13:29:59","end":"2026-11-24T13:30:09","app":"Firefox","title":"error: invalid input syntax for type integer: \"NaN\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T13:30:09","end":"2026-11-24T13:30:14","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-24T13:30:14","end":"2026-11-24T13:30:24","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:30:24","end":"2026-11-24T13:30:29","app":"Firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:30:29","end":"2026-11-24T13:30:49","app":"Firefox","title":"Error: Worker terminated due to reaching memory limit: JS heap out of memory — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T13:30:49","end":"2026-11-24T13:30:54","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:30:54","end":"2026-11-24T13:30:59","app":"Google Chrome","title":"Panasonic PRO Club - Google Chrome"}
+{"start":"2026-11-24T13:30:59","end":"2026-11-24T13:31:29","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-11-24T13:31:29","end":"2026-11-24T13:31:34","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:31:34","end":"2026-11-24T13:31:39","app":"Visual Studio Code","title":".env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T13:31:39","end":"2026-11-24T13:32:14","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:32:19","end":"2026-11-24T13:32:24","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:32:24","end":"2026-11-24T13:32:34","app":"Slack","title":"panasonic-prod-alerts (Channel) - Divid - Slack"}
+{"start":"2026-11-24T13:32:34","end":"2026-11-24T13:32:59","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:32:59","end":"2026-11-24T13:33:54","app":"Firefox","title":"error: invalid input syntax for type integer: \"NaN\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T13:33:54","end":"2026-11-24T13:34:04","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:34:04","end":"2026-11-24T13:34:34","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-11-24T13:34:34","end":"2026-11-24T13:35:24","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:35:24","end":"2026-11-24T13:35:29","app":"Firefox","title":"error: invalid input syntax for type integer: \"NaN\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T13:35:29","end":"2026-11-24T13:35:39","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-11-24T13:35:39","end":"2026-11-24T13:35:49","app":"Google Chrome","title":"Öppna"}
+{"start":"2026-11-24T13:35:49","end":"2026-11-24T13:36:39","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-11-24T13:36:39","end":"2026-11-24T13:36:50","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:36:50","end":"2026-11-24T13:36:55","app":"Firefox","title":"TypeError: Cannot read properties of undefined (reading '0') — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T13:36:55","end":"2026-11-24T13:37:00","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-11-24T13:37:00","end":"2026-11-24T13:37:10","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:37:10","end":"2026-11-24T13:37:25","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-11-24T13:37:25","end":"2026-11-24T13:37:35","app":"Firefox","title":"Error: Expected module — panasonic-0s — designer-pro — Mozilla Firefox"}
+{"start":"2026-11-24T13:37:35","end":"2026-11-24T13:37:50","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:37:50","end":"2026-11-24T13:38:00","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-11-24T13:38:00","end":"2026-11-24T13:38:15","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T13:38:15","end":"2026-11-24T13:38:25","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:38:25","end":"2026-11-24T13:38:30","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-24T13:38:30","end":"2026-11-24T13:38:35","app":"Firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-11-24T13:38:35","end":"2026-11-24T13:38:40","app":"Firefox","title":"panasonic / diaq-app-pana · GitLab — Mozilla Firefox"}
+{"start":"2026-11-24T13:38:40","end":"2026-11-24T13:38:50","app":"Firefox","title":"Multiply accessory and special option quantities for grouped identical devices in the printout (e4c56610) · Commits · panasonic / diaq-app-pana · GitLab — Mozilla Firefox"}
+{"start":"2026-11-24T13:38:50","end":"2026-11-24T13:39:00","app":"Firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-11-24T13:39:00","end":"2026-11-24T13:39:05","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-24T13:39:05","end":"2026-11-24T13:39:25","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T13:39:25","end":"2026-11-24T13:39:50","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-11-24T13:39:50","end":"2026-11-24T13:40:20","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:40:20","end":"2026-11-24T13:40:25","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T13:40:25","end":"2026-11-24T13:40:30","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-11-24T13:40:30","end":"2026-11-24T13:40:40","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T13:40:40","end":"2026-11-24T13:41:00","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:41:00","end":"2026-11-24T13:42:25","app":"Firefox","title":"error: invalid input syntax for type integer: \"NaN\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T13:42:25","end":"2026-11-24T13:42:55","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:42:55","end":"2026-11-24T13:43:00","app":"Firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:43:00","end":"2026-11-24T13:43:40","app":"Firefox","title":"Error: Worker terminated due to reaching memory limit: JS heap out of memory — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T13:43:40","end":"2026-11-24T13:44:15","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:44:15","end":"2026-11-24T13:44:20","app":"Visual Studio Code","title":".env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T13:44:20","end":"2026-11-24T13:44:35","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T13:44:35","end":"2026-11-24T13:44:45","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T13:44:45","end":"2026-11-24T13:44:50","app":"Firefox","title":"accessories-equipment_list — Mozilla Firefox"}
+{"start":"2026-11-24T13:44:50","end":"2026-11-24T13:46:55","app":"Firefox","title":"Releases — Mozilla Firefox"}
+{"start":"2026-11-24T13:46:55","end":"2026-11-24T13:47:05","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T13:47:05","end":"2026-11-24T13:47:15","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T13:47:15","end":"2026-11-24T13:47:35","app":"Visual Studio Code","title":".env - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T13:47:35","end":"2026-11-24T13:47:50","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T13:47:50","end":"2026-11-24T13:48:10","app":"Visual Studio Code","title":"notice-images.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T13:48:10","end":"2026-11-24T13:48:15","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T13:48:15","end":"2026-11-24T13:48:20","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:48:20","end":"2026-11-24T13:48:30","app":"Firefox","title":"TypeError: Cannot read properties of undefined (reading '0') — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T13:48:30","end":"2026-11-24T13:48:40","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T13:48:40","end":"2026-11-24T13:49:35","app":"Firefox","title":"Implement pump down kit på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T13:49:35","end":"2026-11-24T13:50:05","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T13:50:05","end":"2026-11-24T13:51:30","app":"Firefox","title":"Releases — Mozilla Firefox"}
+{"start":"2026-11-24T13:51:30","end":"2026-11-24T13:51:40","app":"Firefox","title":"Jobs — Mozilla Firefox"}
+{"start":"2026-11-24T13:51:40","end":"2026-11-24T13:51:55","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T13:51:55","end":"2026-11-24T13:52:10","app":"Firefox","title":"TypeError: Cannot read properties of undefined (reading '0') — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T13:52:10","end":"2026-11-24T13:52:15","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:52:15","end":"2026-11-24T13:52:20","app":"Firefox","title":"Error: Missing editor. — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T13:52:20","end":"2026-11-24T13:52:30","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:52:30","end":"2026-11-24T13:53:00","app":"Firefox","title":"Error: Could not resolve file format — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T13:53:00","end":"2026-11-24T13:53:15","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T13:53:15","end":"2026-11-24T13:53:30","app":"Firefox","title":"TypeError: Cannot read properties of undefined (reading '0') — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T13:53:30","end":"2026-11-24T13:54:00","app":"Firefox","title":"Soft delete maintenance notices (9737613e) · Commits · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-24T13:54:00","end":"2026-11-24T13:55:40","app":"Firefox","title":"TypeError: Cannot read properties of undefined (reading '0') — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T13:55:40","end":"2026-11-24T13:55:50","app":"Visual Studio Code","title":"notice-images.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T13:55:50","end":"2026-11-24T13:56:00","app":"Visual Studio Code","title":"shared-state.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T13:56:00","end":"2026-11-24T13:56:25","app":"Visual Studio Code","title":"elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T13:56:25","end":"2026-11-24T13:57:00","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T13:57:00","end":"2026-11-24T13:57:10","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T13:57:10","end":"2026-11-24T13:57:15","app":"Firefox","title":"Move branches/indoor indoor units (already implemented in VentPRO) på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T13:57:15","end":"2026-11-24T13:57:20","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T13:57:20","end":"2026-11-24T13:57:35","app":"Visual Studio Code","title":"elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T13:57:35","end":"2026-11-24T13:57:40","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T13:57:40","end":"2026-11-24T13:57:45","app":"ShareX","title":"ShareX 21.0"}
+{"start":"2026-11-24T13:57:45","end":"2026-11-24T13:58:35","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T13:58:35","end":"2026-11-24T13:58:40","app":"ShareX","title":"ShareX 21.0"}
+{"start":"2026-11-24T13:58:40","end":"2026-11-24T13:59:10","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T13:59:10","end":"2026-11-24T13:59:15","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T13:59:15","end":"2026-11-24T13:59:20","app":"Visual Studio Code","title":"elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T13:59:20","end":"2026-11-24T13:59:40","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T13:59:40","end":"2026-11-24T13:59:45","app":"Visual Studio Code","title":"elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T13:59:45","end":"2026-11-24T13:59:55","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T13:59:55","end":"2026-11-24T14:00:05","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T14:00:05","end":"2026-11-24T14:00:30","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T14:00:30","end":"2026-11-24T14:00:45","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T14:00:45","end":"2026-11-24T14:00:50","app":"Firefox","title":"TypeError: Cannot read properties of undefined (reading '0') — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T14:00:50","end":"2026-11-24T14:00:55","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T14:00:55","end":"2026-11-24T14:01:00","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T14:01:00","end":"2026-11-24T14:01:05","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T14:01:05","end":"2026-11-24T14:01:15","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T14:01:15","end":"2026-11-24T14:01:20","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-24T14:01:20","end":"2026-11-24T14:01:25","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T14:01:25","end":"2026-11-24T14:01:30","app":"Visual Studio Code","title":"elements.tsx - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T14:01:30","end":"2026-11-24T14:01:35","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T14:01:35","end":"2026-11-24T14:01:40","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T14:01:40","end":"2026-11-24T14:01:45","app":"Firefox","title":"Implement pump down kit på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T14:01:45","end":"2026-11-24T14:02:40","app":"Firefox","title":"BUG: Issue with adjacent room image and layout on pop-out window på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T14:02:40","end":"2026-11-24T14:02:45","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T14:02:45","end":"2026-11-24T14:03:16","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T14:03:16","end":"2026-11-24T14:03:21","app":"ShareX","title":"ShareX 21.0"}
+{"start":"2026-11-24T14:03:21","end":"2026-11-24T14:03:41","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T14:03:41","end":"2026-11-24T14:04:01","app":"Claude","title":"Claude"}
+{"start":"2026-11-24T14:04:01","end":"2026-11-24T14:06:51","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T14:06:51","end":"2026-11-24T14:07:01","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-24T14:07:01","end":"2026-11-24T14:07:11","app":"Firefox","title":"error: invalid input syntax for type integer: \"NaN\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-24T14:07:11","end":"2026-11-24T14:07:21","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-24T14:07:21","end":"2026-11-24T14:07:46","app":"Visual Studio Code","title":"maintenance.tsx (Working Tree) (maintenance.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T14:07:46","end":"2026-11-24T14:07:51","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T14:07:51","end":"2026-11-24T14:07:56","app":"ShareX","title":"ShareX 21.0"}
+{"start":"2026-11-24T14:07:56","end":"2026-11-24T14:08:06","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T14:08:06","end":"2026-11-24T14:08:11","app":"Visual Studio Code","title":"maintenance.tsx (Working Tree) (maintenance.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T14:08:11","end":"2026-11-24T14:08:26","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T14:08:26","end":"2026-11-24T14:08:41","app":"Visual Studio Code","title":"maintenance.tsx (Working Tree) (maintenance.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T14:08:41","end":"2026-11-24T14:08:51","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T14:08:51","end":"2026-11-24T14:09:01","app":"ShareX","title":"ShareX 21.0"}
+{"start":"2026-11-24T14:09:01","end":"2026-11-24T14:09:56","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-24T14:09:56","end":"2026-11-24T14:10:01","app":"Visual Studio Code","title":"maintenance.tsx (Working Tree) (maintenance.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T14:10:01","end":"2026-11-24T14:10:06","app":"Visual Studio Code","title":"● maintenance.tsx (Working Tree) (maintenance.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-24T14:10:06","end":"2026-11-24T14:10:51","app":"Visual Studio Code","title":"maintenance.tsx (Working Tree) (maintenance.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
