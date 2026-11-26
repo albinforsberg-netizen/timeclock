@@ -473,3 +473,440 @@
 {"start":"2026-11-26T11:31:37","end":"2026-11-26T11:31:42","app":"Firefox","title":"split e2e and integration tests in ci (!219) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
 {"start":"2026-11-26T11:36:27","end":"2026-11-26T11:37:52","app":"Firefox","title":"split e2e and integration tests in ci (!219) · Merge requests · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
 {"start":"2026-11-26T11:37:52","end":"2026-11-26T11:37:57","app":"Visual Studio Code","title":"package.json (Working Tree) (package.json) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T11:37:57","end":"2026-11-26T11:38:07","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-26T11:38:07","end":"2026-11-26T11:38:32","app":"Visual Studio Code","title":"package.json (Working Tree) (package.json) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T11:38:32","end":"2026-11-26T11:38:37","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T11:38:37","end":"2026-11-26T11:38:52","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T11:38:52","end":"2026-11-26T11:41:23","app":"Visual Studio Code","title":"package.json (Working Tree) (package.json) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T11:41:23","end":"2026-11-26T11:41:33","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T11:41:33","end":"2026-11-26T11:43:18","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T11:43:18","end":"2026-11-26T11:43:28","app":"Microsoft Excel","title":"iCOOL A2L FULL calculator 0.92 (unhidden).xlsm - Excel"}
+{"start":"2026-11-26T11:43:28","end":"2026-11-26T11:44:08","app":"Microsoft Outlook","title":"Grafana - Albin Forsberg - Outlook"}
+{"start":"2026-11-26T11:44:08","end":"2026-11-26T11:44:13","app":"Microsoft Excel","title":"iCOOL A2L FULL calculator 0.92 (unhidden).xlsm - Excel"}
+{"start":"2026-11-26T11:44:13","end":"2026-11-26T11:44:38","app":"Microsoft Excel","title":"iCORE_iCOOL Accessories.xlsx  -  Skyddad vy - Excel"}
+{"start":"2026-11-26T11:44:38","end":"2026-11-26T11:44:58","app":"Microsoft Excel","title":"iCORE_iCOOL Accessories.xlsx - Excel"}
+{"start":"2026-11-26T11:44:58","end":"2026-11-26T11:45:13","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T11:45:13","end":"2026-11-26T11:45:23","app":"Utforskaren","title":"CO2 - Sökresultat i Hämtade filer – Utforskaren"}
+{"start":"2026-11-26T11:45:23","end":"2026-11-26T11:45:48","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T11:45:48","end":"2026-11-26T11:45:53","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T11:45:53","end":"2026-11-26T11:45:58","app":"Firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T11:45:58","end":"2026-11-26T11:46:13","app":"Firefox","title":"Pipeline #216296 · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T11:46:13","end":"2026-11-26T11:47:23","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T11:47:23","end":"2026-11-26T11:47:38","app":"Microsoft Excel","title":"iCORE_iCOOL Accessories.xlsx - Excel"}
+{"start":"2026-11-26T11:47:38","end":"2026-11-26T11:47:43","app":"Visual Studio Code","title":"package.json (Working Tree) (package.json) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T11:47:43","end":"2026-11-26T11:47:58","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T11:47:58","end":"2026-11-26T11:49:48","app":"Visual Studio Code","title":"package.json (Working Tree) (package.json) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T11:49:48","end":"2026-11-26T11:49:53","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T11:49:53","end":"2026-11-26T11:49:58","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T11:49:58","end":"2026-11-26T11:50:48","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T11:50:48","end":"2026-11-26T11:50:58","app":"Visual Studio Code","title":"package.json (Working Tree) (package.json) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T11:50:58","end":"2026-11-26T11:52:33","app":"Visual Studio Code","title":"tsconfig.json (Working Tree) (tsconfig.json) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T11:52:33","end":"2026-11-26T11:54:23","app":"Visual Studio Code","title":"accessories.test.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T11:54:23","end":"2026-11-26T11:54:33","app":"Microsoft Excel","title":"iCORE_iCOOL Accessories.xlsx - Excel"}
+{"start":"2026-11-26T11:54:33","end":"2026-11-26T11:54:53","app":"Visual Studio Code","title":"accessories.test.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T11:54:53","end":"2026-11-26T11:55:26","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T11:59:53","end":"2026-11-26T12:00:33","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T12:00:33","end":"2026-11-26T12:00:43","app":"Visual Studio Code","title":"accessories.test.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T12:00:43","end":"2026-11-26T12:00:53","app":"Firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-11-26T12:00:53","end":"2026-11-26T12:00:58","app":"Firefox","title":"accessories-auto_property — Mozilla Firefox"}
+{"start":"2026-11-26T12:00:58","end":"2026-11-26T12:01:53","app":"Firefox","title":"accessories-equipment_list — Mozilla Firefox"}
+{"start":"2026-11-26T12:01:53","end":"2026-11-26T12:01:58","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T12:01:58","end":"2026-11-26T12:02:58","app":"Firefox","title":"accessories-equipment_list — Mozilla Firefox"}
+{"start":"2026-11-26T12:02:58","end":"2026-11-26T12:03:08","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T12:03:08","end":"2026-11-26T12:03:33","app":"Firefox","title":"accessories-equipment_list — Mozilla Firefox"}
+{"start":"2026-11-26T12:03:33","end":"2026-11-26T12:04:08","app":"Visual Studio Code","title":"accessories.test.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T12:04:08","end":"2026-11-26T12:04:23","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T12:04:23","end":"2026-11-26T12:04:28","app":"Utforskaren","title":""}
+{"start":"2026-11-26T12:04:28","end":"2026-11-26T12:04:43","app":"Microsoft Excel","title":"iCORE_iCOOL Accessories.xlsx - Excel"}
+{"start":"2026-11-26T12:04:43","end":"2026-11-26T12:06:03","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T12:06:03","end":"2026-11-26T12:06:38","app":"Visual Studio Code","title":"accessory-triggers.test.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T12:06:38","end":"2026-11-26T12:08:28","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T12:08:28","end":"2026-11-26T12:09:38","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T12:09:38","end":"2026-11-26T12:09:43","app":"Utforskaren","title":""}
+{"start":"2026-11-26T12:09:43","end":"2026-11-26T12:09:48","app":"Microsoft Excel","title":"iCORE_iCOOL Accessories.xlsx - Excel"}
+{"start":"2026-11-26T12:09:48","end":"2026-11-26T12:09:58","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T12:09:58","end":"2026-11-26T12:10:03","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T12:10:03","end":"2026-11-26T12:10:07","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T12:13:48","end":"2026-11-26T12:13:53","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T12:13:53","end":"2026-11-26T12:13:58","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-26T12:13:58","end":"2026-11-26T12:14:03","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T12:14:03","end":"2026-11-26T12:14:08","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T12:14:08","end":"2026-11-26T12:14:13","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-26T12:14:13","end":"2026-11-26T12:14:33","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T13:00:54","end":"2026-11-26T13:02:54","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-26T13:02:54","end":"2026-11-26T13:02:59","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T13:02:59","end":"2026-11-26T13:03:19","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T13:03:19","end":"2026-11-26T13:03:44","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:03:44","end":"2026-11-26T13:03:49","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-26T13:03:49","end":"2026-11-26T13:03:54","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:03:54","end":"2026-11-26T13:03:59","app":"Firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T13:03:59","end":"2026-11-26T13:04:09","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T13:04:09","end":"2026-11-26T13:04:39","app":"Firefox","title":"Error: CORRUPTED SYSTEM — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T13:04:39","end":"2026-11-26T13:05:30","app":"DBeaver Community","title":"DBeaver 26.2.1 - system"}
+{"start":"2026-11-26T13:05:30","end":"2026-11-26T13:05:55","app":"DBeaver Community","title":"DBeaver 26.2.1 - project"}
+{"start":"2026-11-26T13:05:55","end":"2026-11-26T13:06:15","app":"Firefox","title":"Error: CORRUPTED SYSTEM — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T13:06:15","end":"2026-11-26T13:06:25","app":"DBeaver Community","title":""}
+{"start":"2026-11-26T13:06:25","end":"2026-11-26T13:06:35","app":"DBeaver Community","title":"DBeaver 26.2.1 - system"}
+{"start":"2026-11-26T13:06:35","end":"2026-11-26T13:06:45","app":"DBeaver Community","title":"DBeaver 26.2.1 - project"}
+{"start":"2026-11-26T13:06:45","end":"2026-11-26T13:06:50","app":"Firefox","title":"Error: CORRUPTED SYSTEM — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T13:06:50","end":"2026-11-26T13:06:55","app":"Firefox","title":"unit time to time - Sök på Google — Mozilla Firefox"}
+{"start":"2026-11-26T13:06:55","end":"2026-11-26T13:07:10","app":"Firefox","title":"Epoch Converter - Unix Timestamp Converter — Mozilla Firefox"}
+{"start":"2026-11-26T13:07:10","end":"2026-11-26T13:07:25","app":"Firefox","title":"Error: CORRUPTED SYSTEM — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T13:07:25","end":"2026-11-26T13:07:30","app":"DBeaver Community","title":"DBeaver 26.2.1 - project"}
+{"start":"2026-11-26T13:07:30","end":"2026-11-26T13:07:35","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:07:35","end":"2026-11-26T13:07:40","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:07:40","end":"2026-11-26T13:07:45","app":"DBeaver Community","title":"DBeaver 26.2.1 - project"}
+{"start":"2026-11-26T13:07:45","end":"2026-11-26T13:07:50","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-26T13:07:50","end":"2026-11-26T13:07:55","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:07:55","end":"2026-11-26T13:08:00","app":"Firefox","title":"Error: CORRUPTED SYSTEM — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T13:08:00","end":"2026-11-26T13:08:25","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T13:08:25","end":"2026-11-26T13:09:00","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-26T13:09:00","end":"2026-11-26T13:09:25","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T13:09:25","end":"2026-11-26T13:10:30","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-26T13:10:30","end":"2026-11-26T13:10:35","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-26T13:10:35","end":"2026-11-26T13:11:35","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T13:11:35","end":"2026-11-26T13:11:55","app":"Firefox","title":"Error: CORRUPTED SYSTEM — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T13:11:55","end":"2026-11-26T13:12:10","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-26T13:12:10","end":"2026-11-26T13:12:25","app":"Firefox","title":"Error: CORRUPTED SYSTEM — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T13:12:25","end":"2026-11-26T13:12:30","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:12:30","end":"2026-11-26T13:12:50","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T13:12:50","end":"2026-11-26T13:13:05","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:13:05","end":"2026-11-26T13:13:25","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T13:13:25","end":"2026-11-26T13:14:05","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:14:05","end":"2026-11-26T13:14:20","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T13:14:20","end":"2026-11-26T13:15:05","app":"Microsoft Excel","title":"iCORE_iCOOL Accessories.xlsx - Excel"}
+{"start":"2026-11-26T13:15:05","end":"2026-11-26T13:15:40","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T13:15:40","end":"2026-11-26T13:15:45","app":"Firefox","title":"accessories-equipment_list — Mozilla Firefox"}
+{"start":"2026-11-26T13:15:45","end":"2026-11-26T13:15:55","app":"Firefox","title":"accessories-auto_property — Mozilla Firefox"}
+{"start":"2026-11-26T13:15:55","end":"2026-11-26T13:19:00","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T13:19:00","end":"2026-11-26T13:19:05","app":"Utforskaren","title":""}
+{"start":"2026-11-26T13:19:05","end":"2026-11-26T13:19:40","app":"Spotify\u00008\u0018\u0001FileV","title":"Roxette - I Don't Want to Get Hurt"}
+{"start":"2026-11-26T13:19:40","end":"2026-11-26T13:20:10","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T13:20:10","end":"2026-11-26T13:20:25","app":"Firefox","title":"accessories-auto_property — Mozilla Firefox"}
+{"start":"2026-11-26T13:20:25","end":"2026-11-26T13:20:40","app":"Firefox","title":"accessories-Properties — Mozilla Firefox"}
+{"start":"2026-11-26T13:20:40","end":"2026-11-26T13:21:20","app":"Firefox","title":"accessories-auto_property — Mozilla Firefox"}
+{"start":"2026-11-26T13:21:20","end":"2026-11-26T13:21:35","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T13:21:35","end":"2026-11-26T13:22:50","app":"Firefox","title":"accessories-Properties — Mozilla Firefox"}
+{"start":"2026-11-26T13:22:50","end":"2026-11-26T13:22:55","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T13:22:55","end":"2026-11-26T13:23:00","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-26T13:23:00","end":"2026-11-26T13:23:15","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T13:23:15","end":"2026-11-26T13:23:30","app":"Firefox","title":"Error: Bad state. — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T13:23:30","end":"2026-11-26T13:24:00","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:24:00","end":"2026-11-26T13:24:05","app":"Firefox","title":"Error: Bad state. — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T13:24:05","end":"2026-11-26T13:24:10","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T13:24:10","end":"2026-11-26T13:24:15","app":"Slack","title":"panasonic (Channel) - Divid - Slack"}
+{"start":"2026-11-26T13:24:15","end":"2026-11-26T13:24:45","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-11-26T13:24:45","end":"2026-11-26T13:25:10","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T13:25:10","end":"2026-11-26T13:25:45","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:25:45","end":"2026-11-26T13:25:55","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:25:55","end":"2026-11-26T13:27:30","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:27:30","end":"2026-11-26T13:27:35","app":"Utforskaren","title":""}
+{"start":"2026-11-26T13:27:35","end":"2026-11-26T13:27:50","app":"Microsoft Excel","title":"iCORE_iCOOL Accessories.xlsx - Excel"}
+{"start":"2026-11-26T13:27:50","end":"2026-11-26T13:28:00","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:28:00","end":"2026-11-26T13:28:10","app":"Visual Studio Code","title":"accessory-triggers.test.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T13:28:10","end":"2026-11-26T13:28:25","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T13:28:25","end":"2026-11-26T13:29:35","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:29:35","end":"2026-11-26T13:29:40","app":"Firefox","title":"accessories-Properties — Mozilla Firefox"}
+{"start":"2026-11-26T13:29:40","end":"2026-11-26T13:30:20","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:30:20","end":"2026-11-26T13:30:40","app":"Firefox","title":"accessories-Properties — Mozilla Firefox"}
+{"start":"2026-11-26T13:30:40","end":"2026-11-26T13:31:25","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:31:25","end":"2026-11-26T13:31:55","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T13:31:55","end":"2026-11-26T13:32:10","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:32:10","end":"2026-11-26T13:32:40","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T13:32:40","end":"2026-11-26T13:32:45","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-26T13:32:45","end":"2026-11-26T13:33:06","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T13:33:06","end":"2026-11-26T13:33:11","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:33:11","end":"2026-11-26T13:33:16","app":"ShareX","title":"ShareX - Region capture"}
+{"start":"2026-11-26T13:33:16","end":"2026-11-26T13:33:21","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:33:21","end":"2026-11-26T13:33:26","app":"ShareX","title":"ShareX - Region capture"}
+{"start":"2026-11-26T13:33:26","end":"2026-11-26T13:33:51","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T13:33:51","end":"2026-11-26T13:34:01","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:34:01","end":"2026-11-26T13:34:21","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T13:34:21","end":"2026-11-26T13:34:46","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:34:46","end":"2026-11-26T13:36:01","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T13:36:01","end":"2026-11-26T13:36:11","app":"Visual Studio Code","title":"accessory-triggers.test.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T13:36:11","end":"2026-11-26T13:36:16","app":"Visual Studio Code","title":"validate.ts (Working Tree) (validate.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T13:36:16","end":"2026-11-26T13:36:26","app":"Visual Studio Code","title":"accessory-triggers.test.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T13:36:26","end":"2026-11-26T13:36:36","app":"Visual Studio Code","title":"● accessory-triggers.test.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T13:36:36","end":"2026-11-26T13:36:41","app":"Visual Studio Code","title":"● calculate-capacity.ts (Working Tree) (calculate-capacity.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T13:36:41","end":"2026-11-26T13:36:46","app":"Visual Studio Code","title":"sight-glass-alert.test.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T13:36:46","end":"2026-11-26T13:37:01","app":"Visual Studio Code","title":"validate.ts (Working Tree) (validate.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T13:37:01","end":"2026-11-26T13:37:16","app":"Visual Studio Code","title":"accessories-list.ts (Working Tree) (accessories-list.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T13:37:16","end":"2026-11-26T13:37:21","app":"Visual Studio Code","title":"accessories.test.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T13:37:21","end":"2026-11-26T13:37:41","app":"Visual Studio Code","title":"● accessories.test.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T13:37:41","end":"2026-11-26T13:37:56","app":"Microsoft Excel","title":"iCORE_iCOOL Accessories.xlsx - Excel"}
+{"start":"2026-11-26T13:37:56","end":"2026-11-26T13:38:16","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:38:16","end":"2026-11-26T13:38:51","app":"Microsoft Excel","title":"iCORE_iCOOL Accessories.xlsx - Excel"}
+{"start":"2026-11-26T13:38:51","end":"2026-11-26T13:40:06","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:40:06","end":"2026-11-26T13:40:31","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T13:40:31","end":"2026-11-26T13:40:36","app":"Visual Studio Code","title":"tsconfig.json (Working Tree) (tsconfig.json) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T13:40:36","end":"2026-11-26T13:40:41","app":"Visual Studio Code","title":"accessories-list.ts (Working Tree) (accessories-list.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T13:40:41","end":"2026-11-26T13:41:11","app":"Visual Studio Code","title":"calculate-capacity.ts (Working Tree) (calculate-capacity.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T13:41:11","end":"2026-11-26T13:41:41","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T13:41:41","end":"2026-11-26T13:41:46","app":"Microsoft Teams","title":"Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-26T13:41:46","end":"2026-11-26T13:43:16","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-26T13:43:16","end":"2026-11-26T13:43:21","app":"Firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T13:43:21","end":"2026-11-26T13:43:31","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T13:43:31","end":"2026-11-26T13:44:56","app":"Firefox","title":"error: insert or update on table \"floor\" violates foreign key constraint \"fk_floor_drawing\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T13:44:56","end":"2026-11-26T13:45:01","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:45:01","end":"2026-11-26T13:45:46","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:45:46","end":"2026-11-26T13:45:56","app":"DBeaver Community","title":"DBeaver 26.2.1 - project"}
+{"start":"2026-11-26T13:45:56","end":"2026-11-26T13:46:01","app":"DBeaver Community","title":"DBeaver 26.2.1 - system"}
+{"start":"2026-11-26T13:46:01","end":"2026-11-26T13:46:06","app":"Utforskaren","title":"Växla mellan aktiviteter"}
+{"start":"2026-11-26T13:46:06","end":"2026-11-26T13:46:11","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-26T13:46:11","end":"2026-11-26T13:46:21","app":"DBeaver Community","title":"DBeaver 26.2.1 - system"}
+{"start":"2026-11-26T13:46:21","end":"2026-11-26T13:46:36","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:46:36","end":"2026-11-26T13:46:41","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:46:41","end":"2026-11-26T13:47:21","app":"Firefox","title":"error: insert or update on table \"floor\" violates foreign key constraint \"fk_floor_drawing\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T13:47:21","end":"2026-11-26T13:47:26","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-26T13:47:26","end":"2026-11-26T13:47:36","app":"DBeaver Community","title":"DBeaver 26.2.1 - system"}
+{"start":"2026-11-26T13:47:36","end":"2026-11-26T13:48:01","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:48:01","end":"2026-11-26T13:48:06","app":"DBeaver Community","title":"DBeaver 26.2.1 - system"}
+{"start":"2026-11-26T13:48:06","end":"2026-11-26T13:49:31","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:49:31","end":"2026-11-26T13:49:36","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-11-26T13:49:36","end":"2026-11-26T13:52:11","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:52:11","end":"2026-11-26T13:52:16","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:52:16","end":"2026-11-26T13:52:36","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:52:36","end":"2026-11-26T13:53:02","app":"Firefox","title":"error: insert or update on table \"floor\" violates foreign key constraint \"fk_floor_drawing\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T13:53:02","end":"2026-11-26T13:53:07","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:53:07","end":"2026-11-26T13:53:32","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:53:32","end":"2026-11-26T13:54:27","app":"Firefox","title":"error: insert or update on table \"floor\" violates foreign key constraint \"fk_floor_drawing\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T13:54:27","end":"2026-11-26T13:54:32","app":"Firefox","title":"Trace Details - 79844daa2b984230847b8c292f8f55ed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T13:54:32","end":"2026-11-26T13:56:02","app":"Firefox","title":"error: insert or update on table \"floor\" violates foreign key constraint \"fk_floor_drawing\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T13:56:02","end":"2026-11-26T13:56:12","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:56:12","end":"2026-11-26T13:56:52","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:56:52","end":"2026-11-26T13:57:07","app":"Firefox","title":"error: insert or update on table \"floor\" violates foreign key constraint \"fk_floor_drawing\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T13:57:07","end":"2026-11-26T13:57:47","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:57:47","end":"2026-11-26T13:59:07","app":"Firefox","title":"error: insert or update on table \"floor\" violates foreign key constraint \"fk_floor_drawing\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T13:59:07","end":"2026-11-26T13:59:42","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T13:59:42","end":"2026-11-26T13:59:47","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-11-26T13:59:47","end":"2026-11-26T13:59:52","app":"DBeaver Community","title":"DBeaver 26.2.1 - system"}
+{"start":"2026-11-26T13:59:52","end":"2026-11-26T14:00:02","app":"DBeaver Community","title":"DBeaver 26.2.1 - user_details"}
+{"start":"2026-11-26T14:00:02","end":"2026-11-26T14:00:12","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-11-26T14:00:12","end":"2026-11-26T14:00:37","app":"DBeaver Community","title":"DBeaver 26.2.1 - user_details"}
+{"start":"2026-11-26T14:00:37","end":"2026-11-26T14:02:37","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-11-26T14:02:37","end":"2026-11-26T14:03:07","app":"Firefox","title":"error: insert or update on table \"floor\" violates foreign key constraint \"fk_floor_drawing\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T14:03:07","end":"2026-11-26T14:03:17","app":"DBeaver Community","title":"DBeaver 26.2.1 - user_details"}
+{"start":"2026-11-26T14:03:17","end":"2026-11-26T14:04:27","app":"Firefox","title":"error: insert or update on table \"floor\" violates foreign key constraint \"fk_floor_drawing\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T14:04:27","end":"2026-11-26T14:04:32","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T14:04:32","end":"2026-11-26T14:04:37","app":"Firefox","title":"error: insert or update on table \"floor\" violates foreign key constraint \"fk_floor_drawing\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T14:04:37","end":"2026-11-26T14:06:17","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T14:06:17","end":"2026-11-26T14:06:27","app":"Firefox","title":"error: insert or update on table \"floor\" violates foreign key constraint \"fk_floor_drawing\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T14:06:27","end":"2026-11-26T14:07:07","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T14:07:07","end":"2026-11-26T14:07:12","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - 1 new item - Slack"}
+{"start":"2026-11-26T14:07:12","end":"2026-11-26T14:07:27","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T14:07:27","end":"2026-11-26T14:07:42","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - 1 new item - Slack"}
+{"start":"2026-11-26T14:07:42","end":"2026-11-26T14:09:52","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T14:09:52","end":"2026-11-26T14:11:42","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T14:11:42","end":"2026-11-26T14:16:42","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T14:16:42","end":"2026-11-26T14:18:47","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T14:18:47","end":"2026-11-26T14:18:52","app":"Firefox","title":"error: insert or update on table \"floor\" violates foreign key constraint \"fk_floor_drawing\" — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T14:18:52","end":"2026-11-26T14:18:57","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T14:18:57","end":"2026-11-26T14:21:07","app":"Firefox","title":"TimeoutError: timeout — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T14:21:07","end":"2026-11-26T14:23:03","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T14:23:03","end":"2026-11-26T14:25:53","app":"Firefox","title":"TimeoutError: timeout — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T14:25:53","end":"2026-11-26T14:26:33","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-26T14:26:33","end":"2026-11-26T14:27:43","app":"Firefox","title":"TimeoutError: timeout — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T14:27:43","end":"2026-11-26T14:27:48","app":"Microsoft Teams","title":"Nebiyat Sirak | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-26T14:33:58","end":"2026-11-26T14:34:08","app":"Utforskaren","title":"Växla mellan aktiviteter"}
+{"start":"2026-11-26T14:34:08","end":"2026-11-26T14:35:53","app":"Visual Studio Code","title":"calculate-capacity.ts (Working Tree) (calculate-capacity.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T14:35:53","end":"2026-11-26T14:35:58","app":"Firefox","title":"accessories-Properties — Mozilla Firefox"}
+{"start":"2026-11-26T14:35:58","end":"2026-11-26T14:36:08","app":"Firefox","title":"TimeoutError: timeout — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T14:36:08","end":"2026-11-26T14:36:43","app":"Visual Studio Code","title":"calculate-capacity.ts (Working Tree) (calculate-capacity.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T14:36:43","end":"2026-11-26T14:36:48","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-26T14:36:48","end":"2026-11-26T14:36:58","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T14:36:58","end":"2026-11-26T14:37:03","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T14:43:43","end":"2026-11-26T14:44:13","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T14:44:13","end":"2026-11-26T14:44:18","app":"Firefox","title":"Sign in to divid-id — Mozilla Firefox"}
+{"start":"2026-11-26T14:44:18","end":"2026-11-26T14:45:03","app":"Firefox","title":"Kalender — Mozilla Firefox"}
+{"start":"2026-11-26T14:45:03","end":"2026-11-26T14:45:08","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T14:45:08","end":"2026-11-26T14:45:33","app":"Visual Studio Code","title":"calculate-capacity.ts (Working Tree) (calculate-capacity.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T14:45:33","end":"2026-11-26T14:45:38","app":"Slack","title":"panasonic-prod-alerts (Channel) - Divid - Slack"}
+{"start":"2026-11-26T14:45:38","end":"2026-11-26T14:45:48","app":"Visual Studio Code","title":"calculate-capacity.ts (Working Tree) (calculate-capacity.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T14:45:48","end":"2026-11-26T14:46:08","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T14:46:08","end":"2026-11-26T14:47:23","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-26T14:47:23","end":"2026-11-26T14:47:28","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T14:47:28","end":"2026-11-26T14:47:33","app":"Firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T14:47:33","end":"2026-11-26T14:47:38","app":"Firefox","title":"panasonic / flux-panasonic-prod · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T14:47:38","end":"2026-11-26T14:47:48","app":"Firefox","title":"Commits · master · panasonic / flux-panasonic-prod · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T14:47:48","end":"2026-11-26T14:47:53","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T14:47:53","end":"2026-11-26T14:48:08","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T14:48:08","end":"2026-11-26T14:48:38","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T14:48:38","end":"2026-11-26T14:49:23","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T14:49:23","end":"2026-11-26T14:49:38","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T14:49:38","end":"2026-11-26T14:52:09","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T14:52:09","end":"2026-11-26T14:53:39","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T14:53:39","end":"2026-11-26T14:53:59","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T14:53:59","end":"2026-11-26T14:54:34","app":"Firefox","title":"MF4 ECOi 3way wrong refrigerant charge calculation på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-26T14:54:34","end":"2026-11-26T14:54:54","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-26T14:54:54","end":"2026-11-26T14:54:59","app":"Firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T14:54:59","end":"2026-11-26T14:56:24","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T14:56:24","end":"2026-11-26T14:58:29","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-26T14:58:29","end":"2026-11-26T14:58:34","app":"Firefox","title":"panasonic · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T14:58:34","end":"2026-11-26T14:58:49","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T14:58:49","end":"2026-11-26T14:58:54","app":"Firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T14:58:54","end":"2026-11-26T14:58:59","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T14:58:59","end":"2026-11-26T15:00:24","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T15:00:24","end":"2026-11-26T15:02:24","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T15:02:24","end":"2026-11-26T15:02:44","app":"Microsoft Excel","title":"iCOOL A2L FULL calculator 0.92 (unhidden).xlsm - Excel"}
+{"start":"2026-11-26T15:02:44","end":"2026-11-26T15:03:29","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T15:03:29","end":"2026-11-26T15:04:39","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T15:04:39","end":"2026-11-26T15:04:44","app":"Firefox","title":"accessories-Properties — Mozilla Firefox"}
+{"start":"2026-11-26T15:04:44","end":"2026-11-26T15:05:39","app":"Firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-11-26T15:05:39","end":"2026-11-26T15:06:04","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T15:06:04","end":"2026-11-26T15:06:09","app":"Firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-11-26T15:06:09","end":"2026-11-26T15:06:34","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T15:06:34","end":"2026-11-26T15:06:49","app":"Firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-11-26T15:06:49","end":"2026-11-26T15:07:14","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T15:07:14","end":"2026-11-26T15:07:19","app":"Firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-11-26T15:07:19","end":"2026-11-26T15:07:29","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T15:07:29","end":"2026-11-26T15:07:39","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T15:07:39","end":"2026-11-26T15:07:44","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T15:07:44","end":"2026-11-26T15:08:19","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T15:08:19","end":"2026-11-26T15:08:39","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T15:08:39","end":"2026-11-26T15:10:24","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T15:10:24","end":"2026-11-26T15:10:39","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-26T15:10:39","end":"2026-11-26T15:10:54","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T15:10:54","end":"2026-11-26T15:11:24","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T15:11:24","end":"2026-11-26T15:11:39","app":"Microsoft Excel","title":"iCORE_iCOOL Accessories.xlsx - Excel"}
+{"start":"2026-11-26T15:14:54","end":"2026-11-26T15:15:10","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T15:15:10","end":"2026-11-26T15:16:30","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T15:16:30","end":"2026-11-26T15:16:40","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T15:16:40","end":"2026-11-26T15:17:40","app":"Firefox","title":"Error: Missing amount \"additional_charge\" in system 64641 — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T15:17:40","end":"2026-11-26T15:17:50","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T15:17:50","end":"2026-11-26T15:17:55","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T15:17:55","end":"2026-11-26T15:18:00","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-26T15:18:00","end":"2026-11-26T15:18:10","app":"Firefox","title":"Help section with access from the tool på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-26T15:18:10","end":"2026-11-26T15:18:35","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-26T15:18:35","end":"2026-11-26T15:18:40","app":"Firefox","title":"Welcome to Wiki.js! - Default Site — Mozilla Firefox"}
+{"start":"2026-11-26T15:18:40","end":"2026-11-26T15:18:45","app":"Firefox","title":"API Access - Administration Area - Default Site — Mozilla Firefox"}
+{"start":"2026-11-26T15:18:45","end":"2026-11-26T15:19:30","app":"Firefox","title":"Swagger UI — Mozilla Firefox"}
+{"start":"2026-11-26T15:19:30","end":"2026-11-26T15:19:35","app":"Firefox","title":"API Access - Administration Area - Default Site — Mozilla Firefox"}
+{"start":"2026-11-26T15:19:35","end":"2026-11-26T15:19:55","app":"Firefox","title":"Users - Administration Area - Default Site — Mozilla Firefox"}
+{"start":"2026-11-26T15:19:55","end":"2026-11-26T15:20:00","app":"Firefox","title":"Kalender — Mozilla Firefox"}
+{"start":"2026-11-26T15:20:00","end":"2026-11-26T15:20:25","app":"Firefox","title":"Error: Missing amount \"additional_charge\" in system 64641 — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T15:20:25","end":"2026-11-26T15:21:40","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T15:21:40","end":"2026-11-26T15:21:45","app":"Firefox","title":"Error: Missing amount \"additional_charge\" in system 64641 — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T15:21:45","end":"2026-11-26T15:21:55","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T15:21:55","end":"2026-11-26T15:22:15","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-26T15:22:15","end":"2026-11-26T15:22:25","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T15:22:25","end":"2026-11-26T15:23:15","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T15:23:15","end":"2026-11-26T15:23:20","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T15:23:20","end":"2026-11-26T15:24:05","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T15:24:05","end":"2026-11-26T15:24:10","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T15:24:10","end":"2026-11-26T15:24:35","app":"Firefox","title":"MF4 ECOi 3way wrong refrigerant charge calculation på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-26T15:24:35","end":"2026-11-26T15:25:05","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T15:25:05","end":"2026-11-26T15:26:00","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T15:26:00","end":"2026-11-26T15:26:15","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T15:26:15","end":"2026-11-26T15:27:35","app":"Firefox","title":"S-1382-4.pdf — Mozilla Firefox"}
+{"start":"2026-11-26T15:27:35","end":"2026-11-26T15:28:10","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T15:28:10","end":"2026-11-26T15:28:20","app":"Microsoft Excel","title":"iCOOL A2L FULL calculator 0.92 (unhidden).xlsm - Excel"}
+{"start":"2026-11-26T15:28:20","end":"2026-11-26T15:28:30","app":"Microsoft Excel","title":"Microsoft Visual Basic for Applications - iCOOL A2L FULL calculator 0.92 (unhidden).xlsm"}
+{"start":"2026-11-26T15:28:30","end":"2026-11-26T15:28:50","app":"Microsoft Excel","title":"iCOOL A2L FULL calculator 0.92 (unhidden).xlsm - Excel"}
+{"start":"2026-11-26T15:28:50","end":"2026-11-26T15:30:50","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T15:30:50","end":"2026-11-26T15:31:15","app":"Firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-11-26T15:31:15","end":"2026-11-26T15:31:35","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T15:31:35","end":"2026-11-26T15:32:00","app":"Firefox","title":"Root-Texts — Mozilla Firefox"}
+{"start":"2026-11-26T15:32:00","end":"2026-11-26T15:32:05","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T15:32:05","end":"2026-11-26T15:32:10","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-26T15:32:10","end":"2026-11-26T15:32:15","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T15:32:15","end":"2026-11-26T15:33:00","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T15:33:00","end":"2026-11-26T15:34:06","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T15:39:20","end":"2026-11-26T15:39:25","app":"Firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T15:39:25","end":"2026-11-26T15:39:35","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T15:39:35","end":"2026-11-26T15:39:40","app":"Firefox","title":"MF4 ECOi 3way wrong refrigerant charge calculation på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-26T15:39:40","end":"2026-11-26T15:39:50","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-26T15:39:50","end":"2026-11-26T15:39:55","app":"Microsoft Excel","title":"iCOOL A2L FULL calculator 0.92 (unhidden).xlsm - Excel"}
+{"start":"2026-11-26T15:39:55","end":"2026-11-26T15:40:50","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T15:40:50","end":"2026-11-26T15:41:00","app":"Firefox","title":"S-1382-5.pdf — Mozilla Firefox"}
+{"start":"2026-11-26T15:41:00","end":"2026-11-26T15:41:50","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T15:41:50","end":"2026-11-26T15:42:25","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-26T15:42:25","end":"2026-11-26T15:43:16","app":"Microsoft Excel","title":"iCOOL A2L FULL calculator 0.92 (unhidden).xlsm - Excel"}
+{"start":"2026-11-26T15:46:56","end":"2026-11-26T15:47:01","app":"Microsoft Excel","title":"iCOOL A2L FULL calculator 0.92 (unhidden).xlsm - Excel"}
+{"start":"2026-11-26T15:47:01","end":"2026-11-26T15:48:06","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T15:48:06","end":"2026-11-26T15:48:11","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T15:48:11","end":"2026-11-26T15:50:36","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T15:50:36","end":"2026-11-26T15:50:41","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-26T15:50:41","end":"2026-11-26T15:51:26","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-26T15:51:26","end":"2026-11-26T15:51:41","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T15:51:41","end":"2026-11-26T15:51:48","app":"Firefox","title":"View panel - Panasonic Prod - Logs - Dashboards - Grafana — Mozilla Firefox"}
+{"start":"2026-11-26T15:55:01","end":"2026-11-26T15:55:11","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T15:55:11","end":"2026-11-26T15:55:26","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-26T15:55:26","end":"2026-11-26T15:55:41","app":"Microsoft Teams","title":"Chatt | Månadsmöte | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-26T15:55:41","end":"2026-11-26T15:55:51","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T15:55:51","end":"2026-11-26T15:57:06","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T15:57:06","end":"2026-11-26T15:57:11","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-26T15:57:11","end":"2026-11-26T15:59:56","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T15:59:56","end":"2026-11-26T16:00:06","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-26T16:00:06","end":"2026-11-26T16:00:11","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T16:00:11","end":"2026-11-26T16:00:16","app":"Firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T16:00:16","end":"2026-11-26T16:00:31","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T16:00:31","end":"2026-11-26T16:01:01","app":"Firefox","title":"TimeoutError: timeout — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-26T16:01:01","end":"2026-11-26T16:01:11","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T16:01:11","end":"2026-11-26T16:01:16","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T16:01:16","end":"2026-11-26T16:01:31","app":"Slack","title":"panasonic-prod-alerts (Channel) - Divid - Slack"}
+{"start":"2026-11-26T16:01:31","end":"2026-11-26T16:02:36","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T16:02:36","end":"2026-11-26T16:03:06","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T16:03:06","end":"2026-11-26T16:03:21","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T16:03:21","end":"2026-11-26T16:03:36","app":"Visual Studio Code","title":"supports-grid.test.ts (Index) (supports-grid.test.ts (Index)) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:03:36","end":"2026-11-26T16:03:41","app":"Visual Studio Code","title":"state.ts (Working Tree) (state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:03:41","end":"2026-11-26T16:03:46","app":"Visual Studio Code","title":"view.tsx (Working Tree) (view.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:03:46","end":"2026-11-26T16:03:51","app":"Visual Studio Code","title":"state.ts (Working Tree) (state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:03:51","end":"2026-11-26T16:03:56","app":"Visual Studio Code","title":"● state.ts (Working Tree) (state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:03:56","end":"2026-11-26T16:04:01","app":"Visual Studio Code","title":"types.ts (Working Tree) (types.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:04:01","end":"2026-11-26T16:04:06","app":"Visual Studio Code","title":"exchange-outdoor-unit-modal.tsx (Working Tree) (exchange-outdoor-unit-modal.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:04:06","end":"2026-11-26T16:04:16","app":"Visual Studio Code","title":"main-result-table.tsx (Working Tree) (main-result-table.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:04:16","end":"2026-11-26T16:04:26","app":"Visual Studio Code","title":"input-provider.ts (Working Tree) (input-provider.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:04:26","end":"2026-11-26T16:04:31","app":"Visual Studio Code","title":"report.tsx (Working Tree) (report.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:04:31","end":"2026-11-26T16:04:41","app":"Visual Studio Code","title":"● report.tsx (Working Tree) (report.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:04:41","end":"2026-11-26T16:04:46","app":"Visual Studio Code","title":"unit-series-from-outdoor-unit.ts (Working Tree) (unit-series-from-outdoor-unit.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:04:46","end":"2026-11-26T16:04:51","app":"Visual Studio Code","title":"calculate-refrigeration-charge.test.ts (Working Tree) (calculate-refrigeration-charge.test.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:04:51","end":"2026-11-26T16:04:56","app":"Visual Studio Code","title":"configuration-changed-calculation.ts (Working Tree) (configuration-changed-calculation.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:04:56","end":"2026-11-26T16:05:01","app":"Visual Studio Code","title":"● icool-charge-alerts.test.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:05:01","end":"2026-11-26T16:05:06","app":"Visual Studio Code","title":"icool-charge-alerts.test.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:05:06","end":"2026-11-26T16:05:16","app":"Visual Studio Code","title":"validate.ts (Working Tree) (validate.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:05:16","end":"2026-11-26T16:05:26","app":"Visual Studio Code","title":"● validate.ts (Working Tree) (validate.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:05:26","end":"2026-11-26T16:05:31","app":"Visual Studio Code","title":"power-input.test.ts (Working Tree) (power-input.test.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:05:31","end":"2026-11-26T16:05:36","app":"Visual Studio Code","title":"power-input.ts (Working Tree) (power-input.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:05:36","end":"2026-11-26T16:05:41","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:05:41","end":"2026-11-26T16:05:46","app":"Visual Studio Code","title":"● index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:05:46","end":"2026-11-26T16:05:51","app":"Visual Studio Code","title":"index.ts (Working Tree) (index.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:05:51","end":"2026-11-26T16:08:06","app":"Visual Studio Code","title":"promaster-tables.proto (Working Tree) (promaster-tables.proto) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-26T16:08:06","end":"2026-11-26T16:08:16","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T16:08:16","end":"2026-11-26T16:08:21","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-26T16:08:21","end":"2026-11-26T16:08:31","app":"Margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-11-26T16:08:31","end":"2026-11-26T16:08:36","app":"Margin","title":"• timelog.jsonl — Margin"}
+{"start":"2026-11-26T16:08:36","end":"2026-11-26T16:08:46","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-26T16:08:46","end":"2026-11-26T16:09:17","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T16:09:17","end":"2026-11-26T16:09:22","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T16:09:22","end":"2026-11-26T16:09:57","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T16:09:57","end":"2026-11-26T16:10:07","app":"Firefox","title":"ocu_lrc100m08-Texts — Mozilla Firefox"}
+{"start":"2026-11-26T16:10:07","end":"2026-11-26T16:10:22","app":"Firefox","title":"ocu_lrc100m08-Properties — Mozilla Firefox"}
+{"start":"2026-11-26T16:10:22","end":"2026-11-26T16:10:27","app":"Firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T16:10:27","end":"2026-11-26T16:10:32","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T16:10:32","end":"2026-11-26T16:10:37","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T16:10:37","end":"2026-11-26T16:10:42","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T16:10:42","end":"2026-11-26T16:10:47","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T16:10:47","end":"2026-11-26T16:11:47","app":"Firefox","title":"ocu_lrc100m08-Properties — Mozilla Firefox"}
+{"start":"2026-11-26T16:11:47","end":"2026-11-26T16:12:27","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T16:12:27","end":"2026-11-26T16:12:32","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-26T16:12:32","end":"2026-11-26T16:12:37","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T16:12:37","end":"2026-11-26T16:12:47","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-26T16:15:57","end":"2026-11-26T16:16:27","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T16:16:27","end":"2026-11-26T16:16:28","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T16:19:47","end":"2026-11-26T16:19:52","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T16:19:52","end":"2026-11-26T16:20:17","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T16:20:17","end":"2026-11-26T16:20:22","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T16:20:22","end":"2026-11-26T16:21:02","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-26T16:21:02","end":"2026-11-26T16:21:12","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T16:25:37","end":"2026-11-26T16:25:42","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-26T16:25:42","end":"2026-11-26T16:26:52","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T16:26:52","end":"2026-11-26T16:29:22","app":"Claude","title":"Claude"}
+{"start":"2026-11-26T16:29:22","end":"2026-11-26T16:29:27","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T16:29:27","end":"2026-11-26T16:29:32","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T16:29:32","end":"2026-11-26T16:30:12","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-26T16:30:12","end":"2026-11-26T16:30:17","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-26T16:30:17","end":"2026-11-26T16:30:27","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-26T16:30:27","end":"2026-11-26T16:31:42","app":"Firefox","title":"Ref PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-26T16:31:42","end":"2026-11-26T16:31:52","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-26T16:31:52","end":"2026-11-26T16:32:52","app":"Visual Studio Code","title":"promaster-tables.ts (Working Tree) (promaster-tables.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
