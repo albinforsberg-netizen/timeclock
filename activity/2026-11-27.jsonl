@@ -640,3 +640,241 @@
 {"start":"2026-11-27T14:41:50","end":"2026-11-27T14:41:55","app":"Microsoft Teams","title":"Samtal | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
 {"start":"2026-11-27T14:41:55","end":"2026-11-27T14:42:00","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
 {"start":"2026-11-27T14:52:36","end":"2026-11-27T14:52:41","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-27T14:52:41","end":"2026-11-27T14:53:01","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-27T14:53:01","end":"2026-11-27T14:53:06","app":"Utforskaren","title":"Assistent för fästa fönster"}
+{"start":"2026-11-27T14:53:06","end":"2026-11-27T14:53:11","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T14:53:11","end":"2026-11-27T14:53:16","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T14:53:16","end":"2026-11-27T14:53:26","app":"Firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-27T14:53:26","end":"2026-11-27T14:53:31","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-27T14:53:31","end":"2026-11-27T14:53:36","app":"Firefox","title":"Commits · master · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-27T14:53:36","end":"2026-11-27T14:53:41","app":"Firefox","title":"Show a notification when create system fails (08aef52b) · Commits · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-27T14:53:41","end":"2026-11-27T14:53:46","app":"Firefox","title":"MF4 ECOi 3way wrong refrigerant charge calculation på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-27T14:53:46","end":"2026-11-27T14:55:31","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-27T14:55:31","end":"2026-11-27T14:55:36","app":"Firefox","title":"Controller size too small in mounting scheme på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-27T14:55:36","end":"2026-11-27T14:55:41","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-27T14:55:41","end":"2026-11-27T14:55:51","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-27T14:55:51","end":"2026-11-27T14:56:46","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T14:56:46","end":"2026-11-27T14:57:16","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T14:57:16","end":"2026-11-27T14:57:21","app":"Utforskaren","title":""}
+{"start":"2026-11-27T14:57:21","end":"2026-11-27T14:57:26","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-27T14:57:26","end":"2026-11-27T14:57:31","app":"Margin","title":"Day report — Margin"}
+{"start":"2026-11-27T14:57:31","end":"2026-11-27T14:57:36","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T14:57:36","end":"2026-11-27T14:57:46","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-27T14:57:46","end":"2026-11-27T14:57:51","app":"Firefox","title":"Sentry — Mozilla Firefox"}
+{"start":"2026-11-27T14:57:51","end":"2026-11-27T14:57:56","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-27T14:57:56","end":"2026-11-27T14:58:06","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T14:58:06","end":"2026-11-27T14:58:16","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T14:58:16","end":"2026-11-27T14:58:21","app":"Microsoft Outlook","title":"Sentry - Albin Forsberg - Outlook"}
+{"start":"2026-11-27T14:58:21","end":"2026-11-27T14:58:31","app":"Microsoft Outlook","title":"Grafana - Albin Forsberg - Outlook"}
+{"start":"2026-11-27T14:58:31","end":"2026-11-27T14:58:41","app":"Microsoft Outlook","title":"Inbox - Albin Forsberg - Outlook"}
+{"start":"2026-11-27T14:58:41","end":"2026-11-27T14:59:01","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T14:59:01","end":"2026-11-27T14:59:31","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T14:59:31","end":"2026-11-27T14:59:41","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-11-27T14:59:41","end":"2026-11-27T14:59:46","app":"Visual Studio Code","title":"index.ts - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T14:59:46","end":"2026-11-27T14:59:51","app":"Google Chrome","title":"Sign in to dxpro - Google Chrome"}
+{"start":"2026-11-27T14:59:56","end":"2026-11-27T15:00:01","app":"Google Chrome","title":"Panasonic PRO Club - Google Chrome"}
+{"start":"2026-11-27T15:00:01","end":"2026-11-27T15:00:06","app":"Google Chrome","title":"POST data - Google Chrome"}
+{"start":"2026-11-27T15:00:06","end":"2026-11-27T15:01:06","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-11-27T15:01:06","end":"2026-11-27T15:01:16","app":"Visual Studio Code","title":"state.ts (Working Tree) (state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:01:16","end":"2026-11-27T15:01:21","app":"Visual Studio Code","title":"● state.ts (Working Tree) (state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:01:21","end":"2026-11-27T15:01:31","app":"Visual Studio Code","title":"editor.tsx (Working Tree) (editor.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:01:31","end":"2026-11-27T15:01:41","app":"Visual Studio Code","title":"state.ts (Working Tree) (state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:01:41","end":"2026-11-27T15:01:46","app":"Visual Studio Code","title":"● state.ts (Working Tree) (state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:01:46","end":"2026-11-27T15:01:51","app":"Visual Studio Code","title":"state.ts (Working Tree) (state.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:01:51","end":"2026-11-27T15:01:56","app":"Visual Studio Code","title":"view-loaded.tsx (Working Tree) (view-loaded.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:01:56","end":"2026-11-27T15:02:01","app":"Visual Studio Code","title":"drag-and-drop.tsx (Working Tree) (drag-and-drop.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:02:01","end":"2026-11-27T15:02:36","app":"Visual Studio Code","title":"● drag-and-drop.tsx (Working Tree) (drag-and-drop.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:02:36","end":"2026-11-27T15:02:51","app":"Visual Studio Code","title":"● memo-panel.ts (Working Tree) (memo-panel.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:02:51","end":"2026-11-27T15:02:56","app":"Visual Studio Code","title":"right-column.tsx (Working Tree) (right-column.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:02:56","end":"2026-11-27T15:03:01","app":"Visual Studio Code","title":"mantine-theme.tsx (Working Tree) (mantine-theme.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:03:01","end":"2026-11-27T15:03:06","app":"Visual Studio Code","title":"● mantine-theme.tsx (Working Tree) (mantine-theme.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:03:06","end":"2026-11-27T15:03:11","app":"Visual Studio Code","title":"● modal.tsx (Working Tree) (modal.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:03:11","end":"2026-11-27T15:03:16","app":"Visual Studio Code","title":"properties-selector.tsx (Working Tree) (properties-selector.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:03:16","end":"2026-11-27T15:03:31","app":"Visual Studio Code","title":"● properties-selector.tsx (Working Tree) (properties-selector.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:03:31","end":"2026-11-27T15:03:36","app":"Visual Studio Code","title":"properties-selector.tsx (Working Tree) (properties-selector.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:03:36","end":"2026-11-27T15:03:41","app":"Visual Studio Code","title":"● properties-selector.tsx (Working Tree) (properties-selector.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:03:41","end":"2026-11-27T15:03:46","app":"Visual Studio Code","title":"discrete-select-selector.tsx (Working Tree) (discrete-select-selector.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:03:46","end":"2026-11-27T15:03:56","app":"Visual Studio Code","title":"● input.tsx (Working Tree) (input.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:03:56","end":"2026-11-27T15:04:11","app":"Visual Studio Code","title":"input.tsx (Working Tree) (input.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:04:11","end":"2026-11-27T15:04:21","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-11-27T15:04:21","end":"2026-11-27T15:04:26","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T15:04:26","end":"2026-11-27T15:04:36","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-11-27T15:04:36","end":"2026-11-27T15:04:47","app":"Visual Studio Code","title":"input.tsx (Working Tree) (input.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:09:06","end":"2026-11-27T15:09:21","app":"Visual Studio Code","title":"input.tsx (Working Tree) (input.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:09:21","end":"2026-11-27T15:10:01","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T15:10:01","end":"2026-11-27T15:10:11","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-27T15:10:11","end":"2026-11-27T15:10:36","app":"Microsoft Teams","title":"Chatt | Månadsmöte | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-27T15:10:36","end":"2026-11-27T15:10:41","app":"Visual Studio Code","title":"input.tsx (Working Tree) (input.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:10:41","end":"2026-11-27T15:10:56","app":"Visual Studio Code","title":"component-editor-modal.tsx (Working Tree) (component-editor-modal.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:10:56","end":"2026-11-27T15:11:06","app":"Visual Studio Code","title":"modal.tsx (Working Tree) (modal.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:11:06","end":"2026-11-27T15:11:21","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-11-27T15:11:21","end":"2026-11-27T15:11:31","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T15:11:31","end":"2026-11-27T15:12:12","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-11-27T15:12:12","end":"2026-11-27T15:12:27","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T15:12:27","end":"2026-11-27T15:12:37","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-11-27T15:12:37","end":"2026-11-27T15:13:22","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T15:13:22","end":"2026-11-27T15:13:32","app":"Visual Studio Code","title":"component-editor-modal.tsx (Working Tree) (component-editor-modal.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:13:32","end":"2026-11-27T15:14:22","app":"Visual Studio Code","title":"modal.tsx (Working Tree) (modal.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:14:22","end":"2026-11-27T15:14:27","app":"Google Chrome","title":"DX PRO Designer - Google Chrome"}
+{"start":"2026-11-27T15:14:27","end":"2026-11-27T15:14:32","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T15:14:37","end":"2026-11-27T15:14:42","app":"Firefox","title":"Sign in to divid-id — Mozilla Firefox"}
+{"start":"2026-11-27T15:14:42","end":"2026-11-27T15:15:22","app":"Firefox","title":"Kalender — Mozilla Firefox"}
+{"start":"2026-11-27T15:15:22","end":"2026-11-27T15:15:27","app":"Microsoft Teams","title":"Chatt | Månadsmöte | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-27T15:15:27","end":"2026-11-27T15:15:52","app":"Microsoft Teams","title":"Calendar | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-27T15:15:52","end":"2026-11-27T15:15:57","app":"Microsoft Teams","title":"Chatt | Månadsmöte | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-27T15:15:57","end":"2026-11-27T15:16:07","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-27T15:16:07","end":"2026-11-27T15:16:12","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T15:16:12","end":"2026-11-27T15:16:17","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T15:16:17","end":"2026-11-27T15:16:22","app":"Firefox","title":"Pipe system display på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-27T15:16:22","end":"2026-11-27T15:16:47","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T15:16:47","end":"2026-11-27T15:16:52","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T15:16:52","end":"2026-11-27T15:17:02","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T15:17:02","end":"2026-11-27T15:17:12","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T15:17:12","end":"2026-11-27T15:18:47","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T15:18:47","end":"2026-11-27T15:18:52","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T15:18:52","end":"2026-11-27T15:20:03","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T15:23:12","end":"2026-11-27T15:23:17","app":"Utforskaren","title":"Växla mellan aktiviteter"}
+{"start":"2026-11-27T15:23:17","end":"2026-11-27T15:23:22","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T15:23:22","end":"2026-11-27T15:23:27","app":"Utforskaren","title":""}
+{"start":"2026-11-27T15:23:27","end":"2026-11-27T15:28:27","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T15:28:27","end":"2026-11-27T15:29:12","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T15:29:12","end":"2026-11-27T15:31:02","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T15:31:02","end":"2026-11-27T15:31:07","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T15:31:07","end":"2026-11-27T15:31:12","app":"Visual Studio Code","title":"modal.tsx (Working Tree) (modal.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:31:12","end":"2026-11-27T15:31:17","app":"Visual Studio Code","title":"right-column.tsx (Working Tree) (right-column.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:31:17","end":"2026-11-27T15:31:22","app":"Visual Studio Code","title":"piping-information.tsx (Working Tree) (piping-information.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:31:22","end":"2026-11-27T15:32:48","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T15:32:48","end":"2026-11-27T15:32:53","app":"Firefox","title":"Filöverföring"}
+{"start":"2026-11-27T15:32:53","end":"2026-11-27T15:34:09","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T15:38:38","end":"2026-11-27T15:39:13","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T15:39:13","end":"2026-11-27T15:40:58","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T15:40:58","end":"2026-11-27T15:41:03","app":"Firefox","title":"hej-2.pdf — Mozilla Firefox"}
+{"start":"2026-11-27T15:41:03","end":"2026-11-27T15:41:08","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T15:41:08","end":"2026-11-27T15:41:13","app":"Firefox","title":"Pipe system display på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-27T15:41:13","end":"2026-11-27T15:41:38","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T15:41:38","end":"2026-11-27T15:42:03","app":"Visual Studio Code","title":"piping-information.tsx (Working Tree) (piping-information.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:42:03","end":"2026-11-27T15:42:08","app":"Margin","title":"Day report — Margin"}
+{"start":"2026-11-27T15:42:08","end":"2026-11-27T15:42:13","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-27T15:42:13","end":"2026-11-27T15:42:28","app":"Margin","title":"Week report — Margin"}
+{"start":"2026-11-27T15:42:28","end":"2026-11-27T15:42:38","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-27T15:42:38","end":"2026-11-27T15:42:53","app":"Visual Studio Code","title":"piping-information.tsx (Working Tree) (piping-information.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T15:42:53","end":"2026-11-27T15:43:08","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-27T15:43:08","end":"2026-11-27T15:43:18","app":"Firefox","title":"Error: Could not find valid row in table iu_nominalpower — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-27T15:43:18","end":"2026-11-27T15:43:28","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-27T15:43:28","end":"2026-11-27T15:43:33","app":"Firefox","title":"Show a notification when create system fails (08aef52b) · Commits · panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-27T15:43:33","end":"2026-11-27T15:43:58","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T15:43:58","end":"2026-11-27T15:44:03","app":"Firefox","title":"Mozilla Firefox"}
+{"start":"2026-11-27T15:44:03","end":"2026-11-27T15:44:43","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T15:44:43","end":"2026-11-27T15:44:48","app":"Utforskaren","title":"8213.zip – Utforskaren"}
+{"start":"2026-11-27T15:44:48","end":"2026-11-27T15:45:18","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-11-27T15:45:18","end":"2026-11-27T15:45:23","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T15:45:23","end":"2026-11-27T15:45:28","app":"LibreCAD","title":"LibreCAD - [unnamed document 1]"}
+{"start":"2026-11-27T15:45:28","end":"2026-11-27T15:45:38","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-11-27T15:45:38","end":"2026-11-27T15:45:43","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T15:45:43","end":"2026-11-27T15:47:43","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T15:47:43","end":"2026-11-27T15:48:43","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-27T15:48:43","end":"2026-11-27T15:49:38","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T15:49:38","end":"2026-11-27T15:49:58","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-11-27T15:49:58","end":"2026-11-27T15:52:38","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T15:52:38","end":"2026-11-27T15:52:48","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-27T15:52:48","end":"2026-11-27T15:52:58","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-27T15:52:58","end":"2026-11-27T15:53:03","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T15:53:03","end":"2026-11-27T15:53:13","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-27T15:53:13","end":"2026-11-27T15:53:28","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T15:53:28","end":"2026-11-27T15:53:33","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T15:53:33","end":"2026-11-27T15:53:38","app":"LibreCAD","title":"LibreCAD"}
+{"start":"2026-11-27T15:53:38","end":"2026-11-27T15:53:53","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T15:53:53","end":"2026-11-27T15:53:58","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf]"}
+{"start":"2026-11-27T15:53:58","end":"2026-11-27T15:54:08","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-11-27T15:54:08","end":"2026-11-27T15:54:14","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T15:54:14","end":"2026-11-27T15:54:29","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T15:54:29","end":"2026-11-27T15:54:34","app":"LibreCAD","title":"LibreCAD - [unnamed document 1]"}
+{"start":"2026-11-27T15:54:34","end":"2026-11-27T15:54:54","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-11-27T15:54:54","end":"2026-11-27T15:54:59","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T15:54:59","end":"2026-11-27T15:55:04","app":"LibreCAD","title":"LibreCAD"}
+{"start":"2026-11-27T15:55:04","end":"2026-11-27T15:55:19","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-11-27T15:55:19","end":"2026-11-27T15:55:24","app":"Utforskaren","title":"8213(4).zip – Utforskaren"}
+{"start":"2026-11-27T15:58:44","end":"2026-11-27T15:58:54","app":"Firefox","title":"Pipe system display på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-27T15:58:54","end":"2026-11-27T15:59:09","app":"Windows Terminal Host","title":"Ubuntu"}
+{"start":"2026-11-27T15:59:09","end":"2026-11-27T15:59:24","app":"Firefox","title":"Pipe system display på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-27T15:59:24","end":"2026-11-27T15:59:49","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T15:59:49","end":"2026-11-27T15:59:54","app":"Utforskaren","title":"8213(5).zip – Utforskaren"}
+{"start":"2026-11-27T15:59:54","end":"2026-11-27T16:00:09","app":"LibreCAD","title":"LibreCAD - [Drawing 1.dxf*]"}
+{"start":"2026-11-27T16:00:09","end":"2026-11-27T16:01:04","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T16:01:04","end":"2026-11-27T16:01:19","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-27T16:01:19","end":"2026-11-27T16:01:49","app":"Firefox","title":"SystemRepairedOnOpen: SYSTEM REPAIRED ON OPEN — panasonic-0s — dxpro — Mozilla Firefox"}
+{"start":"2026-11-27T16:01:49","end":"2026-11-27T16:02:04","app":"DBeaver Community","title":"DBeaver 26.2.1 - system"}
+{"start":"2026-11-27T16:02:04","end":"2026-11-27T16:03:04","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T16:03:04","end":"2026-11-27T16:03:24","app":"Firefox","title":"26-2548 - VRF 3 TUBI R32 - Agenzia Climatis - Stea Progetto Srl rif. Palazzo VI - Bolzano - Rev02.pdf — Mozilla Firefox"}
+{"start":"2026-11-27T16:03:24","end":"2026-11-27T16:03:59","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T16:03:59","end":"2026-11-27T16:04:09","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-27T16:04:09","end":"2026-11-27T16:05:19","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T16:05:19","end":"2026-11-27T16:05:29","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-27T16:05:29","end":"2026-11-27T16:05:39","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T16:05:39","end":"2026-11-27T16:06:14","app":"Firefox","title":"26-2548 - VRF 3 TUBI R32 - Agenzia Climatis - Stea Progetto Srl rif. Palazzo VI - Bolzano - Rev02-1.pdf — Mozilla Firefox"}
+{"start":"2026-11-27T16:10:14","end":"2026-11-27T16:10:19","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T16:10:19","end":"2026-11-27T16:10:24","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-27T16:10:24","end":"2026-11-27T16:11:19","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T16:11:19","end":"2026-11-27T16:11:34","app":"Visual Studio Code","title":"download-dxf.ts (Working Tree) (download-dxf.ts) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T16:11:34","end":"2026-11-27T16:11:44","app":"Visual Studio Code","title":"piping-information.tsx (Working Tree) (piping-information.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T16:11:44","end":"2026-11-27T16:11:54","app":"Visual Studio Code","title":"● piping-information.tsx (Working Tree) (piping-information.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T16:11:54","end":"2026-11-27T16:11:59","app":"Visual Studio Code","title":"modals.tsx (Working Tree) (modals.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T16:11:59","end":"2026-11-27T16:12:04","app":"Visual Studio Code","title":"generate-dxf-dialog.tsx (Working Tree) (generate-dxf-dialog.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T16:12:04","end":"2026-11-27T16:13:59","app":"Visual Studio Code","title":"branch-information.tsx (Working Tree) (branch-information.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T16:13:59","end":"2026-11-27T16:14:04","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-27T16:14:04","end":"2026-11-27T16:17:15","app":"Visual Studio Code","title":"branch-information.tsx (Working Tree) (branch-information.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T16:17:15","end":"2026-11-27T16:17:20","app":"Utforskaren","title":""}
+{"start":"2026-11-27T16:17:20","end":"2026-11-27T16:17:25","app":"Visual Studio Code","title":"branch-information.tsx (Working Tree) (branch-information.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T16:17:25","end":"2026-11-27T16:17:40","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-27T16:17:40","end":"2026-11-27T16:17:45","app":"Microsoft Teams","title":"Chatt | Panasonic Standup | Divid AB | albin.forsberg@divid.se | Microsoft Teams"}
+{"start":"2026-11-27T16:17:45","end":"2026-11-27T16:17:55","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-27T16:17:55","end":"2026-11-27T16:18:00","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T16:18:00","end":"2026-11-27T16:18:10","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T16:18:10","end":"2026-11-27T16:18:20","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T16:18:20","end":"2026-11-27T16:19:00","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T16:19:00","end":"2026-11-27T16:19:35","app":"Firefox","title":"View panel - Panasonic Prod - Logs - Dashboards - Grafana — Mozilla Firefox"}
+{"start":"2026-11-27T16:19:35","end":"2026-11-27T16:19:40","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-27T16:19:40","end":"2026-11-27T16:19:50","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-27T16:19:50","end":"2026-11-27T16:20:55","app":"Visual Studio Code","title":"branch-information.tsx (Working Tree) (branch-information.tsx) - dxpro-designer-2 [WSL: Ubuntu] - Visual Studio Code"}
+{"start":"2026-11-27T16:20:55","end":"2026-11-27T16:21:20","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T16:21:20","end":"2026-11-27T16:21:30","app":"Slack","title":"Nebiyat Sirak (DM) - Divid - Slack"}
+{"start":"2026-11-27T16:21:30","end":"2026-11-27T16:21:50","app":"Slack","title":"panasonic (Channel) - Divid - Slack"}
+{"start":"2026-11-27T16:21:50","end":"2026-11-27T16:22:10","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T16:22:10","end":"2026-11-27T16:22:20","app":"Firefox","title":"Kalender — Mozilla Firefox"}
+{"start":"2026-11-27T16:22:20","end":"2026-11-27T16:22:25","app":"Firefox","title":"Min startsida - Tidrapport.Web — Mozilla Firefox"}
+{"start":"2026-11-27T16:22:25","end":"2026-11-27T16:22:40","app":"Firefox","title":"Index - Tidrapport.Web — Mozilla Firefox"}
+{"start":"2026-11-27T16:22:40","end":"2026-11-27T16:23:35","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-27T16:23:35","end":"2026-11-27T16:24:00","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T16:24:00","end":"2026-11-27T16:25:20","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T16:25:20","end":"2026-11-27T16:25:30","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T16:25:30","end":"2026-11-27T16:25:55","app":"Claude","title":"Claude"}
+{"start":"2026-11-27T16:25:55","end":"2026-11-27T16:26:10","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T16:26:10","end":"2026-11-27T16:26:50","app":"Firefox","title":"test-31.pdf — Mozilla Firefox"}
+{"start":"2026-11-27T16:26:50","end":"2026-11-27T16:27:20","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T16:27:20","end":"2026-11-27T16:27:30","app":"Firefox","title":"test-32.pdf — Mozilla Firefox"}
+{"start":"2026-11-27T16:27:30","end":"2026-11-27T16:27:45","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T16:27:45","end":"2026-11-27T16:28:00","app":"Firefox","title":"test-33.pdf — Mozilla Firefox"}
+{"start":"2026-11-27T16:28:00","end":"2026-11-27T16:28:05","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T16:28:05","end":"2026-11-27T16:28:25","app":"Firefox","title":"test-33.pdf — Mozilla Firefox"}
+{"start":"2026-11-27T16:28:25","end":"2026-11-27T16:33:25","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T16:33:25","end":"2026-11-27T16:33:35","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T16:33:35","end":"2026-11-27T16:36:25","app":"Firefox","title":"Pipe system display på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-27T16:36:25","end":"2026-11-27T16:36:30","app":"Firefox","title":"panasonic / dxpro-designer · GitLab — Mozilla Firefox"}
+{"start":"2026-11-27T16:36:30","end":"2026-11-27T16:36:35","app":"Firefox","title":"test-32.pdf — Mozilla Firefox"}
+{"start":"2026-11-27T16:36:35","end":"2026-11-27T16:36:46","app":"Firefox","title":"test-33.pdf — Mozilla Firefox"}
+{"start":"2026-11-27T16:36:46","end":"2026-11-27T16:37:26","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T16:37:26","end":"2026-11-27T16:37:36","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-27T16:37:36","end":"2026-11-27T16:37:41","app":"Margin","title":"timelog.jsonl — Margin"}
+{"start":"2026-11-27T16:37:41","end":"2026-11-27T16:37:51","app":"Margin","title":"• timelog.jsonl — Margin"}
+{"start":"2026-11-27T16:37:51","end":"2026-11-27T16:38:06","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-27T16:38:06","end":"2026-11-27T16:38:11","app":"Margin","title":"Log check — Margin"}
+{"start":"2026-11-27T16:38:11","end":"2026-11-27T16:38:51","app":"Margin","title":"Time — Margin"}
+{"start":"2026-11-27T16:38:51","end":"2026-11-27T16:39:21","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T16:39:21","end":"2026-11-27T16:39:26","app":"Firefox","title":"Pipe system display på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-27T16:39:26","end":"2026-11-27T16:40:56","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-27T16:40:56","end":"2026-11-27T16:41:31","app":"Firefox","title":"Grey background in Mounting på Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-27T16:41:31","end":"2026-11-27T16:41:36","app":"Firefox","title":"Dx Pro Designer | Trello — Mozilla Firefox"}
+{"start":"2026-11-27T16:41:36","end":"2026-11-27T16:42:01","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
+{"start":"2026-11-27T16:42:01","end":"2026-11-27T16:42:16","app":"Firefox","title":"Feed — panasonic-0s — Sentry — Mozilla Firefox"}
+{"start":"2026-11-27T16:42:16","end":"2026-11-27T16:43:06","app":"Microsoft Outlook","title":"Sentry - Albin Forsberg - Outlook"}
+{"start":"2026-11-27T16:43:06","end":"2026-11-27T16:43:21","app":"Firefox","title":"DX PRO Designer — Mozilla Firefox"}
